@@ -2,6 +2,177 @@
   "$schema": "./golden-tests.schema.json",
   "version": "1.0",
   "mcp_name": "Uganda Law MCP",
-  "description": "Golden contract tests for the Uganda Law MCP -- add tests after first ingestion",
-  "tests": []
+  "description": "Golden contract tests for the Uganda Law MCP covering data protection, computer misuse, companies, electronic transactions, and penal code legislation",
+  "tests": [
+    {
+      "id": "ug-001",
+      "category": "article_retrieval",
+      "description": "Retrieve Section 2 of the Data Protection and Privacy Act 2019 -- interpretation/definitions including personal data and consent",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "Data Protection and Privacy Act",
+        "section": "2"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "fields_present": ["results"],
+        "text_not_empty": true,
+        "any_result_contains": ["consent"]
+      }
+    },
+    {
+      "id": "ug-002",
+      "category": "article_retrieval",
+      "description": "Retrieve Section 1 of the Computer Misuse Act 2011 -- interpretation/definitions including access and electronic system",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "Computer Misuse Act",
+        "section": "1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "fields_present": ["results"],
+        "text_not_empty": true,
+        "any_result_contains": ["electronic"]
+      }
+    },
+    {
+      "id": "ug-003",
+      "category": "article_retrieval",
+      "description": "Retrieve Section 1 of the Companies Act 2012 -- interpretation/definitions",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "Companies Act",
+        "section": "1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "fields_present": ["results"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "ug-004",
+      "category": "search",
+      "description": "Full-text search for 'personal data' returns Data Protection and Privacy Act provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "personal data"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1,
+        "any_result_contains": ["data protection"]
+      }
+    },
+    {
+      "id": "ug-005",
+      "category": "search",
+      "description": "Full-text search for 'computer misuse' returns Computer Misuse Act provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "computer misuse"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1
+      }
+    },
+    {
+      "id": "ug-006",
+      "category": "search",
+      "description": "Full-text search for 'electronic transaction' returns Electronic Transactions Act provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "electronic transaction"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1
+      }
+    },
+    {
+      "id": "ug-007",
+      "category": "citation_roundtrip",
+      "description": "Citation for Data Protection and Privacy Act Section 3 (principles) includes ulii.org URL pattern",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "Data Protection and Privacy Act",
+        "section": "3"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "citation_url_pattern": "ulii\\.org",
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "ug-008",
+      "category": "citation_roundtrip",
+      "description": "Citation for Electronic Transactions Act Section 4 includes official identifier",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "Electronic Transactions Act",
+        "section": "4"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "fields_present": ["results"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "ug-009",
+      "category": "currency_check",
+      "description": "Check currency of Data Protection and Privacy Act -- should be in_force",
+      "tool": "check_currency",
+      "input": {
+        "document_id": "Data Protection and Privacy Act"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "text_not_empty": true,
+        "any_result_contains": ["in_force"]
+      }
+    },
+    {
+      "id": "ug-010",
+      "category": "currency_check",
+      "description": "Check currency of Computer Misuse Act -- should be in_force",
+      "tool": "check_currency",
+      "input": {
+        "document_id": "Computer Misuse Act"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "ug-011",
+      "category": "negative_test",
+      "description": "Non-existent Ugandan Act returns graceful error or empty result",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "Fictional Cyber Wildlife Act 2099",
+        "section": "1"
+      },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    },
+    {
+      "id": "ug-012",
+      "category": "negative_test",
+      "description": "Malformed section number returns graceful error or empty result",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "Data Protection and Privacy Act",
+        "section": "999ZZZ-INVALID"
+      },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    }
+  ]
 }

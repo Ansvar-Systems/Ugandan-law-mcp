@@ -1,0 +1,577 @@
+{
+  "id": "ug-act-statute-1994-3",
+  "type": "statute",
+  "title": "Civil Aviation Authority Act",
+  "title_en": "Civil Aviation Authority Act",
+  "short_name": "Civil Aviation Authority Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://ulii.org/en/akn/ug/act/statute/1994/3/eng@2000-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Scope of application",
+      "content": "(1) This Act shall extend to all aircraft operating in Uganda airspace, whether the aircraft is of foreign or Uganda registry, and to Uganda aircraft operating outside of Uganda territory. (2) This Act shall not apply to State aircraft except where it is expressly stated. (3) Notwithstanding subsection (2), in the interest of safety, all aircraft shall be subject to the safety provisions of this Act relating to the rules of the air and air traffic services."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires— (a) \" accident \" includes any fortuitous or unexpected event by which the safety of an aircraft or any person is threatened; (b) \" aerial work \" means any purpose, other than public transport , for which an aircraft is flown if hire or reward is given or promised in respect of the flight or the purpose of the flight ; (c) \" aerodrome \" means any definite and limited ground or water area (including any building, installation and equipment) used or intended to be used, either wholly or in part, for the arrival or departure or surface movement of aircraft ; (d) \" aircraft \" includes all flying machines, aeroplanes, seaplanes, flying boats, helicopters, gliders and other aircraft designed to be heavier than air, also all airships and balloons and other aircraft designed to be lighter than air; (e) \" air navigation service \" includes— (i) communication services, whether ground to air or ground to ground, provided for the safety of aircraft ; (ii) navigational services, that is to say, radio, radar and visual aids to navigation; (iii) air traffic services provided for the safety of aircraft and for the regularity of flight ; and (iv) meteorological services; (f) \" air route \" means navigable airspace between two points and the terrain beneath that airspace identified, to the extent necessary, for the application of flight rules; (g) \" air transport service \" means a service for the carriage by air of passengers or cargo ; (h) \" airway \" means a designated path or air route identified by an area of specified width on the surface of the earth; (i) \" appeals tribunal \" means a body established by section 43 to which a person aggrieved by a decision of any air transport licensing authority may appeal; (j) \" authority \" means the Civil Aviation Authority established by section 3 ; (k) \" aviation security \" means a combination of measures and human and material resources intended to safeguard civil aviation against acts of unlawful interference; (l) \" board \" means the board of directors appointed under section 8 ; (m) \" cargo \" includes goods ; (n) \" chairperson \" means the chairperson of the board of directors of the authority ; (o) \" Chicago Convention \" means the Convention on International Civil Aviation concluded at Chicago on 7th December, 1944, including— (i) the protocols amending that convention; (ii) the annexes to that convention relating to international standards and recommended practices, being annexes adopted in accordance with that convention; (p) \" crew \" means all persons working on the aircraft , including the pilot or operator ; (q) \" flight \" means— (i) in the case of a heavier-than-air aircraft , the operation of the aircraft from the moment at which the aircraft first moves under its own power for the purpose of taking off until the moment at which it comes to rest after being airborne; and (ii) in the case of a lighter-than-air aircraft , the operation of the aircraft from the moment when it becomes detached from the surface of the earth until the moment when it becomes again attached to the surface of the earth or a fixed object on the surface of the earth; (r) \" goods \" includes mail and animals; (s) \" Minister \" means the Minister for the time being responsible for civil aviation; (t) \" operator \", in relation to an aircraft , means the person having the management of the aircraft for the time being or, in relation to time, at the time; (u) \" owner \" includes, in relation to an aircraft or aerodrome , the person in whose name the aircraft or aerodrome is registered or licensed, any person who is or has been acting as agent in Uganda for a foreign owner or any person by whom the aircraft or aerodrome is hired at the time; (v) \" passenger \" means any person being conveyed by the aircraft who is not a member of the crew ; (w) \" private aerodrome \" means an aerodrome other than an authority , military or police aerodrome ; (x) \" public transport \" means the carriage of passengers or cargo for hire or reward given or promised to be given; (y) \" publication \" means information given in any of the following publications issued whether before or after the coming into operation of this Act, that is, Notices to Airmen (NOTAM), information circulars, aeronautical information publications, notices to licensed aircraft maintenance engineers and to owners of civil aircraft , civil aviation publications (CAP) or such other official publications so issued for the purpose of enabling any of the provisions of this Act to be complied with; (z) \" state aircraft \" includes— (i) aircraft of any part of the defence force, including any aircraft that is commanded by a member of that force in the course of duties; and (ii) aircraft used in the military, customs or police services of a foreign country. Part II – Establishment, objectives, functions and powers of the authority"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part II",
+      "section": "3",
+      "title": "Establishment of the authority",
+      "content": "(1) There is established an authority by the name of the Civil Aviation Authority. (2) The authority — (a) shall be a body corporate with perpetual succession; (b) shall have a seal; (c) may sue or be sued in its corporate name; and (d) may acquire, hold, manage and dispose of movable and immovable property."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "Seal of the authority",
+      "content": "(1) The seal of the authority shall be authenticated by the signatures of the managing director and the secretary to the board . (2) In the absence of the managing director, the deputy managing director may sign in his or her place, and the person performing the functions of the secretary may sign in the absence of the secretary. (3) A document issued by the authority which is sealed with the seal of the authority and authenticated in the manner provided by this section shall be received and taken to be a true instrument without further proof unless the contrary is shown."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part II",
+      "section": "5",
+      "title": "Objective of the authority",
+      "content": "The objective of the authority is to promote the safe, regular, secure and efficient use and development of civil aviation inside and outside Uganda."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part II",
+      "section": "6",
+      "title": "Functions of the authority",
+      "content": "(1) The authority shall advise the Government— (a) on policy matters concerning civil aviation generally; and (b) with regard to international conventions relating to civil aviation and the adoption of measures necessary to give effect to the standards and recommended practices under those conventions. (2) In addition to its functions under subsection (1), the authority shall be responsible for— (a) the licensing of air transport; (b) the designation of domestic and international air carriers; (c) the provision of air navigation services; (d) the establishment, maintenance, development, operation and ownership of aerodromes; (e) the provision of rescue and fire fighting services at aerodromes; (f) the provision of assistance and information, including aeronautical information services; (g) the coordination and direction of search and rescue services; (h) the provision of facilities and services in relation to the investigation of aircraft accidents and incidents; (i) the registration of aircraft ; (j) the safety regulation of civil aviation; (k) the provision, in conjunction with other agencies of the Government, including the military, of arrangements to prevent or deal with all unlawful interferences with aviation security (including passenger screening) in Uganda; (l) the control of air traffic; (m) the certification of operators of aircraft ; (n) the licensing of civil aviation personnel; (o) the licensing of private aerodromes; (p) the provision of meteorological information to aircraft ; (q) the publication and dissemination of all regulations pertaining to civil aviation; and (r) any other functions that may be conferred on it by the Minister or any other law."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part II",
+      "section": "7",
+      "title": "Powers of the authority",
+      "content": "(1) The authority shall have all powers pertaining to a legal person and may do all things necessary for better carrying out its functions. (2) Without limiting the generality of subsection (1), the authority shall have power— (a) to enter into contracts, subject to financial limitations set by the Minister ; (b) to acquire, hold, lease out and dispose of all types of assets including land and fixed and floating assets; (c) to let or hire plant, machinery, equipment or assets required by the authority ; and (d) to appoint a body or bodies to advise the authority in relation to the performance of its functions. Part III – Board of directors"
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part III",
+      "section": "8",
+      "title": "Board of directors",
+      "content": "(1) The governing body of the authority shall be a board of directors consisting of the managing director and not less than four and not more than eight directors one of whom shall be the chairperson . (2) All directors shall be appointed by the Minister for a period of three years on terms and conditions that may be specified in the instruments of appointment and shall be eligible for reappointment. (3) The Minister shall appoint one of the directors, other than the managing director, to be chairperson of the board . (4) If a member of the board — (a) dies; (b) resigns; (c) gets his or her appointment terminated; or (d) ceases to hold office for any reason other than a reason under paragraph (a), (b) or (c), the Minister may appoint another person to take the place of that member, and the person so appointed shall hold office until the expiration of the term of office of the member in whose place he or she was appointed. (5) A member appointed under subsection (4) shall be eligible for reappointment. (6) The chairperson shall notify the Minister as soon as a vacancy occurs in the membership of the board , and the Minister shall fill the vacancy within three months of receiving the notice."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part III",
+      "section": "9",
+      "title": "Qualifications of members of the board",
+      "content": "(1) A person may be appointed a director— (a) if he or she is a citizen of Uganda; or (b) if he or she is lawfully admitted into Uganda for permanent residence and is actually residing in Uganda. (2) The Minister shall appoint to the board persons without substantial conflicting interests with the board . (3) When appointing members of the board , the Minister shall ensure that at least one of the three members of the board — (a) has a recognised qualification in financial analysis; (b) has a minimum experience of ten years at a senior position in the aviation industry; (c) has been a legal practitioner for at least ten years."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part III",
+      "section": "10",
+      "title": "Termination of appointment",
+      "content": "(1) The Minister may terminate the appointment of a member— (a) for misbehaviour or mental incapacity; (b) if the member becomes bankrupt; (c) if the member becomes involved in a conflict of interest; (d) if the member has been convicted of a criminal offence; (e) if the member is absent from three consecutive meetings of the board or if, in any given calendar year, he or she attends less than half of the meetings of the board ; or (f) for any other sufficient cause. (2) A member of the board may resign his or her office in writing under his or her hand by giving not less than one month’s notice to the Minister ."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part III",
+      "section": "11",
+      "title": "Functions, duties and powers of the board",
+      "content": "The board shall be responsible for the general control of the performance and management of the undertakings and affairs of the authority ; and without derogating from the generality of the foregoing provision, the board shall— (a) determine the general performance of the authority ; (b) approve business plans; (c) determine and approve estimates of income and expenditure; (d) review the performance of the top management officials; (e) monitor the deployment and utilisation of the movable and immovable property of the authority ; (f) do other things as is provided by the Act or that may be necessary for the proper implementation of the Act."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part III",
+      "section": "12",
+      "title": "Meetings of the board",
+      "content": "(1) The board shall meet for the discharge of its functions as often as is necessary; and in any case, the board shall meet at least once in every three months at a time and place specified by the chairperson . (2) The proceedings of the meetings of the board shall be as set out in the Schedule to this Act."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part III",
+      "section": "13",
+      "title": "Remuneration of members",
+      "content": "Members of the board and any other person not being an employee of the authority attending a meeting of the board may be paid such remuneration or allowance as the Minister may determine. Part IV – Staff"
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part IV",
+      "section": "14",
+      "title": "Managing director",
+      "content": "(1) There shall be a managing director of the authority , who shall be appointed by the Minister on the recommendation of the board on terms and conditions that may be specified in the instrument of appointment. (2) The managing director shall be a person with considerable knowledge and experience in aviation, administration, industry, engineering or other qualifications and experience or proven ability in other fields that the board and the Minister may consider relevant. (3) The managing director shall be the chief executive officer of the authority and shall be responsible to the board . (4) The managing director may not engage in paid employment outside the duties of his or her office except with the written approval of the Minister . (5) A person appointed managing director shall hold office for a period not exceeding five years as may be specified in the instrument of appointment and shall be eligible for reappointment. (6) The Minister may, after consultation with the board , terminate the appointment of the managing director— (a) for misbehaviour; (b) for physical or mental incapacity; (c) if the managing director becomes bankrupt; (d) if the managing director is absent from office for a period of not less than fourteen days or for twenty-eight days in twelve months without the Minister ’s permission. (7) The managing director may resign his or her office by giving one month’s notice in writing through the board to the Minister ."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part IV",
+      "section": "15",
+      "title": "Duties of the managing director",
+      "content": "(1) The managing director shall, subject to the control of the board on matters of policy, be responsible for— (a) running the authority on sound commercial principles in accordance with policies and decisions made by the board ; (b) planning and implementing the development of the civil aviation industry in Uganda aiming at promoting efficient, safe and reliable aviation services; (c) controlling the resources and operations of all the services under the authority ; (d) submitting business plans and estimates of income and expenditure to the board for its approval; (e) implementing the decisions of the board ; (f) carrying out any duty that may be devolved on him or her by the Minister or the board . (2) In the performance of his or her duties, the managing director shall keep the board fully informed of the affairs of the authority and shall consult the board from time to time as may be necessary."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part IV",
+      "section": "16",
+      "title": "Deputy managing director",
+      "content": "(1) There shall be a deputy managing director who shall assist the managing director in the performance of his or her duties and perform the duties of the managing director in the absence of the managing director. (2) The deputy managing director shall be appointed by the Minister on the recommendation of the board and shall be responsible to the managing director."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part IV",
+      "section": "17",
+      "title": "Corporation secretary",
+      "content": "(1) There shall be a corporation secretary who shall be appointed by the Minister on the recommendation of the board on terms and conditions that may be specified in the instrument of appointment. (2) The corporation secretary shall be the secretary to the board and shall, in addition to any function that may be conferred upon him or her by the Minister , the board or the managing director, be responsible for— (a) taking the minutes of the meetings of the board ; (b) keeping the records of all decisions of the board ; (c) keeping records of legal transactions of the authority ; and (d) keeping the seal of the authority . (3) The secretary shall, unless under exceptional circumstances the board directs in writing, giving the circumstances leading to its decision, attend all meetings of the board but shall not have a right to vote on any matter before the board . (4) In the absence of the secretary, whether for ill health, vacancy or otherwise, the board may appoint another employee of the authority to perform the functions of the secretary until the secretary resumes office or the vacancy is filled. (5) In the performance of his or her duties, the secretary shall be responsible to the managing director."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part IV",
+      "section": "18",
+      "title": "Other staff",
+      "content": "The authority shall have such other officers and supporting staff as the board may determine. Part V – Financial provisions"
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part V",
+      "section": "19",
+      "title": "Sole shareholder",
+      "content": "The Government shall be the sole shareholder of the authority ."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part V",
+      "section": "20",
+      "title": "Funds of the authority",
+      "content": "(1) The funds of the authority shall consist of— (a) share capital as may be determined by the board ; (b) grants from the Government; (c) grants and loans from any body, organisation or person; (d) interest on savings made by the authority ; (e) monies that may accrue to the authority in the discharge of its functions; and (f) money from any other source as may be approved by the Minister . (2) The authority may possess its own bank accounts in both domestic and foreign currencies in a bank approved by the board . (3) The authority may, with the approval of the Minister , invest any funds of the authority not immediately required for use by the board . (4) The Government may provide appropriations to meet operating deficits and capital funding."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part V",
+      "section": "21",
+      "title": "Commercial ventures",
+      "content": "The authority may, with a written approval of the Minister — (a) subscribe to or purchase shares, debentures or other securities of a company; (b) join in the formation of a company that would be a subsidiary of the authority at its formation; (c) enter into a partnership."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part V",
+      "section": "22",
+      "title": "Estimates",
+      "content": "(1) The authority shall, within three months before the commencement of each financial year, prepare and submit to the Minister for his or her approval, estimates of income and expenditure of the authority for the next ensuing year as may be approved by the board ; and at any time before the end of a financial year, the authority may prepare and submit to the Minister for approval any estimates supplementary to the estimates of a current year. (2) The Minister shall notify the board of his or her decision on the estimates submitted to him or her within one month after the submission of the estimates. (3) No expenditure shall be made out of the funds of the authority unless that expenditure is part of the expenditure approved by the Minister under estimates for the financial year in which that expenditure is to be made or in estimates supplementary to that year’s estimates."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part V",
+      "section": "23",
+      "title": "Borrowing powers",
+      "content": "(1) The authority may, with the prior approval of the Minister , borrow funds required for meeting its obligations and for carrying out its functions. (2) The authority may borrow temporarily by way of overdraft or otherwise sums of money to be paid within a short period for any urgent requirements of the authority in the discharge of its functions. (3) The authority may raise funds for the discharge of its functions by the issuing of stock, and any interest payable on any stock issued under this subsection shall be charged upon all property, undertaking and revenue of the authority . (4) For purposes of paying any loan under this section and any interest on that loan, the authority may— (a) charge the assets, undertakings and revenue of the authority ; (b) issue debentures and other types of bonds; (c) do any other thing necessary to enable the authority to meet its obligations under that loan. (5) A loan under this section may, with the approval of the Minister responsible for finance, be guaranteed by the Government. (6) The Minister responsible for finance may, from time to time, prescribe the maximum sum that may be borrowed under this section."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part V",
+      "section": "24",
+      "title": "Financial year",
+      "content": "The financial year of the authority shall be the twelve months commencing on the 1st day of July in each year and ending on the 30th day of June of the following year."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part V",
+      "section": "25",
+      "title": "Authority to operate on sound financial principles",
+      "content": "The authority shall perform its functions in accordance with sound financial principles and shall ensure as far as possible that its revenue is sufficient to meet expenditure properly chargeable to its revenue."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part V",
+      "section": "26",
+      "title": "Accounts",
+      "content": "(1) The Authority shall keep proper books of account of all its income and expenditure and proper records in relation to them. (2) The authority shall cause to be prepared in respect of each financial year, and not later than four months after the end of that financial year, a statement of account which shall include— (a) a balance sheet, a statement of income and expenditure and a statement of surplus and deficit; and (b) any other information in respect of the financial affairs of the authority as the Minister responsible for finance may require."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part V",
+      "section": "27",
+      "title": "Audit",
+      "content": "(1) The accounts of the authority shall, in respect of each financial year, be audited by the Auditor General or an auditor appointed by him or her. (2) The authority shall ensure that within four months after the end of the financial year the statement of account referred to in section 26 is submitted to the Auditor General for auditing. (3) The Auditor General or any auditor appointed by him or her shall have access to all books of account, vouchers and other financial records of the authority and be entitled to have any information and explanation required by him or her in relation to those records. (4) The Auditor General shall, within two months after receipt of the statement of account under this section, audit the accounts and deliver to the authority a copy of the audited accounts and his or her report on those accounts, stating any matter which in his or her opinion should be brought to the attention of the Minister . (5) The Auditor General shall also deliver to the Minister a copy of the audited accounts and his or her report on those accounts."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part V",
+      "section": "28",
+      "title": "Business plans",
+      "content": "(1) The authority shall produce a five-year business plan to be prepared by the managing director each year. (2) The business plan shall contain financial targets and performance indicators for the authority and shall be approved by the board of directors and the Minister . (3) When preparing the business plan, the managing director shall consider— (a) the need for high standards of aviation safety; (b) the objectives and policies of the Government known to the authority ; (c) any directions given by the Minister ; (d) any payments by the Government to the authority to fund its regulatory functions and search and rescue services; (e) the need to maintain the extent of the Government’s equity in the authority ; (f) the need to maintain a reasonable level of reserves, having regard to estimated future infrastructure requirements; (g) the need to earn a reasonable rate of return on the authority ’s assets other than assets wholly or principally used in the performance of regulatory functions or the provision of search and rescue services; (h) the expectation of the Government that the authority will pay a reasonable dividend; (i) any other commercial consideration the managing director deems appropriate; and (j) any contributions to international bodies connected with civil aviation. (4) The business plan shall be submitted by the board of directors to the Minister at least six months prior to the commencement of the fiscal year in question, and the Minister shall make comments on the plan not later than two months after its receipt. (5) At least six months prior to the commencement of the fiscal year in question, the authority shall provide to the Minister an estimate of the subsidy funding required to maintain operations during the coming fiscal year, which estimate shall identify specific uses to which the funds will be put, why the service is required and what actions are being taken to reduce the amount of subsidy required. (6) A summary of the business plan shall be published by the authority after the plan has been approved by the Minister ."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part V",
+      "section": "29",
+      "title": "Charges and fees",
+      "content": "(1) The authority shall draw up a scheme prescribing charges and fees to be charged by the authority in respect of services or facilities provided by the authority . (2) Without limiting the generality of subsection (1), the services and facilities that the authority may charge for include— (a) the issuance, renewal or variation of airworthiness certificates; (b) inspection of aircraft ; (c) the issuance, renewal or variation of personnel licences; (d) aircraft landing facilities; (e) aircraft parking facilities; (f) air navigation and communications; (g) fuel handling; (h) passenger services; (i) air operator ’s certificates; (j) aircraft maintenance organisation approvals; (k) accident and incident investigations; (l) air transport licences; (m) traffic handling; (n) aircraft handling; and (o) any other services related to the operation of aerodromes. (3) The proposed scheme shall be published in an aeronautical information circular (AIC); and within thirty days after publication , it shall be submitted to the Minister for information. (4) The scheme shall come into force on a date specified in the scheme, which shall be at least thirty days following information to the Minister . (5) The authority may impose and revise rents and concession fees. (6) Changes to rental and concession fees shall come into force on the days specified by the authority , which shall be at least sixty days after the revised fees and rents have been made available to the affected parties. (7) A charge shall be payable within a period specified by the authority , and any failure to pay within the specified period may attract a penalty which shall be a percentage prescribed by the Minister per day on the outstanding charge until payment is made in full. (8) If the total amount due is not paid within the period specified, the authority may seize the aircraft or other property after giving a reasonable notice of the intention to seize the aircraft or property to the owner or operator of the aircraft or property, and the authority shall retain the aircraft or property until payment is made in full. (9) The amount or rate of charge shall be reasonably related to expenses incurred, or to be incurred, by the authority in relation to the provision of the service or facility."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part V",
+      "section": "30",
+      "title": "Annual report",
+      "content": "(1) Not later than six months after the end of each financial year, the authority shall prepare an annual report on the performance of its functions during that year which shall include, among other things, an audited financial statement. (2) The annual report shall be presented to the Minister , who shall present it to Parliament after which it shall be published."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part V",
+      "section": "31",
+      "title": "Consultation by the authority",
+      "content": "(1) In the performance of its functions and exercise of its powers, the authority shall, where appropriate, consult with the Government, commercial, industrial, consumer and other relevant bodies and organisations. (2) The authority shall establish whatever consultative mechanisms it deems necessary to secure the views of the users of the authority ’s facilities and services. Part VI – Civil aviation"
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part VI",
+      "section": "32",
+      "title": "Chicago Convention and other agreements",
+      "content": "(1) The authority shall be responsible for carrying out its functions in a manner consistent with the Chicago Convention , any annex to the convention relating to international standards and recommended practices and any amendment made in accordance with the convention or other international conventions relating to civil aviation. (2) It shall be the responsibility of the authority to perform any obligations required by an agreement between Uganda and any other country or intergovernmental organisation with respect to the safety, security, regularity and efficiency of air navigation."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part VI",
+      "section": "33",
+      "title": "Air navigation services",
+      "content": "(1) The authority shall provide air navigation services in Uganda airspace and for any area outside of Uganda for which Uganda has, in pursuance of international arrangements, undertaken to provide air navigation services and to direct and coordinate search and rescue services therein. (2) Where a person or body is licensed to operate a private aerodrome , he or she may be authorised to provide air navigation services for the use of the aerodrome . (3) The Minister , on recommendation of the authority , may make regulations to ensure the safe, regular, orderly and expeditious flow of air traffic and, without limiting the generality of the foregoing provision, the Minister , on the recommendation of the authority , may make regulations and impose penalties pertaining to— (a) air traffic control procedures and services; (b) the provision of navigation aids; (c) standards for navigation aids; (d) requirements for equipment to be carried on aircraft ; (e) the conditions under which aircraft may be used or operated or under which any act may be performed in or from aircraft ; (f) the aerodromes at which aircraft coming from outside Uganda are to land and the conditions to which such aircraft are subject; (g) the classification and use of airspace and the control and use of air routes; (h) the control of the operation of aircraft within or directly above the aerodrome for the purposes of limiting or mitigating the effect of noise, vibration or atmospheric pollution caused by aircraft using the aerodrome ; and (i) rules of the air."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part VI",
+      "section": "34",
+      "title": "Air regulations",
+      "content": "(1) The authority shall set and maintain safety standards related to personnel, aircraft and aerodromes, which meet international criteria. (2) The Minister , on the recommendation of the authority , may make regulations pertaining to— (a) the licensing of flight crew members, air traffic controllers and operators of equipment used to provide services relating to civil aviation; (b) the licensing of persons engaged in the design, manufacture, distribution, maintenance, approval, certification or installation of aeronautical products; (c) the installation, maintenance, approval and certification of equipment used to provide services relating to civil aviation; (d) activities at aerodromes and the location of aerodromes; (e) noise emanating from aerodromes and aircraft ; (f) the conditions under which persons or personal belongings, baggage, goods or cargo of any kind may be transported by aircraft ; (g) the keeping and preservation of records and documents relating to aerodromes, persons holding Uganda civil aviation documents, and equipment and facilities used to provide services relating to civil aviation; (h) the handling, marking, storage and delivery of fuel and any lubricants or chemicals used during or in connection with the operation of aircraft ; (i) the inspection and licensing of aircraft ; (j) the airworthiness of aircraft ; (k) transport of dangerous goods , ammunition and munitions of war; and (l) any other area deemed necessary by the authority to ensure the safety of civil aviation."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part VI",
+      "section": "35",
+      "title": "Aeronautical Information Service",
+      "content": "(1) The authority shall provide a service to be known as the Aeronautical Information Service, which shall comprise the collection and dissemination of aeronautical information and instructions with respect to— (a) aerodromes; (b) air traffic control services and facilities; (c) communication and air navigation services and facilities; (d) meteorological services and facilities; (e) search and rescue services and facilities; (f) procedures and regulatory requirements connected with air navigation; (g) hazards to air navigation; (h) differences from International Civil Aviation Organisation standards, recommended practices and procedures; (i) units of measurement; (j) nationality and registration marks; (k) special equipment to be carried on aircraft ; (l) bird concentrations on or in the vicinity of aerodromes; (m) prohibited or restricted airspace and danger areas; (n) minimum flight altitudes; (o) fees and charges; and (p) aeronautical charts. (2) In providing the Aeronautical Information Service, the authority shall publish the Uganda aeronautical information publication (AIP) which shall include— (a) the aeronautical information and instructions that are by this Act required to be so published; (b) such other aeronautical information and instructions as are of a lasting character essential to air navigation; and (c) any matter relating to the facilitation of air traffic. (3) The authority shall, in addition to the AIP, publish Notices to Airmen (NOTAM) which shall include— (a) the aeronautical information and instructions that may by this Act be required to be published; and (b) such other aeronautical information and instructions as are of a temporary character or cannot be made available quickly enough by publication in the aeronautical information publication . (4) The authority shall forward copies of the aeronautical information publication and Notices to Airmen (Class Two) to the International Civil Aviation Organisation. (5) The authority may also publish information on various aviation topics such as licensing, maintenance or any other item as Uganda civil aviation publications (UCAP), aeronautical information circulars (AICs) and airworthiness circulars. (6) Unless a document of the authority states explicitly that it is of an advisory or guidance nature, publications identified in this section shall have legal authority ."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part VI",
+      "section": "36",
+      "title": "Technical services",
+      "content": "(1) The authority shall provide technical services for the design, installation, maintenance and modification of electronic, radio and other equipment used in the provision of air navigation and communications service. (2) The authority may contract out for any of these services to other Government departments or private sector firms so long as this does not compromise the safety of air transport."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part VI",
+      "section": "37",
+      "title": "Meteorological services",
+      "content": "(1) The authority shall provide specified aviation meteorological services in Uganda, and information concerning weather conditions and forecasts shall be provided to all aircraft in Ugandan airspace in a timely and orderly fashion. (2) Appropriate aviation meteorological services shall be provided to the authority by the department of meteorology. (3) The basis on which meteorological services will be provided to the authority shall be determined by mutual agreement between the department of meteorology and the authority ."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part VI",
+      "section": "38",
+      "title": "Investigation of occurrences",
+      "content": "(1) The Minister may investigate and review the circumstances surrounding all accidents and incidents and occurrences. (2) The Minister shall appoint a chief inspector of accidents and inspectors of accidents to investigate and review all accidents. (3) The chief inspector of accidents— (a) shall report directly to the Minister ; (b) may utilise the resources of the authority during the investigations. (4) The chief inspector of accidents and inspectors of accidents shall have the right of entry at all accident sites to investigate and inspect accidents, retrieve flight recorders and other materials or information pertinent to the accident , including aircraft parts or material on the ground hit by the aircraft , and may examine any other records or documents related to the occurrence, such as flight log books, maintenance records and personnel records. (5) An inspector of accidents shall be a person properly trained in investigating aircraft accidents. (6) A person obstructing an investigation made under this section commits an offence and is liable on conviction to a penalty that may be prescribed by the Minister ."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part VI",
+      "section": "39",
+      "title": "Assessment and inspectors",
+      "content": "(1) The Minister may, from time to time, assess the standards of navigational facilities and services and aerodromes and technical personnel manning the facilities and providing the services to ensure that they meet the standards required. (2) The Minister may appoint inspectors to carry out the assessment referred to under subsection (1). (3) The inspectors shall, with the permission of the person in charge, have access to aerodromes, related facilities and installations, navigation and communication facilities and to any records, information and explanation that may be required in the course of their duty. (4) The Minister may, on the advice of any inspector take appropriate action to ensure the appropriate standards. Part VII – Air transport and international obligations"
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part VII",
+      "section": "40",
+      "title": "International obligations",
+      "content": "(1) The aeronautical authority of Uganda shall be the Minister responsible for civil aviation who may delegate some of his or her powers to the Civil Aviation Authority in accordance with this Act. (2) The authority shall comply with all international agreements pertaining to civil aviation signed by the Government. (3) The authority shall advise and assist the Government in its negotiations with other countries in regard to international air services originating, transiting or terminating at Ugandan aerodromes and those overflying Uganda. (4) The authority shall act as adviser to the Government and assist in its dealings with the International Civil Aviation Organisation (ICAO), the African Civil Aviation Commission (AFCAC), the Commonwealth Air Transport Council (CATC) and other similar international civil aviation bodies."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part VII",
+      "section": "41",
+      "title": "Authority’s permission and establishment of fares, etc.",
+      "content": "(1) No aircraft shall— (a) arrive in Uganda from a place outside Uganda; (b) depart from Uganda for a place outside Uganda; or (c) overfly Uganda, without the permission of the authority and in accordance with any conditions specified in the permission. (2) The Minister may, on the advice of the authority , establish fares, freight rates and related matters."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part VII",
+      "section": "42",
+      "title": "Air operators certificate",
+      "content": "(1) The authority may issue an air operators certificate with or without any conditions attached; and where any conditions are attached to a certificate, the authority may vary or impose further conditions as it may deem appropriate. (2) A certificate issued under subsection (1) shall not be transferable without the consent of the authority . (3) Without limiting the generality of subsection (1), the authority may impose conditions relating to— (a) airworthiness; (b) capability of the flight crew ; (c) maintenance capability of the aircraft operating company; (d) management capability of the aircraft operating company; (e) financial viability of the aircraft operating company; (f) traffic demand of proposed route; and (g) ability of existing aircraft operators to meet this demand. (4) An application for an air operators certificate shall be made in writing to the authority and shall contain information that shall be prescribed by the authority . (5) The authority shall respond to an application for an air operators certificate within 90 days of its receipt and shall provide written reason for its decision if the application is rejected."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part VII",
+      "section": "43",
+      "title": "Appeals tribunal",
+      "content": "(1) There shall be established an appeals tribunal which shall be a judicial body for the determination of appeals from decisions of the authority relating to licensing under this Act. (2) The Minister , on the recommendation of the board , shall make regulations regarding the composition and procedure of the appeals tribunal ."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part VII",
+      "section": "44",
+      "title": "Appeal to appeals tribunal",
+      "content": "A person aggrieved by a decision of the authority relating to licensing under this Act may appeal to the appeals tribunal on matters of law. Part VIII – Aerodromes"
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part VIII",
+      "section": "45",
+      "title": "Establishment of aerodromes",
+      "content": "(1) The authority may establish and maintain aerodromes and provide and maintain in connection with them roads, approaches, apparatus, equipment, buildings and other accommodations. (2) The Minister , on the recommendation of the authority , may make regulations necessary to ensure adequate facilities for consultation with— (a) the local authorities in whose areas the aerodrome or any part of the aerodrome is situated; (b) other local authorities whose areas are in the neighbourhood of the aerodrome ; and (c) other organisations representing the interests of persons concerned with the locality in which the aerodrome is situated. (3) The Minister , on the recommendation of the authority , may make regulations necessary for regulating the use and operation of aerodromes and the conduct of all persons while within aerodromes. (4) Without limiting the generality of subsection (3), the Minister may make regulations— (a) for securing the safety of aircraft , vehicles and persons using the aerodrome and preventing danger to the public arising from the use and operation of the aerodrome ; (b) for preventing obstruction within the aerodrome ; (c) for regulating vehicular traffic anywhere within the aerodrome , including speed restrictions and parking limitations; (d) for prohibiting or restricting access of persons, vehicles or animals to any part of the aerodrome ; (e) for preserving good order and conduct within the aerodrome and preventing damage to property; (f) for requiring any person, if so requested by a police officer or aerodrome official, to leave the aerodrome or to state his or her name and address and the purpose of his or her presence on the aerodrome ; (g) for disposing of unclaimed property in or upon the aerodrome ; and (h) for controlling the disposal of waste, international garbage and spilled fuel."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part VIII",
+      "section": "46",
+      "title": "Zoning and land use control",
+      "content": "(1) The Minister , on the recommendations of the authority , may by order impose prohibitions or restrictions on the use of any area of land or water in the vicinity of an aerodrome as may be necessary to ensure safe and efficient civil aviation; and without limiting the generality of the foregoing, the Minister may give directions— (a) for requiring the total or partial demolition of any building or structure in the vicinity of the aerodromes; (b) for restricting the height of trees and other natural and man-made structures upon any land within the vicinity of an aerodrome ; (c) for extinguishing any private right of way over land within the vicinity of an aerodrome ; (d) for restricting the installation of cables, mains, pipes, wires or other apparatus upon, across, under or over any land within the vicinity of an aerodrome ; (e) for restricting the use of certain electronics within the vicinity of an aerodrome . (2) Before any prohibition or restriction is imposed, the authority shall make a public notice of its intention to impose the restriction or prohibition in the area. (3) If deemed necessary for the safe and efficient use of civil aviation, the authority may require the stopping or diversion of any highway. (4) The Minister shall cause notice of every zoning regulation that is proposed to be made to be published in two successive issues of at least one local newspaper, if any, serving the area to which the proposed zoning regulation relates and in two successive issues of the Gazette . (5) Reasonable opportunity shall be afforded to interested persons to make representations to the Minister with respect to zoning regulations, before the regulations are actually made."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part VIII",
+      "section": "47",
+      "title": "Trespassing",
+      "content": "Unauthorised entry into secured areas of aerodromes (such as runways, aprons and passenger holding areas) is prohibited."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part VIII",
+      "section": "48",
+      "title": "Customs, immigration and health",
+      "content": "(1) Suitable facilities will be made available to relevant Government authorities and agencies at Uganda aerodromes whenever necessary, for the provision of customs, immigration and health services. (2) The provision of customs, immigration and health services is not the responsibility of the authority but of other Government authorities and agencies concerned. (3) The terms and conditions under which suitable facilities shall be made available to Government authorities and agencies will be determined by the authority and the Government authority or agency in question."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part VIII",
+      "section": "49",
+      "title": "Liability",
+      "content": "Authority aerodromes and other licensed aerodromes shall be made available for use by civil aircraft on the expressed condition that the use is entirely at the risk of the registered owner of the aircraft concerned and that neither the authority , the licensee nor the Government shall be held responsible for loss or damage resulting from the use of the authority or licensed aerodromes or their accessory facilities through an act of God, war, civil commotion, riot, looting or any other cause beyond the control of the authority or licensee. Part IX – Security and policing"
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part IX",
+      "section": "50",
+      "title": "Security regulations",
+      "content": "For the purposes of protecting passengers, crew members, aircraft , aerodromes and other aviation facilities, preventing unlawful interference with civil aviation and assuring that appropriate action is taken when interference occurs or is likely to occur, the Minister , on the recommendation of the authority , may make regulations— (a) requiring any owner or operator of a Ugandan registered aircraft to establish, maintain and carry out, at aerodromes and on the aircraft and at any aviation facilities under his or her control, security measures that may be prescribed by the regulations or security measures necessary for the purpose the regulations are made; (b) requiring any owner or operator of an aircraft registered outside Uganda that lands at or departs from aerodromes in Uganda to establish, maintain and carry out, at aerodromes and on the aircraft and at any aviation facilities under his or her control, security measures that may be prescribed by the regulations or security measures necessary for the purpose the regulations are made; and (c) requiring any operator of a licensed aerodrome to maintain and carry out security measures at the aerodrome ."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part IX",
+      "section": "51",
+      "title": "Passenger screening",
+      "content": "(1) The authority shall ensure the proper screening of all passengers and cargo for security purposes. (2) No person shall board an aircraft who has not, when requested by a security officer, submitted to an authorised search of his or her person, or permitted an authorised search to be carried out on the goods that he or she took or had placed on board the aircraft ."
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part IX",
+      "section": "52",
+      "title": "Aerodrome security",
+      "content": "The authority shall be responsible for the security of its aerodromes and equipment, including those installations that are located away from the aerodromes."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part IX",
+      "section": "53",
+      "title": "Police",
+      "content": "The policing of the property of the authority shall be the responsibility of a special unit of a designated security force, trained in airport security."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Part IX",
+      "section": "54",
+      "title": "Inspection of aircraft",
+      "content": "The authority shall be authorised to inspect all aircraft on Ugandan territory, regardless of their place of registry, for reasons of security. Part X – Miscellaneous provisions"
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Part X",
+      "section": "55",
+      "title": "Directions by the Minister",
+      "content": "(1) The Minister may give the authority written directions as to the performance of its functions, which directions shall be only of a general nature. (2) Particulars of any directions given in a financial year shall be included in the annual report of the authority for the year."
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Part X",
+      "section": "56",
+      "title": "Delegation by the Minister",
+      "content": "The Minister may delegate to the authority any of the responsibilities conferred on him or her by this Act."
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Part X",
+      "section": "57",
+      "title": "Personnel management",
+      "content": "(1) The authority shall, in the case of its employees other than the managing director, deputy managing director and corporation secretary pay wages, salaries, pensions, allowances and any other pecuniary or nonpecuniary benefit as it determines to be necessary, and the benefits shall be approved by the Minister . (2) The authority shall train its employees to the acceptable standards and competency for the performance of their duties."
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "Part X",
+      "section": "58",
+      "title": "Nuisance and liability for damage",
+      "content": "(1) The mere overflight of an aircraft over a property at a height above the ground in accordance with authority regulations made under this Act shall not be considered trespass or nuisance. (2) Material loss or damage caused to any person or property on land or water by a person in, or an article or person falling from, an aircraft in flight , taking off or landing shall be recoverable from the operator or owner of the aircraft , unless the loss or damage was caused or contributed to by the negligence of the person who experienced the loss or damage."
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "Part X",
+      "section": "59",
+      "title": "Company, etc. not to contravene the Act",
+      "content": "A company or partnership in which the authority may have an interest shall not do anything that is prohibited by, or do anything in any manner that contravenes, this Act."
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "Part X",
+      "section": "60",
+      "title": "Actions of the authority not invalid",
+      "content": "An action taken by the authority , including the transfer or acquisition of property by it, shall not be invalid by reason only that the action is contrary to this Act or regulations or is inconsistent with its functions."
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "Part X",
+      "section": "61",
+      "title": "General regulations",
+      "content": "(1) The Minister may make regulations generally for the better performance by the authority of its functions. (2) Without limiting the generality of subsection (1), the Minister may, on the recommendation of the authority , make regulations relating to— (a) the licensing of air transport and the prescribing of fares, tariffs, rates and charges under this Act; (b) the designation of domestic and international air carriers; (c) the provision of air navigation services; (d) the planning, establishment, maintenance, operation and use of air routes, airway facilities, aeronautical information services and search and rescue and prohibiting or restricting aircraft from flying over certain areas in Uganda; (e) the personnel engaged in matters referred to in paragraph (d); (f) investigation of aircraft accidents and incidents; (g) the security of aerodromes, aircraft and passengers; (h) registration and marking of aircraft ; (i) airworthiness; (j) certification and licensing of air operators; (k) conditions under which certain kinds of cargo may be carried; (l) the flight crews engaged in the operation of aircraft ; (m) provision of meteorological services for air navigation; (n) the design, construction, repair, overhaul, maintenance, operation and use of aircraft and related equipment; (o) the personnel engaged in matters referred to in paragraph (n); (p) publications and dissemination of all regulations; (q) the acquisition or expropriation of land under the relevant laws, for the better performance of the functions of the authority ; and (r) the imposition of penalties or prosecution of those persons who contravene the regulations. (3) The Minister may, under regulations made under this Act, prescribe higher penalties, not being unreasonable, than penalties which can be prescribed by regulations under the Interpretation Act."
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "Part X",
+      "section": "62",
+      "title": "Power to take action",
+      "content": "The authority shall be empowered to take such legal measures as are necessary, to ensure implementation of and compliance with the regulations made under this Act."
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "Part X",
+      "section": "63",
+      "title": "Exemption",
+      "content": "(1) Notwithstanding section 41 , the Minister may, on terms and conditions that may be necessary, exempt any person, aircraft , aerodrome facility or service from application of any regulations made under this Act, if the exemption is in the public interest and is not likely to affect aviation safety. (2) Any exemption granted under this section shall be published in the Gazette ."
+    },
+    {
+      "provision_ref": "s64",
+      "chapter": "Part X",
+      "section": "64",
+      "title": "War and emergencies",
+      "content": "(1) In time of war, whether actual or imminent, or of great national emergency, the Government shall proclaim the existence of such a state of affairs and then the Minister — (a) may by order regulate or prohibit, either absolutely or subject to conditions that may be contained in the order, the navigation of all aircraft over Uganda; and (b) may by order provide for taking possession of and using for the purposes of the Government’s military forces any aerodromes, or any aircraft , machinery, plant, material or things found therewith, and for regulating or prohibiting the use, erection, building, maintenance or establishment of any aerodrome or flying school. (2) In time of war, whether actual or imminent, or of great national emergency, the Minister may by order require the following to be placed at the disposal of the Minister — (a) all or any of the property or rights of, or under the control of, the authority ; (b) the whole or any part of the relevant undertaking of any Ugandan air transport business; and (c) all or any property or rights of or under the control of any businesses which appertain to the undertaking under paragraph (b). Part XI – Transition"
+    },
+    {
+      "provision_ref": "s65",
+      "chapter": "Part XI",
+      "section": "65",
+      "title": "Government to provide funds to the authority",
+      "content": "The Government shall provide at the outset, grants or loan funds to meet the working capital needs of the authority and may, if necessary, set the appropriate interest rate on these funds."
+    },
+    {
+      "provision_ref": "s66",
+      "chapter": "Part XI",
+      "section": "66",
+      "title": "Saving",
+      "content": "Regulations pertaining to the control and governance of civil aviation established by the Government prior to this Act shall remain in force until such time as the Minister or the authority on behalf of the Minister makes new regulations. Schedule (Section 12) Meetings of the board 1. The chairperson shall preside at all meetings at which he or she is present, and in his or her absence the members present shall elect one of the members to preside. 2. Notice of a board meeting shall be given in writing to each member of the board at least ten days before the day of the meeting, but an urgent meeting may be called within less than ten days’ notice at the request of at least two members of the board. 3. The notice to be given under paragraph 2 shall state— (a) the venue and time of the meeting; (b) the agenda with sufficient details of the business to be discussed; and (c) the text of any special resolution to be submitted to the meeting, if any. 4. A simple majority of members of the board shall form a quorum at a meeting of the board. 5. The board shall cause to be recorded and kept minutes of all proceeding of its meetings. 6. The board may invite any number of persons to act as consultants or advisers at any of its meetings. 7. A member of the board who has any personal interest in any transaction or matter before the board shall disclose the nature of his or her interest to the board and shall be disqualified from taking part in the deliberations of the board with respect to that transaction or matter if it is a contract and in any other case, if the board decides that the nature of interest might prejudice the consideration of the matter. 8. Questions proposed at a meeting of the board shall be determined by a simple majority of members present and voting; and in the case of equality of votes, the person presiding shall have a second or casting vote. 9. Subject to this Act and regulations made under it, the board may regulate its own procedure. 10. A member contravening paragraph 7 shall be liable to removal from the board. 11. For the purposes of paragraph 7, a notice given by a member of the board stating that he or she is a member of a body corporate or firm shall make him or her a person having an interest in any transaction or matter between the authority and that body corporate or firm. 12. A member may give notice of interest in any matter under paragraph 7 by a writing under his or her signature if he or she cannot be present in a meeting in relation to which he or she is giving notice of the interest. History of this document 06 February 2024 amendment not yet applied Amended by Civil Aviation Authority (Amendment) Act, 2024 18 April 2019 amendment not yet applied Amended by Civil Aviation Authority (Amendment) Act, 2019 31 December 2000 this version Chapter 354 Revised Laws 2000 Consolidation 08 February 1991 Commenced Related documents Is amended by Civil Aviation Authority (Amendment) Act, 2019 Civil Aviation Authority (Amendment) Act, 2024 Subsidiary legislation Title Civil Aviation (Security) (Amendment) Regulations, 2024 Statutory Instrument 2 of 2024 Civil Aviation (Unmanned Aircraft Systems) Regulations, 2022 Statutory Instrument 96 of 2022 Civil Aviation (Appeals Tribunal) (Practice and Procedure) Regulations, 2022 Statutory Instrument 105 of 2022 Civil Aviation (Security) Regulations, 2022 Statutory Instrument 92 of 2022 Civil Aviation (Safety Management) Regulations, 2022 Statutory Instrument 91 of 2022 Civil Aviation (Safe Transport of Dangerous Goods by Air) Regulations, 2022 Statutory Instrument 90 of 2022 Civil Aviation (Personnel Licensing) Regulations, 2022 Statutory Instrument 89 of 2022 Civil Aviation (Personnel Licensing) (Aircraft Maintenance Engineer Licence) Regulations, 2022 Statutory Instrument 88 of 2022 Civil Aviation (Parachute Operations) Regulations, 2022 Statutory Instrument 87 of 2022 Civil Aviation (Operation of Aircraft) (General Aviation) (Aeroplanes) Regulations, 2022 Statutory Instrument 86 of 2022 Civil Aviation (Operation of Aircraft) (Commercial Air Transport) (General Aviation) (Helicopters) Regulations, 2022 Statutory Instrument 85 of 2022 Civil Aviation (Operation of Aircraft - Commercial Air Transport Aeroplanes) Regulations, 2022 Statutory Instrument 84 of 2022 Civil Aviation (Fatigue Management) Regulations, 2022 Statutory Instrument 82 of 2022 Civil Aviation (Commercial Air Transport by Foreign Air Operators within Uganda) Regulations, 2022 Statutory Instrument 81 of 2022 Civil Aviation (Certification of Air Navigation Services) Regulations, 2022 Statutory Instrument 80 of 2022 Civil Aviation (Approved Training Organisations) Regulations, 2022 Statutory Instrument 79 of 2022 Civil Aviation (Approved Maintenance Organisations) Regulations, 2022 Statutory Instrument 78 of 2022 Civil Aviation (Airworthiness of Aircraft) Regulations, 2022 Statutory Instrument 77 of 2022 Civil Aviation (Aircraft Nationality and Registration Marks) Regulations, 2022 Statutory Instrument 76 of 2022 Civil Aviation (Aircraft Instruments and Equipment) Regulations, 2022 Statutory Instrument 75 of 2022 Civil Aviation (Air Traffic Services) Regulations, 2022 Statutory Instrument 74 of 2022 Civil Aviation (Air Operator Certification and Administration) Regulations, 2022 Statutory Instrument 73 of 2022 Civil Aviation (Aeronautical Radio Navigation Aids) Regulations, 2022 Statutory Instrument 72 of 2022 Civil Aviation (Aeronautical Information Services) Regulations, 2022 Statutory Instrument 71 of 2022 Civil Aviation (Aeronautical Communication Systems) Regulations, 2022 Statutory Instrument 70 of 2022 Civil Aviation (Aeronautical Communications Procedures) Regulations, 2022 Statutory Instrument 69 of 2022 Civil Aviation (Aeronautical Charts) Regulations, 2022 Statutory Instrument 68 of 2022 Civil Aviation (Aerial Work) Regulations, 2022 Statutory Instrument 67 of 2022 Civil Aviation (Aircraft Accident and Incident Investigations) Regulations, 2022 Statutory Instrument 66 of 2022 Civil Aviation (Operation of Aircraft) (Helicopter Operations) Regulations, 2020 Repealed Statutory Instrument 21 of 2020 Civil Aviation (Air Traffic Services) Regulations, 2020 Repealed Statutory Instrument 20 of 2020 Civil Aviation (Aeronautical Radio Frequency Spectrum Utilisation) Regulations, 2020 Statutory Instrument 19 of 2020 Civil Aviation (Construction of Instrument Flight Procedures) Regulations, 2020 Statutory Instrument 18 of 2020 Civil Aviation (Safety Management) Regulations, 2020 Statutory Instrument 17 of 2020 Civil Aviation (Units of Measurement for Air and Ground Operations), 2020 Statutory Instrument 16 of 2020 Civil Aviation Authority (Rules of the Air) Regulations, 2020 Statutory Instrument 15 of 2020 Civil Aviation (Aircraft Accident and Incident Investigations) Regulations, 2020 Repealed Statutory Instrument 13 of 2020 Civil Aviation (Aeronautical Search and Rescue) Regulations, 2020 Statutory Instrument 12 of 2020 Civil Aviation (Aeronautical Charts) Regulations, 2020 Repealed Statutory Instrument 11 of 2020 [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About ULII ULII is a project of the Law Reporting Committee of the Judiciary of Uganda. ULII aims to bridge the existing gap in public access to the law of Uganda. Working with the AfricanLII and in collaboration with other partners, such as the Free Access to Law Movement, ULII's major aim is to be a user-friendly portal of all publicly available legal information in Uganda. The Judiciary of Uganda considers access to its decisions and the law upon which they are based as key tenets of its key mission: Justice for All . ULII is also an end user interface for the Electronic Court Case Management Information System. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Uganda Judiciary Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "accident",
+      "definition": "any fortuitous or unexpected event by which the safety of an aircraft or any person is threatened",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aerial work",
+      "definition": "any purpose, other than public transport , for which an aircraft is flown if hire or reward is given or promised in respect of the flight or the purpose of the flight",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aerodrome",
+      "definition": "any definite and limited ground or water area (including any building, installation and equipment) used or intended to be used, either wholly or in part, for the arrival or departure or surface movement of aircraft",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aircraft",
+      "definition": "all flying machines, aeroplanes, seaplanes, flying boats, helicopters, gliders and other aircraft designed to be heavier than air, also all airships and balloons and other aircraft designed to be lighter than air",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air route",
+      "definition": "navigable airspace between two points and the terrain beneath that airspace identified, to the extent necessary, for the application of flight rules",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air transport service",
+      "definition": "a service for the carriage by air of passengers or cargo",
+      "source_provision": "s2"
+    },
+    {
+      "term": "airway",
+      "definition": "a designated path or air route identified by an area of specified width on the surface of the earth",
+      "source_provision": "s2"
+    },
+    {
+      "term": "appeals tribunal",
+      "definition": "a body established by section 43 to which a person aggrieved by a decision of any air transport licensing authority may appeal",
+      "source_provision": "s2"
+    },
+    {
+      "term": "authority",
+      "definition": "the Civil Aviation Authority established by section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aviation security",
+      "definition": "a combination of measures and human and material resources intended to safeguard civil aviation against acts of unlawful interference",
+      "source_provision": "s2"
+    },
+    {
+      "term": "board",
+      "definition": "the board of directors appointed under section 8",
+      "source_provision": "s2"
+    },
+    {
+      "term": "chairperson",
+      "definition": "the chairperson of the board of directors of the authority",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Chicago Convention",
+      "definition": "the Convention on International Civil Aviation concluded at Chicago on 7th December, 1944, including— (i) the protocols amending that convention",
+      "source_provision": "s2"
+    },
+    {
+      "term": "crew",
+      "definition": "all persons working on the aircraft , including the pilot or operator",
+      "source_provision": "s2"
+    },
+    {
+      "term": "goods",
+      "definition": "mail and animals",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "the Minister for the time being responsible for civil aviation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "passenger",
+      "definition": "any person being conveyed by the aircraft who is not a member of the crew",
+      "source_provision": "s2"
+    },
+    {
+      "term": "private aerodrome",
+      "definition": "an aerodrome other than an authority , military or police aerodrome",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public transport",
+      "definition": "the carriage of passengers or cargo for hire or reward given or promised to be given",
+      "source_provision": "s2"
+    },
+    {
+      "term": "publication",
+      "definition": "information given in any of the following publications issued whether before or after the coming into operation of this Act, that is, Notices to Airmen (NOTAM), information circulars, aeronautical information publications, notices to licensed aircraft maintenance engineers and to owners of civil aircraft , civil aviation publications (CAP) or such other official publications so issued for the purpose of enabling any of the provisions of this Act to be complied with",
+      "source_provision": "s2"
+    }
+  ]
+}

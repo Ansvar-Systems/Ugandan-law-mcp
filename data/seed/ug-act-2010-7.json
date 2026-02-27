@@ -1,0 +1,1370 @@
+{
+  "id": "ug-act-2010-7",
+  "type": "statute",
+  "title": "Contracts Act",
+  "title_en": "Contracts Act",
+  "short_name": "Contracts Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://ulii.org/en/akn/ug/act/2010/7/eng@2023-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires— “ acceptance ” means an assent to an offer made by a person to whom the offer is made; “ agreement ” means a promise or a set of promises forming the consideration for each other; “ coercion ” means the commission or threatening to commit any act forbidden under any law or the unlawful detaining or threatening to detain any property, to the prejudice of any person with the intention of causing any person to enter into an agreement ; “ consent ” means agreement of two or more persons obtained freely, upon the same thing in the same sense; “ consideration ” means a right, interest, profit or benefit accruing to one party or forbearance, detriment, loss or responsibility given, suffered or undertaken by the other party; “ consideration for a promise ” means where, at the desire of a promisor , a promisee or any other person does or abstains from doing or promises to do or to abstain from doing something; “ contingent contract ” means a contract to do something or not to do something where an event, collateral to a contract , does or does not happen; “ contract ” means an agreement enforceable by law as defined in section 9 ; “ currency point ” has the value assigned to it in the Schedule to this Act; “ documents of title to goods ” includes any bill of lading, dock warrant, warehouse keeper’s certificate, warrant or order for the delivery of goods and any other document used in the ordinary course of business as proof of possession or control of goods or which authorises or purports to authorise, either by endorsement or by delivery, the possessor of the document to transfer or receive goods represented by the document; “ mercantile agent ” means a person who in the ordinary course of his or her business, has authority either to sell goods, or to consign goods for the purposes of sale, or to buy goods or raise money on the security of goods; “ Minister ” means the Minister responsible for justice; “ misrepresentation ” means— (a) a positive assertion made in a manner which is not warranted by the information of the person who makes it or an assertion which is not true, though the person who makes it believes it to be true; (b) any breach of duty which without an intent to deceive, gains an advantage to the person who commits it or anyone who claims under that person by misleading another person to his or her prejudice or to the prejudice of any one claiming under that other person; or (c) causing, however innocently, a party to an agreement , to make a mistake as to the substance of the thing which is subject of the agreement ; “ offer ” means the willingness to do or to abstain from doing anything signified by a person to another, with a view to obtaining the assent of that other person to the act or abstinence; “ promise ” means an offer that is accepted; “ promisee ” means the person who accepts an offer ; “ promisor ” means the person who makes an offer ; “ reciprocal promises ” mean promises that form the consideration or part of the consideration for each other; “ void agreement ” means an agreement that is not enforceable by law; “ voidable contract ” means an agreement which is enforceable by law at the option of a party to a contract but not at the option of the other party and a contract which ceases to be enforceable by law and which becomes void when it ceases to be enforceable. Part II – Communication, acceptance and revocation of offer"
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part II",
+      "section": "2",
+      "title": "Communication of offer , acceptance or revocation",
+      "content": "(1) The communication of an offer is made by an act or omission of a party who proposes the offer , by which that party intends to communicate the offer or which has the effect of communicating the offer . (2) The communication of acceptance of an offer is made by an act or omission of a party who accepts the offer , by which that party intends to communicate the acceptance or which has the effect of communicating the acceptance . (3) The communication of revocation of an offer or acceptance is made by any act or omission of a party who revokes the offer or acceptance , respectively, by which that party intends to communicate the revocation or which has the effect of communicating the revocation."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part II",
+      "section": "3",
+      "title": "Completion of communication",
+      "content": "(1) Communication of an offer is complete when it comes to the knowledge of the person to whom it is made. (2) Communication of an acceptance is complete— (a) as against the offeror, when it is put in a course of transmission to him or her so as to be out of the power of the acceptor; or (b) as against the acceptor, when it comes to the knowledge of the offeror. (3) Communication of a revocation is complete— (a) as against the person who makes it, when it is put into a course of transmission to the person to whom it is made, so as to be out of the power of the person who makes it; or (b) as against the offeree, when it comes to his or her knowledge."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "Revocation of offer or acceptance",
+      "content": "(1) An offer may be revoked at any time before the communication of its acceptance is completed. (2) An acceptance may be revoked at any time before the communication of the acceptance is complete."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part II",
+      "section": "5",
+      "title": "Mode of revocation of offer",
+      "content": "An offer is revoked by— (a) communication of the notice of revocation by the offeror to the other party; (b) lapse of the time prescribed in the offer , for its acceptance , or, where time is not prescribed, by the lapse of a reasonable time without communication of the acceptance ; (c) the failure of the acceptor to fulfil a condition precedent to acceptance ; or (d) the death or mental illness of the offeror, where the fact of the death or mental illness comes to the knowledge of the acceptor before acceptance ."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part II",
+      "section": "6",
+      "title": "Acceptance to be absolute",
+      "content": "(1) An offer is converted into a promise where the acceptance is— (a) absolute and unqualified; and (b) expressed in a usual and reasonable manner, except where the offer prescribes the manner in which it is to be accepted. (2) Where an offer prescribes the manner in which it is to be accepted and the acceptance is not made in that manner, the offeror may, within a reasonable time after the acceptance is communicated to him or her, demand that the offer is accepted only in the prescribed manner. (3) Where an offeror fails to demand under subsection (2) that acceptance be made in the prescribed manner, the offeror shall be deemed to have accepted the manner of acceptance offered by the offeree."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part II",
+      "section": "7",
+      "title": "Acceptance by performing conditions or receiving consideration",
+      "content": "The performance of the conditions of an offer or the acceptance of any consideration for a reciprocal promise which may be offered with an offer , is an acceptance of the offer ."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part II",
+      "section": "8",
+      "title": "Express or implied promise",
+      "content": "(1) A promise may be express or implied. (2) A promise is express, where an offer or an acceptance of a promise is made either verbally or in writing. (3) A promise is implied, where an offer or an acceptance is not made either verbally or in writing. Part III – Contracts, void and voidable agreements Contracts"
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part III",
+      "section": "9",
+      "title": "Agreements that amount to contracts",
+      "content": "(1) A contract is an agreement made with the free consent of parties with capacity to contract , for a lawful consideration and with a lawful object, with the intention to be legally bound. (2) A contract may be oral or written or partly oral and partly written or may be implied from the conduct of the parties. (3) A contract is in writing where it is— (a) in the form of a data message; (b) accessible in a manner usable for subsequent reference; and (c) otherwise in words. (4) Nothing in this Act shall affect any law in Uganda relating to contracts by corporations or generally. (5) A contract , the subject matter of which exceeds twenty-five currency points, shall be in writing. (6) A contract of guarantee or indemnity shall be in writing. (7) In this section, “guarantee” and “ indemnity ” have the meaning assigned to them in Part VIII of this Act."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part III",
+      "section": "10",
+      "title": "Capacity to contract",
+      "content": "(1) A person has capacity to contract where that person is— (a) eighteen years or above; (b) of sound mind; and (c) not disqualified from contracting by any law to which he or she is subject. (2) Notwithstanding this section, a person of sixteen years or above has the capacity to contract as provided under Article 34(4) and (5) of the Constitution."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part III",
+      "section": "11",
+      "title": "Sound mind for purposes of contracting",
+      "content": "(1) For the purposes of entering into a contract , a person is said to be of sound mind, if at the time of entering into the contract , that person is capable of understanding the contract and of forming a rational judgment as to its effect upon his or her interests. (2) A person who is usually suffering from mental illness but occasionally of sound mind may enter into a contract during periods when he or she is of sound mind. (3) A person who is usually of sound mind but occasionally suffers from mental illness may not enter into a contract during periods when he or she is suffering from mental illness."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part III",
+      "section": "12",
+      "title": "Free consent of parties to contract",
+      "content": "Consent of parties to a contract is taken to be free where it is not caused by— (a) coercion ; (b) undue influence, as defined in section 13 ; (c) fraud, as defined in section 14 ; (d) misrepresentation ; or (e) mistake, subject to sections 16 and 17 ."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part III",
+      "section": "13",
+      "title": "Undue influence",
+      "content": "(1) A contract is induced by undue influence where the relationship subsisting between the parties to a contract is such that one of the parties is in a position to dominate the will of the other party and uses that position to obtain an unfair advantage over the other party. (2) For the purposes of subsection (1) , a party is taken to be in a position to dominate the will of another party, where— (a) the party holds a real or apparent authority over the other party; (b) the party stands in a fiduciary relationship to the other party; or (c) the mental capacity of the other party is temporarily or permanently affected by reason of age, illness, mental or bodily distress. (3) Where a party who is in a position to dominate the will of the other party, enters into a contract with that other party and the transaction appears, on the face of it or on the evidence adduced, to be unconscionable, the burden of proving that the contract was not induced by undue influence shall be upon the party in a position to dominate the will of the other party. (4) Nothing in subsection (3) shall affect section 111 of the Evidence Act. (5) In this section, a party is said to stand in a fiduciary relationship to another party if the party has duties involving good faith, trust, special confidence and candor towards that other party, such as a relationship between an attorney and a client, a guardian and a ward, a principal and an agent , an executor and an heir, a trustee and a beneficiary or a landlord and tenant."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part III",
+      "section": "14",
+      "title": "Fraud",
+      "content": "(1) Consent is induced by fraud where any of the following acts is committed by a party to a contract , or with the connivance of that party, or by the agents of that party, with intent of deceiving the other party to the contract or the agent of the other party, or to induce the other party to enter into the contract — (a) a suggestion to a fact which is not true, made by a person who does not believe it to be true; (b) the concealment of a fact by a person having knowledge or belief of the fact; (c) a promise made without any intention of performing it; (d) any act intended to deceive the other party or any other person; or (e) any act or omission declared fraudulent by any law. (2) For the purposes of this Act, mere silence as to facts likely to affect the willingness of a person to enter into a contract is not fraud, unless the circumstances of the case are such that, it is the duty of the person keeping silence to speak, or unless the silence is, in itself, equivalent to speech. Void and voidable agreements"
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part III",
+      "section": "15",
+      "title": "Voidability of agreements without consent",
+      "content": "(1) Where consent to an agreement is obtained by coercion , undue influence, fraud or misrepresentation , the agreement is a contract voidable at the option of the party whose consent was obtained by coercion , undue influence, fraud or misrepresentation . (2) Where consent is caused by misrepresentation or by silence which is deemed fraudulent within the meaning of section 14 , the contract is not voidable, if the party whose consent was obtained had the means of discovering the truth with ordinary diligence. (3) Fraud or misrepresentation which does not cause a party on whom the fraud or misrepresentation is effected, to consent to a contract , does not render a contract voidable. (4) A party to a contract , whose consent is obtained by fraud or misrepresentation , may, where that party thinks fit, insist that the contract is performed and that he or she is put in the position in which he or she would have been if the representations made, had been true. (5) A contract which is voidable on the ground that the consent of a party to the contract was caused by undue influence, may be set aside absolutely or where the party who was entitled to avoid it received any benefit under the contract , upon such terms and conditions as may seem just to court."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part III",
+      "section": "16",
+      "title": "Mistake of fact",
+      "content": "(1) Where both parties to an agreement are under a mistake as to a matter of fact which is essential to the agreement , consent is obtained by mistake of fact and the agreement is void. (2) A contract is void where one of the parties to it operates under a mistake as to a matter of fact essential to the contract . (3) An erroneous opinion as to the value of the things which form the subject matter of an agreement shall not be deemed a mistake as to a matter of fact."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part III",
+      "section": "17",
+      "title": "Mistake of law",
+      "content": "Where a contract is entered into by a mistake in respect of any law in force in Uganda, the contract is void."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part III",
+      "section": "18",
+      "title": "Lawful consideration or objects",
+      "content": "(1) A consideration or an object of an agreement is lawful, except where the consideration or object— (a) is forbidden by law; (b) is of such nature that, if permitted would defeat the provisions of any law; (c) is fraudulent; (d) involves or implies, injury to a person or the property of another person; or (e) is declared immoral or against public policy by a court. (2) An agreement whose object or consideration is unlawful is void and a suit shall not be brought for the recovery of any money paid or thing delivered or for compensation for anything done under the agreement , unless— (a) the court is satisfied that the plaintiff was ignorant of the illegality of the consideration or object of the agreement at the time the plaintiff paid the money or delivered the thing sought to be recovered or did the thing in respect of which compensation is sought; (b) the court is satisfied that the illegal consideration or object had not been effected at the time the plaintiff became aware of the illegality and repudiated the agreement ; (c) the court is satisfied that the consent of the plaintiff to the agreement was induced by fraud, misrepresentation , coercion or undue influence; or (d) the agreement is declared illegal by any written law, with the object of protecting a particular class of persons of which the plaintiff is one. (3) Where a part of a single consideration for one or more objects, or one of several considerations for a single object is unlawful, the agreement is void."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part III",
+      "section": "19",
+      "title": "Effect of lack of or failure of consideration",
+      "content": "(1) An agreement made without consideration is void except where the agreement — (a) is expressed in writing and registered under the Registration of Documents Act and is made on account of natural love and affection between parties standing in a near relation to each other; (b) is a promise to compensate, wholly or in part, a person who has already voluntarily done something for the promisor or something which the promisor was legally compellable to do; or (c) is a promise , made in writing and signed by the person responsible for it or by the agent of that person, to pay wholly or in part a debt for which a creditor may have enforced payment but is restricted by the Limitation Act. (2) Nothing in this section shall affect the validity of any gift given by a donor to a donee. (3) An agreement to which the consent of a promisor is freely given is not void merely because the consideration is inadequate. (4) Notwithstanding subsection (3) , the inadequacy of consideration may be taken into account by the court in determining whether the consent of a promisor was freely given."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part III",
+      "section": "20",
+      "title": "Agreement in restraint of profession, trade, etc.",
+      "content": "(1) An agreement which restrains a person from exercising a lawful profession, trade or business of any kind, is to that extent void, unless the restraint is reasonable in respect to the interests of the parties concerned and in respect to the interests of the public. (2) For the purposes of subsection (1) , an agreement in restraint of trade is not reasonable in respect to the interests of the parties, where the restraint exceeds what is reasonably necessary to protect a proprietary interest of a promisee . (3) The burden of proving that a restraint is reasonable in respect to the interests of the parties shall lie upon the promisee and the burden of proving that a restraint is unreasonable in respect to the interests of the public shall lie on the promisor ."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part III",
+      "section": "21",
+      "title": "Agreement in restraint of legal proceedings",
+      "content": "(1) An agreement which restricts a party absolutely from enforcing his or her rights under or in respect of a contract , by legal proceedings or which limits the time within which the party may enforce his or her rights, is void to that extent. (2) This section shall not— (a) render illegal— (i) a contract by which two or more persons agree that any dispute which may arise between them in respect of any subject shall be referred to arbitration and that only the amount awarded in the arbitration shall be recoverable in respect of the dispute referred to arbitration; or (ii) any contract in writing, by which two or more persons agree to refer to arbitration any question which has already arisen between them; and (b) affect any reference to arbitration under any law."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part III",
+      "section": "22",
+      "title": "Agreement void for uncertainty",
+      "content": "An agreement , the meaning of which is not certain or capable of being made certain, is void."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part III",
+      "section": "23",
+      "title": "Agreement by way of wager",
+      "content": "(1) An agreement made by way of an unlicensed wager is void. (2) For the purposes of this section, “wager” means a promise to pay money or other consideration on the occurrence of an uncertain event."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part III",
+      "section": "24",
+      "title": "Agreement to do impossible act",
+      "content": "(1) An agreement to do an act which is impossible to perform is void. (2) A contract becomes void, where the contract is to do an act which, after the contract is made, becomes impossible or unlawful or which by reason of an event which the promisor could not prevent, becomes impossible or unlawful. (3) Where a person promises to do an act which he or she knew or which with reasonable diligence, may have known to be impossible to perform and which the promisee did not know to be impossible or unlawful, the promisor shall compensate the promisee for any loss which the promisee may suffer as a result of the non-performance of the promise . (4) For the purposes of this section, an act shall be taken to be impossible of performance if in law or the course of nature, no person can do or perform it."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part III",
+      "section": "25",
+      "title": "Reciprocal promise to do legal and illegal acts",
+      "content": "Where a person makes a reciprocal promise , firstly to do a certain thing which is legal, and, secondly, under specified circumstances, to do a certain thing which is illegal, the promise to do the legal thing shall be a contract but the promise to do an illegal thing shall be a void agreement ."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part III",
+      "section": "26",
+      "title": "Alternative promise , one part being illegal",
+      "content": "Where an alternative promise , one part of which is legal and the other part illegal, is made, only the legal part may be enforced. Part IV – Contingent contracts"
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part IV",
+      "section": "27",
+      "title": "Contract contingent on event happening",
+      "content": "A contract to do something or not to do a particular thing where an uncertain future event on which the contract is contingent, happens, shall not be enforced except where and until that event happens, and where the event becomes impossible, the contract shall become void."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part IV",
+      "section": "28",
+      "title": "Contract contingent on event not happening",
+      "content": "A contract to do something or not to do a particular thing where an uncertain future event on which the contract is contingent does not happen, may be enforced after the happening of that event becomes impossible, but not before."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part IV",
+      "section": "29",
+      "title": "Contract contingent on conduct of person",
+      "content": "Where a future event on which a contract is contingent is the way in which a person is to act at an unspecified time, the event shall be considered to have become unattainable where that person does anything which renders it impossible for him or her to act within a definite time or under further contingencies."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part IV",
+      "section": "30",
+      "title": "Contract contingent on happening of specified event within specified time",
+      "content": "(1) A contract to do something or not to do a particular thing, which is contingent on the happening of a specified or uncertain event within a specified time, becomes void where— (a) at the expiration of the time fixed, the event has not happened; or (b) before the time fixed, the happening of the event becomes impossible. (2) A contract to do something or not to do a particular thing, which is contingent on the fact that a specified event or uncertain event does not happen within a fixed time, may be enforced— (a) when the time fixed for the happening of the event expires and the event has not happened; or (b) before the time fixed expires, where it becomes certain that the event will not happen."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part IV",
+      "section": "31",
+      "title": "Agreement contingent on impossible event",
+      "content": "An agreement to do something or not to do a particular thing, which is contingent on the happening of an impossible event, is void, whether the impossibility of the event is known to the parties to the agreement or not, at the time the agreement is made. Part V – Performance of contracts Contracts which have to be performed"
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part V",
+      "section": "32",
+      "title": "Obligation of parties",
+      "content": "(1) The parties to a contract shall perform or offer to perform, their respective promises, unless the performance is dispensed with or excused under this Act or any other law. (2) A promise binds a representative of a promisor , in case of the death of the promisor before performance, unless a contrary intention appears from the contract ."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part V",
+      "section": "33",
+      "title": "Refusal to accept offer of performance",
+      "content": "(1) Where a promisor makes an offer of performance to a promisee but the offer is not accepted, the promisor is not responsible for non­performance and does not lose his or her rights under the contract . (2) An offer shall fulfil the following conditions— (a) it shall be unconditional; (b) it shall be made at a time and place and under such circumstances that the person to whom it is made has a reasonable opportunity of ascertaining that the person by whom it is made is able and willing to do what he or she is bound to do by the promise ; and (c) where the offer is an offer to deliver anything to the promisee , the promisee shall have a reasonable opportunity to see that what is offered is what the promisor is bound by the promise to deliver. (3) An offer to one of several joint promisees has the same legal consequences as an offer to all of the joint promisees."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part V",
+      "section": "34",
+      "title": "Refusal of party to perform promise",
+      "content": "Where a party to a contract refuses or disables himself or herself from performing a promise in its entirety, the promisee may put an end to the contract unless he or she signifies by words or conduct, to its continuance."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part V",
+      "section": "35",
+      "title": "Person to perform promise",
+      "content": "Where it appears from the nature of a case that it was the intention of the parties to a contract that a promise contained in it is to be performed by the promisor — (a) the promise shall be performed by the promisor ; or (b) the promisor or the representative of the promisor may employ a competent person to perform the promise ."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part V",
+      "section": "36",
+      "title": "Effect of accepting performance from third person",
+      "content": "When a promisee accepts performance from a third person, the promisee shall not afterwards enforce performance against a promisor . Joint liability and rights"
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part V",
+      "section": "37",
+      "title": "Joint liability",
+      "content": "(1) Where two or more persons make a joint promise , unless a contrary intention appears in the contract , all the persons who make the joint promise , shall be bound to fulfil the promise . (2) Where a person who makes a joint promise dies, the representative pf that deceased person jointly with the surviving person, shall fulfil the bligations. (3) Where all the persons who make apromise die, their representatives shall fulfil their obligations jointly."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part V",
+      "section": "38",
+      "title": "Obligation and liability of joint promisors",
+      "content": "(1) Where two or more persons make a joint promise , the promisee may, in the absence of an express agreement to the contrary, compel one or more of the joint promisors to perform the whole promise . (2) Where a promisee who institutes a suit against one or several joint promisors obtains a decree against the promisor or promisors, nothing in this section shall be construed as permitting the promisee to institute any further suit arising out of the same cause of action, against any other joint promisor . (3) A joint promisor may compel the other joint promisor to contribute equally to the performance of the promise unless a contrary intention appears from the contract . (4) Where a joint promisor defaults in a contribution to the performance of a promise , the other joint promisors shall bear the loss arising from the default, in equal shares. (5) A joint promisor who bears the loss referred to in subsection (4) may recover from the defaulting joint promisor the amount contributed by him or her arising out of the default."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part V",
+      "section": "39",
+      "title": "Release of joint promisor",
+      "content": "Where two or more persons make a joint promise , a release of one of the joint promisors by the promisee shall not— (a) discharge the other joint promisor ; or (b) free the joint promisor who is released, from responsibility to the other joint promisor ."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part V",
+      "section": "40",
+      "title": "Joint rights",
+      "content": "(1) Where a person makes a promise to two or more persons jointly, then unless a contrary intention appears in the contract , the right to claim performance rests between that person and the other persons, jointly. (2) Where a person to whom a joint promise is made dies, the representative of that deceased person jointly with the surviving person to whom the promise is made, are entitled to the fulfilment of the joint promise . (3) Where persons who make a joint promise die, their representatives shall fulfil their obligations jointly. Time and place for performance"
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part V",
+      "section": "41",
+      "title": "Time and place for performance",
+      "content": "(1) Where a promisor is to perform a promise in a contract without a request by a promisee and time for performance is not specified in the contract , the engagement shall be performed within a reasonable time. (2) Where a promise is to be performed on a specific day and a promisor undertakes to perform the promise without a request by a promisee , the promisor may perform it at any time during the usual hours of business on that day, at the place at which the promise ought to be performed. (3) Where a promise is to be performed on a specific day and a promisor does not undertake to perform the promise without a request by a promisee , the promisee may apply for the performance of the promise at a proper place within the usual hours of business. (4) Where a promise is to be performed without a request by a promisee and a place for its performance is not fixed, a promisor may apply to the promisee to appoint a reasonable place for the performance of the promise . (5) Subject to the provisions of this section, the performance of a promise may be made in any manner and at any time which a promisee prescribes or sanctions. (6) Determination of what a proper time or a proper place is, shall, n each case, be a question of fact. Performance of reciprocal promises"
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part V",
+      "section": "42",
+      "title": "Reciprocal obligation to perform",
+      "content": "Where a contract consists of reciprocal promises to be performed simultaneously, a promisor need not perform his or her promise unless the promisee is ready and willing to perform his or her reciprocal promise ."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part V",
+      "section": "43",
+      "title": "Order of performance of reciprocal promises",
+      "content": "Where the order in which reciprocal promises are to be performed is expressly fixed by the contract , the promises shall be performed in that order, and where the order is not expressly fixed by the contract , the promises shall be performed in the order in which the nature of the transaction requires."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part V",
+      "section": "44",
+      "title": "Liability of party preventing event on which contract is to take effect",
+      "content": "(1) When a contract contains reciprocal promises and one party to the contract prevents the other party from performing his or her promise , the contract shall become voidable at the option of the party who is prevented from performing his or her promise . (2) A party who sustains a loss as a result of non-performance of a promise under subsection (1) is entitled to compensation from the other party for any loss which he or she sustains."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part V",
+      "section": "45",
+      "title": "Default in performance of reciprocal promises",
+      "content": "Where a contract consists of reciprocal promises and one of them cannot be performed, or where the performance of a promise cannot be claimed until the other promise is performed and the promisor of the other promise fails to perform it, the promisor shall not claim the performance of the reciprocal promise and shall pay compensation to the other party to the contract for any loss which the other party may sustain by the non-performance of the contract ."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part V",
+      "section": "46",
+      "title": "Failure to perform within fixed time",
+      "content": "(1) Where a party to a contract promises to do a certain thing at or before the specified time but fails to do the thing at or before the specified time, the contract or the part of the contract that has not been performed, becomes voidable at the option of the promisee , if the intention of the parties was that time was of the essence to the contract . (2) Where it was not the intention of the parties that time is of the essence to a contract , the contract does not become voidable by the failure to do the thing promised in the contract at or before the specified time; but the promisee is entitled to compensation from the promisor for any loss occasioned to the promisee , by the failure. (3) Where a contract is voidable on account of the failure by the promisor to perform his or her promise at the agreed time and the promisee accepts performance of the promise at a time other than the agreed time, the promisee shall not claim compensation for any loss occasioned by the nonperformance of the promise at the time agreed. (4) Subsection (3) does not apply if at the time of acceptance of performance at a time other than the agreed time, the promisee gives notice to the promisor of his or her intention to claim compensation. Appropriation of payments"
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part V",
+      "section": "47",
+      "title": "Application of payment where debt to be discharged is indicated",
+      "content": "Where a debtor, who owes several distinct debts to one person makes a payment to that person, with express indication or under circumstances that imply that the payment is to be applied to the discharge of a particular debt, the payment, if accepted, shall be applied accordingly."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part V",
+      "section": "48",
+      "title": "Application of payment where debt to be discharged is not indicated",
+      "content": "Where a debtor omits to indicate the debt to which a payment is to be applied and there are no circumstances to indicate the debt to which the payment is to be applied, the creditor may apply the payment, at his or her discretion, to any lawful debt actually due to him or her and payable by the debtor, whether its recovery is barred by the Limitation Act, or not."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part V",
+      "section": "49",
+      "title": "Application of payment where no party appropriates",
+      "content": "(1) Where none of the parties to a contract makes an appropriation, |ie payment shall be applied in discharge of the debts in order of time, Ivhether the recovery is barred by the Limitation Act, or not. (2) Where debts are of equal standing, payment shall be applied in discharge of each, proportionally. Contracts which need not be performed"
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part V",
+      "section": "50",
+      "title": "Effect of novation, rescission and alteration of contract",
+      "content": "Where the parties to a contract agree to substitute for the original contract a new contract or to rescind or alter the original contract , the original contract need not be performed."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part V",
+      "section": "51",
+      "title": "Promisee may dispense with or remit performance of promise",
+      "content": "A promisee may— (a) dispense with or remit, wholly or in part, to a promisor , the performance of a promise made by the promisor ; (b) extend the time for the performance of a contract ; or (c) accept instead of the promise , any satisfaction which he or she thinks fit."
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part V",
+      "section": "52",
+      "title": "Consequence of rescission of voidable contract",
+      "content": "(1) Where a person at whose option a contract is voidable, rescinds it, the other party to the contract need not perform any promise contained in the contract . (2) A party who rescinds a voidable contract shall, if that party received any benefit from the other party to the contract , restore the benefit to the person from whom it is received."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part V",
+      "section": "53",
+      "title": "Obligation of person who receives advantage under void agreement or contract that becomes void",
+      "content": "(1) Where an agreement is found to be void or when a contract becomes void, a person who received any advantage under that agreement or contract is bound to restore it or to pay compensation for it, to the person from whom he or she received the advantage. (2) Where a party to a contract incurs expenses for the purposes of performance of the contract , which becomes void after performance under section 24(2) , the court may if it considers it just to do so in all the circumstances— (a) allow the other party to retain the whole or any part of any advantage received by him or her; (b) discharge the other party, wholly or in part, from making compensation for the expenses incurred; or (c) make an order that the party recovers the whole or any part of any payments, discharge or other advantages not greater in value than the expenses incurred."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Part V",
+      "section": "54",
+      "title": "Communicating of rescission by one party to other of voidable contract",
+      "content": "The rescission of a voidable contract may be communicated in the manner that applies to the communication of a revocation of an offer and subject to this Act."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Part V",
+      "section": "55",
+      "title": "Neglect or refusal of promisee to afford reasonable facilities for performance",
+      "content": "Where a promisee neglects or refuses to afford a promisor reasonable facilities for the performance of his or her promise , the promisor shall be exempted by the neglect or refusal of the promisee to perform the promise . Part VI – Relations similar to those created by contract"
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Part VI",
+      "section": "56",
+      "title": "Claim for necessaries supplied to person incapable of contracting",
+      "content": "Where a person incapable of entering into a contract or anyone whom that person is legally bound to support, is supplied by another person with necessaries suited to the condition in life of that person or of anyone that that person is legally bound to support, the person who furnishes the supplies is entitled to reimbursement from the property of the person who is incapable of entering into a contract ."
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Part VI",
+      "section": "57",
+      "title": "Obligation of person enjoying benefit of non-gratuitous act",
+      "content": "(1) Where a person lawfully does anything for another person or delivers anything to another person, not intending to do so gratuitously and the other person enjoys the benefit, the person who enjoys the benefit shall compensate the person who provides the benefit in respect of or to restore, the thing done or delivered. (2) Compensation shall not be made where the person sought to be charged had no opportunity of accepting or rejecting the benefit."
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "Part VI",
+      "section": "58",
+      "title": "Responsibility of finder of goods",
+      "content": "A person who finds goods that belong to another and takes them into his or her custody shall be subject to the same responsibilities as a bailee , as provided in Part IX of this Act."
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "Part VI",
+      "section": "59",
+      "title": "Liability of person to whom money is paid or thing is delivered by mistake",
+      "content": "A person to whom money is paid by mistake or to whom anything is delivered by mistake shall repay or return the money or thing delivered. Part VII – consequences of breach of contract"
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "Part VII",
+      "section": "60",
+      "title": "Compensation for loss or damage caused by breach of contract",
+      "content": "(1) Where there is a breach of contract , the party who suffers the breach is entitled to receive from the party who breaches the contract , compensation for any loss or damage caused to him or her. (2) The compensation referred to in subsection (1) is not to be given for any remote and indirect loss or damage sustained by reason of the breach. (3) Where an obligation similar to that created by contract is incurred and is not discharged, any person injured by the failure to discharge it is entitled to receive the same compensation from the party in default, as if that person had contracted to discharge it and had breached the contract . (4) In estimating the loss or damage arising from a breach of contract , the means of remedying the inconvenience caused by non-performance of the contract , which exist, shall be taken into account."
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "Part VII",
+      "section": "61",
+      "title": "Compensation for breach of contract where penalty is stipulated",
+      "content": "(1) Where a contract is breached, and a sum is named in the contract as the amount to be paid in case of a breach or where a contract contains any stipulation by way of penalty, the party who complains of the breach is entitled, whether or not actual damage or loss is proved to have been caused by the breach, to receive from the party who breaches the contract , reasonable compensation not exceeding the amount named or the penalty stipulated, as the case may be. (2) The penalty stipulated under subsection (1) may provide for an interest on the amount of compensation to be paid. (3) Notwithstanding subsections (1) and (2) , a person shall be liable, upon breach of the condition of an instrument, to pay the whole sum mentioned in the instrument, where that person— (a) enters into any bail, bond, recognisance or other instrument of the same nature; or (b) gives a bond for the performance of a public duty or an act in which the public is interested, under any law or under the orders of the central government or of any local government."
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "Part VII",
+      "section": "62",
+      "title": "Party rightfully rescinding contract entitled to compensation",
+      "content": "A party who rightfully rescinds a contract is entitled to compensation for any damage which that person sustains through the non-fulfilment of the contract ."
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "Part VII",
+      "section": "63",
+      "title": "Right to specific performance",
+      "content": "(1) Where a party to a contract , is in breach, the other party may obtain an order of court requiring the party in breach to specifically perform his or her promise under the contract . (2) A party is not entitled to specific performance of a contract where— (a) it is not possible for the person against whom the claim is made, to perform the contract ; (b) the specific performance will produce hardships which would not have resulted if there was no specific performance; (c) the rights of a third party acquired in good faith would be infringed by the specific performance; (d) specific performance would occasion hardship to the person against whom the claim is made, out of proportion to the benefit likely to be gained by the claimant; (e) the person against whom the claim is made is at the time entitled, although in breach, to terminate the contract ; or (f) the claimant committed a fundamental breach of his or her obligations under the contract ; but in cases where the breach is not fundamental, specific performance is available to him or her subject to his or her paying compensation for the breach."
+    },
+    {
+      "provision_ref": "s64",
+      "chapter": "Part VII",
+      "section": "64",
+      "title": "Right of third party to enforce contractual term",
+      "content": "(1) Subject to this Act, a person who is not a party to a contract may in his or her own right enforce a term of the contract where— (a) the contract expressly provides that he or she may do so; or (b) subject to subsection (2) , a term of the contract confers a benefit on that person. (2) Subsection (1)(b) does not apply where on a proper construction of the contract , it appears that the parties did not intend the term to be enforceable by a third party. (3) A third party shall be expressly identified in a contract by name, as a member of a class or as answering a particular description; but need not be in existence at the time the contract is entered into. (4) This section does not confer a right on a third party to enforce a term of a contract except where the term is subject to and in accordance with any other relevant term of the contract . (5) For the purpose of exercising the right to enforce a term of a contract , a third party shall have available any remedy that would have been available to him or her in an action for breach of contract , had that third party been a party to the contract , and the rules relating to damages, injunctions, specific performance and other relief shall apply accordingly. (6) Where a term of a contract excludes or limits liability in relation to any matter, any reference in this Act, to the enforcement of a term of a contract shall be construed as a reference to the third party availing himself or herself of the exclusion or limitation."
+    },
+    {
+      "provision_ref": "s65",
+      "chapter": "Part VII",
+      "section": "65",
+      "title": "Discharge by frustration",
+      "content": "(1) Where a contract becomes impossible to perform or is frustrated and where a party cannot show that the other party assumed the risk of impossibility, the parties to the contract shall be discharged from the further performance of the contract . (2) Any sum paid or payable to a party under a contract before the time the parties are discharged under subsection (1) shall, in the case of the sum paid, be recoverable from the party as money received by that party for his or her use and in the case of any sum payable, cease to be payable. (3) Where a party to whom any sum was paid or was payable under subsection (2) , incurred expenses before the time of discharge in, or for the purpose of, the performance of a contract , the court may, where it considers it just to do so, having regard to all the circumstances of the case, allow the party to retain or, as the case may be, recover the whole or any part of the sums paid or payable, which shall not exceed the expenses incurred. (4) Where a party to a contract has by reason of anything done by any other party to the contract or for the purpose of the performance of the contract , obtained a valuable benefit, other than a payment of money to which subsection (3) applies, before the time of discharge, the other party shall recover from the party a sum, if any, not exceeding the value of the benefit to the party obtaining it, as the court may consider just, having regard to all the circumstances of the case and in particular— (a) the amount of any expenses incurred before the time or discharge by the party who benefited for the purpose of the performance of the contract , including any sums paid or payable by that party to any other party under the contract and retained or recoverable by that party under subsection (3) ; and (b) in relation to that benefit, the effect of the circumstances giving rise to the frustration of the contract . (5) For the purposes of subsection (4) , in estimating the amount of any expenses incurred by any party to the contract , the court may, without prejudice to the general effect of that subsection, include a sum that appears to be reasonable in respect of overhead expenses and in respect of any work or services performed personally by that party. (6) In considering whether any sum ought to be recovered or retained under this section by any party to a contract , the court shall not take into account any sums which, by reason of the circumstances giving rise to the frustration of the contract , become payable to that party under any contract of insurance unless there was an obligation to insure imposed by an express term of the frustrated contract or by or under any law. (7) Where any person assumed obligations under a contract in consideration for conferring a benefit by a party to the contract upon any person, whether that person is a party to the contract or not, the court may, if in all the circumstances it considers it just to do so, treat for the purposes of subsection (3) , any benefit conferred as a benefit obtained by the person who assumed those obligations."
+    },
+    {
+      "provision_ref": "s66",
+      "chapter": "Part VII",
+      "section": "66",
+      "title": "Variation of contracts",
+      "content": "Where any right, duty, or liability would rise under agreement or contract , it may be varied by the express agreement or by the course of dealing between the parties or by usage or custom if the usage or custom would bind both parties to the contract . Part VIII – Indemnity and guarantee"
+    },
+    {
+      "provision_ref": "s67",
+      "chapter": "Part VIII",
+      "section": "67",
+      "title": "Interpretation of Part",
+      "content": "In this Part, unless the context otherwise requires— “ creditor ” means a person to whom a guarantee is given; “ continuing guarantee ” means a guarantee which extends to a series of transactions; “ contract of guarantee ” means a contract to perform a promise or to discharge the liability of a third party in case of default of that third party, which may be oral or written; “ contract of indemnity ” means a contract by which one party promises to save the other party from loss caused to that other party by the conduct of the person making the promise or by the conduct of any other person; “ guarantor ” means a person who gives a guarantee; “ indemnity ” means an undertaking by which a person agrees to reimburse another upon the occurrence of an anticipated loss; “ principal debtor ” means a person in respect of whose default a guarantee is given."
+    },
+    {
+      "provision_ref": "s68",
+      "chapter": "Part VIII",
+      "section": "68",
+      "title": "Right of indemnity holder when sued",
+      "content": "A promisee in a contract of indemnity , acting within the scope of his or her authority is entitled to recover from a promisor — (a) any damages which the promisor may be compelled to pay in any suit in respect of any matter to which the promise to indemnify applies; (b) any costs which the promisor may be compelled to pay in any suit, if in bringing or defending the suit, the promisee did not contravene the orders of the promisor and acted as it would have been prudent to act in the absence of any contract of indemnity or if the promisor authorised him or her to bring or defend the suit; and (c) any sums which the promisor may have paid under the terms of any compromise of any suit, where the compromise is not contrary to the orders of the promisor and is one which it is prudent for the promisor to make in the absence of any contract of indemnity or where the promisor authorised the promisee to compromise the suit."
+    },
+    {
+      "provision_ref": "s69",
+      "chapter": "Part VIII",
+      "section": "69",
+      "title": "Consideration for guarantee",
+      "content": "Anything done or any promise made, for the benefit of a principal debtor , may be sufficient consideration to a guarantor to give a guarantee."
+    },
+    {
+      "provision_ref": "s70",
+      "chapter": "Part VIII",
+      "section": "70",
+      "title": "Liability of guarantor",
+      "content": "(1) The liability of a guarantor shall be to the extent to which a principal debtor is liable, unless otherwise provided by a contract . (2) For the purpose of this section, the liability of a guarantor takes effect upon default by the principal debtor ."
+    },
+    {
+      "provision_ref": "s71",
+      "chapter": "Part VIII",
+      "section": "71",
+      "title": "Revocation of continuing guarantee",
+      "content": "(1) A continuing guarantee may with regard to future transactions, be revoked by a guarantor at any time, by notice to a creditor . (2) In the absence of any contract to the contrary, the death of a guarantor operates as a revocation of any continuing guarantee to future transactions."
+    },
+    {
+      "provision_ref": "s72",
+      "chapter": "Part VIII",
+      "section": "72",
+      "title": "Liability of two persons who are primarily liable, not affected by arrangement where one is to be guarantor on default of other",
+      "content": "Where two persons contract with another person to undertake a certain liability and also contract with each other that each of them shall be liable on the default of the other to that other person, the liability of the two persons to that other person under the first contract shall not be affected by the existence of the second contract , even where that other person is not aware of the existence of the second contract ."
+    },
+    {
+      "provision_ref": "s73",
+      "chapter": "Part VIII",
+      "section": "73",
+      "title": "Discharge of guarantor by variance in terms of contract",
+      "content": "Any variance made in the terms of a contract between a principal debtor and a creditor without the consent of a guarantor discharges the guarantor from any transaction which is subsequent to the variance."
+    },
+    {
+      "provision_ref": "s74",
+      "chapter": "Part VIII",
+      "section": "74",
+      "title": "Discharge of guarantor by release or discharge of principal debtor",
+      "content": "A guarantor is discharged by any contract between a creditor and a principal debtor , where the principal debtor is released or where an act or omission of the creditor , discharges the principal debtor ."
+    },
+    {
+      "provision_ref": "s75",
+      "chapter": "Part VIII",
+      "section": "75",
+      "title": "Discharge of guarantor when creditor compromises with, gives time to or agrees not to sue, principal debtor",
+      "content": "A contract between a creditor and a principal debtor where the creditor makes a compromise with the principal debtor or promises to give time to or not to sue the principal debtor , discharges the guarantor unless the guarantor assents to the contract ."
+    },
+    {
+      "provision_ref": "s76",
+      "chapter": "Part VIII",
+      "section": "76",
+      "title": "Guarantor not discharged where agreement is made with third person to give time to principal debtor",
+      "content": "Where a contract to give time to a principal debtor is made by a creditor with a third person and not with the principal debtor , the guarantor is not discharged."
+    },
+    {
+      "provision_ref": "s77",
+      "chapter": "Part VIII",
+      "section": "77",
+      "title": "Forbearance of creditor to sue does not discharge guarantor",
+      "content": "Mere forbearance on the part of a creditor to sue a principal debtor or to enforce any other remedy against the principal debtor , does not, in the absence of any provision in the guarantee to the contrary, discharge the guarantor ."
+    },
+    {
+      "provision_ref": "s78",
+      "chapter": "Part VIII",
+      "section": "78",
+      "title": "Release of one co- guarantor does not discharge other",
+      "content": "Where there are co-guarantors, a release by a creditor of one of the guarantors does not discharge the other guarantor and does not free the guarantor who is released from his or her responsibility to the other guarantor ."
+    },
+    {
+      "provision_ref": "s79",
+      "chapter": "Part VIII",
+      "section": "79",
+      "title": "Discharge of guarantor by act or omission by creditor",
+      "content": "A guarantor is discharged where the eventual remedy of the guarantor against a principal debtor is impaired, because a creditor — (a) does any act which is inconsistent with the right of the guarantor ; or (b) omits to do any act which his or her duty to the guarantor requires him or her to do."
+    },
+    {
+      "provision_ref": "s80",
+      "chapter": "Part VIII",
+      "section": "80",
+      "title": "Rights of guarantor on payment or performance",
+      "content": "Where a guaranteed debt becomes due or where default of a principal debtor to perform a guaranteed duty takes place, the guarantor is on payment or performance of all that the guarantor is liable for, invested with all the rights which the creditor had against the principal debtor ."
+    },
+    {
+      "provision_ref": "s81",
+      "chapter": "Part VIII",
+      "section": "81",
+      "title": "Right of guarantor to benefit from securities of creditor",
+      "content": "(1) A guarantor is entitled to the benefit of every security which a creditor has against a principal debtor at the time a contract of guarantorship is entered into, whether the guarantor knows of the existence of the security or not. (2) Notwithstanding subsection (1) , where a creditor loses or parts with the security, without the consent of the guarantor , the guarantor is discharged to the extent of the value of the security."
+    },
+    {
+      "provision_ref": "s82",
+      "chapter": "Part VIII",
+      "section": "82",
+      "title": "Guarantee obtained by misrepresentation",
+      "content": "A guarantee which is obtained by a misrepresentation made by a creditor or with the knowledge and assent of a creditor , concerning a material part of the transaction, is void."
+    },
+    {
+      "provision_ref": "s83",
+      "chapter": "Part VIII",
+      "section": "83",
+      "title": "Guarantee on contract that creditor shall not act until co- guarantor joins",
+      "content": "Where a person gives a guarantee on a contract that a creditor shall not act upon the contract until another person joins as co- guarantor , the guarantee is not valid where that other person does not join."
+    },
+    {
+      "provision_ref": "s84",
+      "chapter": "Part VIII",
+      "section": "84",
+      "title": "Implied promise to indemnify guarantor",
+      "content": "(1) In every contract of guarantee , there is an implied promise by a principal debtor to indemnify a guarantor . (2) A guarantor is entitled to recover from a principal debtor any sum the guarantor rightfully paid under the guarantee on the contract ."
+    },
+    {
+      "provision_ref": "s85",
+      "chapter": "Part VIII",
+      "section": "85",
+      "title": "Co- guarantor liable to contribute equally",
+      "content": "In the absence of any contract to the contrary, co-guarantors for the same debt or duty, jointly or severally, under the same or different contracts and with or without the knowledge of the existence of each other, are liable, between themselves, to pay an equal share of the whole debt or of that part of the debt which remains unpaid by a principal debtor ."
+    },
+    {
+      "provision_ref": "s86",
+      "chapter": "Part VIII",
+      "section": "86",
+      "title": "Liability of co-guarantors bound in different sums",
+      "content": "Co-guarantors who are bound in different sums are liable to pay equally as far as the limits of their respective obligations permit. Part IX – Bailment"
+    },
+    {
+      "provision_ref": "s87",
+      "chapter": "Part IX",
+      "section": "87",
+      "title": "Interpretation of Part",
+      "content": "In this Part, unless the context otherwise requires— “ bailee ” means a person to whom goods are delivered; “ bailment ” means the delivery of goods by one person to another for some purpose, on a contract that the goods shall when the purpose is accomplished, be returned or disposed of according to the direction of the person who delivered them; “ bailor ” means a person who delivers the goods; “ pledge ” means the bailment of goods as security for payment of a debt or performance of a promise ; “ pledgee ” means a person with whom a pledge is deposited; “ pledgor ” means a person who gives a pledge to another."
+    },
+    {
+      "provision_ref": "s88",
+      "chapter": "Part IX",
+      "section": "88",
+      "title": "Bailment by person in possession of goods",
+      "content": "Where a person in possession of goods under another contract holds the goods as bailee , that person becomes a bailee under the existing contract and the owner becomes the bailor of goods although the goods may not have been delivered by way of bailment ."
+    },
+    {
+      "provision_ref": "s89",
+      "chapter": "Part IX",
+      "section": "89",
+      "title": "Delivery to bailee",
+      "content": "The delivery of goods to a bailee may be made by doing anything which has the effect of putting the goods in the possession of the intended bailee or of any person authorised to hold the goods on behalf of the bailee ."
+    },
+    {
+      "provision_ref": "s90",
+      "chapter": "Part IX",
+      "section": "90",
+      "title": "Duty to disclose fault in bailed goods",
+      "content": "(1) A bailor shall disclose to a bailee , any fault in bailed goods, of which the bailor is aware and which materially interferes with the use of the goods or exposes the bailee to extraordinary risk. (2) Where a bailor does not make the disclosure required under subsection (1) , the bailor is responsible for any damage that may arise to the bailee , directly from the fault. (3) Where the goods are bailed for hire, a bailor is responsible for the damage, whether or not the bailor was aware of the existence of the fault in the bailed goods. (4) Whenever practicable, the bailee shall, to protect his or her interests, inspect the goods upon delivery to him or her."
+    },
+    {
+      "provision_ref": "s91",
+      "chapter": "Part IX",
+      "section": "91",
+      "title": "Duty of care by bailee",
+      "content": "A bailee shall take as much care of the goods bailed to him or her as a person of ordinary prudence would under similar circumstances take of his or her own goods of the same bulk, quantity and value, as the bailed goods."
+    },
+    {
+      "provision_ref": "s92",
+      "chapter": "Part IX",
+      "section": "92",
+      "title": "Liability of bailee for loss",
+      "content": "In the absence of any special contract , a bailee is not responsible for the loss, destruction or deterioration of the bailed goods, where the bailee takes the amount of care required under section 91 ."
+    },
+    {
+      "provision_ref": "s93",
+      "chapter": "Part IX",
+      "section": "93",
+      "title": "Termination of bailment due to act of bailee",
+      "content": "A contract of bailment is voidable at the option of the bailor , where the bailee does any act with regard to the bailed goods, which is inconsistent with the conditions of the bailment ."
+    },
+    {
+      "provision_ref": "s94",
+      "chapter": "Part IX",
+      "section": "94",
+      "title": "Unauthorised use of bailed goods",
+      "content": "Where a bailee makes use of the bailed goods contrary to the conditions of the bailment , the bailee is liable to compensate the bailor for any damage to the goods arising from or during that use."
+    },
+    {
+      "provision_ref": "s95",
+      "chapter": "Part IX",
+      "section": "95",
+      "title": "Mixture of goods of bailee and bailor",
+      "content": "(1) Where a bailee with the consent of a bailor , mixes the goods of the bailor with his or her own goods, the bailor and the bailee shall have an interest, in proportion to their respective shares, in the goods produced. (2) Where a bailee without the consent of a bailor , mixes the goods of the bailor with his or her own goods and the goods in the mixture can be separated or divided, the property in the respective goods remains in the parties individually. (3) A bailee who mixes the goods of a bailor with his or her own goods without the consent of the bailor under subsection (2) , shall bear the expenses of the separation or division and any damage which arises from the mixture. (4) Where a bailee without the consent of a bailor mixes the goods of the bailor with his or her own goods in such a manner that it is not possible to separate the bailed goods from the other goods and to deliver them back, the bailor is entitled to compensation by the bailee for the loss of the goods."
+    },
+    {
+      "provision_ref": "s96",
+      "chapter": "Part IX",
+      "section": "96",
+      "title": "Repayment by bailor of necessary expenses",
+      "content": "Where under the conditions of a bailment , the goods are to be kept or carried or where work is to be done upon the goods by a bailee for a bailor and the bailee is to receive no remuneration, the bailor shall repay to the bailee the necessary expenses incurred by him or her for the purpose of the bailment ."
+    },
+    {
+      "provision_ref": "s97",
+      "chapter": "Part IX",
+      "section": "97",
+      "title": "Return of bailed goods",
+      "content": "A bailee shall return or deliver without demand from a bailor , according to the directions of the bailor , the bailed goods, as soon as the time or the purpose for which the goods were bailed expires."
+    },
+    {
+      "provision_ref": "s98",
+      "chapter": "Part IX",
+      "section": "98",
+      "title": "Failure to return goods",
+      "content": "Where by the fault of a bailee , the goods are not returned, delivered or tendered at the proper time, the bailee is responsible to the bailor for any loss, destruction or deterioration of the goods, from that time."
+    },
+    {
+      "provision_ref": "s99",
+      "chapter": "Part IX",
+      "section": "99",
+      "title": "Termination of gratuitous bailment",
+      "content": "A gratuitous bailment terminates in any of the following circumstances— (a) where the goods bailed are returned; (b) where the time of bailment expires; (c) by agreement of the parties; (d) where the subject matter of the bailment is destroyed; or (e) upon the death of the bailor or bailee ."
+    },
+    {
+      "provision_ref": "s100",
+      "chapter": "Part IX",
+      "section": "100",
+      "title": "Bailor entitled to increase or profit from bailed goods",
+      "content": "In the absence of any contract to the contrary, a bailee shall deliver to a bailor or according to the directions of a bailor , any increase or profit which may have accrued from the bailed goods."
+    },
+    {
+      "provision_ref": "s101",
+      "chapter": "Part IX",
+      "section": "101",
+      "title": "Responsibility of bailor to bailee",
+      "content": "A bailor is responsible to a bailee for any loss which the bailee may sustain, where the bailor was not entitled to make the bailment or to receive back the goods or to give directions, in respect of the goods."
+    },
+    {
+      "provision_ref": "s102",
+      "chapter": "Part IX",
+      "section": "102",
+      "title": "Bailment by several joint owners",
+      "content": "In the absence of an agreement to the contrary, where several joint owners of goods bail the goods, a bailee may deliver the goods back to one joint owner or according to the directions of that joint owner, without the consent of the other owners."
+    },
+    {
+      "provision_ref": "s103",
+      "chapter": "Part IX",
+      "section": "103",
+      "title": "Bailee not responsible on re-delivery to bailor without title",
+      "content": "Where a bailor has no title to the goods and a bailee , in good faith, delivers the goods back to the bailor or according to the directions of the bailor , the bailee is not responsible to the owner, for the delivery."
+    },
+    {
+      "provision_ref": "s104",
+      "chapter": "Part IX",
+      "section": "104",
+      "title": "Right of third person claiming bailed goods",
+      "content": "Where a person, other than a bailor , claims bailed goods, that person may apply to the court to stop delivery of the goods to the bailor and to decide the title to the goods."
+    },
+    {
+      "provision_ref": "s105",
+      "chapter": "Part IX",
+      "section": "105",
+      "title": "Right of finder of goods",
+      "content": "(1) A finder of goods has no right to sue the owner for compensation for trouble and expense, voluntarily incurred by him or her to preserve the goods and find the owner. (2) Where an owner of goods offers a specific reward for the return of goods lost, the finder may retain the goods until he or she receives the compensation. (3) Where the owner of goods offers a specific reward for the return of goods lost, the finder may sue for the reward and may retain the goods until he or she receives the reward."
+    },
+    {
+      "provision_ref": "s106",
+      "chapter": "Part IX",
+      "section": "106",
+      "title": "Right of finder to sell",
+      "content": "Where goods which are commonly the subject of sale are found but the owner cannot with reasonable diligence be found or where the owner refuses upon demand, to pay the lawful charges of the finder of the goods, the finder may sell the goods, where— (a) the goods are in danger of perishing or of losing the greater part of their value; or (b) the lawful charges of the finder, in respect of the goods, amount to two-thirds of the value of the goods."
+    },
+    {
+      "provision_ref": "s107",
+      "chapter": "Part IX",
+      "section": "107",
+      "title": "Lien of bailee",
+      "content": "Where a bailee , in accordance with the purpose of the bailment , renders any service involving the exercise of labour or skill in respect of the bailed goods, the bailee may, in the absence of a contract to the contrary, retain the goods until he or she receives the remuneration due, for the services rendered in respect of the goods."
+    },
+    {
+      "provision_ref": "s108",
+      "chapter": "Part IX",
+      "section": "108",
+      "title": "General lien of bankers, brokers, warehouse keepers, advocates and insurance brokers",
+      "content": "(1) A banker, a broker, a warehouse keeper, an advocate, an insurance broker or any other person authorised by law may, in the absence of a contract to the contrary, retain as a security for a general balance of account, any goods bailed to him or her. (2) A person other than a person mentioned in subsection (1) may not retain, as a security for balance due, goods bailed to that person unless fhere is an express contract to that effect."
+    },
+    {
+      "provision_ref": "s109",
+      "chapter": "Part IX",
+      "section": "109",
+      "title": "Rights of pledgee",
+      "content": "A pledgee may retain any goods that are pledged for the payment of— (a) a debt or the performance of a promise ; (b) the interest on the debt; and (c) any necessary expenses incurred by the pledgee for the possession or preservation of the pledged goods."
+    },
+    {
+      "provision_ref": "s110",
+      "chapter": "Part IX",
+      "section": "110",
+      "title": "Pledgee not to retain goods for debt or promise",
+      "content": "(1) In the absence of a contract to that effect, a pledgee shall not retain any pledged goods except for the purpose for which they are pledged. (2) In the absence of anything to the contrary, a contract referred to in subsection (1) shall be presumed in regard to subsequent advances made by the pledgee ."
+    },
+    {
+      "provision_ref": "s111",
+      "chapter": "Part IX",
+      "section": "111",
+      "title": "Right of pledgee to extraordinary expenses incurred",
+      "content": "A pledgee is not entitled to receive from a pledgor extraordinary expenses incurred by the pledgee for the preservation of any pledged goods."
+    },
+    {
+      "provision_ref": "s112",
+      "chapter": "Part IX",
+      "section": "112",
+      "title": "Right of pledgee where pledgor defaults",
+      "content": "(1) Where a pledgor defaults in payment of a debt or the performance of a promise within the time stipulated, in respect of the pledged goods, a pledgee may— (a) bring a suit against the pledgor upon the debt or promise and retain the pledged goods as a collateral security; or (b) sell the pledged goods, on giving the pledgor reasonable notice of the sale. (2) Where the proceeds of the sale undertaken in accordance with subsection (1)(b) , are less than the amount due in respect of the debt or promise , the pledgor is not liable to pay the balance and where the proceeds of the sale are greater than the amount due, the pledgee shall pay the surplus to the pledgor ."
+    },
+    {
+      "provision_ref": "s113",
+      "chapter": "Part IX",
+      "section": "113",
+      "title": "Right of pledgor to redeem on default",
+      "content": "(1) Where time is stipulated for the payment of a debt or the performance of a promise , for which a pledge is made and a pledgor defaults in the payment or the performance at the stipulated time, the pledgor may redeem the pledged goods at any subsequent time, before the actual sale of the goods. (2) The pledgor shall, where the goods are redeemed under subsection (1) , pay any expenses which may arise from his or her default in payment or performance at the stipulated time."
+    },
+    {
+      "provision_ref": "s114",
+      "chapter": "Part IX",
+      "section": "114",
+      "title": "Pledge by mercantile agent",
+      "content": "(1) Where a mercantile agent is with the consent of an owner, in possession of goods or the documents of title to goods , any pledge made by the mercantile agent while acting in the ordinary course of business of a mercantile agent , shall be as valid as if the mercantile agent was expressly authorised by the owner of the goods to make the pledge . (2) Where a pledge is made under subsection (1) , a pledgee shall be taken to act in good faith and to have no notice at the time of the pledge , that the mercantile agent had no authority to pledge . (3) Where a mercantile agent validly pledges the documents of title to goods , the pledge shall be deemed to be a pledge of the goods. (4) Where a pledgor obtains possession of the other goods pledged by him or her under a contract which is voidable under section 15(1) , but the contract is not rescinded at the time of the pledge , the pledgee acquires a good title to the goods, where the pledgee acts in good faith and without notice of the defect in the title of the pledgor ."
+    },
+    {
+      "provision_ref": "s115",
+      "chapter": "Part IX",
+      "section": "115",
+      "title": "Pledge where pledgor has limited interest",
+      "content": "Adhere a person pledges goods in which he or she has a limited interest, the jledge is valid to the extent of that interest."
+    },
+    {
+      "provision_ref": "s116",
+      "chapter": "Part IX",
+      "section": "116",
+      "title": "Suit by bailor or bailee against wrongdoer",
+      "content": "(1) Where a third person wrongfully deprives a bailee of the use of bailed goods or the possession of those goods or damages the goods, the bailee is entitled to use any remedies that the owner may have used if bailment had not been made. (2) A bailor or a bailee may bring a suit under subsection (1) against a third person, for deprivation or damage. (3) Anything obtained by way of relief or compensation in any suit brought under subsection (2) shall, as between the bailor and the bailee , be dealt with according to their respective interests. Part X – agency"
+    },
+    {
+      "provision_ref": "s117",
+      "chapter": "Part X",
+      "section": "117",
+      "title": "Interpretation of Part",
+      "content": "In this Part, unless the context otherwise requires— “ agent ” means a person employed by a principal to do any act for that principal or to represent the principal in dealing with a third person; “ principal ” means a person who employs an agent to do any act for him or her or to represent him or her in dealing with a third person; “ sub-agent ” means a person employed by and acting under the control of an agent in the business of the agency."
+    },
+    {
+      "provision_ref": "s118",
+      "chapter": "Part X",
+      "section": "118",
+      "title": "Capacity to employ agent",
+      "content": "A person may employ an agent , where that person— (a) is eighteen years or above; (b) is of sound mind; and (c) is not disqualified from appointing an agent by any law to which that person is subject."
+    },
+    {
+      "provision_ref": "s119",
+      "chapter": "Part X",
+      "section": "119",
+      "title": "Capacity to act as agent",
+      "content": "A person may act as an agent where that person— (a) is eighteen years or above; (b) is of sound mind; and (c) is not disqualified from acting as an agent by any law to which he or she is subject."
+    },
+    {
+      "provision_ref": "s120",
+      "chapter": "Part X",
+      "section": "120",
+      "title": "Consideration not necessary",
+      "content": "Consideration is not necessary to create an agency."
+    },
+    {
+      "provision_ref": "s121",
+      "chapter": "Part X",
+      "section": "121",
+      "title": "Authority of agent may be express or implied",
+      "content": "(1) The authority of an agent may be express or implied. (2) Authority is express where it is given by spoken or written words and implied where it is to be inferred from the circumstances of a case. (3) Any words, spoken or written, in the ordinary course of a dealing, may be taken into account, depending on the circumstances of the case."
+    },
+    {
+      "provision_ref": "s122",
+      "chapter": "Part X",
+      "section": "122",
+      "title": "Extent of authority of agent",
+      "content": "(1) An agent with authority to do an act, has authority to do anything which is necessary to do the act, which is lawful. (2) An agent with authority to carry on a business has authority to do anything which is necessary for the purpose of carrying on the business or which is usually done in the course of conducting the business."
+    },
+    {
+      "provision_ref": "s123",
+      "chapter": "Part X",
+      "section": "123",
+      "title": "Authority of agent in emergency",
+      "content": "In an emergency, an agent has authority to do any act for the purpose of protecting a principal from loss, as would be done by a person of ordinary prudence, under similar circumstances."
+    },
+    {
+      "provision_ref": "s124",
+      "chapter": "Part X",
+      "section": "124",
+      "title": "Power to delegate",
+      "content": "(1) An agent shall not employ another to perform an act which the agent expressly or impliedly undertook to perform personally. (2) Notwithstanding subsection (1) , where the ordinary custom of a trade allows it, a sub-agent may be employed to perform an act which the agent expressly or impliedly has undertaken to perform personally. (3) Notwithstanding subsection (1) , where the nature of an agency allows it, a sub-agent may be employed to perform an act which the agent expressly or impliedly has undertaken to perform personally."
+    },
+    {
+      "provision_ref": "s125",
+      "chapter": "Part X",
+      "section": "125",
+      "title": "Representation of principal by sub-agent",
+      "content": "(1) Where a sub-agent is properly appointed by the agent , the principal shall be represented by the sub-agent and shall be bound by and responsible for the acts of the sub-agent , as if the sub-agent was the agent originally appointed by the principal . (2) An agent is responsible to a principal for the acts of a sub-agent . (3) A sub-agent is responsible for his or her acts to an agent , but not to a principal , except in cases of fraud or wilful wrongdoing. (4) For the avoidance of doubt, an agent cannot delegate his or her authority to act."
+    },
+    {
+      "provision_ref": "s126",
+      "chapter": "Part X",
+      "section": "126",
+      "title": "Sub- agent appointed without authority",
+      "content": "Where an agent without authority to do so, appoints a person to act as a sub-agent and stands towards that person in a relation of a principal to an agent and is responsible for the actions of that person to both the principal and a third person, the principal is not represented by or responsible for the acts of the person employed as sub-agent and that person is not responsible to the principal ."
+    },
+    {
+      "provision_ref": "s127",
+      "chapter": "Part X",
+      "section": "127",
+      "title": "Relation between principal and person appointed by agent",
+      "content": "Where an agent , holding an express or implied authority to name another person to act for the principal in the business of the agency, names a person to act for the principal , that person is not a sub-agent of the principal but an agent , for the part of the business of the agency that is entrusted to him or her."
+    },
+    {
+      "provision_ref": "s128",
+      "chapter": "Part X",
+      "section": "128",
+      "title": "Duty of agent in naming another agent",
+      "content": "In selecting another agent for a principal , an agent shall exercise the same amount of discretion as a person of ordinary prudence would exercise in a similar case; and where the agent does so, he or she is not responsible to the principal for the acts or negligence of the agent who is selected."
+    },
+    {
+      "provision_ref": "s129",
+      "chapter": "Part X",
+      "section": "129",
+      "title": "Ratification of acts done by person who is not agent",
+      "content": "(1) Where an act is done by one person on behalf of another but without the knowledge or authority of that other person, the person on whose behalf the act is done may ratify or disown the act. (2) Where a person on whose behalf an act is done, ratifies the act, the same effects shall follow, as if the act was performed under his or her authority."
+    },
+    {
+      "provision_ref": "s130",
+      "chapter": "Part X",
+      "section": "130",
+      "title": "Ratification may be express or implied",
+      "content": "Ratification may be express or implied by the conduct of the person on whose behalf an act is done."
+    },
+    {
+      "provision_ref": "s131",
+      "chapter": "Part X",
+      "section": "131",
+      "title": "Knowledge requisite for valid ratification",
+      "content": "A valid ratification of an act may only be made by a person whose knowledge of the facts of the case is not defective."
+    },
+    {
+      "provision_ref": "s132",
+      "chapter": "Part X",
+      "section": "132",
+      "title": "Effect of ratifying unauthorised act",
+      "content": "Where a person ratifies an unauthorised act done on behalf of that person, the whole of the transaction of which the act forms a part is accordingly ratified."
+    },
+    {
+      "provision_ref": "s133",
+      "chapter": "Part X",
+      "section": "133",
+      "title": "Ratification of unauthorised act does not injure third person",
+      "content": "An act done by one person on behalf of another without the authority of that other person, which if done with authority would have the effect of subjecting a third person to damages or of terminating any right to interest of a third person, shall not by ratification, be made to have such effect."
+    },
+    {
+      "provision_ref": "s134",
+      "chapter": "Part X",
+      "section": "134",
+      "title": "Termination of agency",
+      "content": "An agency is terminated where— (a) a principal revokes his or her authority; (b) an agent renounces the business of the agency; (c) the business of the agency is completed; (d) a principal or an agent dies; (e) a principal or an agent suffers from mental illness; (f) a principal is adjudicated an insolvent under the law; (g) the principal and agent agree to terminate; or (h) the purpose of the agency is frustrated."
+    },
+    {
+      "provision_ref": "s135",
+      "chapter": "Part X",
+      "section": "135",
+      "title": "Termination of agency where agent has interest in subject matter",
+      "content": "Where the agent has an interest in the property which forms the subject matter of an agency, the agency shall not, in the absence of an express contract , be terminated to the prejudice of that interest."
+    },
+    {
+      "provision_ref": "s136",
+      "chapter": "Part X",
+      "section": "136",
+      "title": "Revocation of authority of agent by principal",
+      "content": "Subject to section 135 , a principal may revoke the authority given to an agent at any time before the authority is exercised to bind the principal ."
+    },
+    {
+      "provision_ref": "s137",
+      "chapter": "Part X",
+      "section": "137",
+      "title": "Revocation where authority is partly exercised",
+      "content": "A principal shall not revoke the authority given to an agent after the authority is partly exercised, with respect to acts and obligations that arise from acts already done under the agency."
+    },
+    {
+      "provision_ref": "s138",
+      "chapter": "Part X",
+      "section": "138",
+      "title": "Compensation for revocation by principal or renunciation by agent",
+      "content": "Where an agency is revoked or renounced, without reasonable cause, contrary to an express or implied contract that the agency is to continue for a given period of time, the principal or the agent , as the case may be, shall compensate the other party, for the revocation or renunciation of the agency."
+    },
+    {
+      "provision_ref": "s139",
+      "chapter": "Part X",
+      "section": "139",
+      "title": "Notice of revocation or renunciation",
+      "content": "A party who revokes or renounces an agency shall give reasonable notice to the other party to the agency and make good any damage suffered."
+    },
+    {
+      "provision_ref": "s140",
+      "chapter": "Part X",
+      "section": "140",
+      "title": "Revocation and renunciation may be express or implied",
+      "content": "Revocation or renunciation may be express or implied by the conduct of a principal or an agent , respectively."
+    },
+    {
+      "provision_ref": "s141",
+      "chapter": "Part X",
+      "section": "141",
+      "title": "Termination of authority of agent",
+      "content": "The termination of the authority of an agent does not take effect before it becomes known to the agent or with regard to a third party, before it becomes known to the third party."
+    },
+    {
+      "provision_ref": "s142",
+      "chapter": "Part X",
+      "section": "142",
+      "title": "Termination of agency by death or mental illness of principal",
+      "content": "An agent shall take all reasonable steps to protect and preserve the interests entrusted to him or her, where— (a) an agency is terminated by the death of a principal ; or (b) the principal suffers from mental illness."
+    },
+    {
+      "provision_ref": "s143",
+      "chapter": "Part X",
+      "section": "143",
+      "title": "Termination of authority of sub-agent",
+      "content": "Subject to section 146 , the termination of the authority of an agent causes the termination of the authority of a sub-agent appointed by the agent ."
+    },
+    {
+      "provision_ref": "s144",
+      "chapter": "Part X",
+      "section": "144",
+      "title": "Duty of agent in conducting business of principal",
+      "content": "(1) An agent shall conduct the business of a principal according to the directions given by the principal or, in the absence of any directions, according to the usage and customs which prevail, in doing business of the same kind, at the place where the agent conducts the business. (2) Where an agent acts contrary to subsection (1) and any loss is suffered, the agent shall make good the loss to the principal and where any profit accrues, the agent shall account for it."
+    },
+    {
+      "provision_ref": "s145",
+      "chapter": "Part X",
+      "section": "145",
+      "title": "Skill and diligence required from agent",
+      "content": "(1) An agent shall act with reasonable diligence and conduct the business of the agency with as much skill as is generally possessed by a person engaged in similar business, unless the principal has notice of the ’ack of skill by the agent . (2) An agent shall compensate a principal in respect of the direct consequences of his or her own neglect, lack of skill or misconduct but not in respect of loss or damage which are indirectly or remotely caused by the neglect, lack of skill or misconduct of the agent ."
+    },
+    {
+      "provision_ref": "s146",
+      "chapter": "Part X",
+      "section": "146",
+      "title": "Accounts of agent",
+      "content": "An agent shall render proper accounts to a principal on demand."
+    },
+    {
+      "provision_ref": "s147",
+      "chapter": "Part X",
+      "section": "147",
+      "title": "Duty of agent to communicate with principal",
+      "content": "An agent shall, in case of difficulty, use all reasonable diligence to communicate with a principal and to seek to obtain the instructions of the principal ."
+    },
+    {
+      "provision_ref": "s148",
+      "chapter": "Part X",
+      "section": "148",
+      "title": "Right of principal to repudiate when agent deals without consent of principal",
+      "content": "Where an agent deals on his or her own account in the business of the agency, without obtaining the consent of a principal and without acquainting the principal with all material circumstances which come to the knowledge of the agent on the subject, the principal may repudiate the transaction where the case shows that any material fact was dishonestly concealed from the principal by the agent or that the dealings of the agent is unfavourable to the principal ."
+    },
+    {
+      "provision_ref": "s149",
+      "chapter": "Part X",
+      "section": "149",
+      "title": "Right of principal to benefit gained by agent dealing on own account in business of agency",
+      "content": "Where an agent deals in the business of the agency without the knowledge and consent of a principal , the principal may claim from the agent any benefit which may have accrued to the agent from the transaction."
+    },
+    {
+      "provision_ref": "s150",
+      "chapter": "Part X",
+      "section": "150",
+      "title": "Right of agent to retain sums received on account of principal",
+      "content": "(1) An agent may retain, out of any sums received on account of the principal in the business of the agency, all sums due to the agent in respect of advances made or expenses incurred by the agent in conducting the business and any remuneration as may be payable to the agent for acting as an agent . (2) An agent may retain sums received by him or her on account of goods sold, although the whole of the goods consigned to him or her for sale may not have been sold or the sale may not be complete."
+    },
+    {
+      "provision_ref": "s151",
+      "chapter": "Part X",
+      "section": "151",
+      "title": "Duty of agent to pay sums received for principal",
+      "content": "An agent shall pay to a principal , all sums received on the account of the principal , subject to deductions referred to under section 150(1) ."
+    },
+    {
+      "provision_ref": "s152",
+      "chapter": "Part X",
+      "section": "152",
+      "title": "Remuneration of agent",
+      "content": "In the absence of any special contract , payment for the performance of any act is not to be made to an agent until the completion of that act."
+    },
+    {
+      "provision_ref": "s153",
+      "chapter": "Part X",
+      "section": "153",
+      "title": "Agent not entitled to remuneration for misconduct",
+      "content": "An agent who is guilty of misconduct in the business of the agency is not entitled to any remuneration in respect of that part of the business."
+    },
+    {
+      "provision_ref": "s154",
+      "chapter": "Part X",
+      "section": "154",
+      "title": "Lien of agent on property of principal",
+      "content": "In the absence of any contract to the contrary, an agent is entitled to retain the goods of a principal , whether movable or immovable, received by the agent , until the amount due to the agent for commission, disbursements and services in respect of the goods is paid or accounted for by the principal ."
+    },
+    {
+      "provision_ref": "s155",
+      "chapter": "Part X",
+      "section": "155",
+      "title": "Indemnity of agent",
+      "content": "(1) A principal shall indemnify an agent against the consequences of all lawful acts done by the agent in exercise of the authority conferred upon that agent . (2) Where a principal employs an agent to do an act and the agent does the act in good faith, the principal is liable to indemnify the agent against loss, liability and the consequences of that act, although it may affect the rights of a third person."
+    },
+    {
+      "provision_ref": "s156",
+      "chapter": "Part X",
+      "section": "156",
+      "title": "Non-liability of principal to agent in criminal act",
+      "content": "Where a principal employs an agent to do an act which is criminal, the principal is not liable, either upon an express or implied promise , to indemnify the agent against the consequences of that act."
+    },
+    {
+      "provision_ref": "s157",
+      "chapter": "Part X",
+      "section": "157",
+      "title": "Compensation to agent for injury caused by principal",
+      "content": "A principal shall compensate an agent for any injury that may be caused to the agent by the neglect or lack of skill of the principal ."
+    },
+    {
+      "provision_ref": "s158",
+      "chapter": "Part X",
+      "section": "158",
+      "title": "Enforcement and consequences of contract of agent",
+      "content": "A contract entered into through an agent and obligations arising from acts done by the agent under the contract shall be enforced in the same manner and have the same legal consequences as if the contract was entered into or done by a principal ."
+    },
+    {
+      "provision_ref": "s159",
+      "chapter": "Part X",
+      "section": "159",
+      "title": "Liability of principal where agent exceeds authority",
+      "content": "(1) Where an agent does more than he or she is authorised to do and a part of what the agent does is within his or her authority, can be separated from the part which is beyond his or her authority, only what the agent does within his or her authority shall be binding between the agent and the principal . (2) Where an agent does more than he or she is authorised to do and what the agent does beyond the scope of his or her authority cannot be separated from what is within the scope of the authority of the agent , the principal is not bound by the transaction."
+    },
+    {
+      "provision_ref": "s160",
+      "chapter": "Part X",
+      "section": "160",
+      "title": "Consequences of notice to agent",
+      "content": "Any notice given to or information obtained by an agent in the course of the business transacted by the agent for the principal , shall, as between the principal and a third party, have the same legal consequences as if it had been given or obtained by the principal ."
+    },
+    {
+      "provision_ref": "s161",
+      "chapter": "Part X",
+      "section": "161",
+      "title": "Agent not to enforce or be bound by contracts on behalf of principal",
+      "content": "In the absence of any contract to the contrary, an agent shall not enforce a contract entered into by him or her on behalf of a principal and shall not be bound by the contract , except where— (a) the contract is made by the agent for the sale or purchase of goods for a merchant resident abroad; (b) the agent does not disclose the name of the principal ; or (c) although the name of the principal is disclosed, the principal cannot be sued."
+    },
+    {
+      "provision_ref": "s162",
+      "chapter": "Part X",
+      "section": "162",
+      "title": "Right of parties to contract made by agent not disclosed",
+      "content": "(1) Where an agent enters into a contract with a person who does not know or does not have reason to believe, that he or she is an agent , the principal may require the performance of the contract ; but the other contracting party shall have, as against the principal , the same rights as he or she would have had against the agent , if the agent had been the principal . (2) Where a principal discloses himself or herself before a contract is completed, the other contracting party may refuse to fulfil the contract , where that other contracting party can show that he or she would not have entered into the contract — (a) if he or she had known who the principal in the contract was; or (b) if he or she had known that the agent was not a principal ."
+    },
+    {
+      "provision_ref": "s163",
+      "chapter": "Part X",
+      "section": "163",
+      "title": "Performance of contract with agent acting as principal",
+      "content": "Where a person makes a contract with another, without knowledge or reasonable ground to believe, that the other is an agent , the principal , if he or she requires the performance of the contract , may only obtain the performance of the contract subject to the right and obligations subsisting between the agent and the other party of the contract ."
+    },
+    {
+      "provision_ref": "s164",
+      "chapter": "Part X",
+      "section": "164",
+      "title": "Joint liability of agent and principal to third party",
+      "content": "Where an agent is personally liable, a person dealing with the agent may hold the agent or principal or both of them liable."
+    },
+    {
+      "provision_ref": "s165",
+      "chapter": "Part X",
+      "section": "165",
+      "title": "Consequence of inducing agent or principal to act on belief that either will be held liable",
+      "content": "I person who enters into a contract with an agent and induces the agent to act upon the belief that only the principal shall be held liable or who induces the principal to act upon the belief that only the agent shall be held liable, shall not hold that agent or principal , as the case may be, liable afterwards."
+    },
+    {
+      "provision_ref": "s166",
+      "chapter": "Part X",
+      "section": "166",
+      "title": "Liability for fraudulently holding out as agent",
+      "content": "A person who fraudulently represents himself or herself as an authorised agent of another person and induces a third person to deal with him or her as the agent , is liable to compensate the third person in respect of any loss or damage incurred, where the alleged principal does not ratify the acts."
+    },
+    {
+      "provision_ref": "s167",
+      "chapter": "Part X",
+      "section": "167",
+      "title": "Person falsely contracting as agent not entitled to performance",
+      "content": "A person who holds out as an agent shall not be entitled to require the performance of a contract , where that person was not acting as an agent but on his or her own account."
+    },
+    {
+      "provision_ref": "s168",
+      "chapter": "Part X",
+      "section": "168",
+      "title": "Liability of principal inducing belief that unauthorised acts of agent were authorised",
+      "content": "Where an agent , without authority, does an act or incurs an obligation to a third person on behalf of a principal , the principal is bound by the act or obligation, where the principal by word or conduct induced the third person to believe that the act or obligation is within the scope of the authority of the agent ."
+    },
+    {
+      "provision_ref": "s169",
+      "chapter": "Part X",
+      "section": "169",
+      "title": "Misrepresentation or fraud by agent",
+      "content": "(1) Misrepresentation made or fraud if committed by an agent acting in the course of business for a principal , has the same effect on an agreement made by the agent as if the misrepresentation or fraud had been made or committed by the principal . (2) Misrepresentation made or fraud committed by an agent , in a matter which does not affect the authority of a principal , does not affect the principal ."
+    },
+    {
+      "provision_ref": "s170",
+      "chapter": "Part X",
+      "section": "170",
+      "title": "Power to amend Schedule",
+      "content": "The Minister may, by statutory instrument, with the approval of Cabinet, amend the Schedule to this Act. Schedule (Sections 1, 170) Currency point A currency point is equivalent to twenty thousand shillings. History of this document 31 December 2023 this version Chapter 284 Revised Laws 2023 Consolidation 15 September 2011 Commenced by Contracts Act (Commencement) Instrument, 2011 28 May 2010 Published in Uganda Gazette 32 Read this version 22 April 2010 Assented to Related documents Repeals Contract Act Is commenced by Contracts Act (Commencement) Instrument, 2011 [] [] [] [{\"provision_eid\": \"part_III__subpart_nn_1__sec_10\", \"citations\": 94}, {\"provision_eid\": \"part_III__subpart_nn_1__sec_10__subsec_1\", \"citations\": 41}, {\"provision_eid\": \"part_III__subpart_nn_1__sec_10__subsec_1/~part_III__subpart_nn_1__sec_10\", \"citations\": 1}, {\"provision_eid\": \"part_III__subpart_nn_1__sec_10__subsec_2\", \"citations\": 11}, {\"provision_eid\": \"part_III__subpart_nn_1__sec_11\", \"citations\": 1}, {\"provision_eid\": \"part_III__subpart_nn_1__sec_11__subsec_1\", \"citations\": 7}, {\"provision_eid\": \"part_III__subpart_nn_1__sec_12\", \"citations\": 6}, {\"provision_eid\": \"part_III__subpart_nn_1__sec_13\", \"citations\": 6}, {\"provision_eid\": \"part_III__subpart_nn_1__sec_13__subsec_1\", \"citations\": 2}, {\"provision_eid\": \"part_III__subpart_nn_1__sec_13__subsec_2\", \"citations\": 1}, {\"provision_eid\": \"part_III__subpart_nn_1__sec_13__subsec_3\", \"citations\": 1}, {\"provision_eid\": \"part_III__subpart_nn_1__sec_13__subsec_5\", \"citations\": 1}, {\"provision_eid\": \"part_III__subpart_nn_1__sec_14\", \"citations\": 2}, {\"provision_eid\": \"part_III__subpart_nn_1__sec_14__subsec_1\", \"citations\": 1}, {\"provision_eid\": \"part_III__subpart_nn_1__sec_9\", \"citations\": 11}, {\"provision_eid\": \"part_III__subpart_nn_1__sec_9__subsec_1\", \"citations\": 46}, {\"provision_eid\": \"part_III__subpart_nn_1__sec_9__subsec_1/~part_IX__sec_102\", \"citations\": 1}, {\"provision_eid\": \"part_III__subpart_nn_1__sec_9__subsec_1/~part_IX__sec_103\", \"citations\": 1}, {\"provision_eid\": \"part_III__subpart_nn_1__sec_9__subsec_1/~part_IX__sec_104\", \"citations\": 1}, {\"provision_eid\": \"part_III__subpart_nn_1__sec_9__subsec_2\", \"citations\": 12}, {\"provision_eid\": \"part_III__subpart_nn_1__sec_9__subsec_5\", \"citations\": 5}, {\"provision_eid\": \"part_III__subpart_nn_2__sec_15\", \"citations\": 5}, {\"provision_eid\": \"part_III__subpart_nn_2__sec_15__subsec_1\", \"citations\": 5}, {\"provision_eid\": \"part_III__subpart_nn_2__sec_16\", \"citations\": 5}, {\"provision_eid\": \"part_III__subpart_nn_2__sec_16__subsec_1\", \"citations\": 3}, {\"provision_eid\": \"part_III__subpart_nn_2__sec_16__subsec_2\", \"citations\": 2}, {\"provision_eid\": \"part_III__subpart_nn_2__sec_17\", \"citations\": 3}, {\"provision_eid\": \"part_III__subpart_nn_2__sec_17/~part_III__subpart_nn_2__sec_17\", \"citations\": 1}, {\"provision_eid\": \"part_III__subpart_nn_2__sec_17/~part_III__subpart_nn_2__sec_18\", \"citations\": 1}, {\"provision_eid\": \"part_III__subpart_nn_2__sec_18\", \"citations\": 3}, {\"provision_eid\": \"part_III__subpart_nn_2__sec_18__subsec_1\", \"citations\": 1}, {\"provision_eid\": \"part_III__subpart_nn_2__sec_19\", \"citations\": 6}, {\"provision_eid\": \"part_III__subpart_nn_2__sec_19__subsec_1\", \"citations\": 1}, {\"provision_eid\": \"part_III__subpart_nn_2__sec_19__subsec_1__para_a\", \"citations\": 2}, {\"provision_eid\": \"part_III__subpart_nn_2__sec_19__subsec_2\", \"citations\": 2}, {\"provision_eid\": \"part_III__subpart_nn_2__sec_20\", \"citations\": 4}, {\"provision_eid\": \"part_III__subpart_nn_2__sec_20__subsec_1\", \"citations\": 1}, {\"provision_eid\": \"part_III__subpart_nn_2__sec_21\", \"citations\": 1}, {\"provision_eid\": \"part_III__subpart_nn_2__sec_22\", \"citations\": 1}, {\"provision_eid\": \"part_III__subpart_nn_2__sec_23\", \"citations\": 3}, {\"provision_eid\": \"part_II__sec_2\", \"citations\": 30}, {\"provision_eid\": \"part_II__sec_3\", \"citations\": 1}, {\"provision_eid\": \"part_II__sec_3__subsec_2\", \"citations\": 1}, {\"provision_eid\": \"part_II__sec_4\", \"citations\": 1}, {\"provision_eid\": \"part_II__sec_5\", \"citations\": 3}, {\"provision_eid\": \"part_II__sec_6\", \"citations\": 3}, {\"provision_eid\": \"part_II__sec_6__subsec_1__para_b\", \"citations\": 1}, {\"provision_eid\": \"part_II__sec_7\", \"citations\": 2}, {\"provision_eid\": \"part_II__sec_8\", \"citations\": 3}, {\"provision_eid\": \"part_I__sec_1\", \"citations\": 5}, {\"provision_eid\": \"part_IV__sec_27\", \"citations\": 1}, {\"provision_eid\": \"part_IV__sec_28\", \"citations\": 1}, {\"provision_eid\": \"part_IX__sec_106\", \"citations\": 1}, {\"provision_eid\": \"part_IX__sec_88\", \"citations\": 2}, {\"provision_eid\": \"part_IX__sec_90\", \"citations\": 2}, {\"provision_eid\": \"part_IX__sec_92\", \"citations\": 2}, {\"provision_eid\": \"part_IX__sec_93\", \"citations\": 2}, {\"provision_eid\": \"part_IX__sec_99\", \"citations\": 2}, {\"provision_eid\": \"part_VIII\", \"citations\": 1}, {\"provision_eid\": \"part_VIII__sec_67\", \"citations\": 18}, {\"provision_eid\": \"part_VIII__sec_68\", \"citations\": 12}, {\"provision_eid\": \"part_VIII__sec_70\", \"citations\": 7}, {\"provision_eid\": \"part_VIII__sec_70__subsec_1\", \"citations\": 3}, {\"provision_eid\": \"part_VIII__sec_70__subsec_2\", \"citations\": 4}, {\"provision_eid\": \"part_VIII__sec_71\", \"citations\": 13}, {\"provision_eid\": \"part_VIII__sec_71__subsec_1\", \"citations\": 3}, {\"provision_eid\": \"part_VIII__sec_71__subsec_2\", \"citations\": 3}, {\"provision_eid\": \"part_VIII__sec_74\", \"citations\": 1}, {\"provision_eid\": \"part_VIII__sec_83\", \"citations\": 1}, {\"provision_eid\": \"part_VIII__sec_84\", \"citations\": 1}, {\"provision_eid\": \"part_VIII__sec_84__subsec_1\", \"citations\": 1}, {\"provision_eid\": \"part_VII__sec_60\", \"citations\": 9}, {\"provision_eid\": \"part_VII__sec_60__subsec_1\", \"citations\": 28}, {\"provision_eid\": \"part_VII__sec_60__subsec_2\", \"citations\": 1}, {\"provision_eid\": \"part_VII__sec_60__subsec_3\", \"citations\": 1}, {\"provision_eid\": \"part_VII__sec_60__subsec_4\", \"citations\": 15}, {\"provision_eid\": \"part_VII__sec_61\", \"citations\": 18}, {\"provision_eid\": \"part_VII__sec_61__subsec_1\", \"citations\": 60}, {\"provision_eid\": \"part_VII__sec_61__subsec_3\", \"citations\": 2}, {\"provision_eid\": \"part_VII__sec_61__subsec_3__para_a\", \"citations\": 1}, {\"provision_eid\": \"part_VII__sec_62\", \"citations\": 4}, {\"provision_eid\": \"part_VII__sec_63\", \"citations\": 4}, {\"provision_eid\": \"part_VII__sec_63__subsec_1\", \"citations\": 1}, {\"provision_eid\": \"part_VII__sec_63__subsec_2__para_e\", \"citations\": 1}, {\"provision_eid\": \"part_VII__sec_64\", \"citations\": 7}, {\"provision_eid\": \"part_VII__sec_64__subsec_1\", \"citations\": 4}, {\"provision_eid\": \"part_VII__sec_64__subsec_1__para_a\", \"citations\": 1}, {\"provision_eid\": \"part_VII__sec_64__subsec_1__para_b\", \"citations\": 2}, {\"provision_eid\": \"part_VII__sec_64__subsec_2\", \"citations\": 3}, {\"provision_eid\": \"part_VII__sec_65\", \"citations\": 2}, {\"provision_eid\": \"part_VII__sec_65__subsec_1\", \"citations\": 5}, {\"provision_eid\": \"part_VII__sec_65__subsec_2\", \"citations\": 1}, {\"provision_eid\": \"part_VII__sec_66\", \"citations\": 13}, {\"provision_eid\": \"part_VII__sec_66/~part_IX__sec_91\", \"citations\": 1}, {\"provision_eid\": \"part_VII__sec_66/~part_IX__sec_92\", \"citations\": 1}, {\"provision_eid\": \"part_VI__sec_56\", \"citations\": 1}, {\"provision_eid\": \"part_VI__sec_58\", \"citations\": 1}, {\"provision_eid\": \"part_V__subpart_nn_1__sec_32\", \"citations\": 7}, {\"provision_eid\": \"part_V__subpart_nn_1__sec_32__subsec_1\", \"citations\": 17}, {\"provision_eid\": \"part_V__subpart_nn_1__sec_33\", \"citations\": 18}, {\"provision_eid\": \"part_V__subpart_nn_1__sec_33__subsec_1\", \"citations\": 22}, {\"provision_eid\": \"part_V__subpart_nn_1__sec_35\", \"citations\": 6}, {\"provision_eid\": \"part_V__subpart_nn_1__sec_36\", \"citations\": 2}, {\"provision_eid\": \"part_V__subpart_nn_3__sec_41__subsec_1\", \"citations\": 1}, {\"provision_eid\": \"part_V__subpart_nn_4__sec_42\", \"citations\": 3}, {\"provision_eid\": \"part_V__subpart_nn_4__sec_42/~part_IX__sec_102\", \"citations\": 1}, {\"provision_eid\": \"part_V__subpart_nn_4__sec_42/~part_IX__sec_103\", \"citations\": 1}, {\"provision_eid\": \"part_V__subpart_nn_4__sec_42/~part_IX__sec_104\", \"citations\": 1}, {\"provision_eid\": \"part_V__subpart_nn_4__sec_43\", \"citations\": 1}, {\"provision_eid\": \"part_V__subpart_nn_4__sec_44\", \"citations\": 1}, {\"provision_eid\": \"part_V__subpart_nn_4__sec_45\", \"citations\": 2}, {\"provision_eid\": \"part_V__subpart_nn_4__sec_46\", \"citations\": 3}, {\"provision_eid\": \"part_V__subpart_nn_4__sec_46__subsec_1\", \"citations\": 1}, {\"provision_eid\": \"part_V__subpart_nn_5__sec_47\", \"citations\": 6}, {\"provision_eid\": \"part_V__subpart_nn_6__sec_51\", \"citations\": 2}, {\"provision_eid\": \"part_V__subpart_nn_6__sec_52\", \"citations\": 1}, {\"provision_eid\": \"part_V__subpart_nn_6__sec_53\", \"citations\": 3}, {\"provision_eid\": \"part_V__subpart_nn_6__sec_53__subsec_1\", \"citations\": 1}, {\"provision_eid\": \"part_V__subpart_nn_6__sec_53__subsec_2\", \"citations\": 2}, {\"provision_eid\": \"part_V__subpart_nn_6__sec_54\", \"citations\": 5}, {\"provision_eid\": \"part_X__sec_117\", \"citations\": 3}, {\"provision_eid\": \"part_X__sec_118\", \"citations\": 6}, {\"provision_eid\": \"part_X__sec_118/~part_I__sec_1\", \"citations\": 1}, {\"provision_eid\": \"part_X__sec_120\", \"citations\": 1}, {\"provision_eid\": \"part_X__sec_121\", \"citations\": 2}, {\"provision_eid\": \"part_X__sec_121__subsec_1\", \"citations\": 2}, {\"provision_eid\": \"part_X__sec_121__subsec_2\", \"citations\": 2}, {\"provision_eid\": \"part_X__sec_121__subsec_3\", \"citations\": 2}, {\"provision_eid\": \"part_X__sec_122\", \"citations\": 2}, {\"provision_eid\": \"part_X__sec_122__subsec_1\", \"citations\": 1}, {\"provision_eid\": \"part_X__sec_122__subsec_2\", \"citations\": 1}, {\"provision_eid\": \"part_X__sec_123\", \"citations\": 1}, {\"provision_eid\": \"part_X__sec_125__subsec_1\", \"citations\": 1}, {\"provision_eid\": \"part_X__sec_130\", \"citations\": 1}, {\"provision_eid\": \"part_X__sec_131\", \"citations\": 1}, {\"provision_eid\": \"part_X__sec_133\", \"citations\": 1}, {\"provision_eid\": \"part_X__sec_145\", \"citations\": 2}, {\"provision_eid\": \"part_X__sec_145__subsec_1\", \"citations\": 2}, {\"provision_eid\": \"part_X__sec_146\", \"citations\": 1}, {\"provision_eid\": \"part_X__sec_153\", \"citations\": 2}, {\"provision_eid\": \"part_X__sec_155\", \"citations\": 1}, {\"provision_eid\": \"part_X__sec_158\", \"citations\": 2}, {\"provision_eid\": \"part_X__sec_160\", \"citations\": 2}, {\"provision_eid\": \"part_X__sec_163\", \"citations\": 1}] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About ULII ULII is a project of the Law Reporting Committee of the Judiciary of Uganda. ULII aims to bridge the existing gap in public access to the law of Uganda. Working with the AfricanLII and in collaboration with other partners, such as the Free Access to Law Movement, ULII's major aim is to be a user-friendly portal of all publicly available legal information in Uganda. The Judiciary of Uganda considers access to its decisions and the law upon which they are based as key tenets of its key mission: Justice for All . ULII is also an end user interface for the Electronic Court Case Management Information System. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Uganda Judiciary Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "acceptance",
+      "definition": "an assent to an offer made by a person to whom the offer is made",
+      "source_provision": "s1"
+    },
+    {
+      "term": "agreement",
+      "definition": "a promise or a set of promises forming the consideration for each other",
+      "source_provision": "s1"
+    },
+    {
+      "term": "coercion",
+      "definition": "the commission or threatening to commit any act forbidden under any law or the unlawful detaining or threatening to detain any property, to the prejudice of any person with the intention of causing any person to enter into an agreement",
+      "source_provision": "s1"
+    },
+    {
+      "term": "consent",
+      "definition": "agreement of two or more persons obtained freely, upon the same thing in the same sense",
+      "source_provision": "s1"
+    },
+    {
+      "term": "consideration",
+      "definition": "a right, interest, profit or benefit accruing to one party or forbearance, detriment, loss or responsibility given, suffered or undertaken by the other party",
+      "source_provision": "s1"
+    },
+    {
+      "term": "consideration for a promise",
+      "definition": "where, at the desire of a promisor , a promisee or any other person does or abstains from doing or promises to do or to abstain from doing something",
+      "source_provision": "s1"
+    },
+    {
+      "term": "contingent contract",
+      "definition": "a contract to do something or not to do something where an event, collateral to a contract , does or does not happen",
+      "source_provision": "s1"
+    },
+    {
+      "term": "contract",
+      "definition": "an agreement enforceable by law as defined in section 9",
+      "source_provision": "s1"
+    },
+    {
+      "term": "documents of title to goods",
+      "definition": "any bill of lading, dock warrant, warehouse keeper’s certificate, warrant or order for the delivery of goods and any other document used in the ordinary course of business as proof of possession or control of goods or which authorises or purports to authorise, either by endorsement or by delivery, the possessor of the document to transfer or receive goods represented by the document",
+      "source_provision": "s1"
+    },
+    {
+      "term": "mercantile agent",
+      "definition": "a person who in the ordinary course of his or her business, has authority either to sell goods, or to consign goods for the purposes of sale, or to buy goods or raise money on the security of goods",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Minister",
+      "definition": "the Minister responsible for justice",
+      "source_provision": "s1"
+    },
+    {
+      "term": "offer",
+      "definition": "the willingness to do or to abstain from doing anything signified by a person to another, with a view to obtaining the assent of that other person to the act or abstinence",
+      "source_provision": "s1"
+    },
+    {
+      "term": "promise",
+      "definition": "an offer that is accepted",
+      "source_provision": "s1"
+    },
+    {
+      "term": "promisee",
+      "definition": "the person who accepts an offer",
+      "source_provision": "s1"
+    },
+    {
+      "term": "promisor",
+      "definition": "the person who makes an offer",
+      "source_provision": "s1"
+    },
+    {
+      "term": "void agreement",
+      "definition": "an agreement that is not enforceable by law",
+      "source_provision": "s1"
+    },
+    {
+      "term": "voidable contract",
+      "definition": "an agreement which is enforceable by law at the option of a party to a contract but not at the option of the other party and a contract which ceases to be enforceable by law and which becomes void when it ceases to be enforceable. Part II – Communication, acceptance and revocation of offer",
+      "source_provision": "s1"
+    },
+    {
+      "term": "creditor",
+      "definition": "a person to whom a guarantee is given",
+      "source_provision": "s67"
+    },
+    {
+      "term": "continuing guarantee",
+      "definition": "a guarantee which extends to a series of transactions",
+      "source_provision": "s67"
+    },
+    {
+      "term": "contract of guarantee",
+      "definition": "a contract to perform a promise or to discharge the liability of a third party in case of default of that third party, which may be oral or written",
+      "source_provision": "s67"
+    },
+    {
+      "term": "contract of indemnity",
+      "definition": "a contract by which one party promises to save the other party from loss caused to that other party by the conduct of the person making the promise or by the conduct of any other person",
+      "source_provision": "s67"
+    },
+    {
+      "term": "guarantor",
+      "definition": "a person who gives a guarantee",
+      "source_provision": "s67"
+    },
+    {
+      "term": "indemnity",
+      "definition": "an undertaking by which a person agrees to reimburse another upon the occurrence of an anticipated loss",
+      "source_provision": "s67"
+    },
+    {
+      "term": "principal debtor",
+      "definition": "a person in respect of whose default a guarantee is given.",
+      "source_provision": "s67"
+    },
+    {
+      "term": "bailee",
+      "definition": "a person to whom goods are delivered",
+      "source_provision": "s87"
+    },
+    {
+      "term": "bailment",
+      "definition": "the delivery of goods by one person to another for some purpose, on a contract that the goods shall when the purpose is accomplished, be returned or disposed of according to the direction of the person who delivered them",
+      "source_provision": "s87"
+    },
+    {
+      "term": "bailor",
+      "definition": "a person who delivers the goods",
+      "source_provision": "s87"
+    },
+    {
+      "term": "pledge",
+      "definition": "the bailment of goods as security for payment of a debt or performance of a promise",
+      "source_provision": "s87"
+    },
+    {
+      "term": "pledgee",
+      "definition": "a person with whom a pledge is deposited",
+      "source_provision": "s87"
+    },
+    {
+      "term": "pledgor",
+      "definition": "a person who gives a pledge to another.",
+      "source_provision": "s87"
+    },
+    {
+      "term": "agent",
+      "definition": "a person employed by a principal to do any act for that principal or to represent the principal in dealing with a third person",
+      "source_provision": "s117"
+    },
+    {
+      "term": "principal",
+      "definition": "a person who employs an agent to do any act for him or her or to represent him or her in dealing with a third person",
+      "source_provision": "s117"
+    },
+    {
+      "term": "sub-agent",
+      "definition": "a person employed by and acting under the control of an agent in the business of the agency.",
+      "source_provision": "s117"
+    }
+  ]
+}

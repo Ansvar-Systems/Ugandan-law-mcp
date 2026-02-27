@@ -1,0 +1,38 @@
+{
+  "id": "ug-act-statute-1993-8",
+  "type": "statute",
+  "title": "Traditional Rulers (Restitution of Assets and Properties) Act",
+  "title_en": "Traditional Rulers (Restitution of Assets and Properties) Act",
+  "short_name": "Traditional Rulers (Restitu...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://ulii.org/en/akn/ug/act/statute/1993/8/eng@2000-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires, \"traditional ruler\" means king or ruler by whatever name called, as referred to in article 118(1) of the Constitution repealed by the Constitution (Amendment) Statute, 1993, and any successor of such traditional ruler."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Restoration of assets and properties previously confiscated by the State",
+      "content": "(1) Subject to the other provisions of this section, any asset or property previously confiscated by the State from or in respect of or in relation to any traditional ruler under the Constitution of 1967 is, with effect from the commencement of this Act, transferred to that traditional ruler without any further assurance than this Act. (2) A traditional ruler to whom any asset or property is transferred under this section shall, in the case of land, have the same estate or interest as was previously held by the Uganda Land Commission in respect of that land. (3) Notwithstanding anything in this Act, all regalia where they exist shall vest in the traditional ruler in accordance with subsection (1), without the need for negotiation. (4) For the avoidance of doubt, in the case of Buganda, the assets and properties specified in the Schedule to this Act shall, on the commencement of this Act, vest in the traditional ruler of Buganda for the same estate or interest as was held by the Uganda Land Commission at the commencement of this Act. (5) In the case of traditional rulers other than the traditional ruler of Buganda, the Government shall hold negotiations with the traditional rulers concerned with a view to returning to them such assets and properties as may be agreed. (6) Subsection (5) applies to the traditional ruler of Buganda in respect of any asset or property other than those specified in the Schedule to this Act. (7) Where it is agreed to transfer any asset or property to a traditional ruler under subsection (5) or (6), subsection (1) shall apply to the asset or property with effect from the date approved in the agreement. (8) Notwithstanding any provision of the Registration of Titles Act, the registrar of titles shall take all necessary steps for giving effect to the transfer of any asset or property effected by this section free from any tax, duty or fee whether by the alteration or cancellation of any relevant certificate of title, the issue of a fresh certificate of title or otherwise."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Reversion of certain assets and property",
+      "content": "For the avoidance of doubt, any asset or property vested in the Government in respect of any traditional ruler by section 3 of the Special Pensions (Former Rulers and Constitutional Heads) Act shall, upon the commencement of this Act, be deemed to have reverted to the traditional ruler concerned under section 2 of this Act and subject to subsection (5), (6) and (7) of that section. Schedule (Section 2) Assets and property of the traditional ruler of Buganda 1. The Bulaange 2. The Lubiri at Mengo 3. The Butikkiro 4. The Buganda Court Building 5. Kabaka's official 350 square miles of land 6. Namasole's ten square miles of land 7. Banalinya's land 8. Kabaka's lake 9. Former Omulamuzi and Omuwanika's official residences of Mengo 10. Land adjacent to Lubiri on which three Buganda Ministerial houses used to stand 11. All Bassekabaka's Tombs 12. Buganda Works Building at Kakeeka 13. Basiima House 14. Nalinya's house at Lubaga History of this document 31 December 2000 this version Chapter 247 Revised Laws 2000 Consolidation 30 July 1993 Commenced Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About ULII ULII is a project of the Law Reporting Committee of the Judiciary of Uganda. ULII aims to bridge the existing gap in public access to the law of Uganda. Working with the AfricanLII and in collaboration with other partners, such as the Free Access to Law Movement, ULII's major aim is to be a user-friendly portal of all publicly available legal information in Uganda. The Judiciary of Uganda considers access to its decisions and the law upon which they are based as key tenets of its key mission: Justice for All . ULII is also an end user interface for the Electronic Court Case Management Information System. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Uganda Judiciary Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "traditional ruler",
+      "definition": "king or ruler by whatever name called, as referred to in article 118(1) of the Constitution repealed by the Constitution (Amendment) Statute, 1993, and any successor of such traditional ruler.",
+      "source_provision": "s1"
+    }
+  ]
+}

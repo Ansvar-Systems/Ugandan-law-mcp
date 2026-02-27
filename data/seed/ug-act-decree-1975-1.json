@@ -1,0 +1,38 @@
+{
+  "id": "ug-act-decree-1975-1",
+  "type": "statute",
+  "title": "Minerals (Prohibition of Exportation) Act",
+  "title_en": "Minerals (Prohibition of Exportation) Act",
+  "short_name": "Minerals (Prohibition of Ex...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://ulii.org/en/akn/ug/act/decree/1975/1/eng@2000-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Interpretation",
+      "content": "\" Minister \" means the Minister to whom functions under this Act are assigned."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Prohibition of export of minerals",
+      "content": "(1) There is prohibited the exportation from Uganda of any mineral specified in the Schedule to this Act, hereafter referred to as a \"scheduled mineral\", without the licence of the Minister . (2) The Minister may, by statutory order, amend the Schedule to this Act."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Application of Act",
+      "content": "Section 2 shall have effect without prejudice to any written law providing for any similar condition under which any scheduled mineral may be exported from Uganda. (Section 2) Scheduled mineral Copper, whether unwrought or otherwise. History of this document 31 December 2000 this version Consolidation 25 February 1975 Commenced Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About ULII ULII is a project of the Law Reporting Committee of the Judiciary of Uganda. ULII aims to bridge the existing gap in public access to the law of Uganda. Working with the AfricanLII and in collaboration with other partners, such as the Free Access to Law Movement, ULII's major aim is to be a user-friendly portal of all publicly available legal information in Uganda. The Judiciary of Uganda considers access to its decisions and the law upon which they are based as key tenets of its key mission: Justice for All . ULII is also an end user interface for the Electronic Court Case Management Information System. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Uganda Judiciary Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Minister",
+      "definition": "the Minister to whom functions under this Act are assigned.",
+      "source_provision": "s1"
+    }
+  ]
+}

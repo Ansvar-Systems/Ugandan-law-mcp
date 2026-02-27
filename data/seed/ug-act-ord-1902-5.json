@@ -1,0 +1,383 @@
+{
+  "id": "ug-act-ord-1902-5",
+  "type": "statute",
+  "title": "Marriage Act",
+  "title_en": "Marriage Act",
+  "short_name": "Marriage Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://ulii.org/en/akn/ug/act/ord/1902/5/eng@2023-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires— “ district ” means a marriage district constituted under this Act; “ foreign application ” means an application by a person who is not a Ugandan citizen; “ national application ” means an application by a person who is a Ugandan citizen; “ registrar ” means a registrar of marriages, and includes a deputy registrar when acting as registrar; “ Registrar General ” means any officer appointed to act as Registrar General for the purposes of this Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Constitution of marriage districts",
+      "content": "The Minister shall, by statutory order, divide Uganda into districts for the purposes of this Act, herein referred to as marriage districts, and may, by like order, alter the marriage districts, either by alteration of boundaries or by union or subdivision of districts, or by the formation of new districts."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part I",
+      "section": "3",
+      "title": "Appointment of registrars",
+      "content": "(1) The Minister shall, appoint a fit and proper person to be the registrar of marriages for each marriage district , and may revoke such appointments; and may appoint a deputy registrar of marriages for any district to act in the absence or during the illness or incapacity of the registrar , and may revoke such appointment. (2) For the purposes of this section, absence means absence from the place at which, as provided by section 4 , the office of the registrar is situate."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part I",
+      "section": "4",
+      "title": "Offices of registrars",
+      "content": "Every registrar shall have an office at such place in his or her district as the Minister shall from time to time direct."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part I",
+      "section": "5",
+      "title": "Places of worship to be licensed",
+      "content": "The Minister may license any place of public worship to be a place for the celebration of marriages, and may, at any time cancel such licence, and in either case he or she shall give notice in the Gazette . Part II – Preliminaries to marriage"
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part II",
+      "section": "6",
+      "title": "Notice of marriage",
+      "content": "Whenever any persons desire to marry, one of the parties to the intended marriage shall sign and give to the registrar of the district in which the marriage is intended to take place a notice in Form A in Schedule 1 to this Act."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part II",
+      "section": "7",
+      "title": "Signature of notice by person unable to write or to understand English",
+      "content": "If the person giving the notice of marriage is unable to write or is insufficiently acquainted with the English language, or both, then it shall be sufficient if he or she places his or her mark or cross to the notice in the presence of some literate person who shall attest to it, which attestation shall be in Form B in Schedule 1 to this Act."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part II",
+      "section": "8",
+      "title": "Registrars to supply forms of notice free of cost",
+      "content": "Every registrar shall supply forms of notice gratuitously to any persons applying for them."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part II",
+      "section": "9",
+      "title": "Notice to be entered in Marriage Notice Book and published",
+      "content": "(1) Upon receipt of a marriage notice the registrar shall cause it to be entered in a book to be called the “Marriage Notice Book” which may be inspected during office hours without fee. (2) The registrar shall also publish the notice by causing a copy of it to be affixed on the outer door of his or her office, and to be kept exposed there until he or she grants the certificate under section 10 , or until three months have elapsed."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part II",
+      "section": "10",
+      "title": "Registrar to issue certificate on proof of conditions by affidavit",
+      "content": "(1) The registrar , at any time after the expiration of twenty-one days and before the expiration of three months from the date of the notice, upon payment of the prescribed fee, shall issue a certificate in Form C in Schedule 1 to this Act; except that he or she shall not issue the certificate until he or she has been satisfied by affidavit that— (a) one of the parties has been resident within the district in which the marriage is intended to be celebrated at least fifteen days preceding the granting of the certificate; (b) each of the parties to the intended marriage, not being a widower or widow, is twenty-one years old, or that, if he or she is under that age, the consent made requisite has been obtained in writing and is annexed to the affidavit; (c) there is no impediment of kindred or affinity, or other lawful hindrance to the marriage; and (d) neither of the parties to the intended marriage is married by customary law to any person other than the person with whom such marriage is proposed to be contracted. (2) The affidavit required by subsection (1) may be sworn before the registrar or before a magistrate. (3) The registrar or magistrate taking the affidavit required by subsection (1) shall explain to the person making it the prohibited degrees of kindred and affinity and the penalties which may be incurred under other provisions of this Act."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part II",
+      "section": "11",
+      "title": "Marriage to take place within three months after date of notice",
+      "content": "Where the marriage does not take place within three months after the date of the notice, the notice and all proceedings consequent on it shall be void; and a fresh notice must be given before the parties can lawfully marry."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part II",
+      "section": "12",
+      "title": "Minister’s power to grant licence to marry",
+      "content": "The Minister, upon proof being given to him or her by affidavit that there is no lawful impediment to the proposed marriage, and that the necessary consent, if any, to the marriage has been obtained, may, if he or she thinks fit, dispense with the giving of notice, and with the issue of the certificate of the registrar , and may grant a licence, which shall be according to Form D in Schedule 1 to this Act, authorising the celebration of a marriage between the parties named in that licence by a registrar , or by a recognised minister of some religious denomination or body."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part II",
+      "section": "13",
+      "title": "Caveat may be entered against issue of certificate",
+      "content": "Any person whose consent to a marriage is required by this Act, or who may know of any just cause why the marriage should not take place, may enter a caveat against the issue of the registrar ’s certificate, by writing at any time before its issue the word “Forbidden” opposite to the entry of the notice in the Marriage Notice Book, and appending to the word his or her name and place of abode, and the grounds upon or by reason of which he or she claims to forbid the issue of the certificate; and the registrar shall not issue the certificate until the caveat shall be removed under sections 14 , 15 and 16 ."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part II",
+      "section": "14",
+      "title": "Where caveat is entered matter shall be referred to court",
+      "content": "Whenever a caveat is entered against the issue of a certificate, the registrar shall refer the matter to the High Court, and that court shall summon the parties to the intended marriage, and the person by whom the caveat is entered, and shall require the person by whom the caveat is entered to show cause why the registrar should not issue a certificate, and shall hear and determine the case in a summary way, and the decision of the High Court shall be final."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part II",
+      "section": "15",
+      "title": "Removal of caveat",
+      "content": "(1) If the High Court decides that the certificate ought to be issued, the judge shall remove the caveat by cancelling the word “Forbidden” in the Marriage Notice Book in ink, and writing in the Marriage Notice Book, immediately below that entry and cancellation, the words “Cancelled by order of the High Court” and signing his or her name to the removal of the caveat. (2) The registrar shall then issue a certificate and the marriage may proceed as if the caveat had not been entered, but the time that has elapsed between the entering and the removal of the caveat shall not be computed in the period of three months specified in section 10 ."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part II",
+      "section": "16",
+      "title": "Compensation and costs",
+      "content": "The High Court may award compensation and costs to the party injured, if it appears that a caveat was entered on insufficient grounds. Part III – Consent to marriage in certain cases necessary"
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part III",
+      "section": "17",
+      "title": "Signature of consent by person unable to write or to understand English",
+      "content": "(1) If the person required to sign a consent to marriage is unable to write, or is insufficiently acquainted with the English language, or both, then he or she shall sign his or her consent by placing his or her mark or cross to the consent in the presence of any judge, magistrate, Chief Administrative Officer, Chief Registrar of the High Court, registrar of marriages, registrar of documents. (2) The signature made under subsection (1) shall be attested by a person specified in that subsection in Form B in Schedule 1 to this Act."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part III",
+      "section": "18",
+      "title": "Consent where no parent or guardian capable of consenting",
+      "content": "If there is no parent or guardian of the party under twenty-one years of age residing in Uganda and capable of consenting to the marriage, then the Minister or a judge of the High Court may consent to the marriage in writing, upon being satisfied after due inquiry that the marriage is a proper one; and that consent shall be as effectual as if the father or mother had consented. Part IV – Celebration of marriage"
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part IV",
+      "section": "19",
+      "title": "Marriage in licensed place of worship by recognised minister",
+      "content": "(1) Marriages may be celebrated in any licensed place of worship by any recognised minister of the church, denomination or body to which the place of worship belongs, and according to the rites or usages of marriages observed in that church, denomination or body. (2) Notwithstanding subsection (1) , the marriage shall be celebrated with open doors between the hours of eight o’clock in the forenoon and six o’clock in the afternoon, and in the presence of two or more witnesses besides the officiating minister."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part IV",
+      "section": "20",
+      "title": "Minister not to celebrate marriage if there is impediment nor without licence, etc.",
+      "content": "A minister shall not celebrate any marriage if he or she knows of any just impediment to the marriage, or until the parties deliver to him or her the registrar ’s certificate or the Minister’s licence."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part IV",
+      "section": "21",
+      "title": "Place of celebration of marriage",
+      "content": "A minister shall not celebrate any marriage except in a building which has been duly licensed by the Minister, or in such place as the Minister’s licence may direct."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part IV",
+      "section": "22",
+      "title": "Registrars, etc. to be provided with books of certificates",
+      "content": "(1) The Minister shall cause to be printed and delivered to the several registrars and to the recognised ministers of licensed places of worship, books of marriage certificates in duplicate and with counterfoils in Form E in Schedule 1 to this Act. (2) The books of marriage certificates shall be kept by the several registrars and the recognised ministers for the time being of the licensed places of worship under lock and key and be in custody of those registrars and ministers respectively."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part IV",
+      "section": "23",
+      "title": "Entries to be made in marriage certificate",
+      "content": "Immediately after the celebration of any marriage by a minister, the officiating minister shall fill out in duplicate a marriage certificate with the particulars required by Form E in Schedule 1 to this Act, and state also and enter in the counterfoil the number of the certificate, the date of the marriage, names of the parties and the names of the witnesses."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part IV",
+      "section": "24",
+      "title": "Signature of certificate in duplicate",
+      "content": "(1) The certificate shall be signed in duplicate by the officiating minister, the parties and two or more witnesses to the marriage. (2) The minister having signed his or her name to the counterfoil, shall sever the duplicate certificate, and shall deliver one certificate to the parties; and thereafter shall, within seven days, transmit the other copy to the registrar of marriages of the district in which the marriage takes place, who shall file it in his or her office."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part IV",
+      "section": "25",
+      "title": "Marriage in registrar ’s office",
+      "content": "After the issue of a certificate under section 10 or 15 , or of a licence under section 12 , the parties may, if they think fit, contract a marriage before a registrar, in the presence of two witnesses in his or her office, with open doors, between the hours of ten o’clock in the forenoon and four o’clock in the afternoon, and in the following manner— The registrar , after production to him or her of the certificate or licence, shall, either directly or through an interpreter, address the parties thus— \" Do I understand that you (name), and you (name), come here for the purpose of becoming man and wife?” If the parties answer in the affirmative, he or she shall proceed thus— “ Know you that by the public taking of each other as man and wife in my presence, and in the presence of the persons now here, and by the subsequent attestation of that taking by signing your names to that effect, you become legally married to each other, although no other rite of a civil or religious nature shall take place, and that this marriage cannot be dissolved during your lifetime, except by a valid judgment of divorce; and if either of you before the death of the other shall contract another marriage while this remains undissolved, you will be thereby guilty of bigamy and liable to punishment for that offence.” Each of the parties shall then say to the other— “ I call upon all persons here present to witness that I, (name), do take thee, (name), to be my lawful wife (or husband)”."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part IV",
+      "section": "26",
+      "title": "Marriage certificate to be signed",
+      "content": "The registrar shall then fill out, and he or she and the parties and witnesses shall sign, the certificate of marriage in duplicate, and the registrar shall then ill out and sign the counterfoil as prescribed in section 24 in the case of a marriage by a minister, and shall deliver one certificate to the parties and shall file the other in his or her office."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part IV",
+      "section": "27",
+      "title": "Marriage under Minister’s licence",
+      "content": "Whenever the Minister’s licence authorises the celebration of marriage at a place other than a licensed place of worship, or the office of a registrar of marriages, the registrar of the district in which the marriage is intended to take place, upon the production of the licence, shall deliver to the person producing it a blank certificate of marriage in duplicate, and the minister or registrar celebrating the marriage shall fill out the certificate, and observe strictly all the formalities prescribed in this Act as to marriages in a licensed place of worship, or registrar ’s office, as the case may be."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part IV",
+      "section": "28",
+      "title": "Conversion of marriage by customary law into marriage under this Act",
+      "content": "Where any persons already married or professing to be married to each other by customary law desire to convert that marriage into a marriage under this Act, the provisions of section 26 shall apply to the conversion as though it were a marriage under that section; but in that case the Forms G, H, I, J and K in Schedule 1 to this Act shall be used in lieu of the Forms A, C, D, E and F and the following forms shall be used in lieu of, and shall have the same effect as, those provided in section 26 . In lieu of the first form set out there, the following— “ Do I understand that you (name), and you (name), have been married to each other by customary law and that you come here for the purpose of binding yourselves legally to each other as man and wife so long as both of you shall live?” In lieu of the second form set out there, the following— “ Whereas you (name), and you (name), profess that you have been married to each other by customary law and whereas that marriage does not bind you by law to each other as man and wife so long as both of you shall live and whereas you desire to bind yourselves legally each to the other as man and wife so long as both of you shall live: Know you that by the public taking of each other as man and wife so long as both of you shall live, in my presence and in the presence of the persons now here, and by the subsequent attestation of that taking by signing your names to that effect, you become legally bound to each other as man and wife so long as both of you shall live although no other rite of a civil or religious nature shall now take place, and that your marriage cannot be dissolved during your lifetime, except by a valid judgment of divorce; and if either of you before the death of the other shall illegally contract another marriage while your marriage to each other remains undissolved, you will be guilty of bigamy, and liable to punishment for that offence.” And in lieu of the third form set out there, the following— “ I call upon all persons here present to witness that I, (name), take you (name), to be my lawful wife (or husband) so long as both of us shall live.” Part V – Registry and evidence of marriages"
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part V",
+      "section": "29",
+      "title": "Marriage certificates to be registered",
+      "content": "(1) The registrar of marriages in each district shall register in a book to be kept in his or her office for that purpose, and to be called “The Marriage Register Book”, every certificate of marriage which shall be filed in his or her office, according to Form F in Schedule 1 to this Act; and every such entry shall be made in the order of date from the beginning to the end of the book, and every entry so made shall be dated on the day on which it is so entered, and shall be signed by the registrar , and the book shall be indexed in such manner as is best suited for easy reference to it. (2) The registrar shall at all reasonable times allow searches to be made in the Marriage Register Book, and shall give certified copies from it upon payment of the prescribed fee. (3) Within ten days after the last day of each month, every registrar shall send to the Registrar General a certified copy of all entries he or she made during the preceding month in the Marriage Register Book of his or her district , and the Registrar General shall file the copy in his or her office."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part V",
+      "section": "30",
+      "title": "Correction of clerical errors in marriage certificates",
+      "content": "Any registrar , when authorised by the Registrar General , may correct any clerical error in any certificate of marriage filed in his or her office, upon production to him or her of the certificate delivered to the parties, and shall authenticate every correction by his or her signature and the date of the correction."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part V",
+      "section": "31",
+      "title": "Evidence of marriage",
+      "content": "Every certificate of marriage which shall have been filed in the office of the registrar of any district , or a copy of the certificate of marriage, purporting to be signed and certified as a true copy by the registrar of that district and every entry in a Marriage Register Book or a copy of the entry, certified as prescribed in this section, shall be admissible as evidence of the marriage to which it relates, in any court of justice or before any person having by law or consent of the parties authority to hear, receive and examine evidence. Part VI – Valid and invalid marriages"
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part VI",
+      "section": "32",
+      "title": "Circumstances invalidating marriage",
+      "content": "(1) No marriage in Uganda shall be valid which, if celebrated in England, would be null and void on the ground of kindred or affinity, or where either of the parties to it at the time of the celebration of the marriage is married by customary law to any person other than the person with whom the marriage is had. (2) A marriage shall be null and void if both parties knowingly and wilfully acquiesce in its celebration— (a) in any place other than the office of a registrar of marriages or a licensed place of worship, except where authorised by the Minister’s licence; (b) under a false name or names; (c) without the registrar ’s certificate of notice or Minister’s licence duly issued; or (d) by a person not being a recognised minister of some religious denomination or body, or a registrar of marriages. (3) A marriage shall not, after celebration, be deemed invalid by reason that any provision of this Act, other than the requirements of this section, has not been complied with."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part VI",
+      "section": "33",
+      "title": "Marriages under this Act valid",
+      "content": "All marriages celebrated under this Act shall be good and valid in law to all intents and purposes."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part VI",
+      "section": "34",
+      "title": "Marriages under customary law",
+      "content": "Any person who is married under this Act, or whose marriage is declared by this Act to be valid, shall be incapable, during the continuance of that marriage, of contracting a valid marriage under any customary law, but nothing in this Act shall affect the validity of any marriage contracted under or in accordance with any customary law, or in any manner applied to marriages so contracted. Part VII – Expenses and fees"
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part VII",
+      "section": "35",
+      "title": "Certain expenses to be defrayed from public funds",
+      "content": "The Minister may defray out of money provided by Parliament all proper expenses connected with the transmission or delivery of the marriage registers, or which may otherwise become necessary to be incurred in implementing this Act."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part VII",
+      "section": "36",
+      "title": "Fees",
+      "content": "(1) The fees specified in Schedule 2 to this Act shall be paid to the registrars for the several matters to which they are applicable and shall be paid by them into the Consolidated Fund. (2) The Minister may, by statutory order, amend Schedule 2 to this Act."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part VII",
+      "section": "37",
+      "title": "Fee may be remitted",
+      "content": "The Minister may, when he or she is satisfied of the poverty of the parties, reduce the amount of the fees specified in Schedule 2 to this Act, or remit them altogether; and, if they have been paid into the Consolidated Fund, order their refund."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part VII",
+      "section": "38",
+      "title": "Minister may receive customary fees",
+      "content": "This Act shall not preclude a minister from receiving the fees ordinarily paid to a minister of his or her denomination for the celebration of marriage. Part VIII – Offences and penalties"
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part VIII",
+      "section": "39",
+      "title": "Bigamy",
+      "content": "Any person who commits bigamy is liable, on conviction, to imprisonment for a term not exceeding five years."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part VIII",
+      "section": "40",
+      "title": "Marriage with person previously married",
+      "content": "Any person who, being unmarried, goes through the ceremony of marriage with a person whom he or she knows to be married to another person, commits an offence and is liable, on conviction, to imprisonment for a term not exceeding five years."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part VIII",
+      "section": "41",
+      "title": "Making false declarations, etc. for marriage",
+      "content": "Any person who in any declaration, certificate, licence, document or statement by law to be made or issued for the purposes of a marriage, declares, enters, certifies or states any material matter which is false, if he or she does so without having taken reasonable means to ascertain the truth or falsity of that matter, commits an offence and is liable, on conviction, to imprisonment for a term not exceeding one year, or if he or she does so knowing that the matter is false, is liable, on conviction, to imprisonment for a term not exceeding five years."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part VIII",
+      "section": "42",
+      "title": "False pretence of impediment to marriage",
+      "content": "Any person who endeavours to prevent a marriage by pretence that his or her consent to it is required by law, or that any person whose consent is so required does not consent, or that there is any legal impediment to the performing of the marriage, shall, if he or she does so knowing that the pretence is false or without having reason to believe that it is true, commits an offence and is liable, on conviction, to imprisonment for a term not exceeding two years."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part VIII",
+      "section": "43",
+      "title": "Unlawfully performing marriage ceremony",
+      "content": "Any person who performs or witnesses as a marriage officer the ceremony of marriage, knowing that he or she is not duly qualified to do so, or that any of the matters required by law for the validity of the marriage has not happened or been performed, so that the marriage is void or unlawful on any ground, commits an offence and is liable, on conviction, to imprisonment for a term not exceeding five years."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part VIII",
+      "section": "44",
+      "title": "Wilful neglect of duty to fill up or transmit certificate of marriage",
+      "content": "Any person who, being under a duty to fill out the certificate of marriage celebrated by him or her, or its counterfoil, or to transmit the certificate to the registrar of marriages, wilfully fails to perform that duty, commits an offence and is liable, on conviction, to imprisonment for a term not exceeding two years."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part VIII",
+      "section": "45",
+      "title": "Personation in marriage",
+      "content": "Any person who personates any other person in marriage, or marries under a false name or description, with intent to deceive the other party to the marriage, commits an offence and is liable, on conviction, to imprisonment for a term not exceeding five years."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part VIII",
+      "section": "46",
+      "title": "Fictitious marriage",
+      "content": "Any person who goes through the ceremony of marriage, or any ceremony which he or she represents to be a ceremony of marriage, knowing that the marriage is void on any ground, and that the other person believes it to be valid, commits an offence and is liable, on conviction, to imprisonment fora term not exceeding five years."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part VIII",
+      "section": "47",
+      "title": "Contracting marriage when already married by customary law",
+      "content": "Any person who contracts a marriage under this Act, being at the time married in accordance with customary law to any person other than the person with whom such marriage is contracted, commits an offence and is liable, on conviction, to imprisonment for a term not exceeding five years."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part VIII",
+      "section": "48",
+      "title": "Contracting marriage by customary law when already married under this Act",
+      "content": "Any person who, having contracted marriage under this Act, during the continuance of that marriage contracts a marriage in accordance with customary law, commits an offence and is liable, on conviction, to imprisonment for a term not exceeding five years."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part VIII",
+      "section": "49",
+      "title": "Forms",
+      "content": "The forms contained in Schedule 1 to this Act may be used in the cases to which they are applicable, with such alterations as may be necessary. Schedule 1 (Sections 6, 7, 10, 12, 17(2), 22(1), 28, 49) Forms [Editorial note: The forms have not been reproduced.] Schedule 2 (Sections 36, 37) Fees National application (shs) Foreign application (US $) Filing every notice and entering it 10,000 10 On issue of each certificate 25,000 25 Certifying any extract 35,000 25 On every marriage in the registrar’s office 200,000 150 On registration of the marriage 25,000 25 Licence to gazette wedding venue 300,000 200 Licence to waive 21 days 300,000 200 Licence for place of worship to celebrate marriages 200,000 not applicable Inspection or search of any marriage register, return or index 25,000 20 History of this document 31 December 2023 this version Chapter 146 Revised Laws 2023 Consolidation 10 March 2014 Amended by Marriage (Amendment of Second Schedule) Order, 2014 Read this version 17 June 2005 Amended by Marriage Act (Amendment of Second Schedule) Order, 2005 Read this version 31 December 2000 Chapter 251 Revised Laws 2000 Consolidation Read this version 01 April 1904 Commenced Related documents Is amended by Marriage (Amendment of Second Schedule) Order, 2014 Marriage Act (Amendment of Second Schedule) Order, 2005 Subsidiary legislation Title Marriage Act (Amendment of Second Schedule) Order, 2005 Statutory Instrument 56 of 2005 [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About ULII ULII is a project of the Law Reporting Committee of the Judiciary of Uganda. ULII aims to bridge the existing gap in public access to the law of Uganda. Working with the AfricanLII and in collaboration with other partners, such as the Free Access to Law Movement, ULII's major aim is to be a user-friendly portal of all publicly available legal information in Uganda. The Judiciary of Uganda considers access to its decisions and the law upon which they are based as key tenets of its key mission: Justice for All . ULII is also an end user interface for the Electronic Court Case Management Information System. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Uganda Judiciary Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "district",
+      "definition": "a marriage district constituted under this Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "foreign application",
+      "definition": "an application by a person who is not a Ugandan citizen",
+      "source_provision": "s1"
+    },
+    {
+      "term": "national application",
+      "definition": "an application by a person who is a Ugandan citizen",
+      "source_provision": "s1"
+    },
+    {
+      "term": "registrar",
+      "definition": "a registrar of marriages, and includes a deputy registrar when acting as registrar",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Registrar General",
+      "definition": "any officer appointed to act as Registrar General for the purposes of this Act.",
+      "source_provision": "s1"
+    }
+  ]
+}

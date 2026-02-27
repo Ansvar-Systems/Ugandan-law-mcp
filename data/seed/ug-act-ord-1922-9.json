@@ -1,0 +1,60 @@
+{
+  "id": "ug-act-ord-1922-9",
+  "type": "statute",
+  "title": "Reciprocal Enforcement of Judgments Act",
+  "title_en": "Reciprocal Enforcement of Judgments Act",
+  "short_name": "Reciprocal Enforcement of J...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://ulii.org/en/akn/ug/act/ord/1922/9/eng@2023-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Interpretation",
+      "content": "(1) In this Act, unless the context otherwise requires— “ judgment ” means any judgment or order given or made by a court in any civil proceedings, whether before or after the passing of this Act, by which any sum ofmoney is made payable, and includes an award in proceedings on an arbitration if the award has, in pursuance of the law in force in the place where it was made, become enforceable in the same manner as a judgment given by a court in that place; “ judgment creditor ” means the person by whom the judgment was obtained, and includes the successors and assigns of that person; “ judgment debtor ” means the person against whom the judgment was given, and includes any person against whom the judgment is enforceable in the place where it was given; “ original court ”, in relation to any judgment , means the court by which the judgment was given; “ registering court ”, in relation to any judgment , means the court by which the judgment was registered. (2) Subject to rules of court, any of the powers conferred by this Act may be exercised by a judge of the court."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Enforcement of judgments obtained in superior courts in United Kingdom or Ireland",
+      "content": "(1) Where a judgment has been obtained in a superior court in the United Kingdom or the Republic of Ireland, the judgment creditor may apply to the High Court, at any time within twelve months after the date of the judgment , or such longer period as may be allowed by the court, to have the judgment registered in the court, and on any such application, the court may, if in all the circumstances of the case it thinks it is just and convenient that the judgment should be enforced in Uganda, and subject to this section, order the judgment to be registered accordingly. (2) No judgment shall be ordered to be registered under this section— (a) the original court acted without jurisdiction; (b) the judgment debtor , being a person who was neither carrying on business nor ordinarily resident within the jurisdiction of the original court , did not voluntarily appear or otherwise submit or agree to submit to the jurisdiction of that court; (c) the judgment debtor , being the defendant in the proceedings, was not duly served with the process ofthe original court and did not appear, notwithstanding that he or she was ordinarily resident or was carrying on business within the jurisdiction of that court or agreed to submit to the jurisdiction of that court; (d) the judgment was obtained by fraud; (e) the judgment debtor satisfies the registering court , either that an appeal is pending, or that he or she is entitled and intends to appeal, against the judgment ; or (f) the judgment was in respect of a cause of action which, for reasons of public policy or for some other similar reason, could not have been entertained by the registering court . (3) Where a judgment is registered under this section— (a) the judgment shall, as from the date of registration, be of the same force and effect, and proceedings may be taken on the judgment , as if it had been a judgment originally obtained or entered upon the date ofregistration in the registering court ; (b) the registering court shall have the same control and jurisdiction over the judgment as it has over similar judgments given by itself, but insofar only as relates to execution under this section; (c) the reasonable costs of and incidental to the registration of the judgment , including the costs of obtaining a certified copy of the judgment from the original court and of the application for registration, shall be recoverable in like manner as if they were sums payable under the judgment . (4) Rules of court shall provide— (a) for service on the judgment debtor , of notice of the registration of a judgment under this section; (b) for enabling the registering court , on an application by the judgment debtor , to set aside the registration of a judgment under this section on such terms as the court thinks fit; and (c) for suspending the execution of a judgment under this section until the expiration of the period during which the judgment debtor may apply to have the registration set aside. (5) In any action brought in any court in Uganda on any judgment which might be ordered to be registered under this section, the plaintiff shall not be entitled to recover any costs of the action unless an application to register the judgment under this section has previously been refused, or unless the court otherwise orders."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Issue of certificates of judgments obtained in Uganda",
+      "content": "In any action brought in any court in Uganda on any judgment which might be ordered to be registered under this section, the plaintiff shall not be entitled to recover any costs of the action unless an application to register the judgment under this section has previously been refused, or unless the court otherwise orders."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Power to make rules",
+      "content": "Provision may be made by rules of court for regulating the practice and procedure, including scales of fees and evidence, in respect of proceedings of any kind under this Act."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Power to apply this Act to Commonwealth countries outside the United Kingdom",
+      "content": "Where the Minister is satisfied that reciprocal provisions have been made by the legislature of any Commonwealth country outside the United Kingdom for the enforcement within that country of judgments obtained in the High Court, the Minister may, by statutory order, declare that this Act shall extend to judgments obtained in a superior court in that country in the like manner as it extends to judgments obtained in a superior court in the United Kingdom, and on any such order being made, this Act shall extend accordingly. History of this document 31 December 2023 this version Chapter 23 Revised Laws 2023 Consolidation 31 December 2000 Chapter 21 Revised Laws 2000 Consolidation Read this version 22 March 1922 Commenced Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About ULII ULII is a project of the Law Reporting Committee of the Judiciary of Uganda. ULII aims to bridge the existing gap in public access to the law of Uganda. Working with the AfricanLII and in collaboration with other partners, such as the Free Access to Law Movement, ULII's major aim is to be a user-friendly portal of all publicly available legal information in Uganda. The Judiciary of Uganda considers access to its decisions and the law upon which they are based as key tenets of its key mission: Justice for All . ULII is also an end user interface for the Electronic Court Case Management Information System. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Uganda Judiciary Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "judgment",
+      "definition": "any judgment or order given or made by a court in any civil proceedings, whether before or after the passing of this Act, by which any sum ofmoney is made payable, and includes an award in proceedings on an arbitration if the award has, in pursuance of the law in force in the place where it was made, become enforceable in the same manner as a judgment given by a court in that place",
+      "source_provision": "s1"
+    },
+    {
+      "term": "judgment creditor",
+      "definition": "the person by whom the judgment was obtained, and includes the successors and assigns of that person",
+      "source_provision": "s1"
+    },
+    {
+      "term": "judgment debtor",
+      "definition": "the person against whom the judgment was given, and includes any person against whom the judgment is enforceable in the place where it was given",
+      "source_provision": "s1"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ug-act-1965-23",
+  "type": "statute",
+  "title": "Public Holidays Act",
+  "title_en": "Public Holidays Act",
+  "short_name": "Public Holidays Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://ulii.org/en/akn/ug/act/1965/23/eng@2000-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires, \"public holiday\" means a public holiday specified by this Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Public holidays",
+      "content": "(1) The days specified in the Schedule to this Act are declared to be public holidays, which, subject to this Act, shall in every year be kept and observed as public holidays throughout Uganda. (2) In addition to the public holidays prescribed by subsection (1), the President may declare any other day to be a public holiday, and may limit the observation of any such public holiday to any area or place in Uganda."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Remuneration for holiday work",
+      "content": "(1) Every employer shall pay to each of his or her employees in respect of every public holiday, the full remuneration which would have been payable to the employee for a full day's work if that day had not been a public holiday. (2) Where any employee attends or performs work for a full day or more on a public holiday, the employer shall pay to the employee in addition to the remuneration prescribed by subsection (1) an amount of money not less than the remuneration which would have been payable to the employee for the work if that day had not been a public holiday or shall grant the employee leave with full pay in lieu of the public holiday. (3) Where any employee attends and performs work for part only of a public holiday, an employer shall pay to the employee in addition to the remuneration prescribed by subsection (1), the proportion of the remuneration for a full day's work on that day if that day had not been a public holiday, represented by the number of hours for which the employee has performed work. (4) Where any payment is required to be made under subsection (1), (2) or (3) in respect of any public holiday, the payment shall be made within one month after the public holiday. (5) Any person who contravenes subsection (1), (2), (3) or (4) commits an offence and is liable on conviction to a fine not exceeding ten pounds. (6) In any proceedings against an employer under this section, the court may, on conviction, order the employer to pay in addition to the fine, if any, such sum of money as appears to the court to be due to the employee on account of any remuneration payable to him or her under this section, and may in that order, specify the time within which the payment shall be made. (7) This section shall not apply in relation to a public holiday declared under section 2 (2), if the declaration states that it is or is to be an unpaid public holiday."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Act binds Government",
+      "content": "This Act, with the exception of section 2 (2), (3), (4), (5) and (6) shall bind the Government. Schedule (Section 2) Public holidays Birth of Prophet Muhamed Day Boxing Day — 26th December Christmas Day — 25th December Easter Monday Good Friday Idd Adhua Idd el-Fitr Day Idd-ul-Zuho Day Independence Day—9th October Martyrs' Day — 3rd June National Heroes Day — 9th June New Year's Day — 1st January Women's Day — 8th March History of this document 28 July 2023 amendment not yet applied Amended by Law Revision (Miscellaneous Amendments) Act, 2023 31 December 2000 this version Chapter 255 Revised Laws 2000 Consolidation 30 July 1965 Commenced Related documents Is amended by Law Revision (Miscellaneous Amendments) Act, 2023 [] [] [] [{\"provision_eid\": \"sec_2__subsec_2\", \"citations\": 1}] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About ULII ULII is a project of the Law Reporting Committee of the Judiciary of Uganda. ULII aims to bridge the existing gap in public access to the law of Uganda. Working with the AfricanLII and in collaboration with other partners, such as the Free Access to Law Movement, ULII's major aim is to be a user-friendly portal of all publicly available legal information in Uganda. The Judiciary of Uganda considers access to its decisions and the law upon which they are based as key tenets of its key mission: Justice for All . ULII is also an end user interface for the Electronic Court Case Management Information System. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Uganda Judiciary Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "public holiday",
+      "definition": "a public holiday specified by this Act.",
+      "source_provision": "s1"
+    }
+  ]
+}

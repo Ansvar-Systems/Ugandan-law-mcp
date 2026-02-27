@@ -1,0 +1,441 @@
+{
+  "id": "ug-act-si-2015-75",
+  "type": "statute",
+  "title": "Anti-Money Laundering Regulations, 2015",
+  "title_en": "Anti-Money Laundering Regulations, 2015",
+  "short_name": "Anti-Money Laundering Regul...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://ulii.org/en/akn/ug/act/si/2015/75/eng@2022-02-11",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Title",
+      "content": "These Regulations may be cited as the Anti-Money Laundering Regulations, 2015."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In these Regulations, unless the context otherwise requires— \" Act \" means the Anti-Money Laundering Act, 2013; \" Authority \" means the Financial Intelligence Authority established under Part IV of the Act ; \" business relationship \" means an arrangement between a person and an accountable person, where the purpose or effect of the arrangement is to facilitate the carrying out of a transaction between the person and the accountable person on a habitual, regular or one-off basis; \" customer \" in relation to a transaction or an account, means— (a) the person in whose name a transaction or account is arranged, opened or undertaken; (b) a signatory to a transaction or account; (c) a person to whom a transaction has been assigned or transferred; (d) a person who is authorised to conduct a transaction; or (e) a person prescribed by the Authority as a customer. \" customs officer \" has the meaning assigned to it in the East African Community Customs Management Act , 2004; \" beneficiary financial institution \" means a financial institution which receives a wire transfer from an ordering financial institution directly or through an intermediary financial institution and makes the funds available to the beneficiary; \" cross-border wire transfer \" includes— (a) a wire transfer , where either the ordering financial institution or the beneficiary financial institution is located outside Uganda; or (b) any chain of wire transfer in which at least one of the financial institutions involved is located outside Uganda; \" domestic wire transfer \" includes— (a) a wire transfer , where the ordering financial institution and beneficiary financial institution are located in Uganda; or (b) any chain of wire transfer that takes place entirely within Uganda, even though the system used to transfer the payment message may be located outside Uganda; \" intermediary financial institution \" means a financial institution in a serial or cover payment chain that receives and transmits a wire transfer on behalf of the ordering financial institution and the beneficiary financial institution or another intermediary financial institution; \" legal arrangement \" means an express trust or any other similar legal arrangement; \" numbered account \" means a bank account where the name of the account holder is kept secret, and the account holder is identified by means of a code word known only by the account holder and a restricted number of bank employees; \" ordering financial institution \" means a financial institution which initiates the wire transfer and transfers the funds upon receiving the request for a wire transfer on behalf of the originator ; \" originator \" means an account holder who allows the wire transfer from an account, or where there is no account, the person that places the order with the ordering financial institution to perform the wire transfer ; \" wire transfer \" means a transaction carried out on behalf of an originator through a financial institution by electronic means with a view to making an amount of funds available to a beneficiary person at a beneficiary financial institution , irrespective of whether the originator and the beneficiary are the same person. Part II – Registration of accountable persons"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part II",
+      "section": "3",
+      "title": "Register of accountable persons",
+      "content": "(1) The Authority shall establish and maintain a register of accountable persons. (2) The register shall be kept in electronic form or some other appropriate form determined by the Financial Intelligence Authority Board. (3) The Authority shall record in the register details of all accountable persons registered by the Authority . (4) The Authority shall make the register available to the public and shall post the list of accountable persons on the Authority ’s website."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "Registration of accountable persons",
+      "content": "(1) Every accountable person shall register with the Authority , within one year from the commencement of these Regulations, or such other period as the Authority may specify. (2) An accountable person shall apply for registration using Form 1 in the Schedule. (3) Without prejudice to subregulation (1), an accountable person shall, for purposes of registration, provide the following details to the Authority — (a) the name of the accountable person; (b) the physical, postal and email address of the accountable person; (c) the status and proof of registration or incorporation of the accountable person, where the accountable person is not an individual."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part II",
+      "section": "5",
+      "title": "Notification of change of registered particulars of accountable persons",
+      "content": "(1) Where the particulars of an accountable person contained in the register change, the accountable person shall, within fifteen days after the change, notify the Authority . (2) The notification under subsection (1) shall be made using Form 2 in the Schedule. Part III – Money laundering control officers"
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part III",
+      "section": "6",
+      "title": "Money laundering control officer",
+      "content": "(1) Every accountable person who maintains accounts for clients or customers shall appoint or designate a money laundering control officer. (2) An accountable person shall notify the Authority of the appointment or designation of a money laundering control officer using Form 3 in the Schedule. (3) A person shall not be appointed a money laundering control officer unless that person occupies a senior managerial position and possesses sufficient professional experience and competence in the business of the accountable person. (4) Without prejudice to subregulation (3), the following persons do not qualify to be appointed as a money laundering control officer— (a) an internal auditor; or (b) a chief executive officer or a person of a similar rank, except where the accountable person is a sole proprietorship or a single member company. (5) Where a person ceases, for any reason, to be a money laundering control officer, the accountable person shall notify the Authority of such fact. (6) The notification under subregulation (5) shall be made within fifteen days after the person ceases to be a money laundering control officer. (7) The notification under subregulation (5) shall be made using Form 3 in the Schedule."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part III",
+      "section": "7",
+      "title": "Role of money laundering control officer",
+      "content": "(1) The role of a money laundering control officer is— (a) to act as the liaison person between the accountable person and the Authority in matters relating to coordination and compliance to anti-money laundering and combating terrorism financing; (b) to develop and implement systems, mechanisms and procedures to ensure that the staff of the accountable person immediately report any suspicious money laundering or financing of terrorism activity; (c) to notify the Authority , on behalf of the accountable person, of any suspicious money laundering or financing of terrorism activity. (2) For the purposes of this regulation, an accountable person shall ensure that all staff report any suspicious activity relating to money laundering and terrorist financing to the money laundering control officer. (3) An accountable person shall provide the money laundering control officer access to any information which may be of assistance to the officer to discharge his or her roles under these Regulations. Part IV – Money laundering prevention measures Risk assessment"
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part IV",
+      "section": "8",
+      "title": "Regular risk assessment",
+      "content": "(1) An accountable person shall, on a regular basis, conduct anti­money laundering and terrorism financing risk assessment to enable the accountable person to identify, assess, monitor, manage and mitigate the risks associated with money laundering and terrorism financing, taking into account all relevant risk factors. (2) An accountable person shall document the results of the risk assessment carried out under subregulation (1), and, upon request, the accountable person may make the results of the risk assessment available to any competent authority. (3) An accountable person shall, within forty eight hours after conducting a risk assessment, give a copy of the risk assessment results to the Authority . (4) In undertaking the risk assessment required under this regulation, an accountable person shall develop and implement mechanisms and systems that enable the accountable person to identify and assess money laundering and terrorism financing risks consistent with the nature of business and size of the accountable person. (5) On the basis of the results of the risk assessment, an accountable person shall develop and implement policies, controls and procedures to enable the accountable person to effectively detect, manage and mitigate the identified risks in the future. (6) An accountable person shall put in place policies, controls and procedures for monitoring the implementation of policies, controls and procedures to address the risks relating to money laundering and terrorism financing, and where necessary, enhance them on a regular basis. (7) An accountable person shall update its risk assessment policies, controls and procedures whenever necessary, taking into account changes in its business such as entry into new markets or the introduction of new products, services and technologies."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part IV",
+      "section": "9",
+      "title": "Risk assessment measures in respect of new technologies and products",
+      "content": "(1) An accountable person shall take reasonable measures to prevent the use of new technologies for money laundering and terrorism financing purposes. (2) Without limiting the general effect of subregulation (1), an accountable person shall conduct anti-money laundering and terrorism financing risk assessment prior to the introduction of— (a) a new product; (b) a new business practice including a new delivery mechanism in relation to a product or service; (c) a new technology for both new and pre-existing products or services. (3) An accountable person shall give to the Authority a copy of the results of the risk assessment carried out under subregulation (1), within forty eight hours after conducting the risk assessment. Movement of currency across borders"
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part IV",
+      "section": "10",
+      "title": "Cross border movement of currency and negotiable bearer instruments",
+      "content": "(1) In accordance with section 10 of the Act — (a) a person intending to transport or carry outside Uganda, currency or monetary instruments equivalent to or exceeding the amount of one thousand five hundred currency points, in any currency, shall, before transporting or carrying the currency or monetary instruments, notify the Uganda Revenue Authority using Form C in the Schedule and submit the Form to a customs officer at the port of exit; (b) a person entering into Uganda and carrying domestic cash or foreign currency or negotiable bearer instruments, equivalent to or exceeding the amount of one thousand five hundred currency points shall, upon entering Uganda file a report with the Authority using Form D in the Schedule. (2) A customs officer to whom Form C is submitted shall, without delay, submit a copy of the Form to the Authority in accordance with the Act . (3) Where a customs officer reasonably believes that a person referred to in subsection (1)(a) has made a false declaration, or has failed to declare the currency or negotiable bearer instruments, the customs officer shall require that person to produce and show to the customs officer all the currency or negotiable bearer instruments in the possession of the person. (4) Where a customs officer establishes that a person has made a false declaration, or has failed, or refused, or neglected to declare the currency or negotiable bearer instrument in accordance with the Act or these Regulations, the customs officer shall— (a) seize the currency or negotiable bearer instruments in the possession of that person and shall record the seizure in Form 4 in the Schedule; and (b) notify the Authority , within twenty four hours after the seizure of the currency or negotiable bearer instruments. (5) A customs officer who seizes currency or negotiable bearer instruments under this regulation shall, without delay, forward the currency or negotiable bearer instruments to the Authority ."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part IV",
+      "section": "11",
+      "title": "Internal control measures",
+      "content": "(1) An accountable person shall develop, adopt and implement internal control measures, policies and procedures for the prevention of money laundering and financing of terrorism. (2) For the purposes of subregulation (1), the measures shall include— (a) monitoring systems for complex, unusual or large transactions or suspicious activities; (b) enhanced due diligence procedures with respect to persons and business relations and transactions carrying high risk; (c) monitoring systems for persons in jurisdictions that do not have adequate systems to combat money laundering or terrorism financing; (d) training programmes for the purposes of continuous training of employees, managers and directors of the accountable person, so as keep those persons up to date in all aspects of anti-money laundering and combating of terrorism financing requirements including any new developments, methods and trends concerning due diligence measures and suspicious transactions reporting systems; (e) awareness programmes for the purposes of ensuring that employees, managers and directors of the accountable person are sufficiently knowledgeable about— (i) the procedures relating to combating of terrorism and terrorism financing; (ii) the provisions of the Act and these Regulations; (iii) any policies, directives, codes or guidelines issued by the accountable person relating to anti-money laundering and combating of terrorism financing; (f) maintenance of a manual to facilitate compliance with procedures, processes and working methods relating to anti­money laundering under the Act or these Regulations; (g) systems relating to carrying out of independent audits to review and verify compliance with and effectiveness of the measures taken in accordance with the Act and these Regulations; (h) mechanisms for the sharing of information obtained by an accountable person with other accountable persons including systems that ensure the confidentiality of the shared information. Anonymous or fictitious accounts"
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part IV",
+      "section": "12",
+      "title": "Anonymous or fictitious accounts",
+      "content": "(1) For the purposes of section 6 of the Act , an accountable person shall not— (a) open or maintain an anonymous or fictitious account; or (b) knowingly establish or maintain a business relationship or conduct any transaction with any person under a false name. (2) An accountable person shall, prior to establishing any business relationship or conducting any transaction with any person, take reasonable measures to determine whether the person is acting on his or her own behalf or on behalf of a third party. (3) In determining what constitutes reasonable measures under this regulation— (a) regard shall be had to all the circumstances of the case and in particular, to any guidelines or policies applicable to the accountable person; and (b) in the absence of any guidelines or policies, to the prevailing best practices in the relevant field of business and which is applicable to those circumstances. Part V – Due diligence Objectives of, and carrying out, due diligence"
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part V",
+      "section": "13",
+      "title": "Objectives of due diligence",
+      "content": "The objectives of carrying due diligence is to enable an accountable person— (a) to verify the identity of a customer or person using reliable, independently sourced documents, data or information, and in the case of a person acting on behalf of a customer , to identify and verify the identity of that person and the authority to act on behalf of the person or customer ; (b) to identify beneficial owners, and to take reasonable measures to verify the identity of beneficial owners; (c) to ascertain, in the case of legal person, the ownership and control structure of a customer or person; (d) to obtain information relating to the purpose and nature of the business relationship ; and (e) to ensure that any transaction being conducted is consistent with the accountable person’s knowledge of the customer or person, their nature of business and risk profile, including where necessary, the source of funds."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part V",
+      "section": "14",
+      "title": "Carrying out due diligence",
+      "content": "(1) For the purposes of section 6 of the Act , an accountable person shall carry out due diligence in the following circumstances— (a) before or during the course of opening an account for a person or customer ; (b) before establishing a business relationship with a person; (c) before carrying out a transaction for a person with whom it is not in an established business relationship with, whether conducted as a single transaction or several transactions that appear to be linked; (d) before carrying out a domestic or international wire transfer for a person with whom it is not in an established business relationship ; (e) where there is a suspicion of money laundering or terrorism financing by any person or customer ; (f) where there is doubt as to identity of the customer or any person, and in particular, where there is doubt as to the authenticity or adequacy of previously obtained identification data of the customer or person. (2) An accountable person shall, on the commencement of these Regulations, carry out due diligence on all accounts and customers existing immediately before the commencement of the Regulations."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part V",
+      "section": "15",
+      "title": "Due diligence to be carried out on risk based approach",
+      "content": "(1) An accountable person shall carry out due diligence in respect of all persons and customers on a risk sensitive basis, taking into account the outcome of the risk assessment undertaken by the accountable person under these Regulations. (2) Where an identified risk is high, an accountable person shall conduct enhanced due diligence measures consistent with the risk identified. (3) Enhanced due diligence measures shall be applied by— (a) obtaining further information that may assist in establishing the identity of the person or entity; (b) applying extra measures to verify any documents supplied; (c) obtaining senior management approval for the new business relationship or transaction sought by the person or customer ; (d) establishing the source of funds of the person or entity; (e) carrying out on-going monitoring of the business relationship (4) The enhanced due diligence measures referred to in subregulation (2), shall be applied at each stage of the customer due diligence process and shall continue to be applied on an on-going basis. (5) Where the risk identified by the accountable person is low, an accountable person shall have the discretion to conduct simplified due diligence measures but this does not apply to cases involving suspicions of money laundering or terrorism financing."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part V",
+      "section": "16",
+      "title": "Performance of due diligence by third party",
+      "content": "(1) An accountable person may use a third party to perform some due diligence measures if the third person satisfies the criteria set out in this regulation. (2) An accountable person who wishes to rely on a third party shall enter into an agreement with the third party and the agreement shall outline the responsibilities of the accountable person and the third party. (3) An accountable person who relies on a third party shall— (a) obtain from the third party all the necessary information concerning the relevant elements of customer due diligence measures performed by the third person including copies of identification data and other relevant documentation; (b) ensure that the third party is regulated, supervised or monitored by a competent authority and has measures in place to comply with customer due diligence and record-keeping requirements in accordance with the Act and these Regulations. (4) Where an accountable person intends to rely on a third party that is based outside Uganda, the accountable person shall assess the anti-money laundering and combating terrorism financing risks that the country of the third party poses and the adequacy of customer due diligence measures adopted by financial institutions in that country. (5) For the purposes of this regulation, \"third party\" means another financial institution or designated non-financial business or a person that is supervised or monitored by a competent authority. (6) Where an accountable person relies on a third party to perform some due diligence measures, the responsibility for customer due diligence measures remains with the accountable person that is relying on the third party."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part V",
+      "section": "17",
+      "title": "Compliance with due diligence measures",
+      "content": "An accountable person shall, as soon as is reasonably practicable after commencement of these Regulations, comply with the due diligence requirements set out in these Regulations. Verfication of identity of customers"
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part V",
+      "section": "18",
+      "title": "Accountable person to identify person before establishing relationship",
+      "content": "(1) An accountable person shall verify the identity of a person— (a) before establishing an initial business relationship with the person; (b) when undertaking occasional or one-off transactions for a customer or the person; (c) when there is cause to be suspicious of any transaction or account; or (d) when there is doubt about the veracity or adequacy of previously obtained customer information. (2) In addition to verifying the identity of a person or customer under subregulation (1), an accountable person shall verify the following matters— (a) the purpose and nature of the business or principal activity of the person or customer ; (b) the financial status of the person or customer ; (c) the capacity in which the person or customer is entering into the business relationship with the accountable person. (3) Where a person or customer fails or does not, as soon as is reasonably practicable, provide sufficient proof of identity, the accountable person shall not open an account, perform any transaction or commence any business relationship with the person or customer , and in a case where a business relationship already exists with the person or customer , the accountable person shall discontinue the business relationship . (4) An accountable person shall, on a regular basis, review the due diligence measures relating to identification information, records and documents of all existing customers in order to ensure that the information, records and documents are up to date. (5) An accountable person shall, for the purposes of this regulation— (a) determine the extent of due diligence measures to apply to a person or customer taking into consideration, the risk sensitivity of the person or customer , the business relationship , the product or transaction; and (b) be able to demonstrate to its supervisory authority that the extent of the due diligence measures are appropriate in view of the risks of money laundering and terrorism financing. Manner of establishing identity of different kinds of persons and customers"
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part V",
+      "section": "19",
+      "title": "Establishing the identity of natural persons who are citizens or residents",
+      "content": "(1) For the purposes of establishing or verifying the identity of a natural person who is a citizen or a natural person lawfully resident in Uganda, the accountable person shall require— (a) the person to produce a national identification card or an alien’s identification card, whichever is applicable; and (b) provide the following— (i) details of the residential address; (ii) the telephone contact including the mobile telephone number, fax number, postal address and e-mail address; (iii) an introductory letter from the employer or a senior government official attesting to the identity of the person; (iv) a tax identification number, where applicable; (v) in the case of a student, an introductory letter from the school and a copy of the student’s identity card; (vi) a summary of the nature of business activities the person is engaged in; (vii) a sample signature and thumb print. (2) The accountable person may require a person to provide the following additional information to enable the identification and verification of the identity of the person— (a) utility bills including electricity and water bills; (b) details on occupation or employment; (c) details of source of income; (d) nature and location of business activity including a lease or tenancy agreement for the business premises; (e) income tax identification number, where applicable; (f) written references from acknowledged persons attesting to the customer ’s identity, where applicable. (3) Where in any case— (a) the identity of a citizen is in doubt, the accountable person shall request the National Identification and Registration Authority to confirm the identity of the person; (b) the immigration status of a person is in doubt, the accountable person shall request the Uganda Citizenship and Immigration Control Board to confirm the immigration status of the person. (4) Where a person is only capable of establishing a business relationship or concluding a transaction with the assistance of a third person, the accountable person shall obtain the particulars of the third person. (5) The particulars to be obtained from the third person under subregulation (4) shall, with the necessary modifications, be the same as those of the person intending to establish a business relationship or conclude a transaction. (6) The ink and pad for purposes of taking finger prints for identification and verification shall be of such quality as to enable the capturing of proper finger prints. (7) The following procedure shall be adopted in respect of taking finger prints— (a) where the person has both hands, the right hand thumb print shall be captured; (b) where the person has no right hand thumb, the left hand thumb print shall be captured; (c) in case the person does not have both thumbs, the next available finger print shall be used, starting with the right pointing finger; (d) in case the person does not have fingers, the accountable person may take the print of the palm or toes; (e) in case the person lacks both hands and feet, an exceptional approval from the management of the accountable person shall be obtained after recording such situation."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part V",
+      "section": "20",
+      "title": "Establishing the identity of foreign nationals",
+      "content": "(1) An accountable person shall obtain from, or in respect of, an individual who is a foreign citizen and is not resident in Uganda, the following information— (a) the name and residential address including telephone number, postal and email address; (b) the date and place of birth; (c) the nationality; (d) the passport details; (e) the visa status; (f) the tax identification number, where applicable; (g) the signature and thumb print. (2) Where a person is only capable of establishing a business relationship or concluding a transaction with the assistance of a third person, the accountable person shall obtain the particulars of the third person. (3) The particulars to be obtained from the third person shall, with the necessary modifications, be the same as those of the person intending to establish a business relationship or conclude a transaction under these Regulations. (4) An accountable person shall independently verify the particulars and details submitted by a foreign national by requesting— (a) the Uganda Citizenship and Immigration Control Board to confirm the information, in the case of matters relating to the person’s immigration status; or (b) the individual’s bank in his or her country of origin or residence to confirm the bank and financial details. (5) Where it is not practicable to contact the individual’s bank in his or her country of origin or residence, the accountable person shall use any other information obtained from any other independent and reliable source, while taking into account the risk posed by the jurisdiction of origin or residence of the foreign national, the nature of business of the foreign national and products and services offered by the accountable person to the foreign national."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part V",
+      "section": "21",
+      "title": "Establishing identity of local entities and other bodies",
+      "content": "(1) For the purposes of establishing and verifying the identity of a local entity or body, an accountable person shall require the entity or body to provide the following information— (a) the registered name and address of the entity or body; (b) the trade name under which the entity or body conducts business; (c) the proof of registration or incorporation or other similar documentation evidencing the legal status of the legal entity or body including the incorporation or registration number; (d) a certified copy of written authorisation permitting the entity or body to open an account or transact business with the accountable person; (e) the name, date of birth, identity or passport number and address of the natural persons managing, controlling or owning the entity or body; (f) the audited financial statements for the immediate last year, where applicable; (g) the un-audited financial statements for the immediate last year, where applicable; (h) the tax identification number, where applicable; (i) in appropriate cases, written confirmation from the entity’s or body’s previous bank, if any, attesting to identity and history of any account relationship. (2) An accountable person shall verify the information obtained from a local legal entity or body other than a legal arrangement by— (a) comparing the incorporation documents with those held by the Registrar of Companies; (b) physically verifying the location of the head office or other place of business of the entity or body and the contact details; and (c) independently verifying the information with regard to directors, senior management, shareholders, partners or other persons who purport to be authorised to establish a business relationship or enter into a transaction with the accountable person on behalf of the legal entity or body. (3) Where it is not practicable to verify the particulars of a legal entity or body in the manner described in subregulation (2), an accountable person shall use any other information obtained from any other independent and reliable source, while taking into account the risk posed by the nature and business of the legal entity and the products and services offered to the legal entity or body by the accountable person."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part V",
+      "section": "22",
+      "title": "Establishing identity of foreign entities or bodies",
+      "content": "(1) For the purposes of establishing and verifying the identity of a foreign entity or body, an accountable person shall require the entity or body to provide the following information— (a) the name and number under which the entity or body is incorporated or registered; (b) details of situation of registered place of business in the country where the entity or body is incorporated or registered including the address of the head office; (c) the name under which the entity or body conducts business in Uganda; (d) the details of situation of registered place of business in the Uganda, and in case the entity or body operates from multiple addresses, the address of the office seeking to establish a business relationship or enter into a transaction with the accountable person; (e) the tax identification number, where applicable; (f) in the case of a person in Uganda authorised to act on behalf of the entity or body, a copy of the authorisation to act on behalf of the entity or body including the full names, date and place of birth and tax identification number of the person; (g) details of every individual, entity, partnership or trust holding five percent or more of the voting rights in the foreign entity or body. (2) In addition to the information required under subregulation (1), the accountable person shall collect information about the foreign entity or body to establish— (a) the nature of business of the entity or body; (b) the reputation of the entity or body; (c) the quality of anti-money laundering and combating of financing of terrorism supervision of the entity or body; (d) whether the entity or body has been subject to any money laundering or terrorism financing investigation or regulatory action; (e) the nature and effectiveness of the anti-money laundering and counter-terrorism financing control measures used by the entity or body. (3) An accountable person shall verify the particulars obtained in respect of a foreign company by— (a) confirming with a bank which holds an account of the company the details about the incorporation or registration of the company; (b) physically confirming the place of business in Uganda; and (c) independently confirming information with regard to directors, senior management, shareholders, partners or other persons who purport to be authorised to establish a business relationship or enter into a transaction with the reporting institution on behalf of the legal entity. (4) Where it is not practicable to verify the particulars of the company in the manner described in subregulation (3), an accountable person shall use any other information obtained from any independent and reliable source, taking into account the risk posed by the jurisdiction where the company is registered or incorporated, the nature of business of the foreign company, and the products and services offered by the accountable person to the foreign company."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part V",
+      "section": "23",
+      "title": "Establishing identity of partnerships",
+      "content": "For the purposes of establishing and verifying the identity of a partnership, an accountable person shall require the following information— (a) the name of the partnership, and where applicable its registered name and registration number; (b) a copy of the partnership deed; (c) details of the registered address or principal place of business or office; (d) the names, date and place of birth, identity card number or passport number, tax identification number and address of every partner and person who exercises control in the partnership; (e) the name and particulars of every natural person authorised to establish a business relationship or to enter into a transaction with the accountable person on behalf of the partnership; and (f) the financial statements of the immediate last year."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part V",
+      "section": "24",
+      "title": "Establishing identity of trustees",
+      "content": "(1) For the purposes of establishing and verifying the identity of a trust, an accountable person shall require the following information— (a) the registered name and number of the trust; (b) proof of registration or incorporation of the trust such as a certificate of incorporation or registration; (c) a copy of the trust deed; (d) the official returns showing the registered office or the principal place of business; (e) the name and details of the person managing the trust, if any; (f) the name of the relevant persons having senior management positions or trustees of the trust; (g) the full name of the trustee, beneficiaries or any other natural person exercising control over the trust; (h) the full name of the founder or sponsor of the trust. (2) An accountable person shall verify the particulars submitted to the accountable person by a legal arrangement by— (a) comparing the documents submitted with those held with the office responsible for registering the legal arrangement ; (b) independently verifying information with regard to the founders or sponsors, and beneficiaries or other persons who purport to be authorised to establish a business relationship or enter into a transaction with the accountable person on behalf of the legal arrangement ; (c) physically verifying the place of business of the legal arrangement and contact information provided, where applicable; and (d) verifying with the bank where a foreign legal arrangement holds an account as to the authenticity of any documents purporting to be issued by that bank. (3) Where the customer is a private trust, an accountable person shall verify the authorisation given to each trustee of the trust. (4) Where it is not practicable to verify the particulars of a trust in the manner described in subregulation (2), an accountable person shall use any other information obtained from any other independent and reliable source while taking into account the risk posed by the jurisdiction where the legal arrangement is registered, the nature and business of the legal arrangement and products and services offered by the accounting person to the legal arrangement ."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part V",
+      "section": "25",
+      "title": "Identification of beneficiaries in a legal person or legal arrangement",
+      "content": "(1) An accountable person shall develop and implement due diligence measures to enable the accountable person to identify and verify the natural persons exercising control and ownership of a legal person or legal arrangement other than a trust. (2) For the purposes of this regulation, the due diligence measures adopted by an accountable person shall— (a) seek to enable the accountable person to ascertain the nature of business, ownership and control structure of the legal person or legal arrangement ; (b) require the provision of the following— (i) the details of incorporation; (ii) the partnership agreement; (iii) the trust deed; (iv) the particulars of directors and shareholders; (v) the names of the relevant persons in senior management positions in the legal person or trustees of the legal arrangement ; (vi) the names of the trustees, beneficiaries or any other natural person exercising control of the trust; (vii) any other relevant documentation obtained from a reliable independent source. (6) The relevant identification data in subregulation (3) may be obtained from a register of a ministry, department of agency of government, the customer or other reliable sources. [Please note: numbering as in original.]"
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part V",
+      "section": "26",
+      "title": "Identification of beneficiaries in life insurance related business",
+      "content": "(1) In the case of life or other investment related insurance business, an accountable person shall, in addition to the customer due diligence measures required, ensure that the beneficiary of the life or other investment related insurance business is capable of being identified. (2) An accountable person shall take reasonable measures to determine whether the beneficiary of a life insurance policy is a politically exposed person, in any case the identification shall be done before the proceeds are paid. (3) Without prejudice to subregulation (3), where the payee of the insurance policy is not a customer , an insurer shall identify the payee and verify his or her identity before making any of the following payments— (a) payment of the sum assured or part of the sum, upon the occurrence of the risk insured against in accordance with the policy; (b) payment of the surrender value of the insurance policy; (c) refund of premium upon the avoidance, cancellation or termination of any insurance policy; or (d) refund of any other payment made in relation to any insurance policy. (4) An accountable person shall not be required to inquire if there exists any beneficial owner in relation to a customer , where the customer is— (a) a government entity; (b) a foreign government entity and is not sanctioned or blacklisted by the United Nations and other relevant international body; (c) an entity listed on the securities exchange in Uganda; (d) an entity listed on a securities exchange outside of Uganda that is subject to adequate regulatory disclosure requirements; (e) a bank or any other financial institution supervised by the Central Bank, the Capital Markets Authority or the Uganda Insurance Regulatory Authority ; (f) a bank or any other financial institution incorporated or established outside Uganda that is subject to and supervised for compliance with anti-money laundering and financing terrorism requirements consistent with international standards; (g) a beneficiary of a life insurance policy, where the annual premium is not more than the amount of Uganda shillings one million five hundred thousand or its equivalent in foreign currency or a single premium of not more than the amount of Uganda shillings four million or its equivalent in foreign currency; (h) a beneficiary of an insurance policy for pension schemes where there is no surrender clause and the policy cannot be used as collateral; or (i) a beneficiary of a pension, superannuation or similar scheme that provides retirement benefits to employees, where contributions are made by way of deduction from wages and the scheme rules do not permit the assignment of a member‘s interest. (5) Where there is a high risk identified, an accountable person shall in addition to the required customer due diligence measures— (a) inform senior management before the payout of the policy proceeds; (b) conduct enhanced scrutiny of the whole business relationship with the policy holder; and (c) file a suspicious transaction or activity report with the Authority ."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part V",
+      "section": "27",
+      "title": "Establishing authority of person acting for another",
+      "content": "(1) Without prejudice to any regulation, where an individual seeks to establish a relationship or to conclude a transaction with an accountable person on behalf of another person, partnership, trust or legal arrangement , an accountable person shall, in addition to the information required under these Regulations, require the person to provide proof of that person’s authority to act in that capacity on behalf of the person, partnership, trust or legal arrangement . (2) An accountable person shall verify the information obtained under subregulation (1), by comparing the particulars of the individual or legal person, partnership or trust with information obtained by the accountable person. Record keeping"
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part V",
+      "section": "28",
+      "title": "Accountable person to keep records",
+      "content": "(1) An accountable person shall keep proper records of all the information submitted to the accountable person in accordance with these Regulations. (2) The Authority may require the accountable person or money laundering control officer to produce or submit to the Authority any record kept under subregulation (1). (3) The accountable person shall determine the manner in which records are kept including by way of original documents as hard copies, microfiche, computer disk or in any other electronic form. (4) The records kept by an accountable person shall be sufficient to permit reconstruction of individual transactions including the date, amounts and types of currency involved. (5) An accountable person shall not alter any of the records required to be kept under these Regulations. Politically exposed persons"
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part V",
+      "section": "29",
+      "title": "Politically exposed persons",
+      "content": "(1) An accountable person shall implement appropriate risk management systems to determine whether a person or customer is a politically exposed person. (2) An accountable person shall take the following measures where a person or customer is a politically exposed person— (a) obtain written approval from senior management to transact or establish or continue a business relationship with that person; [paragraph (a) amended by section 2(a)(i) of Statutory Instrument 15 of 2022 ] (b) take adequate measures to establish the source of wealth and the source of funds involved in the proposed business relationship or transaction including for all domestic politically exposed persons; [paragraph (b) amended by section 2(a)(ii) of Statutory Instrument 15 of 2022 ] (c) [paragraph (c) repealed by section 2(a)(iii) of Statutory Instrument 15 of 2022 ] (d) determine the purpose of the transaction or account and the expected volume and nature of account activity; (e) review public sources of information on the politically exposed person; and (f) conduct enhanced ongoing monitoring of the business relationship , once the account has been established. (3) Subregulations (1) and (2) apply to a family member or close associate of a politically exposed person. [subregulation (3) added by section 2(b) of Statutory Instrument 15 of 2022 ] Foreign branches and subsidiaries of accountable person"
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part V",
+      "section": "30",
+      "title": "Foreign branches and subsidiaries of accountable person to apply measures specified in these Regulations",
+      "content": "(1) An accountable person shall ensure that its foreign branch or subsidiary apply due diligence measures and other measures relating to anti-money laundering and combating of terrorism financing required under the Act or these Regulations to the extent permitted by the laws of the host. (2) Where the laws of a host country do not permit the proper implementation of the requirements of the Act and these Regulations, the accountable person shall implement additional measures, as appropriate, to address the money laundering and terrorist financing risks and shall inform the supervisory authority accordingly. (3) An accountable person shall notify the Authority and its supervisory authority, in writing, in case a foreign branch or subsidiary is unable to implement due diligence measures and other measures relating to anti-money laundering and combating of terrorism financing required under the Act or these Regulations."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part V",
+      "section": "31",
+      "title": "Correspondent financial relationships",
+      "content": "(1) An accountable person seeking to establish a correspondent financial relationship as the correspondent financial institution or the respondent financial institution shall undertake the following measures before establishing the business relationship — (a) obtain sufficient information about the correspondent financial institution relating to its nature of business; (b) determine, from available information, the reputation of the correspondent financial institution and the quality of its supervision; (c) determine the quality of anti-money laundering and combatting of terrorism financing regulation in the correspondent financial institution’s jurisdiction or country of domicile; (d) assess the correspondent financial institution’s anti-money laundering and combatting the terrorist financing controls; (e) obtain written approval from the Central Bank before establishing a new correspondent financial institution relationship; (f) in the case of the correspondent financial institution’s customers, the correspondent financial institution shall verify the identity of its customers and conduct on-going monitoring of the relationship; (g) verify the ownership and management structures of the correspondent financial institution including whether or not a politically exposed person has ownership or control of the financial institution. (2) In subregulation (1)— (a) \"correspondent financial relationship\" means the provision of financial services by a local financial institution to another local financial institution or foreign financial institution; (b) \"respondent financial institution\" means a financial institution in receipt of financial services from a correspondent financial institution."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part V",
+      "section": "32",
+      "title": "Customer acceptance policy",
+      "content": "(1) An accountable person shall develop and update on a regular basis a written risk-based customer acceptance policy for ongoing business relationships or single transactions. (2) An accountable person shall have procedures and guidelines explaining the customer acceptance policy which forms part of the training programme of the accountable person. Money or transfer value services and wire transfers"
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part V",
+      "section": "33",
+      "title": "Money or transfer value services",
+      "content": "(1) An accountable person who offers money or value transfer services as a product, through an agent, shall ensure that the agent— (a) is licensed or registered; (b) has in place anti-money laundering and combating of terrorism financing policies and systems; and (c) has implemented effective systems to monitor and ensure compliance with anti-money laundering and combatting terrorism financing policies and that such systems are regularly updated. (2) An accountable person shall maintain an up to date record of its agents and the record shall be accessible by any competent authority."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part V",
+      "section": "34",
+      "title": "Wire transfers",
+      "content": "(1) An accountable person undertaking a wire transfer shall ensure that all information accompanying the domestic or cross-border wire transfer includes— (a) complete originator information such as the name, address, account number of the originator and other related information; (b) the national identification number, or passport number or date and place of birth of the originator , where applicable; (c) the complete beneficiary information, such as the name of the beneficiary, address of the beneficiary, the account number of the beneficiary, the Society for Worldwide International Financial Telecommunication (SWIFT) code and other information, and the information shall remain with the fund transfer or related message through the payment chain.; and (d) the beneficiary account number, where such an account is used to process the transaction, and in the absence of an account number, the unique transaction reference number shall be included. (2) For purposes of subregulation (1) \"beneficiary\" means a person or legal arrangement identified by the originator as the receiver of the requested wire transfer . (3) For the avoidance of doubt, an accountable person shall, in respect of all electronic funds transfers, verify the identity of the originator and beneficiary in accordance with these Regulations. (4) An accountable person shall ensure that an intermediary institution in the payment chain provides originator and beneficiary information that accompanies an electronic funds transfer. (5) An accountable person shall monitor and report to the Authority electronic funds transfers which do not contain complete originator and beneficiary information. (6) An accountable person shall restrict or terminate a business relationship with an accountable person that persistently fails to include complete originator and beneficiary information in its electronic funds transfer."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part V",
+      "section": "35",
+      "title": "Wire transfers by prohibited persons",
+      "content": "(1) A wire transfer to or from a person or entity designated by the United Nations Security Council under any United Nations Security Council Resolution relating to the combatting of terrorism or terrorism financing is prohibited. (2) An accountable person shall freeze any wire transfer , transaction or account relating to a person referred to in subregulation (1). (3) An accountable person shall immediately notify the Authority of any action or attempted action, taken in respect of a prohibited transaction or account."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part V",
+      "section": "36",
+      "title": "Continuous monitoring of transactions",
+      "content": "(1) An accountable person shall monitor the business or account activity and transactions of the customers on a continuous basis. (2) The continuous monitoring of business or account activity and transactions may be conducted on a risk-sensitive basis. (3) An accountable person shall conduct continuous due diligence on its customers and shall develop risk based systems and procedures."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part V",
+      "section": "37",
+      "title": "Monitoring of numbered accounts",
+      "content": "An accountable person shall monitor transactions involving a numbered account and shall report any suspicious activity on any such account to the Authority ."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part V",
+      "section": "38",
+      "title": "Legitimacy of source of funds",
+      "content": "(1) An accountable person shall establish the legitimacy of the source of funds and transactions involving a person or customer . (2) For the purposes of subregulation (1), an accountable person may require the customer or client to provide, in the case of— (a) frequent or unusual cash deposits or withdrawals, a written statement from the customer confirming that the nature of his or her business normally and reasonably generates substantial amounts of cash; (b) frequent or unusual currency exchanges, a written statement from the customer confirming the reason and need for the currencies; (c) multiple or nominee accounts, or similar or related transactions, a written statement from the customer confirming the reason and need for multiple or nominee accounts, or similar or related transactions; (d) large, frequent or unusual transfers or payments of funds, appropriate documentation to identity the recipient or sender of the transferred or paid funds, and the reason for the transfer or payment; (e) large or unusual investments or requests for advice or services, a written statement from the customer confirming that the investments or advice or services being requested are bonafide and consistent with the objectives of the customer ’s reasonable and normal business; (f) large or unusual foreign transactions, a written confirmation from the customer indicating the nature, reason and appropriate details of the foreign transactions sufficient to determine the legitimacy of such transactions. Part VI – Reporting and record keeping requirements"
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part VI",
+      "section": "39",
+      "title": "Accountable person to report suspicious activities and certain cash transactions",
+      "content": "(1) An accountable person shall, upon investigating and being fully satisfied that the transaction or activity is suspicious, notify the Authority of any suspicious activity or transaction which indicates possible money laundering or terrorism financing. (2) The notification under subregulation (1) shall be made as soon as is practicable but in any case not later than forty eight hours after the occurrence of the suspicious activity or transaction, using Form B in the Schedule. (3) An accountable person shall file reports with the Authority on all cash and monetary transactions equivalent to or exceeding one thousand currency points in any currency, whether or not the transaction appears to be suspicious, using Form A in the Schedule."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part VI",
+      "section": "40",
+      "title": "Requirement of supervisory authorities to report suspicious activities",
+      "content": "A supervisory authority shall report to the Authority any suspicious transaction or activity that the supervisory authority is aware of, within forty eight hours of becoming aware of the activity."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part VI",
+      "section": "41",
+      "title": "Prohibition on tipping off",
+      "content": "(1) An accountable person, a director or employee of an accountable person, shall not disclose to a person or customer the fact that a suspicious transaction or activity report or related information has been or is being submitted to the Authority or that a money laundering or terrorism financing investigation is being or has been carried out. (2) Subregulation (1) does not preclude disclosure or communication between directors and employees of the accountable person and advocates or competent authorities."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part VI",
+      "section": "42",
+      "title": "Record keeping",
+      "content": "(1) Subject to any written law, an accountable person shall keep and maintain records of all transactions for a minimum of five years from the date the relevant business or transaction is completed or following the termination of an account or business relationship . (2) An accountable person shall keep all records obtained through customer due diligence measures for the period specified in sub regulation (1). (3) Where a transaction involves a monetary instrument other than currency, the name of the drawer of the instrument, the name of the institution on which it was drawn, the name of the payee, if any, the amount and date of the instrument, the number of the instrument, if any, and details of any endorsements appearing on the instrument shall be recorded and retained. (4) The record keeping requirements under these Regulations shall be without prejudice to any other records required to be kept by or under any other written law. (5) An accountable person shall take reasonable steps, in respect of an existing business relationship , to maintain the correctness of records by undertaking a review every two years of the existing records, particularly for higher risk categories of customers or business relationships. (6) The Authority shall issue guidelines or directives regarding record keeping including backup and recovery procedures. (7) Any records kept under the Act and these Regulations may, subject to restrictions imposed by law, be made available to a competent authority."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part VI",
+      "section": "43",
+      "title": "Independent audit",
+      "content": "(1) An accountable person shall carry out periodic independent audits to assess its compliance with the requirements of the Act and these Regulations. (2) An accountable person shall prepare a report of every independent audit carried out and a copy of the report shall, upon request, be made available to the Authority ."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part VI",
+      "section": "44",
+      "title": "High risk countries",
+      "content": "(1) The Authority shall identify high-risk countries in respect of money laundering and terrorism financing and shall prescribe, by notice in the Gazette , measures to be applied by accountable persons in respect of a person or customer from, or transactions involving, those countries. (2) For the purposes of subregulation (1), the measures shall include— (a) applying specific elements of enhanced due diligence such as obtaining additional information on the customer , purpose of transactions, nature of the business relationship and the source of funds or wealth of the customer ; (b) obtaining senior management approval to continue the relationship; (c) increased monitoring of transactions; (d) reviewing, amending and if necessary, terminating of correspondent banking relationships. (3) The Authority may also require a supervisory authority to take certain actions with respect to countries identified as high risk including— (a) imposing additional reporting requirements on accountable persons; (b) refusing the establishment in Uganda of subsidiaries or branches or representative offices of accountable person from that country; (c) prohibiting accountable person from establishing branches or representative offices in the country identified by the Authority ; (d) requiring accountable persons to limit business relationships or financial transactions with the country or persons in that country; (e) increasing supervisory examinations or external audit requirements for branches and subsidiaries in Uganda of accountable persons from the country identified; and (f) requiring increased external audit requirements by accountable persons of their branches and subsidiaries located in the country identified."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part VI",
+      "section": "45",
+      "title": "Annual compliance report",
+      "content": "(1) At the end of each calendar year, every accountable person shall— (a) submit to the Authority a compliance report setting out the level of compliance with the Act and these Regulations; and (b) the internal anti-money laundering and combating terrorist financing policy of the accountable person. (2) The accountable person shall submit the compliance report to the Authority by the thirty first day of January of the following calendar year or as may be required by the Authority . Part VII – Special provisions in respect of certain accountable persons"
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part VII",
+      "section": "46",
+      "title": "Central Bank",
+      "content": "The Central Bank shall, during onsite examination of a financial institution, satisfy itself that the financial institution has— (a) sound know your customer procedures, customer due diligence measures and enhanced due diligence procedures for high risk customers and transactions; (b) a criteria to retain records pertaining to customer identification and transactions as required by the Act and these Regulations; (c) a criteria for verifying the identity of persons or customers in accordance with the Act and these Regulations."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part VII",
+      "section": "47",
+      "title": "Banks or other financial institutions to have know your customer policies",
+      "content": "A bank or any other financial institution shall have sound know-your customer policies or procedures."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part VII",
+      "section": "48",
+      "title": "Capital Markets Authority",
+      "content": "(1) Where a person licensed by the Capital Market Authority acquires, either in whole or in part, the business of another financial institution, whether in Uganda or elsewhere, the acquiring person shall perform customer due diligence on the customers acquired with the business at the time of acquisition except where the acquiring person has— (a) acquired at the same time all corresponding customer records including customer identification information and has no doubt or concerns about the veracity or adequacy of the information acquired; and (b) conducted due diligence enquiries that have not raised any doubt on the part of the acquiring person as to the adequacy of anti-money laundering and financing of terrorism measures previously adopted in relation to the business. Part VIII – General"
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part VIII",
+      "section": "49",
+      "title": "Verification of ministries, department and agencies",
+      "content": "An accountable person shall verify the identity of any organ of state including a government ministry, department, agency, embassy or parastatal."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part VIII",
+      "section": "50",
+      "title": "Failure to provide proof of identity",
+      "content": "(1) A person who is unable to provide proof of identity under these Regulations, may be exempted from the requirements relating to proof of identity, but only where the accountable person is satisfied that the person or customer has an acceptable reason for being unable to provide proof of identity. (2) Where an accountable person exempts a person or customer from the requirements relating to proof of identity, the reason for the exemption shall be recorded."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part VIII",
+      "section": "51",
+      "title": "Proof of permanent address",
+      "content": "Where in these Regulations a person or customer is required to provide a permanent address, the permanent address provided may be confirmed using— (a) utility bills; (b) a letter from a public authority or embassy or consular office; (c) a recent lease or rental agreement; or (d) any information or document from a credible and independent source."
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part VIII",
+      "section": "52",
+      "title": "Sharing of information",
+      "content": "(1) The Authority may make information collected by it available to any financial regulatory authority, supervisory authority, fiscal or tax agency, or fraud investigations agency or the appropriate law enforcement authority within or outside Uganda to facilitate the administration and enforcement of the provisions of the Act and these Regulations. (2) The Authority may request a supervisory authority, a monetary or financial regulatory authority to provide it with such information for purposes of supervising and enforcing compliance to the provisions of the Act and these Regulations."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part VIII",
+      "section": "53",
+      "title": "Supervision",
+      "content": "(1) A supervisory authority shall supervise an accountable person to ensure that the accountable person complies with the requirements of the Act and these Regulations. (2) For the purposes of subregulation (1), a supervisory authority shall have the following powers and duties— (a) to collect information and other data from accountable persons to enable the conduct of on-site examinations; (b) to compel accountable persons to provide any information and to take copies of documents and files; (c) to apply measures and impose sanctions against accountable persons for non-compliance with the provisions of the Act and these Regulations; (d) to issue instructions to assist accountable persons in complying with obligations under the Act and these Regulations; (e) to cooperate and share information with other competent authorities or any foreign authority concerned with combating money laundering or terrorism financing; (f) to verify that foreign branches and majority owned subsidiaries of an accountable person adopt and enforce measures consistent with the Act and these Regulations to the extent permitted by the laws of the host country; (g) to promptly notify the Authority of any transactions, activities or facts that could be related to money laundering or terrorism financing; (h) to establish and apply efficiency and adequacy processes, and includes standards relating to the experience and integrity of board members, executive or supervisory management members and standards for owning or controlling significant shares of an accountable person; (i) to maintain statistics concerning measures adopted and sanctions imposed; and (j) to determine the type and extent of measures to be taken by accountable persons under these Regulations. (3) Where an accountable person or any of its directors, board members, executive or supervisory management members or members of senior management fails to comply with the Act or these Regulations, the supervisory authority may— (a) issue a written warning to the accountable person; (b) issue an order to the accountable person to comply with specific instructions; (c) issue an order to the accountable person requiring the accountable person to make regular reports on the measures taken to address the identified violations; (d) ban individuals responsible for the violation from employment within certain relevant sectors for a period to be determined by the supervisory authority; (e) restrict the powers of directors, board members, executive or supervisory management members and controlling owners of the accountable person; (f) require the accountable person to suspend, dismiss or replace a director, member of the board of directors or any member involved in executive or supervisory management responsible for the violation. (4) Where an accountable person fails, neglects and or refuses to comply with the provisions of the Act or these Regulations, the supervisory authority shall make a report of such fact to the Authority , and notify the Authority of the action taken to address the noncompliance. Schedule Form 1 (Regulations 4(2)) The Anti-Money Laundering Act, 2013 The Anti-Money Laundering Regulations, 2015 Registration form for accountable persons I/ We _______________________ being an accountable person as listed in the second Schedule to the Act, apply to register with the Authority. Part I - Particulars of the accountable person in case of an Individual Name of the accountable person: _________________ Age: _________________________ Date of birth: _________________________ Telephone number: _______________________ Postal address: _________________________ Email address: _________________________ Tax identification number: _____________________ National identification Number: ________________ Profession: _______________________ Professional body/Industry (if any): ________________ Physical Address: __________________________________ ______________________________________________ Part II - Particulars of the accountable person in case of legal entity/corporate Name of the accountable person: _______________________ Name of the representative: _______________________ Industry: _____________________________________ Date of incorporation or registration: _______________________ Registration Number: _______________________ Telephone number: _______________________ Postal address: _______________________ Email address: _______________________ Tax identification number: _______________________ Physical Address: _______________________ Name of the managing Director or CEO. _______________________ Tax identification Number of the managing director or CEO: ________________ Signed ________________ (Accountable person) Date _______________________ Received by ________________ Date ________________ Notes: For purposes of corporations or other entities the proof of registration or incorporation of the accountable person should be attached. Form 2 (Regulations 5(2)) The Anti-Money Laundering Act, 2013 The Anti-Money Laundering Regulations, 2015 The Executive Director, Financial Intelligence Authority. Notification of change of registered particulars of accountable persons TAKE NOTICE that I/ we _____________________ being an accountable person have made changes in the register as follows— Former particulars in the register of the accountable person. _____________________________________ __________________________________ ( state former full particulars ) The changes of any particulars in the register by the accountable person. _____________________________________ Dated this __________ day of ________, 20 _______ ___________________________ Accountable person Form 3 (Regulations 6(2) and (7)) The Anti-Money Laundering Act, 2013 The Anti-Money Laundering Regulations, 2015 The Executive Director, Financial Intelligence Authority. Notification of appointment of money laundering control officer TAKE NOTICE that, I /We ____________________ being an accountable person and required by the section 6(m) of Act and the Regulations to appoint an money laundering control officer. I/ We have appointed the following person as the money laundering control officer. Name of the officer: ______________________________ The designation /title of the officer: _______________________ Telephone number of the officer: ________________ Email address: ______________________________ Physical address: _______________________ Employee ID Number: _______________________ Appointment date: _______________________ Money laundering control officer supervisor: _______________________ Designation of the supervisor: _______________________ Dated this ________ day of ______________, 20 ___________ ___________________________ Accountable person Form C (Section 10(1), regulation 10(1)(a)) The Anti-Money Laundering Act, 2013 The Anti-Money Laundering Regulations, 2015 Declaration of the particulars of the currency or the negotiable bearer instruments to Uganda Revenue Authority at the port of exit In accordance with section 10 (1) of the Act and the Regulations the named person is intending to transporter carry currency or negotiable bearer instruments, outside Uganda equivalent to or exceeding one thousand five hundred currency points.. Part I - Particulars of the reporting entity/ Person Full names: ______________________________ Passport ID and Number: _______________________ Telephone number: _______________________ Email address: _______________________ Tax identification number: _______________________ Nationality: ______________________________ Country of residence: _______________________ Profession: _______________________ Part II - Particulars of the travel Flight/ Vehicle Registration / Vessel No. ______________________________ Country of destination: ______________________________ Date of exit: ______________________________ Date of entry: ______________________________ Part III - Address while outside Uganda Physical Address: ______________________________ Hotel: ______________________________ City/ town/ village: ______________________________ Telephone contacts outside Uganda: ________________ Street address: ______________________________ Postal address: ______________________________ Part IV - Currency or negotiable bearer instruments to be declared Full details of currency or monitory instrument a person is intending to transport, send, transfer, or arrange for the transfer outside Uganda. Type of currency (cash) / negotiable bearer instrument Value in US$ Value in Uganda shillings. Total amount Total amount in words. ______________________________ Date _____________________ ______________________________ Signature of declarant. Details of Customs officer For official use only Received and verified by: ______________________________ Signature: _______________________ Date of receipt: _______________________ Notes: This form should be presented at the point of exit to a Customs Officer who shall stamp the form. The Customs officer has the right to physically verify the amounts. It is an offence not to declare currency or negotiable bearer instruments in your possession under the provisions of section 10 of the Anti Money Laundering Act, 2013. Form D (Section 10 (2), regulations 10(1)(b)) The Anti-Money Laundering Act, 2013 The Anti-Money Laundering Regulations, 2015 Declaration of the particulars of the currency or negotiable bearer instrument, to a customs officer of Uganda Revenue Authority at the port of entry In accordance with section 10 (2) of the Act and the Regulations the named person is intending to transport, or carry currency or negotiable bearer instruments, into Uganda equivalent to or exceeding one thousand five hundred currency points. Part I - Particulars of the reporting entity/ Person Full names: ______________________________ Passport ID and Number: ______________________________ Telephone number: ______________________________ Email address: ______________________________ Tax identification number: _______________________ Nationality: ______________________________ Country of residence: _______________________ Profession: ______________________________ Part II - Particulars of the travel Flight/ Vehicle Registration / Vessel No. ______________________________ Country of destination: ______________________________ Date of entry into Uganda: ______________________________ Date of exit from Uganda: ______________________________ Part III - Address while in Uganda Physical Address: ______________________________ Hotel: ______________________________ City/ town/ village: ______________________________ Telephone contacts while in Uganda: _______________________ Street address: ______________________________ Postal address: ________________ Part IV - Currency or negotiable bearer instruments to be declared Full details of currency or monitory instrument a person is intending to transport, send, transfer, or arrange for the transfer outside Uganda. Type of currency (cash) / negotiable bearer instrument Value in US$ Value in Uganda shillings. Total amount Total amount in words. ______________________________ Date __________________________ ____________________________ Signature of declarant. It is an offence not to declare currency or negotiable bearer instruments in your possession under the provisions of section 10 of the Anti Money Laundering Act, 2013. Form 4 (Regulations 10(4)(a)) The Anti-Money Laundering Act, 2013 The Anti-Money Laundering Regulations, 2015 Confiscation form of currency or monetary instruments In accordance with the Act and regulation 10(5) the customs officer has confiscated the currency or monetary instruments in the possession of ______________________ ( insert the name ) having failed to declare or refused, or neglected to declare or made a false declaration, of the currency or negotiable bearer instrument in accordance with the Act or these Regulations. Currency or negotiable bearer instruments confiscated Full details of currency or moni"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Act",
+      "definition": "the Anti-Money Laundering Act, 2013",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Authority",
+      "definition": "the Financial Intelligence Authority established under Part IV of the Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "business relationship",
+      "definition": "an arrangement between a person and an accountable person, where the purpose or effect of the arrangement is to facilitate the carrying out of a transaction between the person and the accountable person on a habitual, regular or one-off basis",
+      "source_provision": "s2"
+    },
+    {
+      "term": "customs officer",
+      "definition": "assigned to it in the East African Community Customs Management Act , 2004",
+      "source_provision": "s2"
+    },
+    {
+      "term": "beneficiary financial institution",
+      "definition": "a financial institution which receives a wire transfer from an ordering financial institution directly or through an intermediary financial institution and makes the funds available to the beneficiary",
+      "source_provision": "s2"
+    },
+    {
+      "term": "intermediary financial institution",
+      "definition": "a financial institution in a serial or cover payment chain that receives and transmits a wire transfer on behalf of the ordering financial institution and the beneficiary financial institution or another intermediary financial institution",
+      "source_provision": "s2"
+    },
+    {
+      "term": "legal arrangement",
+      "definition": "an express trust or any other similar legal arrangement",
+      "source_provision": "s2"
+    },
+    {
+      "term": "numbered account",
+      "definition": "a bank account where the name of the account holder is kept secret, and the account holder is identified by means of a code word known only by the account holder and a restricted number of bank employees",
+      "source_provision": "s2"
+    },
+    {
+      "term": "ordering financial institution",
+      "definition": "a financial institution which initiates the wire transfer and transfers the funds upon receiving the request for a wire transfer on behalf of the originator",
+      "source_provision": "s2"
+    },
+    {
+      "term": "originator",
+      "definition": "an account holder who allows the wire transfer from an account, or where there is no account, the person that places the order with the ordering financial institution to perform the wire transfer",
+      "source_provision": "s2"
+    },
+    {
+      "term": "wire transfer",
+      "definition": "a transaction carried out on behalf of an originator through a financial institution by electronic means with a view to making an amount of funds available to a beneficiary person at a beneficiary financial institution , irrespective of whether the originator and the beneficiary are the same person. Part II – Registration of accountable persons",
+      "source_provision": "s2"
+    }
+  ]
+}

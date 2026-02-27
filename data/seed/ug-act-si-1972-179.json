@@ -1,0 +1,958 @@
+{
+  "id": "ug-act-si-1972-179",
+  "type": "statute",
+  "title": "Judicature (Supreme Court) Rules",
+  "title_en": "Judicature (Supreme Court) Rules",
+  "short_name": "Judicature (Supreme Court) ...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://ulii.org/en/akn/ug/act/si/1972/179/eng@1996-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Citation",
+      "content": "These Rules may be cited as the Judicature (Supreme Court) Rules."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Application",
+      "content": "(1) The practice and procedure of the court in connection with appeals and intended appeals from the Court of Appeal and the practice and procedure of the Court of Appeal in connection with appeals to the court shall be as set out in these Rules. (2) Nothing in these Rules shall be taken to limit or otherwise affect the inherent power of the court , and the Court of Appeal , to make such orders as may be necessary for achieving the ends of justice or to prevent abuse of the process of any such court , and that power shall extend to setting aside judgments which have been proved null and void after they have been passed, and shall be exercised to prevent an abuse of the process of any court caused by delay. (3) An appeal from the constitutional court to the court shall be heard as a civil appeal in accordance with these Rules."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part I",
+      "section": "3",
+      "title": "Interpretation",
+      "content": "In these Rules, unless the context otherwise requires— (a) “ advocate ” means a person who, under rule 26 of these Rules, has the right of audience before the court ; (b) “ appeal ” in relation to appeals to the court includes an intended appeal; (c) “ appellant ” includes an intended appellant; (d) “ appellate jurisdiction ” in relation to the Court of Appeal includes the jurisdiction of that court as well as the original jurisdiction of any court from which an appeal emanates and, in the case of the High Court , includes matters of revision, review, reference, case stated and point of law reserved; (e) “ Constitution ” means the Constitution of the Republic of Uganda, 1995; (f) “ constitutional court ” means the Court of Appeal sitting as the constitutional court as constituted under article 137 of the Constitution ; (g) “ court ” means the Supreme Court of Uganda established under article 129 of the Constitution , and includes any division of the court and a single judge exercising any power vested in him or her sitting alone; (h) “ Court of Appeal ” means the Court of Appeal of Uganda established under article 129 of the Constitution ; (i) “ High Court ” means the High Court of Uganda established under article 129 of the Constitution ; (j) “ judge ” means a judge of the court acting as such; (k) “ notice of appeal ” in relation to a criminal appeal means a notice lodged in accordance with rules 56, 57 and 58 of these Rules and in relation to a civil appeal , a notice lodged in accordance with rule 72 of these Rules; (l) “ notice of cross-appeal ” means a notice lodged in accordance with rule 87 of these Rules; (m) “ notice of grounds for affirming the decision ” means a notice lodged in accordance with rule 88 of these Rules; (n) “ registrar ” means the registrar of the court and includes a deputy and an assistant registrar of the court ; (o) “ registrar of the Court of Appeal ” includes a deputy and an assistant registrar of that court , and includes the registrar of the constitutional court ; (p) “ registry ” means the registry of the court ; (q) “ respondent ” in relation to a civil application includes any person on whom a notice of motion has been served and in relation to a civil appeal includes any person on whom a notice of appeal has been served and any person other than the appellant on whom a cross- appeal has been served."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part I",
+      "section": "4",
+      "title": "Computation of time",
+      "content": "Any period of time fixed by these Rules or by any decision of the court for doing any act shall be reckoned in accordance with the following provisions— (a) a period of days from the happening of an event or the doing of any act or thing shall be taken to be exclusive of the day on which the event happens or that act or thing is done; (b) if the last day of the period is a Sunday or a public holiday (which days are in this rule referred to as excluded days), the period shall include the next following day, not being an excluded day; (c) where any act or proceeding is directed or allowed to be done or taken on a certain day, then, if that day happens to be an excluded day, the act or proceeding shall be considered as done or taken in due time if it is done or taken on the next day afterwards, not being an excluded day; (d) where any act or proceeding is directed or allowed to be done or taken within any time not exceeding six days, excluded days shall not be reckoned in the computation of time; and (e) unless the court otherwise directs, the period of the Christmas vacation shall not be reckoned in the computation of time."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part I",
+      "section": "5",
+      "title": "Extension of time",
+      "content": "The court may, for sufficient reason, extend the time prescribed by these Rules or by any decision of the court or of the Court of Appeal for the doing of any act authorised or required by these Rules, whether before or after the expiration of that time and whether before or after the doing of the act; and any reference in these Rules to any such time shall be construed as a reference to the time as so extended."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part I",
+      "section": "6",
+      "title": "Suspension of sentence, stay of execution, etc.",
+      "content": "(1) No sentence of death or corporal punishment shall be carried out until the time for giving notice of appeal has expired or, where notice of appeal has been given, until the appeal has been determined. (2) Subject to subrule (1) of this rule, the institution of an appeal shall not operate to suspend any sentence or to stay execution, but the court may — (a) in any criminal proceedings, where notice of appeal has been given in accordance with rules 56 and 57 of these Rules, order that the appellant be released on bail or that the execution of any warrant of distress be suspended pending the determination of the appeal ; (b) in any civil proceedings, where a notice of appeal has been lodged in accordance with rule 72 of these Rules, order a stay of execution, an injunction or stay of proceedings as the court may consider just."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part I",
+      "section": "7",
+      "title": "Registry",
+      "content": "The registry of the court shall be situated at Kampala."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part I",
+      "section": "8",
+      "title": "Hours for lodging documents",
+      "content": "The Chief Justice may, from time to time, direct during what hours the registry and the registry of the Court of Appeal shall be open for the receipt of documents lodged under these Rules."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part I",
+      "section": "9",
+      "title": "Maintenance of registers",
+      "content": "(1) The registrar shall maintain— (a) a register of criminal applications, in which shall be entered particulars of every application lodged in the registry ; (b) a register of civil applications, in which shall be entered particulars of every application lodged in the registry ; (c) a register of criminal appeals, in which shall be entered particulars of every notice of appeal lodged in the registry and of any subsequent proceedings; (d) a register of civil appeals, in which shall be entered particulars of every notice of appeal lodged in the registry and of any subsequent proceedings; (e) a register of constitutional applications, in which shall be entered particulars of every application lodged in the registry ; and (f) a register of constitutional appeals, in which shall be entered particulars of every notice of appeal lodged in the registry and of any subsequent proceedings. (2) The registers to be maintained under these Rules shall show the application or the appeal , the number of the proceedings in the Court of Appeal or constitutional court , the names of the parties, the date when the essential steps in the proceedings were taken and the result of the application or appeal . (3) The registers of criminal, civil and constitutional appeals shall, in addition, contain against the entry relating to each appeal , a reference to every application made in relation to that appeal whether made before or after the institution of the appeal ."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part I",
+      "section": "10",
+      "title": "Numbering of applications and appeals",
+      "content": "(1) Every application to the court other than an application made informally in the course of the hearing shall, whether lodged before or after the institution of an appeal , be given a serial number; and for that purpose, there shall be maintained in the registry the following three series of numbers for each calendar year— (a) one for criminal applications; (b) one for civil applications; and (c) one for constitutional applications. (2) Every criminal appeal shall be given a serial number in the registry , which number shall be allotted as soon as the notice of appeal is received; and for that purpose, a series of numbers shall be maintained for each calendar year. (3) Every civil appeal shall be given a serial number in the registry , which number shall be allotted as soon as the memorandum of appeal is received; and for that purpose, a series of numbers shall be maintained for each calendar year. (4) Every constitutional appeal shall be given a serial number in the registry , which number shall be allotted as soon as the memorandum of appeal is received; and for that purpose a series of numbers shall be maintained for each calendar year."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part I",
+      "section": "11",
+      "title": "Endorsement of documents lodged",
+      "content": "Whenever any document is lodged in the registry or the registry of the Court of Appeal under or in accordance with rule 10 of these Rules, the registrar or deputy registrar or registrar of the Court of Appeal , as the case may be, shall immediately cause it to be endorsed showing the date and time when it was lodged."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part I",
+      "section": "12",
+      "title": "Registrar's discretion regarding place of lodging documents",
+      "content": "(1) Notwithstanding any provision of these Rules appointing a registry as the place where any document is to be lodged, the registrar may, in any particular case, permit the lodging of any document in the registry of the Court of Appeal . (2) An application for permission under this rule may be made informally, but shall be in writing. (3) The registrar of the Court of Appeal receiving a document lodged under this rule shall immediately send it to the registry , at the expense of the applicant except where the document lodged is one which, if lodged in the registry , would have been required by these Rules to be sent to the registrar ."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part I",
+      "section": "13",
+      "title": "Acceptance of documents lodged out of time",
+      "content": "(1) The registrar or the registrar of the Court of Appeal , as the case may be, shall not refuse to accept any document on the ground that it is lodged out of time but shall mark the document with the words “lodged out of time” and inform the person lodging it accordingly. (2) When a document is accepted out of time by the registrar of the Court of Appeal , he or she shall inform the registrar ."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part I",
+      "section": "14",
+      "title": "Requirements as to size and production of documents, binding of records and pagination, and number of copies",
+      "content": "(1) Unless the nature of the document renders it impracticable, every document prepared for use in the court shall be on A4 or foolscap paper of durable quality; and only one side of the paper shall be used, and a margin of not less than 3.8 centimetres shall be left on the left side of the sheet. (2) All documents prepared for use in the court shall be clear and easily legible and may be produced by printing, type lithography, stencil duplicating, photography, xerography, typewriting or writing or any combination of them. (3) In every criminal appeal , the record of appeal , and, in every civil and constitutional appeal , the memorandum of appeal , together with the record of appeal , shall be bound in book form with a cover of stout paper and may be in more volumes than one, and the title of the appeal shall appear on the cover. (4) The pages of every application and, in criminal appeals, of the record of appeal , and, in civil appeals, of the memorandum and record of appeal , shall be numbered consecutively. (5) In all applications and appeals, every tenth line of each page of the record shall be indicated in the margin on the right side of the sheet. (6) The number of copies of documents required to be lodged in the registry in the following matters shall be— (a) where the matter lies before a single judge , two copies of the relevant documents together with one copy for the registry ; (b) where the matter lies before a bench of three judges, four copies and one for the registry ; (c) where the matter lies before a bench of five judges, six copies and one for the registry ; (d) where the matter lies before a bench of seven judges, eight copies and one for the registry ; and (e) such other numbers of copies as the registrar shall direct."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part I",
+      "section": "15",
+      "title": "Power of the registrar to reject documents",
+      "content": "(1) The registrar , or the registrar of the Court of Appeal , as the case may be, may refuse to accept any document which does not comply with the requirements of rule 14 of these Rules. (2) Subject to rules 107 and 109 of these Rules, the registrar , or the registrar of the Court of Appeal , as the case may be, shall refuse to accept any document tendered without the required fee, if any, or, in the case of the memorandum of appeal in a civil appeal , without the lodging of security for costs. (3) If, as the result of an error, a document is accepted which ought to have been rejected under subrule (2) of this rule, the document shall be taken to have been duly lodged; but the person who lodged it shall, as soon as practicable after the error is discovered, pay the required fees or the balance of those fees or lodge the required security. (4) Any person who is dissatisfied with a decision of the registrar , or the registrar of the Court of Appeal rejecting any document under the powers conferred upon this rule, may require the matter to be referred to a judge for his or her decision. (5) An application under subrule (4) of this rule may be made informally at the time when the decision is given or in writing within seven days after that date."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part I",
+      "section": "16",
+      "title": "Signature of documents",
+      "content": "(1) Any document may be signed on behalf of the person making it by any person entitled under rule 23 of these Rules to appear on his or her behalf. (2) In or in relation to criminal appeals, a document may be signed on behalf of an appellant who is alleged to be of unsound mind by a person entitled under rule 23 of these Rules to appear on his or her behalf or by any person in whose care he or she is for the time being, including a medical officer, police officer or prison officer."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part I",
+      "section": "17",
+      "title": "Form of amendments",
+      "content": "(1) Where any person obtains leave to amend any document, the document itself may be amended or, if it is more convenient, an amended version of the document may be lodged. (2) Where any person lodges an amended version of a document, he or she shall show clearly— (a) any words or figures deleted from the original, by including those words or figures and striking them through with red ink, so that what was written remains legible; and (b) any words or figures added to the original, by writing them in red ink or underlining them in red ink. (3) Where any record of appeal includes any amended document, the amendments shall similarly be shown in each copy of the record of appeal ."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part I",
+      "section": "18",
+      "title": "Service and transmission of documents",
+      "content": "(1) Where any document is required by these Rules to be served on any person, service may be effected in such a way as the court may, in any case, direct which shall normally be a way in which a comparable process of the High Court could be served; and in the absence of any special direction, it shall be made personally on the person to be served or any person entitled under rule 23 of these Rules to appear on his or her behalf. (2) Where any document is required to be served on the appellant or on the respondent and two or more appellants or respondents, as the case may be, are represented by one advocate , it shall be sufficient if one copy of the document is served on that advocate . (3) For the purpose of this rule, service on a partner or a clerk of an advocate at the office of the advocate shall be taken to be service on the advocate . (4) Proof of service may be given where necessary, by affidavit, unless in any case, the court requires proof by oral evidence. (5) In the case of a person in prison, a letter purporting to be signed by the officer in charge of the prison certifying that the document was delivered to the prisoner on a specified date may be accepted as sufficient proof of service. (6) Where any document is required to be sent to any person, the document may be sent by hand or by registered post to that person or to any person entitled under rule 23 of these Rules to appear on his or her behalf; and notice of the date fixed for the hearing of an application or appeal or for the delivery of judgment or the reasons for any decision may be given by telephone, telegram or facsimile transmission (fax)."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part I",
+      "section": "19",
+      "title": "Change of address for service",
+      "content": "A person who has given an address for service may, at any time, change his or her address for service by lodging a notice of the change in the registry and serving copies of it on all persons who have been served with the previous address."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part I",
+      "section": "20",
+      "title": "Sittings of the court",
+      "content": "The sittings of the court and the matters to be disposed of at those sittings shall be determined by the Chief Justice and shall be advertised and notified in such manner as the Chief Justice may direct; but nothing in these Rules shall preclude the court from disposing of any business that has not been advertised or notified."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part I",
+      "section": "21",
+      "title": "Vacations",
+      "content": "(1) The vacations of the court and the arrangement of business during the vacations shall be determined by the Chief Justice, and those arrangements shall be advertised or notified in a manner directed by the Chief Justice. (2) No business will be conducted during a vacation, unless the Chief Justice otherwise directs, except the delivery of judgments and orders, when the matter is shown to be one of urgency, the hearing of applications and the taxation of bills."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part I",
+      "section": "22",
+      "title": "Place where appeals are to be heard",
+      "content": "Appeals and applications to the court shall be heard at Kampala."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part I",
+      "section": "23",
+      "title": "Appearances",
+      "content": "(1) Subject to rule 69 of these Rules, a party to any proceedings in the court may appear in person or by advocate . (2) A corporation may appear either by advocate or by a director, manager or secretary of the corporation appointed by resolution under the seal of the corporation, a sealed copy of which resolution shall be lodged with the registrar . (3) A person under disability may appear by advocate or by his or her committee, next friend or guardian ad litem , as the case may be. (4) Where a person has acted as next friend or guardian ad litem in the Court of Appeal for a person under disability, and the person under disability becomes respondent in an appeal to the court , the next friend or guardian ad litem may, if he or she desires to act as such in the appeal , lodge a consent to act and shall thereupon be taken to be duly appointed. (5) In any other case, the court may appoint a guardian ad litem for the purpose of an appeal . (6) The court may, at any time, remove and replace any guardian ad litem however appointed."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part I",
+      "section": "24",
+      "title": "Change of advocate , etc.",
+      "content": "Where a party to an application or appeal to the court changes his or her advocate or, having been represented by an advocate , decides to act in person or, having acted in person, engages an advocate , the party shall, as soon as practicable, lodge with the registrar notice of the change and shall serve a copy of the notice on the other party or on each other party appearing in person or separately represented, as the case may be."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part I",
+      "section": "25",
+      "title": "Assignment of advocate",
+      "content": "(1) In any criminal application or appeal , the Chief Justice or the presiding judge may, at any time, assign an advocate to represent an applicant or appellant if it appears desirable in the interests of justice. (2) In any civil appeal involving a point of law of great public importance, if the Chief Justice is satisfied that any appellant or respondent lacks the means to employ an advocate , the Chief Justice may, with the consent of the appellant or respondent , as the case may be, assign an advocate to represent him or her, and may require the appellant , or respondent , as a condition of having an advocate assigned to him or her, to undertake to refund the fees and expenses of the advocate out of any money or property the appellant or respondent may recover in or in consequence of the appeal . (3) The fees and the expenses of an advocate assigned under subrule (1) or (2) of this rule shall be defrayed out of the funds of the court . (4) The registrar may take such action as he or she may think necessary to enforce any undertaking given in accordance with subrule (2) of this rule; and any sums of money so recovered shall be paid into the Consolidated Fund."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part I",
+      "section": "26",
+      "title": "Right of audience of advocates",
+      "content": "(1) The Attorney General and the Solicitor General shall have the right of audience before the court and shall, in that order, take precedence over all other advocates. (2) Other legal officers of the Government shall have the right of audience before the court in all proceedings within the scope of their official duties. (3) Every advocate who is for the time being entitled to practise before the High Court shall have the right of audience before the court . (4) An advocate who has been struck off the roll of advocates or who is under suspension from practice shall have no right of audience in the court . (5) Any other persons entitled to appear as counsel or advocate before any court of unlimited jurisdiction, if licensed to do so by the Chief Justice, and, subject to payment of the prescribed fee, shall have the right of audience before the court in respect of any one appeal , including any cross- appeal heard with it, or any two or more appeals consolidated for hearing."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part I",
+      "section": "27",
+      "title": "List of authorities and copies of judgments to be referred to",
+      "content": "(1) An advocate who intends at the hearing of any application or appeal to rely on the judgments in any reported cases or to quote from any books shall lodge with the registrar a list containing the titles of those cases with their citations and the names, authors and editions of those books and shall serve a copy of the list on the other party or on each other party appearing in person or separately represented, as the case may be. (2) A supplementary list may, when necessary, be produced at the time of hearing. (3) A supplementary list shall be lodged at least forty-eight hours before the application or appeal is due to be heard. (4) Notwithstanding subrules (1), (2) and (3) of this rule, the registrar may require the advocate to produce certified or photostat copies of the judgment or passage in the book intended to be relied on; and the advocate shall comply with the requirement before the hearing of the application or appeal . (5) An advocate who intends at the hearing of any application or appeal to rely on the judgment in any unreported case shall, at or before the hearing, produce a certified or photostat copy of the judgment and, except in the case of an application to be heard by a single judge , other copies of the judgment for the use of the court , and, in every case, one copy for the use of the other party, or each other party appearing in person or separately represented, as the case may be."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part I",
+      "section": "28",
+      "title": "Order of addresses",
+      "content": "(1) The court shall, at the hearing of an application or appeal , hear first the applicant or appellant , then the respondent and then the applicant or the appellant in reply. (2) At the hearing of an appeal where notice of cross-appeal has been given, the court shall ordinarily hear the appellant first on the appeal , then the respondent on the appeal and on the cross- appeal , then the appellant in reply on the appeal and on the cross- appeal and finally the respondent in reply on the cross- appeal . (3) The court may dismiss but shall not allow any preliminary objection, application, appeal or cross- appeal without calling the opposing party. (4) After hearing the opposing party, the court may allow but shall not dismiss any preliminary objection, application, appeal or cross- appeal without giving the objector, applicant, appellant or cross- appellant an opportunity to reply. (5) This rule shall apply where notice of grounds for affirming the decision has been given, in the same way in all respects as it applies where notice of cross-appeal has been given."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part I",
+      "section": "29",
+      "title": "Appeals to be heard in court",
+      "content": "(1) Every appeal shall be heard in court , to which all members of the public shall have access so far as the space in the court permits and so long as they conduct themselves in an orderly manner. (2) In exceptional circumstances, the presiding judge may direct that the public be excluded, if satisfied that national security or the interests of justice so require."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part I",
+      "section": "30",
+      "title": "Power to reappraise evidence",
+      "content": "(1) Where the Court of Appeal has reversed, affirmed or varied a decision of the High Court acting in its original jurisdiction, the court may decide matters of law or mixed law and fact, but shall not have discretion to take additional evidence. (2) When an appeal emanates from a decision of the constitutional court — (a) in the case of an appeal on a petition to the constitutional court , the court may appraise the evidence and decide matters of fact, or law, or mixed law and fact, and may in its discretion take additional evidence; and (b) in the case of an appeal on a reference to the constitutional court , the court may decide the question of law or mixed law and fact submitted in the reference."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part I",
+      "section": "31",
+      "title": "General power of the court",
+      "content": "On any appeal the court may, so far as its jurisdiction permits, confirm, reverse or vary the decision of the Court of Appeal with such directions as may be appropriate, or order the rehearing of the appeal before the Court of Appeal ; and as the justice of the case demands, the court may order a trial de novo in the court of first instance, including a constitutional matter, and may make any necessary, incidental or consequential orders, including orders as to costs."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part I",
+      "section": "32",
+      "title": "Judgment",
+      "content": "(1) Judgment or an order may be given at the close of the hearing of an appeal or an application or reserved for delivery on some future day which may be appointed at the hearing or subsequently notified to the parties. (2) In a criminal application, other than an application heard by a single judge , and in criminal appeals, one order or judgment shall be given as the order or judgment of the court , but a judge who dissents shall not be required to sign the judgment; except that the presiding judge may, in any particular case, direct that separate orders or judgments be given. (3) In a civil application, other than an application heard by a single judge , and in a civil appeal , including a constitutional appeal , a separate order or judgment shall be given by the members of the court , unless the decision being unanimous, the presiding judge otherwise directs. (4) An order of the court on an application shall, where the application was heard in chambers, be delivered in chambers, or if heard in court , be delivered in court , and a judgment on an appeal shall be delivered in court ; except that the presiding judge may, in any particular case, direct that the decision of the court only shall be so delivered and not the reasons for the decision, and in any such case, the judgment or order shall be deposited in the registry , and copies shall be available to the parties when the decision is delivered. (5) Notwithstanding subrule (1) of this rule, the court may at the close of the hearing of an application or appeal give its decision but reserve its reasons; and in any such case the reasons may be delivered in court or deposited in the registry . (6) Where the reasons are deposited in the registry , copies of the reasons shall be made available to the parties and they shall be so informed. (7) Where one judgment is given at the close of the hearing as the judgment of the court , it shall be delivered by the presiding judge or by any other member of the court as the presiding judge may direct. (8) Where judgment, or the reasons for a decision, have been reserved, the judgment of the court , or a judgment of any judge , or the reasons, as the case may be, being in writing and signed, may be delivered by any judge , whether or not he or she sat at the hearing, or by the registrar . (9) A judgment shall be dated as of the day when it is delivered or, where a direction has been given under subrule (4) of this rule, as of the day when the decision was delivered."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part I",
+      "section": "33",
+      "title": "Decisions to be embodied in orders",
+      "content": "(1) Every decision of the court , on an appeal or application, other than a decision on an application made informally in the course of a hearing, shall be embodied in an order. (2) Every order referred to in subrule (1) of this rule shall be dated as of the date on which the decision was delivered and shall, in addition, show the date on which the order was extracted. (3) An order on an appeal shall be substantially in Form I in the First Schedule to these Rules, and an order on an application shall be substantially in Form J in that Schedule."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part I",
+      "section": "34",
+      "title": "Preparation of orders",
+      "content": "(1) Where a decision of the court was given in an application or appeal in a criminal matter, the order shall be drawn up by the registrar who in drawing up the order shall not be required to consult the parties or their advocates. (2) Where a decision of the court was given in an application or appeal of a civil nature— (a) the party who has been substantially successful shall, as soon as practicable, prepare a draft of the order and shall submit it for the approval of the other parties; (b) if all parties approve the draft, the order shall, unless the presiding judge otherwise directs, be in accordance with it; (c) if the parties do not agree on the form of the order, or if there is unreasonable delay in the preparation or approval of a draft, the form of the order shall be settled by the presiding judge or by any judge who sat at the hearing as the presiding judge shall direct, after giving all the parties an opportunity of being heard; and (d) if the parties are unable to agree which party was substantially successful, the registrar , on the application of either party, which application may be made informally, and after giving all parties an opportunity of being heard, shall direct by which party the draft is to be prepared, and the direction shall be final. (3) The order embodying the decision in an appeal or application in a civil matter shall be issued out of the registry ."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part I",
+      "section": "35",
+      "title": "Correction of errors",
+      "content": "(1) A clerical or arithmetical mistake in any judgment of the court or any error arising in it from an accidental slip or omission may, at any time, whether before or after the judgment has been embodied in an order, be corrected by the court , either of its own motion or on the application of any interested person so as to give effect to what was the intention of the court when judgment was given. (2) An order of the court may at any time be corrected by the court , either of its own motion or on the application of any interested person, if it does not correspond with the order or judgment it purports to embody or, where the judgment has been corrected under subrule (1) of this rule, with the judgment as so corrected."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part I",
+      "section": "36",
+      "title": "Notification of decisions",
+      "content": "(1) The registrar shall send to the registrar of the Court of Appeal a sealed copy of the order embodying the decision of the court in any civil or criminal appeal . (2) Where an appeal emanates from a court presided over by a chief magistrate or a magistrate grade I, the final decision of the court shall be sent by the registrar in the form of a sealed copy of the order embodying the final decision in any civil or criminal appeal to the court of first or second instance."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part I",
+      "section": "37",
+      "title": "Signature and sealing of summonses, etc.",
+      "content": "Every summons, warrant, order, notice or other formal document issued by the court shall be signed by the judge or by the registrar and shall be sealed with the seal of the court . Part II – Applications"
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part II",
+      "section": "38",
+      "title": "Application for certificate of importance or leave to appeal in criminal matters",
+      "content": "(1) In criminal matters— (a) where an appeal lies if the Court of Appeal certifies that a question or questions of great public or general importance arise, applications to the Court of Appeal shall be made informally at the time when the decision of the Court of Appeal is given against which the intended appeal is to be taken; failing which a formal application by notice of motion may be lodged in the Court of Appeal within fourteen days after the decision, the costs of which will lie in the discretion of the Court of Appeal ; and (b) if the Court of Appeal refuses to grant a certificate as referred to in paragraph (a) of this subrule, an application may be lodged by notice of motion in the court within fourteen days after the refusal to grant the certificate by the Court of Appeal , for leave to appeal on the ground that the intended appeal raises one or more matters of public or general importance which would be proper for the court to review in order to see that justice is done. (2) Where an appeal lies to the court with the leave of the Court of Appeal , an application may be made by notice of motion to the Court of Appeal within a reasonable time after sentence has been passed; and the decision of the Court of Appeal on the question of leave shall be final."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part II",
+      "section": "39",
+      "title": "Application for certificate of importance or leave to appeal in civil matters",
+      "content": "(1) In civil matters— (a) where an appeal lies if the Court of Appeal certifies that a question or questions of great public or general importance arise, application to the Court of Appeal shall be made informally at the time when the decision of the Court of Appeal is given against which the intended appeal is to be taken; failing which a formal application by notice of motion may be lodged in the Court of Appeal within fourteen days after the decision, the costs of which shall lie in the discretion of the Court of Appeal ; and (b) if the Court of Appeal refuses to grant a certificate as referred to in paragraph (a) of this subrule, an application may be lodged by notice of motion in the court within fourteen days after the refusal to grant the certificate by the Court of Appeal for leave to appeal to the court on the ground that the intended appeal raises one or more matters of great public or general importance which would be proper for the court to review in order to see that justice is done. (2) Where formerly an appeal lay from the High Court to the court with leave of either the High Court or the court , the same rules shall apply to appeals from the Court of Appeal to the court — (a) where an appeal lies with leave of the Court of Appeal , application for the leave shall be made informally at the time when the decision against which it is desired to appeal is given; or failing that application or if the court so orders, by notice of motion within fourteen days after the decision; and (b) if the Court of Appeal refuses to grant leave, or where an appeal otherwise lies with leave of the court , application for the leave shall be lodged by notice of motion within fourteen days after the decision of the Court of Appeal refusing leave or, as the case may be, within fourteen days after the decision against which it is desired to appeal ."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part II",
+      "section": "40",
+      "title": "Application before or after notice of appeal",
+      "content": "(1) Where application for a certificate or for leave is necessary, it may be made before or after the notice of appeal is lodged. (2) If any criminal appeal involves a certificate or leave and the appellant is in prison unrepresented by an advocate , the Court of Appeal shall, when affirming or passing sentence or any other order upon the appellant , call for the appellant to be produced before court to make his or her application, and ascertain whether or not the appellant shall be granted the certificate or leave, or may adjourn the decision for the appellant to place all necessary facts before the court ."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part II",
+      "section": "41",
+      "title": "Order of applications to the court and to Court of Appeal",
+      "content": "(1) Where an application may be made either to the court or to the Court of Appeal , it shall be made to the Court of Appeal first. (2) Notwithstanding subrule (1) of this rule, in any civil or criminal matter, the court may, in its discretion, on application or of its own motion, give leave to appeal and make any consequential order to extend the time for the doing of any act, as the justice of the case requires, or entertain an application under rule 6(2)(b) of these Rules to safeguard the right of appeal , notwithstanding the fact that no application has first been made to the Court of Appeal ."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part II",
+      "section": "42",
+      "title": "Form of applications to court",
+      "content": "(1) Subject to subrule (3) of this rule and to any other rule allowing informal application, all applications to the court shall be by motion, which shall state the grounds of the application. (2) A notice of motion shall be substantially in Form A in the First Schedule to these Rules and shall be signed by or on behalf of the applicant. (3) This rule shall not apply— (a) to applications made in the course of a hearing, which may be made informally; or (b) to applications made by consent of all parties, which may be made informally by letter."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part II",
+      "section": "43",
+      "title": "Supporting documents",
+      "content": "(1) Every formal application to the court shall be supported by one or more affidavits of the applicant or of some other person or persons having knowledge of the facts. (2) An applicant may, with the leave of a judge or with the consent of the other party, lodge one or more supplementary affidavits. (3) Applications for leave under subrule (2) of this rule may be made informally. (4) Every application to the court for leave to appeal shall be accompanied by a copy of the decision against which it is desired to appeal and, where an application has been made to the Court of Appeal for leave to appeal and the application has been refused, by a copy of the order of the Court of Appeal refusing that application."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part II",
+      "section": "44",
+      "title": "Applications for leave to amend",
+      "content": "(1) Where formal application is made to the court for leave to amend any document, the amendment for which leave is sought shall be set out in writing, and if practicable lodged with the registrar and served on the respondent before the hearing of the application; or if that is not practicable, it shall be handed to the court and to the respondent at the time of the hearing. (2) The court may consider an application for leave to amend whether made formally as in subrule (1) of this rule or informally during the course of proceedings and may dispose of the application or direct that an informal application be made formally. (3) Where the court gives leave for the amendment of any document, whether on a formal or an informal application, then subject to rule 17 of these Rules, the amendment shall be made or an amended version of the document shall be lodged within such time as the court , when giving leave, may specify; and if no time is so specified, then within forty-eight hours after the giving of leave. (4) On failure to comply with the requirements of subrule (3) of this rule, the leave given and referred to in that subrule shall cease."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part II",
+      "section": "45",
+      "title": "Applications to be lodged in the registry",
+      "content": "(1) An application to the court shall be lodged in the registry . (2) All subsequent documents required to be lodged in relation to an application shall also be lodged in the registry ."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part II",
+      "section": "46",
+      "title": "Applications during vacations",
+      "content": "An application which the applicant desires to be set down for hearing during a vacation shall, where the applicant is represented by an advocate , be accompanied by a certificate of urgency signed by that advocate ."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part II",
+      "section": "47",
+      "title": "Service of notice of motion",
+      "content": "(1) The notice of motion and copies of all affidavits shall be served on all necessary parties not less than two clear days before the hearing. (2) In case of urgency, an application, other than an application under rule 109 of these Rules, may be made ex parte ; but in any such case, if the applicant is represented by an advocate , the advocate shall sign a certificate of urgency, which shall be filed with the proceedings. (3) Where any person required to be served with a notice of motion has given an address for service in or in connection with the proceedings in the Court of Appeal and has given no subsequent address for service, the notice may be served on him or her at that address, notwithstanding that it may be that of an advocate who has not been retained for the purpose of any subsequent proceedings."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part II",
+      "section": "48",
+      "title": "Affidavits in reply",
+      "content": "(1) Any person served with a notice of motion under rule 47 of these Rules may lodge one or more affidavits in reply and shall, as soon as practicable, serve a copy or copies on the applicant. (2) Any person referred to in subrule (1) of this rule may, with the leave of a judge or with the consent of the applicant, lodge one or more supplementary affidavits. (3) An application for leave under subrule (2) of this rule may be made informally."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part II",
+      "section": "49",
+      "title": "Abatement of applications",
+      "content": "(1) An application in a criminal matter shall abate, where the applicant is the State, on the death of the respondent and, in any other case, on the death of the applicant. (2) An application in a civil matter shall not abate on the death of the applicant or respondent ; but the court shall, on the application of any interested person, cause the legal representative of the deceased to be made a party in place of the deceased."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part II",
+      "section": "50",
+      "title": "Hearing of applications",
+      "content": "(1) Every application, other than an application included in subrule (2) of this rule, shall be heard by a single judge of the court ; except that the application may be adjourned by the judge for determination by the court . (2) This rule shall not apply to the following— (a) an application for leave to appeal , or for a certificate that a question or questions of great public or general importance arise; (b) an application for a stay of execution, injunction or stay of proceedings; (c) an application to strike out a notice of appeal or an appeal ; or (d) an application made as ancillary to an application under paragraph (a) or (b) of this subrule or made informally in the course of the hearing, including an application for leave or to extend time if the proceedings are found to be deficient in those matters in the course of the hearing."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part II",
+      "section": "51",
+      "title": "Hearing in court or chambers",
+      "content": "(1) An application to be heard by a single judge shall be heard in court or in chambers as the judge may direct; except that where an application is made informally by letter with the consent of all parties, the judge may dispense with the appearance of the parties. (2) Any other application shall be heard in court , unless the Chief Justice or the presiding judge otherwise directs."
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part II",
+      "section": "52",
+      "title": "Reference from decision of a single judge",
+      "content": "(1) Where under section 8(2) of the Act, any person who is dissatisfied with the decision of a single judge of the court — (a) in any criminal matter wishes to have his or her application determined by the court ; or (b) in any civil matter wishes to have any order, direction or decision of a single judge varied, discharged or reversed by the court , the applicant may apply for it informally to the judge at the time when the decision is given or by writing to the registrar within seven days after that date. (2) At the hearing by three judges of the court of an application previously decided by a single judge , no additional evidence shall be adduced except with the leave of the court ."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part II",
+      "section": "53",
+      "title": "Procedure on nonappearance",
+      "content": "(1) If on any day fixed for the hearing of an application the applicant does not appear, the application may be dismissed, unless the court sees fit to adjourn the hearing. (2) If the applicant appears and the respondent fails to appear, the application shall proceed in the absence of the respondent , unless the court sees fit to adjourn the hearing. (3) Where an application has been dismissed under subrule (1) or allowed under subrule (2) of this rule, the party in whose absence the application was determined may apply to the court to restore the application for hearing or to rehear it, as the case may be, if the party can show that he or she was prevented by any sufficient cause from appearing when the application was called on for hearing. (4) An application made under subrule (3) of this rule shall be made within thirty days after the decision of the court or in the case of a party who should have been served with notice of the hearing but was not so served, within thirty days after his or her first hearing of that decision. (5) Subrule (1) of this rule shall not apply to any application in a criminal matter if the applicant is in prison and is not represented by an advocate ; and in any such case, the application shall be heard notwithstanding the absence of the applicant, unless the court otherwise orders."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Part II",
+      "section": "54",
+      "title": "Rescinding of orders",
+      "content": "(1) An order made on an application heard by a single judge may be varied or rescinded by that judge or any other judge of the court or by three judges of that court on the application of any person affected by the order, if— (a) the order was one extending the time for doing any act, otherwise than to a specific date; or (b) the order was one permitting the doing of some act, without specifying the date by which the act was to be done, and the person on whose application the order was made has failed to show reasonable diligence in the matter. (2) An order made on an application to the court may similarly be varied or rescinded by the court . Part III – Criminal appeals"
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Part III",
+      "section": "55",
+      "title": "Application of Part III",
+      "content": "This Part of these Rules shall apply only to appeals from the Court of Appeal in criminal matters."
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Part III",
+      "section": "56",
+      "title": "Notice of appeal in capital cases",
+      "content": "(1) In the case of an offence punishable by a sentence of death— (a) where the Court of Appeal has confirmed a conviction and sentence of death, or passed the death sentence itself, unless the convict objects, the convict shall be taken to have given notice of appeal to the court as from the date that sentence was passed; and the presiding judge of the Court of Appeal shall note on the record that notice has been given, and the registrar of the Court of Appeal at the place where the decision was given shall register the date when notice of appeal has been given, and the notice shall institute the appeal ; and (b) the registrar shall draw up a notice of appeal in conjunction with the advocate who defended the appellant , which shall— (i) state shortly the nature of the conviction, sentence and finding against which it is desired to appeal ; and (ii) contain the address at which any documents connected with the appeal may be served on the appellant or appellants. (2) Where two or more persons have been convicted at the same trial, and any two or more of them desire to appeal to the court , they may, at their option, lodge separate notices or a joint notice of appeal ; and where a joint notice of appeal is lodged, it may include, in addition to the grounds of appeal common to all the appellants, grounds peculiar to one or more of them. (3) Where an appeal lies only with leave or on a certificate that a point of law of great public or general importance is involved, it shall not be necessary to obtain the certificate or leave before lodging the notice of appeal . (4) Where a notice of appeal is signed by or on behalf of an appellant who is in prison, it shall include a statement that the appellant intends or does not intend, as the case may be, to appear at the hearing of his or her appeal . (5) Where a notice of appeal is signed by an advocate , he or she shall add after his or her signature, the words “Retained only to prepare this notice”, “Retained to appear at the hearing of the appeal ” or “Assigned to appear at the hearing of the appeal ”, as the case may be. (6) A notice of appeal shall be substantially in Form B in the First Schedule to these Rules and shall be signed by or on behalf of the appellant ."
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Part III",
+      "section": "57",
+      "title": "Notice of appeal in noncapital cases",
+      "content": "(1) In the case of an offence where the death sentence has not been passed, or which does not attract the death sentence, the accused may give notice informally, at the time the decision is given, that the accused desires to appeal against the conviction and sentence, or only the sentence, or by notice in writing which shall be lodged within fourteen days after the date of the decision. (2) The notice of appeal shall— (a) state shortly the nature of the conviction and sentence or finding against which it is desired to appeal ; and (b) contain the address at which any documents connected with the appeal may be served on the appellant . (3) Rule 56(2), (3), (4), (5) and (6) shall apply to appeals under this rule."
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "Part III",
+      "section": "58",
+      "title": "Notice of appeal in acquittals",
+      "content": "(1) Where the Court of Appeal acquits or confirms the acquittal of an accused person, the Director of Public Prosecutions, as empowered by the Act, may give notice of appeal as provided in rule 57(1) and (2) of these Rules. (2) Where the Director of Public Prosecutions gives notice of appeal as provided in subrule (1) of this rule, notice may be given informally at the time that the decision is given, upon which the accused person shall give his or her address for service of the notice of hearing of the appeal ; or, if the Director of Public Prosecutions gives notice of appeal in writing within fourteen days after the decision, the director shall notify the court of the address of the accused person for service by the registrar of the notice of appeal upon the accused person, and notice of the date of hearing, which notices shall be substantially in the forms prescribed in respect of appeals against conviction. (3) The accused shall, as soon as possible, be informed that if he or she does not intend to be present at the hearing of the appeal , the appeal will be heard in his or her absence."
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "Part III",
+      "section": "59",
+      "title": "Consolidation of appeals",
+      "content": "(1) Where two or more appeals are brought from convictions, acquittals or sentences passed at the same trial, they shall, unless the court otherwise orders, be consolidated and shall proceed as one appeal . (2) Where two or more persons convicted by a subordinate court have appealed to the High Court and subsequently to the Court of Appeal where their appeals were consolidated, and any two or more of them give notice of appeal to the court , their appeals shall, unless the court otherwise orders, be consolidated and shall proceed as one appeal ."
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "Part III",
+      "section": "60",
+      "title": "Preparation of record of appeal",
+      "content": "(1) As soon as practicable after a notice of appeal has been lodged, the registrar of the Court of Appeal shall prepare the record of appeal . (2) For the purpose of an appeal from the Court of Appeal , the record of appeal shall contain documents relating to the proceedings in the trial court and shall also contain copies of the following documents relating to the appeal to the first appellate court — (a) the petition of appeal ; (b) the record of proceedings; (c) the judgment; (d) the order, if any; (e) the notice of appeal ; and (f) in the case of a third appeal , it shall contain also the corresponding documents in relation to the second appeal and the certificate of the Court of Appeal that a point of law of great public or general importance is involved. (3) Notwithstanding subrule (1) of this rule, the registrar of the Court of Appeal shall not prepare the record of appeal — (a) where the notice of appeal has been lodged out of time, until he or she has been notified that the time has been extended by order of the Court of Appeal or the court or unless the Chief Justice otherwise directs; or (b) where the appeal cannot be heard without leave to appeal or a certificate that a point of law of great public or general importance is involved, until he or she has been notified that the leave or certificate has been given, or unless the Chief Justice otherwise directs. (4) The registrar of the Court of Appeal shall certify each copy of the record of appeal to be a true copy of the original proceedings; except that where the record is produced by printing, type lithography, stencil duplicating, photography or xerography, it shall suffice if one copy is so certified. (5) In the case of appeals from the constitutional court , the registrar of the Court of Appeal shall prepare the record of appeal within six weeks after the lodging of the notice of appeal , or in such time and manner as the Chief Justice directs."
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "Part III",
+      "section": "61",
+      "title": "Service and transmission of record of appeal , exhibits, etc.",
+      "content": "(1) As soon as the record of appeal has been prepared, the registrar of the Court of Appeal shall cause a copy of it to be served on the appellant and a copy on the respondent and shall send sufficient copies for each member of any particular bench and the registrar as provided by rule 14 of these Rules. (2) The registrar of the Court of Appeal shall at the same time send to the registrar the original record of proceedings in the trial court , the original documentary exhibits in the trial court , other than any of great bulk, but shall not send any exhibits other than documentary ones, unless requested to do so by the registrar . (3) The registrar of the Court of Appeal shall ensure so far as practicable that all other exhibits are available for inspection by the court at the hearing of the appeal ."
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "Part III",
+      "section": "62",
+      "title": "Memorandum of appeal",
+      "content": "(1) The appellant shall, within fourteen days after service on him or her of the record of appeal , lodge a memorandum of appeal with the registrar . (2) The memorandum of appeal shall set forth concisely and under distinct heads numbered consecutively, without argument or narrative, the grounds of objection to the decision appealed against, specifying, in the case of a constitutional appeal , the points of fact or law or mixed law and fact which are alleged to have been wrongly decided, and in third appeals the matters of law of great public or general importance wrongly decided. (3) The registrar shall as soon as practicable cause a copy of the memorandum of appeal to be served on the respondent . (4) A memorandum of appeal shall be substantially in Form C in the First Schedule to these Rules, and shall be signed by or on behalf of the appellant . (5) If no memorandum of appeal is lodged within the prescribed time, the court may dismiss the appeal or may direct that it be set down for hearing; except that where an appeal is dismissed under this subrule, the appellant , if he or she can show sufficient cause, may apply to the court to restore it for hearing."
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "Part III",
+      "section": "63",
+      "title": "Supplementary memorandum",
+      "content": "(1) The appellant may at any time, with the leave of the court , lodge a supplementary memorandum of appeal . (2) An advocate who has been assigned by the Chief Justice or the presiding judge to represent an appellant may, within fourteen days after the date when he or she is notified of his or her assignment, and without requiring the leave of the court , lodge a memorandum of appeal on behalf of the appellant as supplementary to or in substitution for any memorandum which the appellant may have lodged. (3) Any person lodging a supplementary memorandum under this rule shall cause a copy of it to be served on the respondent ."
+    },
+    {
+      "provision_ref": "s64",
+      "chapter": "Part III",
+      "section": "64",
+      "title": "Presentation of arguments in writing",
+      "content": "(1) An appellant or, where the appellant is the State, a respondent who does not intend to appear in person or by advocate at the hearing of the appeal may lodge with the registrar a statement in writing of his or her or its arguments in support of or in opposition to the appeal , as the case may be. (2) Every statement referred to in subrule (1) of this rule shall be signed by or on behalf of the appellant or respondent , as the case may be, and shall be lodged at the time of or within fourteen days after lodging the memorandum of appeal . (3) A person who has lodged a statement under this rule shall not, except with leave of the court , address the court at the hearing of the appeal . (4) On receipt of a statement under subrule (1) of this rule, the registrar shall immediately send one copy of it to the other party."
+    },
+    {
+      "provision_ref": "s65",
+      "chapter": "Part III",
+      "section": "65",
+      "title": "Procedure where appellant is in prison",
+      "content": "(1) If the appellant is in prison, he or she shall be taken to have complied with the requirements of rules 56, 57, 62, 63, 64 or any of them if he or she gives to the officer in charge of the prison the notice of appeal , memorandum of appeal or statement provided for in those rules respectively. (2) In any case to which subrule (1) of this rule applies, in computing the time prescribed for lodging the notice, memorandum or statement, there shall be excluded— (a) the time between the appellant 's conviction and his or her arrival at the prison to which he or she was committed; and (b) the time between the giving of the notice, memorandum or statement to the officer in charge of the prison and its lodging by him or her with the registrar or deputy registrar , as the case may be. (3) An officer in charge of a prison who receives a notice or statement under this rule shall, immediately, endorse it with the date and time of receipt."
+    },
+    {
+      "provision_ref": "s66",
+      "chapter": "Part III",
+      "section": "66",
+      "title": "Withdrawal of appeals",
+      "content": "(1) An appeal may be withdrawn at any time before hearing by notice in writing to the registrar signed by the appellant , and upon the notice being given, the appeal shall be taken to have been dismissed. (2) When an appeal is withdrawn, the registrar shall immediately notify the respondent and the registrar of the Court of Appeal . (3) An appeal which has been withdrawn may be restored by leave of the court on the application of the appellant if the court is satisfied that the notice of withdrawal was induced by fraud or mistake and that the interests of justice require that the appeal be heard."
+    },
+    {
+      "provision_ref": "s67",
+      "chapter": "Part III",
+      "section": "67",
+      "title": "Abatement of appeals",
+      "content": "An appeal , other than an appeal against a sentence of fine or an order for costs, compensation or forfeiture, shall abate on the death of the appellant or, where the appellant is the State, on the death of the respondent ."
+    },
+    {
+      "provision_ref": "s68",
+      "chapter": "Part III",
+      "section": "68",
+      "title": "Notice of hearing",
+      "content": "(1) The registrar shall cause notice to be given to the appellant and to the respondent of the time and place at which an appeal will be heard. (2) A notice under subrule (1) of this rule shall be given not less than seven days before the date appointed for the hearing, unless in any case the Chief Justice or the presiding judge otherwise directs."
+    },
+    {
+      "provision_ref": "s69",
+      "chapter": "Part III",
+      "section": "69",
+      "title": "Appearance at hearing and dismissal for nonappearance",
+      "content": "(1) The appellant and the respondent shall be entitled to be present at the hearing of the appeal . (2) An appellant or respondent who is in prison, other than an appellant under sentence of death or life imprisonment or represented by an advocate , shall, unless in any particular case the court otherwise directs, if he or she wishes to be present, be responsible for paying the expenses of his or her transport and that of his or her escort to and from the court . (3) Where an appellant is represented by an advocate or has lodged a statement under rule 64 of these Rules or is in prison, it shall not be necessary for him or her to attend personally the hearing of his or her appeal , unless the court orders his or her attendance. (4) If an appellant is on bail, he or she shall attend the hearing of his or her appeal or, with the leave of the registrar , shall before the time of hearing, attend the High Court at the place where the bail bond was executed and submit himself or herself to the order of that court pending disposal of the appeal . (5) Where an appellant is in prison and has stated that he or she does not intend to appear at the hearing of his or her appeal , the appeal shall be heard in his or her absence, unless the court orders attendance. (6) Subject to subrule (5) of this rule, if on the day fixed for the hearing of an appeal the appellant does not appear in person or by advocate and has not lodged a statement under rule 64 of these Rules, or having been in prison has escaped from custody, the appeal may be dismissed or may be heard in his or her absence. (7) Where an appeal has been dismissed under subrule (6) of this rule, the court may restore it for hearing if it is satisfied that the appellant was prevented by any sufficient cause from appearing when the appeal was called for hearing. (8) The cost of transport to and from the court of an appellant who is in prison and that of his or her escort shall be borne out of funds of the court where— (a) the appellant is under sentence of death, or life imprisonment or is not represented by an advocate , and desires to attend the hearing of his or her appeal ; or (b) the court has issued a direction under subrule (2) of this rule or has ordered his or her attendance under subrule (3) or (5) of this rule. (9) If on the day fixed for the hearing of an appeal the respondent does not appear in person or by advocate the appeal shall proceed, unless the court sees fit to adjourn the hearing."
+    },
+    {
+      "provision_ref": "s70",
+      "chapter": "Part III",
+      "section": "70",
+      "title": "Arguments at hearing",
+      "content": "(1) At the hearing of an appeal — (a) the appellant shall not, without leave of the court , argue any ground of appeal not specified in the memorandum of appeal or in any supplementary memorandum lodged under rule 63 of these Rules; and (b) the arguments contained in any statement lodged under rule 64 of these Rules shall receive the same consideration as if they had been advanced orally at the hearing. Part IV – Civil appeals"
+    },
+    {
+      "provision_ref": "s71",
+      "chapter": "Part IV",
+      "section": "71",
+      "title": "Application of Part IV",
+      "content": "This Part of these Rules shall only apply to appeals from the Court of Appeal in civil and constitutional matters."
+    },
+    {
+      "provision_ref": "s72",
+      "chapter": "Part IV",
+      "section": "72",
+      "title": "Notice of appeal",
+      "content": "(1) Any person who desires to appeal to the court shall give notice in writing, which shall be lodged in duplicate with the registrar of the Court of Appeal . (2) Every notice under subrule (1) of this rule shall, subject to rules 80 and 91 of these Rules, be lodged within fourteen days after the date of the decision against which it is desired to appeal . (3) Every notice of appeal shall state whether it is intended to appeal against the whole or part only of the decision and where it is intended to appeal against a part only of the decision, it shall specify the part complained of, state the address for service of the appellant and state the names and addresses of all persons intended to be served with copies of the notice. (4) When an appeal lies only with leave or on a certificate that a point of law of great general or public importance is involved, it shall not be necessary to obtain the leave or a certificate before lodging the notice of appeal . (5) A notice of appeal shall be substantially in Form D in the First Schedule to these Rules and shall be signed by or on behalf of the appellant ."
+    },
+    {
+      "provision_ref": "s73",
+      "chapter": "Part IV",
+      "section": "73",
+      "title": "Transmission of notice of appeal",
+      "content": "On receipt of a notice of appeal , the registrar of the Court of Appeal shall immediately send one copy of it to the registrar ."
+    },
+    {
+      "provision_ref": "s74",
+      "chapter": "Part IV",
+      "section": "74",
+      "title": "Service of notice of appeal on persons affected",
+      "content": "(1) An intended appellant shall, before or within seven days after lodging notice of appeal , serve copies of it on all persons directly affected by the appeal ; but the court may on application, which may be made ex parte , direct that service need not be effected on a person who took no part in the proceedings in the High Court or Court of Appeal . (2) Where any person required to be served with a copy of a notice of appeal gave any address for service in or in connection with the proceedings in the High Court , and has not subsequently given any other address for service, the copy of the notice of appeal may be served on him or her at that address notwithstanding that it may be that of an advocate who has not been retained for the purpose of an appeal ."
+    },
+    {
+      "provision_ref": "s75",
+      "chapter": "Part IV",
+      "section": "75",
+      "title": "Death of respondent before service of notice",
+      "content": "A notice of appeal shall not be incompetent by reason only that the person on whom it is required to be served was dead at the time when the notice was lodged; but a copy of the notice shall be served as soon as practicable on the legal representative of the deceased."
+    },
+    {
+      "provision_ref": "s76",
+      "chapter": "Part IV",
+      "section": "76",
+      "title": "Respondent to give address for service",
+      "content": "(1) Every person on whom a notice of appeal is served shall— (a) within fourteen days after service on him or her of the notice of appeal , lodge in the registry , and serve on the intended appellant , notice of a full and sufficient address for service; and (b) within a further fourteen days, serve a copy of the notice of address for service on every other person named in the notice of appeal as a person intended to be served. (2) A notice of address for service shall be substantially in Form E in the First Schedule to these Rules and shall be signed by or on behalf of the person lodging it. (3) The lodging and service of an address for service shall not operate or be construed as an admission that the appeal is incompetent or a waiver of any irregularity."
+    },
+    {
+      "provision_ref": "s77",
+      "chapter": "Part IV",
+      "section": "77",
+      "title": "Separate notices of appeal from same decision",
+      "content": "(1) Where two or more parties have given notice of appeal from the same decision, the second and all subsequent notices to be lodged shall be taken to be notices of address for service within the meaning of rule 76 of these Rules, and the party or parties giving those notices shall be respondents in the appeal . (2) A party whose notice of appeal is taken to be a notice of address for service shall not be required to comply with rule 76 of these Rules if he or she has served copies of his or her notice of appeal on all persons on whom under that rule he or she would have been required to serve notice of his or her address for service."
+    },
+    {
+      "provision_ref": "s78",
+      "chapter": "Part IV",
+      "section": "78",
+      "title": "Application to strike out notice of appeal or appeal",
+      "content": "A person on whom a notice of appeal has been served may at any time, either before or after the institution of the appeal , apply to the court to strike out the notice or the appeal , as the case may be, on the ground that no appeal lies or that some essential step in the proceedings has not been taken or has not been taken within the prescribed time."
+    },
+    {
+      "provision_ref": "s79",
+      "chapter": "Part IV",
+      "section": "79",
+      "title": "Institution of appeals",
+      "content": "(1) Subject to rule 109 of these Rules and subrule (4) of this rule, an appeal shall be instituted in the court by lodging in the registry , within sixty days after the date when the notice of appeal was lodged— (a) a memorandum of appeal ; (b) the record of appeal ; (c) the prescribed fee; and (d) security for the costs of the appeal . (2) Where an application for a copy of the proceedings in the Court of Appeal has been made within thirty days after the date of the decision against which it is desired to appeal , there shall, in computing the time within which the appeal is to be instituted, be excluded such time as may be certified by the registrar of the Court of Appeal as having been required for the preparation and delivery to the appellant of that copy. (3) An appellant shall not be entitled to rely on subrule (2) of this rule, unless his or her application for the copy was in writing and a copy of it was served on the respondent , and the appellant has retained proof of that service. (4) Notwithstanding subrule (1) of this rule, an appeal from the constitutional court shall be instituted by lodging in the registry within fifty days from the date when the notice of appeal was lodged— (a) the memorandum of appeal ; (b) the record of appeal ; (c) the prescribed fee; and (d) security for the costs of the appeal . (5) Notwithstanding subrule (2) of this rule, in appeals from the constitutional court , for the purpose of guaranteeing the expedition in constitutional matters required under article 137(7) of the Constitution , the notice of appeal shall contain a request for the copies of the proceedings and judgment, which shall be supplied by the registrar of the Court of Appeal within ten days after the date of the notice of appeal . (6) Subrule (3) of this rule shall not apply to appeals from the constitutional court , but where the registrar of the Court of Appeal has failed to provide copies of proceedings andjudgment within ten days as provided in subrule (5) of this rule, there shall, in computing the time within which the appeal is to be instituted, be excluded such time as the registrar shall explain in writing and certify as having been necessary for the preparation of those copies."
+    },
+    {
+      "provision_ref": "s80",
+      "chapter": "Part IV",
+      "section": "80",
+      "title": "Effect of default in instituting appeal",
+      "content": "If a party who has lodged a notice of appeal fails to institute an appeal within the prescribed time— (a) he or she shall be taken to have withdrawn his or her notice of appeal and shall, unless the court otherwise orders, be liable to pay the costs arising from the notice of any persons on whom the notice of appeal was served; (b) any person on whom the notice of appeal was served shall be entitled to give notice of appeal notwithstanding that the prescribed time has expired, if he or she does so within fourteen days after the date by which the party who lodged the previous notice of appeal should have instituted his or her appeal ."
+    },
+    {
+      "provision_ref": "s81",
+      "chapter": "Part IV",
+      "section": "81",
+      "title": "Death of party to intended appeal",
+      "content": "(1) An appeal shall not be instituted in the name of a person who is dead but may be instituted in the name of his or her legal representative. (2) An appeal shall not be incompetent by reason only that the respondent was dead at the time when it was instituted; but the court shall, on the application of any interested person, cause the legal representative of the deceased to be made a party in place of the deceased."
+    },
+    {
+      "provision_ref": "s82",
+      "chapter": "Part IV",
+      "section": "82",
+      "title": "Contents of memorandum of appeal",
+      "content": "(1) A memorandum of appeal shall set forth concisely and under distinct heads without argument or narrative, the grounds of objection to the decision appealed against, specifying the points which are alleged to have been wrongly decided, and the nature of the order which it is proposed to ask the court to make. (2) The grounds of objection shall be numbered consecutively. (3) A memorandum of appeal shall be substantially in Form F in the First Schedule to these Rules and shall be signed by or on behalf of the appellant ."
+    },
+    {
+      "provision_ref": "s83",
+      "chapter": "Part IV",
+      "section": "83",
+      "title": "Contents of record of appeal",
+      "content": "(1) The record of appeal shall contain the records of appeal in the Court of Appeal , the High Court , and in the case of a third appeal the record of appeal from the trial magistrate's court in addition to the foregoing records. (2) The record of appeal from the Court of Appeal shall contain— (a) an index of all the documents in the record, including the records of the courts below, with the number of the pages at which they appear; (b) a statement showing the address for service of the appellant and the address for service furnished by the respondent and, as regards any respondent who has not furnished an address for service, then as required by rule 76 of these Rules, his or her last known address and proof of service on him or her of the notice of appeal ; (c) the order, if any, giving leave to appeal ; (d) the memorandum of appeal ; (e) the record of proceedings; (f) the order or judgment; (g) the notice of appeal ; and (h) in case of a third appeal the certificate of the Court of Appeal that a point or points of law of great public or general importance arise. (3) A judge or a registrar of the Court of Appeal may, on the application of any party, or of his or her own motion, direct which documents or parts of documents should be included or excluded from the record; and an application for the direction may be made informally. (4) The documents mentioned in subrules (1) and (2) of this rule shall be bound in the order in which they are set out in those subrules. (5) Documents produced in evidence shall be put in order of the dates they bear or, where they are undated, the dates when they are believed to have been made, without regard to the order in which they were produced in evidence. (6) An affidavit filed in support of a chamber summons or notice of motion shall be bound immediately following the summons or notice, as the case may be. (7) Each copy of the record of appeal shall be certified to be correct by the appellant or by any person entitled under rule 23 of these Rules to appear on his or her behalf. (8) For the purpose of an appeal against any order, it shall not be necessary for the amount of any costs ordered to be paid to be stated in it, and the order shall be taken to be duly drawn up and extracted if, in addition to other matters required to be embodied in it, it sets out the order or orders for costs but not the result of any taxation. (9) Where leave to appeal or a certificate that a point of law of great public or general importance has been granted or refused by the Court of Appeal immediately after the delivery of that court 's decision, against which it is desired to appeal , a statement that leave or a certificate has been granted or refused shall be included in the order."
+    },
+    {
+      "provision_ref": "s84",
+      "chapter": "Part IV",
+      "section": "84",
+      "title": "Service of memorandum and record of appeal",
+      "content": "(1) The appellant shall, before or within seven days after lodging the memorandum of appeal and the record of appeal in the registry , serve copies of them on each respondent who has complied with the requirements of rule 76 of these Rules. (2) The appellant shall also serve copies of the memorandum of appeal and the record of appeal on any other parties to the original proceedings as the court may at any time, on application or of its own motion, direct and within such time as the court may prescribe."
+    },
+    {
+      "provision_ref": "s85",
+      "chapter": "Part IV",
+      "section": "85",
+      "title": "Transmission of papers to registrar",
+      "content": "(1) Where an appeal has been instituted in the registry , the registrar shall obtain from the registrar of the Court of Appeal the original record of the proceedings of the relevant court of first instance, and so far as practicable the exhibits. (2) Where an appeal emanates from a preliminary stage of the trial of a petition in a constitutional matter, the registrar shall obtain the original proceedings relevant to that stage, and after that the full record if an appeal lies from the full decision."
+    },
+    {
+      "provision_ref": "s86",
+      "chapter": "Part IV",
+      "section": "86",
+      "title": "Preparation and service of supplementary record",
+      "content": "(1) If a respondent is of opinion that the record of appeal is defective or insufficient for the purposes of his or her case, he or she may lodge in the registry a supplementary record of appeal containing copies of any further documents or any additional parts of documents which are, in his or her opinion, required for the proper determination of the appeal . (2) The respondent shall, as soon as practicable after lodging a supplementary record of appeal , serve copies of it on the appellant and on every other respondent who has complied with the requirements of rule 85 of these Rules. (3) The appellant may, at any time, lodge in the registry a supplementary record of appeal , and shall as soon as practicable after that serve copies of it on every respondent who has complied with the requirements of rule 76 of these Rules. (4) A supplementary record may be lodged to cure defects in the original record of appeal due to want of compliance with rule 83 of these Rules. (5) A supplementary record of appeal shall be prepared as nearly as may be in the same manner as a record of appeal ."
+    },
+    {
+      "provision_ref": "s87",
+      "chapter": "Part IV",
+      "section": "87",
+      "title": "Notice of cross- appeal",
+      "content": "(1) A respondent who desires to contend at the hearing of the appeal in the court that the decision of the Court of Appeal or any part of it should be varied or reversed, either in any event or in the event of the appeal being allowed in whole or in part, shall give notice to that effect, specifying the grounds of his or her contention and the nature of the order which he or she proposes to ask the court to make, or to make in that event, as the case may be. (2) A notice given by a respondent under this rule shall state the names and the addresses of any persons intended to be served with copies of the notice, and the respondent shall lodge the notice in the registry not more than thirty days after the service on the respondent of the memorandum of the appeal and the record of the appeal . (3) A notice of cross-appeal shall be substantially in Form G in the First Schedule to these Rules and shall be signed by or on behalf of the respondent ."
+    },
+    {
+      "provision_ref": "s88",
+      "chapter": "Part IV",
+      "section": "88",
+      "title": "Notice of grounds for affirming decision",
+      "content": "(1) A respondent who desires to contend on an appeal in the court that the decision of the Court of Appeal should be affirmed on grounds other than or additional to those relied upon by the court shall give notice to that effect, specifying the grounds of his or her contention. (2) A notice given by the respondent under this rule shall state the names and addresses of any persons intended to be served with copies of the notice and shall be lodged in the registry not more than thirty days after service on the respondent of the memorandum of appeal and the record of appeal . (3) A notice of grounds for affirming a decision shall be substantially in Form H in the First Schedule to these Rules and shall be signed by or on behalf of the respondent . (4) A respondent who desires to contend at the hearing of the appeal that part of the decision of the Court of Appeal should be varied or reversed, and that part of the decision should be affirmed on grounds other than or additional to those relied upon by that court , may include both those contentions in a notice of cross-appeal under rule 87 of these Rules and shall not be required to give notice also under this rule. (5) Subrules (1), (2) and (3) of this rule and rule 89 of these Rules shall apply with necessary modifications to an appellant who desires to contend in opposition to a cross- appeal that the decision of the Court of Appeal should be affirmed on grounds other than or additional to those relied on by that court ."
+    },
+    {
+      "provision_ref": "s89",
+      "chapter": "Part IV",
+      "section": "89",
+      "title": "Service of notice of cross-appeal or notice of grounds for affirming decision",
+      "content": "(1) A respondent who intends to cross- appeal or to contend that the decision of the Court of Appeal should be affirmed on grounds other than those relied on by that court shall, before or within seven days after lodging his or her notice of cross-appeal or notice of grounds for affirming the decision , as the case may be, serve a copy of it on all other persons directly affected by the cross- appeal or by the appeal , as the case may be. (2) The respondent shall also serve copies of the notice of cross-appeal or notice of grounds for affirming the decision , as the case may be, on such other parties to the original proceedings as the court may, at any time, on application or of its own motion, direct and within such time as the court may prescribe."
+    },
+    {
+      "provision_ref": "s90",
+      "chapter": "Part IV",
+      "section": "90",
+      "title": "Withdrawal of appeal",
+      "content": "(1) An appellant may at any time after instituting his or her appeal and before the appeal is called on for hearing lodge in the registry notice in writing that he or she does not intend further to prosecute the appeal . (2) The appellant shall, before or within seven days after lodging the notice of withdrawal, serve copies of it on each respondent who has complied with the requirements of rule 76 of these Rules. (3) If all the parties to the appeal consent to the withdrawal of the appeal , the appellant may lodge in the registry the document or documents signifying the consent of the parties; and the appeal shall then be struck out of the list of pending appeals. (4) If all the parties to the appeal do not consent to the withdrawal of the appeal , the appeal shall stand dismissed with costs, except as against any party who has consented, unless the court on the application of the appellant , otherwise orders. (5) An application under subrule (4) of this rule shall be made within fourteen days after the lodging of the notice of withdrawal."
+    },
+    {
+      "provision_ref": "s91",
+      "chapter": "Part IV",
+      "section": "91",
+      "title": "Rights of respondent when appeal is withdrawn",
+      "content": "(1) If an appeal is withdrawn under rule 90 of these Rules after notice of cross-appeal has been given, the respondent who gave the notice may withdraw it within fourteen days after the service on him or her of the notice of withdrawal. (2) If it is not withdrawn, the cross- appeal shall proceed to hearing, and these Rules shall apply as if the cross- appellant were an appellant and the appellant a respondent . (3) If an appeal is withdrawn under rule 90 of these Rules within fourteen days after the date when the appeal was instituted, any respondent who has not lodged a notice of cross-appeal is entitled to give notice of appeal notwithstanding that the time prescribed by rule 72 of these Rules has expired, if he or she does so within fourteen days after the date when the appellant 's notice of withdrawal was served on him or her."
+    },
+    {
+      "provision_ref": "s92",
+      "chapter": "Part IV",
+      "section": "92",
+      "title": "Withdrawal of notice of cross-appeal or notice of grounds for affirming decision",
+      "content": "(1) A respondent who has given notice of cross-appeal or notice of grounds for affirming the decision of the Court of Appeal may withdraw it at any time before the appeal is called for hearing by lodging in the registry notice in writing to that effect, signed by him or her or on his or her behalf. (2) The respondent shall, before or as soon as practicable after lodging the notice of withdrawal, serve a copy of it on the appellant and on all other respondents who were served with the notice of cross-appeal or notice of grounds for affirming the decision , as the case may be."
+    },
+    {
+      "provision_ref": "s93",
+      "chapter": "Part IV",
+      "section": "93",
+      "title": "Death of party to appeal",
+      "content": "An appeal shall not abate on the death of the appellant or respondent but the court shall, on the application of any interested person, or of the court 's own motion, cause the legal representative of the deceased to be made a party in place of the deceased."
+    },
+    {
+      "provision_ref": "s94",
+      "chapter": "Part IV",
+      "section": "94",
+      "title": "Presentation of arguments in writing",
+      "content": "(1) Any party to an appeal in the court who does not intend to appear in person or by advocate at the hearing of the appeal may lodge in the registry a statement in writing of his or her arguments in support of or in opposition to the appeal or the cross- appeal , if any, as the case maybe, and shall, before or within seven days after lodging it, serve a copy of it on the other party or on each other party appearing in person or separately represented. (2) Every statement shall be lodged— (a) by an appellant , within fourteen days after lodging his or her memorandum of appeal ; (b) by a respondent , within thirty days of service on him or her of the memorandum and record of appeal . (3) An appellant who has lodged a statement under subrule (1) of this rule may, if served with notice of a cross- appeal , lodge a supplementary statement of his or her arguments in opposition to it. (4) No party who has lodged a statement under this rule shall, except with leave of the court , address the court at the hearing of the appeal ."
+    },
+    {
+      "provision_ref": "s95",
+      "chapter": "Part IV",
+      "section": "95",
+      "title": "Notice of hearing",
+      "content": "(1) The registrar shall give all parties to an appeal not less than fourteen days' notice of the date fixed for the hearing of an appeal . (2) It shall not be necessary to give the notice to any party with whose consent the date for the hearing has been fixed."
+    },
+    {
+      "provision_ref": "s96",
+      "chapter": "Part IV",
+      "section": "96",
+      "title": "Appearances at hearing and procedure on nonappearance",
+      "content": "(1) If on any day fixed for the hearing of an appeal , the appellant does not appear, the appeal may be dismissed and any cross- appeal may proceed, unless the court sees fit to adjourn the hearing. (2) Where an appeal has been dismissed under subrule (1) of this rule or any cross- appeal has been allowed, the appellant may apply to the court to restore the appeal for hearing or to rehear the cross- appeal , if he or she can show that he or she was prevented by any sufficient cause from appearing when the appeal was called on for hearing. (3) If the appellant appears and the respondent fails to appear, the appeal shall proceed in the absence of the respondent and any cross- appeal may be dismissed, unless the court sees fit to adjourn the hearing. (4) Where an appeal has been allowed or cross- appeal dismissed in the absence of the respondent , the respondent may apply to the court to rehear the appeal or to restore the cross- appeal for hearing, if the respondent can show that he or she was prevented by any sufficient cause from appearing when the appeal was called for hearing. (5) An application for restoration under subrule (2) or (4) of this rule shall be made within thirty days after the decision of the court , or in the case of a party who should have been served with notice of the hearing but was not so served, within thirty days of his or her hearing of that decision. (6) For the purposes of this rule, a party who has lodged a statement under rule 94 of these Rules shall be taken to have appeared."
+    },
+    {
+      "provision_ref": "s97",
+      "chapter": "Part IV",
+      "section": "97",
+      "title": "Consolidation of appeals",
+      "content": "The court may, for sufficient reason, order any two or more appeals to be consolidated on such terms as it considers just or may order them to be heard at the same time or one immediately after the other or may order any of them to be stayed until after the determination of any other of them."
+    },
+    {
+      "provision_ref": "s98",
+      "chapter": "Part IV",
+      "section": "98",
+      "title": "Arguments at hearing",
+      "content": "At the hearing of an appeal — (a) no party shall, without the leave of the court , argue that the decision of the Court of Appeal should be reversed or varied except on a ground specified in the memorandum of appeal or in a notice of cross-appeal , or support the decision of the Court of Appeal on any ground not relied on by that court or specified in a notice given under rule 88 of these Rules; (b) a respondent shall not, without the leave of the court , raise any objection to the competence of the appeal which might have been raised by application under rule 78 of these Rules; (c) the court shall not allow an appeal or cross- appeal on any ground not set forth or implicit in the memorandum of appeal or notice of cross-appeal , without affording the respondent , or any person who in relation to that ground should have been made a respondent , or the appellant , as the case may be, an opportunity of being heard on that ground; and (d) at the hearing of an appeal , the arguments contained in any statement lodged under rule 94 of these Rules shall receive the same consideration as if they had been advanced orally at the hearing. Part V – Fees and costs"
+    },
+    {
+      "provision_ref": "s99",
+      "chapter": "Part V",
+      "section": "99",
+      "title": "Fees payable",
+      "content": "(1) Subject to rules 107 and 109 of these Rules, the fees set out in the Second Schedule to these Rules shall be payable in respect of the matters and services set out in that Schedule. (2) Notwithstanding subrule (1) of this rule— (a) no fees shall be payable by the Government in respect of any criminal application or appeal ; and (b) copies of any document may be issued without fee to such persons as the Chief Justice may nominate or at such reduced fee as the Chief Justice may direct."
+    },
+    {
+      "provision_ref": "s100",
+      "chapter": "Part V",
+      "section": "100",
+      "title": "Time of payment of fees",
+      "content": "(1) The fee payable on lodging any document shall be payable at the time when the document is lodged. (2) The registrar or the registrar of the Court of Appeal may require the payment in advance of the fee for any other service or, where the amount of the fee cannot conveniently be ascertained when the service is requested, may require a deposit towards it. (3) Any fee paid under subrule (2) of this rule in advance or deposit made shall be refunded if the request for the service is cancelled before the service has been undertaken."
+    },
+    {
+      "provision_ref": "s101",
+      "chapter": "Part V",
+      "section": "101",
+      "title": "Security for costs in civil appeals",
+      "content": "(1) Subject to rule 109 ofthese Rules, there shall be lodged in court on the institution of a civil appeal as security for the costs of the appeal the sum of four hundred thousand shillings. (2) Where an appeal has been withdrawn under rule 90 of these Rules, after notice of appeal has been given, the court may, on the application of any person who is a respondent to the cross- appeal , direct the cross- appellant to lodge in the court as security for costs the sum of four hundred thousand shillings, or any specified sum less than four hundred thousand shillings, or may direct that the cross- appeal be heard without security for costs being lodged. (3) The court may, at any time, if the court thinks fit, direct that further security for costs be given and may direct that security be given for the payment of past costs relating to the matters in question in the appeal . (4) Where security for costs has been lodged, the registrar may pay it out with the consent of the parties or in conformity with the decision of the court and having regard to the rights of the parties under it."
+    },
+    {
+      "provision_ref": "s102",
+      "chapter": "Part V",
+      "section": "102",
+      "title": "Assessment or taxation of costs",
+      "content": "(1) When making any decision as to the payment of costs, the court may assess or direct them to be taxed; and any decision as to payment of costs, not being a decision by which the amount of costs is assessed, shall operate as a direction that the costs be taxed. (2) For the purpose of execution in respect of costs, the decision of the court directing taxation and the certificate of the taxing officer as to the result of the taxation shall, together, be taken to be a decree."
+    },
+    {
+      "provision_ref": "s103",
+      "chapter": "Part V",
+      "section": "103",
+      "title": "Costs improperly incurred",
+      "content": "If it appears to the court that costs have been incurred improperly or without reasonable cause, or that by reason of any undue delay in proceeding under any judgment or order, or of any misconduct or default of the advocate , any costs properly incurred have, nevertheless, proved fruitless to the person incurring them, the court may call on the advocate by whom the costs have been incurred to show cause why the costs should not be borne by the advocate personally, and may make such order as the justice of the case may require."
+    },
+    {
+      "provision_ref": "s104",
+      "chapter": "Part V",
+      "section": "104",
+      "title": "Improper agreement for remuneration",
+      "content": "Any agreement by which the remuneration of an advocate or the amount of it is dependent upon the result of any proceedings in the court shall be void."
+    },
+    {
+      "provision_ref": "s105",
+      "chapter": "Part V",
+      "section": "105",
+      "title": "Taxation",
+      "content": "(1) The registrar shall be a taxing officer with power to tax the costs as between party and party of or arising out of any application or appeal to the court . (2) The costs shall be taxed in accordance with the rules and scale set out in the Third Schedule to these Rules."
+    },
+    {
+      "provision_ref": "s106",
+      "chapter": "Part V",
+      "section": "106",
+      "title": "Reference on taxation",
+      "content": "(1) Any person who is dissatisfied with a decision of the registrar in his or her capacity as a taxing officer may require any matter of law or principle to be referred to a judge of the court for his or her decision and the judge shall determine the matter as the justice of the case may require. (2) For the purpose of subrule (1) of this rule, any decision extending or refusing to extend time for the lodging of a bill of costs or any exercise by the registrar of the overriding discretion given him or her by paragraph 12 of the Third Schedule to these Rules shall be taken to involve a matter of principle. (3) Any person who contends that a bill of costs as taxed is, in all the circumstances, manifestly excessive or manifestly inadequate may require the bill to be referred to a judge ; and the judge may make such deduction or addition as will render the bill reasonable. (4) Except as provided in subrule (3) of this rule, there shall be no reference on a question of quantum only. (5) An application for a reference may be made to the registrar informally at the time of taxation or by writing within seven days after that time. (6) A reference to a judge of the court may be adjourned by him or her for the consideration of the court . (7) Any person dissatisfied with a decision of a judge given under this rule may apply to the court to vary, discharge or reverse the decision. (8) An application made under subrule (7) of this rule may be made either informally to the judge at the time of the decision or by writing to the registrar within seven days after that time."
+    },
+    {
+      "provision_ref": "s107",
+      "chapter": "Part V",
+      "section": "107",
+      "title": "Waiver of fees in criminal appeals",
+      "content": "(1) If in any appeal from the Court of Appeal in any criminal matter, a judge of the Court of Appeal is satisfied on the application of the appellant — (a) that the appeal raises one or more questions of law proper for determination by the court ; or (b) that the appellant ought not, by reason of poverty, to be required to pay the whole of the fees ordinarily payable, including the fees for preparing the record of appeal , he or she may, by order, direct that the whole or any part of the fees be waived. (2) An application for an order under subrule (1) of this rule may be made informally at any time but not later than seven days after the appellant has been informed of the amount which, in the absence of an order, he or she would be required to pay as fees or to deposit in respect of the fees; but a judge of the Court of Appeal may entertain the application out of time if it appears to him or her that there was sufficient cause for the delay in making it. (3) No fee shall be payable on the lodging of the application. (4) A judge of the Court of Appeal considering the means of an applicant may rely on a report made to him or her by the registrar of the Court of Appeal . (5) A judge of the Court of Appeal making an order under subrule (1) of this rule may, at the same time and without formal application, order the extension of the time for giving notice of appeal or for lodging the memorandum of appeal . (6) An order allowing or dismissing an application under subrule (1) of this rule shall be final except that the decision by a judge of the Court of Appeal that an appeal raises or does not raise a question of law proper for determination by the court shall be conclusive of that question only in relation to the application."
+    },
+    {
+      "provision_ref": "s108",
+      "chapter": "Part V",
+      "section": "108",
+      "title": "Refund of fees paid in criminal appeals",
+      "content": "Where an appeal from the Court of Appeal in its appellate criminal jurisdiction is allowed, the court may, for sufficient reason, order the refund to the appellant of the fees paid by him or her under these Rules or any part of them."
+    },
+    {
+      "provision_ref": "s109",
+      "chapter": "Part V",
+      "section": "109",
+      "title": "Relief from fees and security in civil appeals",
+      "content": "(1) If in any appeal from the Court of Appeal in any civil case the court is satisfied on the application of an appellant that he or she lacks the means to pay the required fees or to deposit the security for costs and that the appeal has a reasonable possibility of success, the court may, by order, direct that the appeal may be lodged— (a) without prior payment of fees or on payment of any specified amount less than the required fees; or (b) without security for costs being lodged, or on lodging of any specified sum less than the amount fixed by rule 101 of these Rules, and may order that the record of appeal be prepared by the registrar of the Court of Appeal without any payment for it or on payment of any specified sum less than the fee set out in the Second Schedule to these Rules, conditionally on the intended appellant undertaking to pay the fees or the balance of the fees out of any money or property he or she may recover in or in consequence of the appeal . (2) The registrar shall be entitled to be heard on the application. (3) No fee shall be payable on the lodging of the application. (4) The registrar may take such actions as he or she may think necessary to enforce any undertaking given in accordance with subrule (1) of this rule. Part VI – Transitional provisions"
+    },
+    {
+      "provision_ref": "s110",
+      "chapter": "Part VI",
+      "section": "110",
+      "title": "Transitional provisions",
+      "content": "(1) In all proceedings pending in the court or in the Court of Appeal preparatory or incidental to, or consequential upon, any proceeding in any court at the time of the coming into force of these Rules, the provisions of these Rules shall apply, but without prejudice to the validity of anything previously done. (2) Notwithstanding subrule (1) of this rule, in any case of difficulty or doubt, a judge or the registrar may informally give directions as to the procedure to be adopted, where it is impracticable to superimpose these Rules on the practice and procedure obtaining before the coming into force of these Rules. First Schedule Forms Form A (Rule 42) Notice of motion In the Supreme Court of Uganda at _______________________________________________________ Criminal/Civil¹ Application No. ______________ of ________________, 20 ___________________ In the matter of an intended appeal/Criminal/Civil Appeal No.¹ ___________________ of ____________________________, 20 ______________ between ______________________________________________________________________________________, Applicant and ______________________________________________________________________________________, Respondent (Appeal from the ___________________________________________________________________________² of the Court of Appeal of Uganda at ________________________________________________________________ before Honourable Justice/Justices of Appeal ____________________________________________________) dated __________________________________, 20 _________________________________, in ______________________ Criminal/Civil Application/ Appeal No.¹ ______________________________ of ___________, 20____________ Take notice that on the day of ________________, 20 _____, at ____________ o'clock in the morning/afternoon¹ or as soon after that as he/she can be heard, _________________________________, advocate for the above-named applicant, will move the court/judge of the court¹ for an order that __________________________________________________________________________________ on the grounds that ______________________________________________________________________________ and for an order that the costs of and incidental to this application abide the result of the appeal.³ The application will be supported by the affidavit of _________________________________ sworn on the day of ______________, 20___. The address of service of the applicant is __________________________________________________________________ Dated this _____________________________________ day of ______________, 20_____ Applicant/Advocate for the Applicant Lodged in the registry on the _____________________ day of _________________, 20 ________________ Registrar ¹Delete inappropriate words. ²Insert conviction, sentence, judgment, order, or as the case may be. ³Amend as necessary. Form B (Rule 56) Notice of appeal (Heading as in the proceedings appealed from) Take notice that ____________________________________________________________________ appeals to the Supreme Court of Uganda against the decision of the Honourable Justice/Justices ______________________________________________________________ given at ________________________________________ on the ___________________________ day of______________, 20___, by which the appellant was convicted of and sentenced to __________________________________________________/the accused was acquitted¹. The appeal is against conviction only/conviction and sentence/sentence only/acquittal¹. The appellant intends/does not intend¹ to be present at the hearing of the appeal. The address for service of the appellant is _____________________________________________________ Dated this __________________ day of______________, 20_____ Appellant/Advocate for the Appellant (Retained only to prepare this notice/Retained to appear at the hearing of the appeal/Assigned to appear at the hearing of the appeal¹.) To: The Registrar of the Court of Appeal _________________________________________________________________ Lodged in the Court of Appeal at ________________________________________________________________________ on the _____________________________ day of______________, 20_____ Registrar ¹Delete inappropriate words or amend as necessary. Form C (Rule 62) Memorandum of appeal In the Supreme Court of Uganda at __________________________________________________________________ Criminal Appeal No. __________________________ of 20 _________________ between ___________________________________________________________________________________________________, Appellant and ____________________________________________________________________________________________________, Respondent (Appeal from a _________________________________________________________________________¹ of the Court of Appeal at _____________________________________________________________________________ before the Honourable Justice/Justices ________________________________________________________ dated the day of ________________, 20 ______, in Criminal Case/Appeal No. __ of 20 ____________) _______________________________________________________________________________, the above-named appellant, appeals to the Supreme Court against the above-mentioned decision, by which the appellant was convicted of ______________________________________________________________________________ and sentenced to __________________________________________________________________ /the accused was acquitted², on the following grounds — 1. _____________________________________________________________________________________________ 2. __________________________________________________________________________________________________, etc. Appellant/Advocate for the Appellant To: The Honourable Justices of the Supreme Court Lodged in the registry ______________________________________ at on the ________________ day of ______________, 20 _____________ Registrar ¹Insert conviction, sentence, order, or as the case may be. ²Delete inappropriate words Form D (Rule 72) Notice of appeal (Heading as in proceedings appealed from) Take notice that __________________________________________________ being dissatisfied with the decision of the Honourable Justice/Justices ___________________________ given at ___________________________________________ on the __________________________________ day of ______________, 20 ___, intends to appeal to the Supreme Court against the whole of the decision/such part of the decision as decided that¹,². The address of service of the appellant is _________________________________________________ It is intended to serve copies of this notice on³ __________________________________________ Dated this _________________________ day of ______________, 20_____ Respondent/Advocate for the Respondent To: The Registrar of the Court of Appeal at _ Lodged in the Court of Appeal at __________________________ this ______________________ day of ______________, 20 ______________________ Registrar ¹Delete as appropriate. ²Specify part complained of. ³Copies of the notice should be served on all persons directly affected by the appeal. Form E (Rule 76) Notice of address for service (Heading as in proceedings appealed from) Take notice that the address for service of __________________________, a respondent served with notice of appeal, is _________________________________ Dated this _____________________________ day of ______________, 20_____ Respondent/Advocate for the Respondent To: The Registrar/Registrar of the Court of Appeal at _____________________________________________ Copies to be served on __________________________________________________________________________ Lodged in the registry at __________________________________ on the ___________________ day of ______________, 20 __________________ Registrar Form F (Rule 82) Memorandum of appeal In the Supreme Court of Uganda at ________________________________________________ Civil Appeal No. _____________________________ of 20 ______________________________ between ___________________________________________________________, Appellant and ___________________________________________________________, Respondent Appeal from a _____________________________________________¹ of the Court of Appeal at. before Honourable Justice/Justices ______________________________________________ dated the _____________ day of _______________, 20 _____________, in Civil Case/Civil Appeal/Bankruptcy Cause/Matrimonial Cause/Constitutional Cause/Miscellaneous Cause² No. _____________ of ___________, 20 ________ _________________________________________, the above-named appellant, appeals to the Supreme Court against the whole/part³ of the above-mentioned decision on the following grounds— 1. __________________________________________________________ 2. ___________________________________________________________, etc. It is proposed to ask the court for an order that⁴ __________________________________________________ Appellant/Advocate for the Appellant To: The Honourable Justices of the Supreme Court. Copies to be served on __________________________________________________ Lodged in the registry at _____________________________________________ on the _________________ day of ______________, 20 _______________ Registrar ¹Insert conviction, sentence, order, or as the case may be ²Delete as appropriate ³Specify part complained of ⁴Set out order which it is intended to ask court to make Form G (Rule 87) Notice of cross-appeal (Heading as in Form F) Take notice that on the hearing of this appeal, the above-named respondent will contend that the above-mentioned decision ought to be varied or reversed to the extent and in the manner and on the following grounds— 1. ________________________________________________________________ 2. ________________________________________________________________, etc. It is proposed to ask the court for an order that¹ ______________________________________________________________ It is intended to serve copies of this notice on ________________________________________________________________ Dated this _____________________ day of ______________, 20_____ Respondent/Advocate for the Respondent To: The Honourable Justices of the Supreme Court of Uganda Lodged in the registry at _______________________________ this ____________________________ day of ______________, 20 _______________ Registrar ¹Set out order which it is intended to ask court to make Form H (Rule 88) Notice of grounds for affirming the decision (Heading as in Form F) Take notice that on the hearing of this appeal, ___________________, the above-named respondent, will contend that the above-mentioned decision ought to be affirmed on grounds other than those relied upon by the High Court, namely— 1. ____________________________________________________ 2. ____________________________________________________, etc It is intended to serve copies of this notice on ___________________________________________________ Dated this ___________________ day of ______________, 20 _______________ Respondent/Advocate for the Respondent To: The Honourable Justices of the Supreme Court of Uganda Lodged in the registry at ________________________________ on the ______ day of ____________, 20 ___________ Registrar Form I (Rule 33) Order (Heading as in Form F) In court ______________________________________________________________ Before ________________________________________________________________ This appeal coming on for hearing this ________________________ day of ___________________, 20 ______________, in the presence of ___________________________________________ when the appeal was stood over for judgment and this appeal coming for judgment this day.¹ It is order that— 1. ______________________________________________________________________ 2. ______________________________________________________________________, etc. And it is ordered² _____"
+    },
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Interpretation",
+      "content": "In this Schedule, a folio means one hundred words, and a single figure or a group of figures up to seven shall count as one word."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Lodging and service of bill of costs",
+      "content": "(1) Where costs are to be taxed, the advocate for the party to whom the costs were awarded shall lodge his or her bill with the taxing officer and shall, before, or within seven days after, lodging it, serve a copy of it on the advocate for the party liable to pay it. (2) A bill of costs shall be lodged as soon as practicable after the making of the order for costs and not later than twenty-one days after a request in writing for it by the party liable, or such further time as the registrar may allow. (3) A bill of costs may not be lodged by an advocate who is not on the record."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Form of bill",
+      "content": "(1) A bill of costs shall be entitled and filed in the proceedings and shall be prepared in five columns as follows— (a) the first or left-hand column for the dates of the items; (b) the second column for the serial numbers of the items; (c) the third column for the particulars of the services charged for; (d) the fourth column for the professional or scale charges; and (e) the fifth column for the taxing officer's deductions. (2) Every bill of costs shall be endorsed with— (a) the name and address of the advocate lodging the bill; (b) the name and address of every party to be served or his or her advocate; and (c) a certificate signed by the advocate lodging the bill that the number of folios, in respect of any item in the bill charged for by the folio, is correct; and if the certificate is found to be incorrect, the item may be disallowed. (3) Every bill of costs shall be endorsed, at the end of it with a form of certificate for signature by the taxing officer certifying the result of the taxation."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Disbursements",
+      "content": "(1) Disbursements shall be shown separately at the foot of the bill of costs. (2) Receipts for all disbursements shall be produced to the taxing officer at the time of taxation. (3) No disbursement shall be allowed which has not been paid at the time of taxation."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Bills not to be altered after lodging",
+      "content": "No alteration or addition to a bill of costs once lodged shall be made except by consent of the parties or by permission of the taxing officer or a judge."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Notice of taxation",
+      "content": "When a bill of costs has been lodged, the taxing officer shall issue a notice to all parties concerned or their advocates giving the date, time and place at which the bill will be taxed."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Time and adjournment",
+      "content": "The taxing officer may limit or extend the time for any proceedings before him or her, and adjourn the proceedings from time to time and from place to place."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Failure to attend taxation",
+      "content": "If any party or advocate who has been duly served with a notice of taxation fails to appear at the date and time specified in the notice, the taxing officer may proceed to tax the bill notwithstanding the absence of the party or the advocate."
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Quantum of costs",
+      "content": "(1) The fee to be allowed for instructions to make, support or oppose any application shall be a sum that the taxing officer considers reasonable but shall not be less than one thousand shillings. (2) The fee to be allowed for instructions to appeal or to oppose an appeal shall be a sum that the taxing officer considers reasonable, having regard to the amount involved in the appeal, its nature, importance and difficulty, the interest of the parties, the other costs to be allowed, the general conduct of the proceedings, the fund or person to bear the costs and all other relevant circumstances. (3) The sum allowed under subparagraph (2) of this paragraph shall include all the work necessarily and properly done in connection with the appeal and not otherwise chargeable, including attendances, correspondence, perusals and consulting authorities. (4) Other costs shall, subject to paragraphs 10, 11 and 12 of this Schedule, be awarded in accordance with the scale set out in the following paragraphs or, in respect of any matter for which no provision is made in those scales, in accordance with the scales applicable in the High Court."
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "Fees for drawing documents",
+      "content": "The fee for drawing a document shall include the preparation of all copies for the use of the party drawing it and for filing and service when only one other party or one advocate for other parties has to be served; but where there are additional parties, fees may be charged for making the necessary additional copies."
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "Taxation of bills",
+      "content": "(1) On taxation the taxing officer shall allow such costs, charges and disbursements as appear to him or her to have been reasonably incurred for the attainment of justice; but no costs shall be allowed which appear to the taxing officer to have been incurred through overpayment, extravagance, overcaution, negligence or mistake or by payment of special charges or expenses to witnesses or other persons or by other unusual expenses. (2) In taxing the costs of any civil appeal, the taxing officer shall disallow the costs of any matter improperly included in the record of appeal or in any supplementary record of appeal."
+    },
+    {
+      "provision_ref": "s12",
+      "section": "12",
+      "title": "Overriding discretion",
+      "content": "If, after a bill of costs has been taxed, the taxing officer considers that, having regard to all the circumstances, the total of the bill before signing the certificate of taxation is excessive, he or she may make such a deduction from the total as will, in his or her opinion, render the sum reasonable."
+    },
+    {
+      "provision_ref": "s13",
+      "section": "13",
+      "title": "Excessive claims",
+      "content": "If more than one-quarter of the profit costs claimed is disallowed on taxation, the costs of drawing, filing and serving the bill and of attending taxation shall be disallowed."
+    },
+    {
+      "provision_ref": "s14",
+      "section": "14",
+      "title": "Setoff of costs",
+      "content": "Where a party entitled to receive costs is also liable to pay costs, the taxing officer may tax the costs which that party is liable to pay and adjust them by way of deduction or setoff and direct payment of any balance."
+    },
+    {
+      "provision_ref": "s15",
+      "section": "15",
+      "title": "Costs of more than one advocate",
+      "content": "(1) Costs of more than one advocate shall not be allowed unless the court has so directed. (2) If an advocate has instructed another advocate to appear at the hearing of an appeal, the fee paid to the latter, or so much of it as the taxing officer considers reasonable, may be allowed but so that the total of the fee and the instruction fee allowed to the instructing advocate shall not be greater than it would have been if one advocate only had acted in the matter. (3) Where the court has directed that the costs of two advocates be allowed— (a) where the senior advocate is not a member of the same firm as the advocate on the record, he or she shall be allowed the fee paid to him or her, including fees for attending in court, or so much of it as the taxing officer considers reasonable; (b) where the senior advocate is a member of the same firm as the advocate on record, he or she shall be allowed such fee as would have been allowed in the case of an advocate not a member of that firm; and (c) the advocate on the record shall be allowed the usual instruction, hearing and other fees. (4) The fee paid to another advocate by the advocate on the record shall be shown as a disbursement."
+    },
+    {
+      "provision_ref": "s16",
+      "section": "16",
+      "title": "Costs where advocates change during proceedings",
+      "content": "(1) If there has been a change of advocates, the bill of costs of the first advocate may be annexed to that of the current advocate and the total shown as a disbursement. (2) The bill shall be taxed in the ordinary way, the current advocate being heard on it, but the taxing officer may require the first advocate to attend."
+    },
+    {
+      "provision_ref": "s17",
+      "section": "17",
+      "title": "Two or more parties",
+      "content": "Where the same advocate is employed for two or more parties and separate proceedings are taken by or on behalf of any two of those parties, the taxing officer shall consider in the taxation of that advocate's bill of costs whether the separate proceedings were necessary and proper; and if he or she is of opinion that any part of the costs occasioned by them has been unnecessarily or improperly incurred, then that part shall be disallowed."
+    },
+    {
+      "provision_ref": "s18",
+      "section": "18",
+      "title": "Costs where trustees defend separately",
+      "content": "In taxing the costs between party and party or for payment out of a trust fund of joint executors or trustees who are separately represented, the taxing officer shall, unless otherwise ordered by the court or a judge, allow only one set of costs for those parties, those costs to be apportioned among them as the taxing officer shall think fit. History of this document 31 December 1996 this version Amended by Judicature (Supreme Court Rules) Directions 22 November 1996 Amended by Judicature (Court of Appeal Rules) Directions 31 December 1972 Commenced Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About ULII ULII is a project of the Law Reporting Committee of the Judiciary of Uganda. ULII aims to bridge the existing gap in public access to the law of Uganda. Working with the AfricanLII and in collaboration with other partners, such as the Free Access to Law Movement, ULII's major aim is to be a user-friendly portal of all publicly available legal information in Uganda. The Judiciary of Uganda considers access to its decisions and the law upon which they are based as key tenets of its key mission: Justice for All . ULII is also an end user interface for the Electronic Court Case Management Information System. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Uganda Judiciary Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "advocate",
+      "definition": "a person who, under rule 26 of these Rules, has the right of audience before the court",
+      "source_provision": "s3"
+    },
+    {
+      "term": "appellant",
+      "definition": "an intended appellant",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Constitution",
+      "definition": "the Constitution of the Republic of Uganda, 1995",
+      "source_provision": "s3"
+    },
+    {
+      "term": "constitutional court",
+      "definition": "the Court of Appeal sitting as the constitutional court as constituted under article 137 of the Constitution",
+      "source_provision": "s3"
+    },
+    {
+      "term": "court",
+      "definition": "the Supreme Court of Uganda established under article 129 of the Constitution , and includes any division of the court and a single judge exercising any power vested in him or her sitting alone",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Court of Appeal",
+      "definition": "the Court of Appeal of Uganda established under article 129 of the Constitution",
+      "source_provision": "s3"
+    },
+    {
+      "term": "High Court",
+      "definition": "the High Court of Uganda established under article 129 of the Constitution",
+      "source_provision": "s3"
+    },
+    {
+      "term": "judge",
+      "definition": "a judge of the court acting as such",
+      "source_provision": "s3"
+    },
+    {
+      "term": "notice of cross-appeal",
+      "definition": "a notice lodged in accordance with rule 87 of these Rules",
+      "source_provision": "s3"
+    },
+    {
+      "term": "notice of grounds for affirming the decision",
+      "definition": "a notice lodged in accordance with rule 88 of these Rules",
+      "source_provision": "s3"
+    },
+    {
+      "term": "registrar",
+      "definition": "the registrar of the court and includes a deputy and an assistant registrar of the court",
+      "source_provision": "s3"
+    },
+    {
+      "term": "registrar of the Court of Appeal",
+      "definition": "a deputy and an assistant registrar of that court , and includes the registrar of the constitutional court",
+      "source_provision": "s3"
+    },
+    {
+      "term": "registry",
+      "definition": "the registry of the court",
+      "source_provision": "s3"
+    }
+  ]
+}

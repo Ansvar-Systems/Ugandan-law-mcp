@@ -1,0 +1,56 @@
+{
+  "id": "ug-act-ord-1918-9",
+  "type": "statute",
+  "title": "Illiterates Protection Act",
+  "title_en": "Illiterates Protection Act",
+  "short_name": "Illiterates Protection Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://ulii.org/en/akn/ug/act/ord/1918/9/eng@2023-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Interpretation",
+      "content": "In this Act— “ currency point ” has the value assigned to it in Schedule 1 to this Act; “ document ” means any print or writing capable of being used as evidence of any fact or thing as against the person by, for or at the request, or on behalf or in the name of whom the same purports to be written or signed in any way; “ illiterate ” means, in relation to any document , a person who is unable to read and understand the script or language in which the document is written or printed."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Verification of signature of illiterates",
+      "content": "No person shall write the name of an illiterate by way of signature to any document unless such illiterate shall have first appended his or her mark to it; and any person who so writes the name of the illiterate shall also write on the document his or her own true and full name and address as witness, and his or her so doing shall imply a statement that he or she wrote the name of the illiterate by way of signature after the illiterate had appended his or her mark, and that he or she was instructed so to write by the illiterate and that prior to the illiterate appending his or her mark, the document was read over and explained to the illiterate ."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Verification of documents written for illiterates",
+      "content": "Any person who writes any document for or at the request, on behalf or in the name of any illiterate shall also write on the document his or her own true and full name as the writer of the document and his or her true and full address, and his or her so doing shall imply a statement that he or she was instructed to write the document by the person for whom it purports to have been written and that it fully and correctly represents his or her instructions and was read over and explained to him or her."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Offence and penalty",
+      "content": "If the writer of or witness to the signature on any document fails to write on the document his or her true and full name and address as provided in section 2 or 3 , or if he or she has done so and the statement which under this Act is implied by the writing is untrue in any particular, then and in every such case the person commits an offence and is liable, on conviction, to a fine not exceeding one hundred fifty currency points, or in default of payment to imprisonment for a term not exceeding three months, but without prejudice to any criminal or civil liability which he or she may have incurred in the circumstances by reason of fraud, forgery, misrepresentation or otherwise."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Saving as to certain documents",
+      "content": "Nothing in this Act shall apply to documents of the classes specified in Schedule 2 to this Act."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Power to amend Schedules",
+      "content": "(1) The Minister may, by statutory instrument, with the approval of Cabinet, amend Schedule 1 to this Act. (2) The Minister may, by statutory instrument, amend Schedule 2 to this Act. Schedule 1 (Sections 1, 6(1)) Currency point A currency point is equivalent to twenty thousand shillings. Schedule 2 (Sections 5, 6(2)) Exempted documents 1. Receipts for taxes. 2. Receipts for money paid by a Government officer on behalf of the Treasury. History of this document 31 December 2023 this version Chapter 288 Revised Laws 2023 Consolidation 31 December 2000 Chapter 78 Revised Laws 2000 Consolidation Read this version 30 September 1918 Commenced Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About ULII ULII is a project of the Law Reporting Committee of the Judiciary of Uganda. ULII aims to bridge the existing gap in public access to the law of Uganda. Working with the AfricanLII and in collaboration with other partners, such as the Free Access to Law Movement, ULII's major aim is to be a user-friendly portal of all publicly available legal information in Uganda. The Judiciary of Uganda considers access to its decisions and the law upon which they are based as key tenets of its key mission: Justice for All . ULII is also an end user interface for the Electronic Court Case Management Information System. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Uganda Judiciary Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "document",
+      "definition": "any print or writing capable of being used as evidence of any fact or thing as against the person by, for or at the request, or on behalf or in the name of whom the same purports to be written or signed in any way",
+      "source_provision": "s1"
+    }
+  ]
+}

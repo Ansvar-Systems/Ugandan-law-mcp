@@ -1,0 +1,65 @@
+{
+  "id": "ug-act-1998-8",
+  "type": "statute",
+  "title": "Poor Persons Defence Act",
+  "title_en": "Poor Persons Defence Act",
+  "short_name": "Poor Persons Defence Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://ulii.org/en/akn/ug/act/1998/8/eng@2023-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires— “ certifying officer ” means a magistrate presiding over committal proceedings under section 168 of the Magistrates Courts Act , a judge of the High Court, the registrar of the High Court and a deputy or district registrar of the High Court; “ currency point ” has the value assigned to it in the Schedule to this Act; “ Minister ” means the Minister responsible for justice; “ prisoner ” means a poor person committed for trial; “ trial judge ” means a judge of the High Court."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Provision of legal aid",
+      "content": "Where it appears for any reason that it is desirable, in the interests of justice, that a prisoner should have legal aid in the preparation and conduct of his or her defence at his or her trial and that the means of the prisoner are insufficient to enable him or her to obtain such aid— (a) a certifying officer , upon the committal of the prisoner for trial; or (b) a certifying officer at any time after reading the summary of the case submitted at the committal proceedings, may certify that the prisoner ought to have legal aid, and if an indictment is filed against the prisoner and it is possible to procure an advocate, the prisoner shall be entitled to have an advocate assigned to him or her."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Remuneration of advocate",
+      "content": "(1) The remuneration of any advocate assigned under section 2 shall be payable from money provided by Parliament and shall be determined by the trial judge . (2) In determining the amount of remuneration, the trial judge shall have regard to the complexity of the case and to the duration of the trial proceedings. (3) The amount of remuneration to be determined under this section shall not exceed fifty currency points. (4) The Minister may, by statutory instrument, in consultation with the Chief Justice, vary the amount prescribed by subsection (3) ."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Power to make rules",
+      "content": "The Chief Justice may make rules— (a) providing for the payment of travelling expenses, other than hotel expenses, incurred by an advocate and prescribing the terms and conditions subject to which the payments shall be made; and (b) generally for the better carrying out the purposes and provisions of this Act."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Power to amend Schedule",
+      "content": "The Minister may, by statutory instrument, with the approval of Cabinet, amend the Schedule to this Act. Schedule (Sections 1, 5) Currency point A currency point is equivalent to twenty thousand shillings. History of this document 31 December 2023 this version Chapter 22 Revised Laws 2023 Consolidation 31 December 2000 Chapter 20 Revised Laws 2000 Consolidation Read this version 24 April 1998 Commenced Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About ULII ULII is a project of the Law Reporting Committee of the Judiciary of Uganda. ULII aims to bridge the existing gap in public access to the law of Uganda. Working with the AfricanLII and in collaboration with other partners, such as the Free Access to Law Movement, ULII's major aim is to be a user-friendly portal of all publicly available legal information in Uganda. The Judiciary of Uganda considers access to its decisions and the law upon which they are based as key tenets of its key mission: Justice for All . ULII is also an end user interface for the Electronic Court Case Management Information System. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Uganda Judiciary Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "certifying officer",
+      "definition": "a magistrate presiding over committal proceedings under section 168 of the Magistrates Courts Act , a judge of the High Court, the registrar of the High Court and a deputy or district registrar of the High Court",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Minister",
+      "definition": "the Minister responsible for justice",
+      "source_provision": "s1"
+    },
+    {
+      "term": "prisoner",
+      "definition": "a poor person committed for trial",
+      "source_provision": "s1"
+    },
+    {
+      "term": "trial judge",
+      "definition": "a judge of the High Court.",
+      "source_provision": "s1"
+    }
+  ]
+}

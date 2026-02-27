@@ -1,0 +1,49 @@
+{
+  "id": "ug-act-2006-10",
+  "type": "statute",
+  "title": "Uganda Tea Authority (Repeal) Act",
+  "title_en": "Uganda Tea Authority (Repeal) Act",
+  "short_name": "Uganda Tea Authority (Repea...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://ulii.org/en/akn/ug/act/2006/10/eng@2023-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires— “ Authority ” means the Uganda Tea Authority established under the Uganda Tea Authority Act, Cap. 36 (Revised Edition, 2000); “ Minister ” means the Minister responsible for agriculture."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Appointment of liquidator",
+      "content": "(1) The Minister shall, on the coming into force of this Act, appoint a liquidator to dissolve the Authority . (2) The liquidator appointed under subsection (1) , shall be appointed on such terms and conditions as the Minister may determine in the instrument of appointment."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Duties of liquidator",
+      "content": "The duties of the liquidator shall be to— (a) receive all the assets of the Authority ; (b) receive and settle any claim relating to any obligation of the Authority ; (c) determine and settle the terminal benefits payable to the former employees of the Authority ; (d) dispose of the assets of the Authority ; (e) recover any debts owed to the Authority ; (f) carry out any other duty which is incidental or related to the foregoing duties."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Repeal",
+      "content": "The Uganda Tea Authority Act, Cap. 36 (Revised Edition, 2000) is repealed. History of this document 31 December 2023 this version Chapter 45 Revised Law 2023 Consolidation 08 June 2006 Published in Uganda Gazette 36 Commenced 24 May 2006 Assented to Related documents Repeals Uganda Tea Authority Act [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About ULII ULII is a project of the Law Reporting Committee of the Judiciary of Uganda. ULII aims to bridge the existing gap in public access to the law of Uganda. Working with the AfricanLII and in collaboration with other partners, such as the Free Access to Law Movement, ULII's major aim is to be a user-friendly portal of all publicly available legal information in Uganda. The Judiciary of Uganda considers access to its decisions and the law upon which they are based as key tenets of its key mission: Justice for All . ULII is also an end user interface for the Electronic Court Case Management Information System. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Uganda Judiciary Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Authority",
+      "definition": "the Uganda Tea Authority established under the Uganda Tea Authority Act, Cap. 36 (Revised Edition, 2000)",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Minister",
+      "definition": "the Minister responsible for agriculture.",
+      "source_provision": "s1"
+    }
+  ]
+}

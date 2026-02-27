@@ -1,0 +1,97 @@
+{
+  "id": "ug-act-statute-1987-10",
+  "type": "statute",
+  "title": "Security Organisations Act",
+  "title_en": "Security Organisations Act",
+  "short_name": "Security Organisations Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://ulii.org/en/akn/ug/act/statute/1987/10/eng@2000-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires— (a) \" council \" means the council established under section 7 ; (b) \" organisations \" means the security organisations established under section 2 ."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Establishment of security organisations",
+      "content": "(1) There are established security organisations to be known as the Internal Security Organisation and the External Security Organisation. (2) The organisations shall be Government departments."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Functions of the organisations",
+      "content": "The functions of the organisations shall be— (a) to collect, receive and process internal and external intelligence data on the security of Uganda; (b) to advise and recommend to the President or any other authority as the President may direct on what action should be taken in connection with that intelligence data."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Restrictions on exercise of duties",
+      "content": "(1) No officer or employee of either organisation shall take action directed against or affecting any person following intelligence gathered pursuant to section 3 unless that action has first been sanctioned by the President or such other authority as the President may direct; except that either of the Directors General may direct the police to arrest and detain, in relation to intelligence gathered, any person for not more than forty-eight hours pending a report by the Director General under section 3 (b) and a decision by the President. (2) No officer or employee of either organisation shall have power to arrest, detain or confine any person by virtue only of being an officer or employee of the organisation."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Administration and supervision",
+      "content": "Each organisation shall be headed by a Director General appointed by the President and directly responsible and accountable to the President."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Appointment of employees",
+      "content": "Each organisation shall consist of officers and other employees to be appointed by the President on the advice of the Director General of the organisation concerned."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Establishment of the council",
+      "content": "There shall be an advisory council which shall consist of the following— (a) the President, who shall be the chairperson; (b) the Minister in the President’s Office responsible for security; (c) the Minister responsible for internal affairs; (d) the Minister responsible for defence; (e) the Director General of the External Security Organisation; (f) the Director General of the Internal Security Organisation; (g) the director of military intelligence; and (h) any other person appointed by the President."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Functions of the council",
+      "content": "(1) The functions of the council shall be to advise the President— (a) on the policy regarding State security; (b) on matters relating to recruitment of personnel into the organisations ; (c) on the prescription of rules and regulations governing the terms and conditions of service of the officers and other employees of the organisations ; (d) on the formulation of a code of conduct governing officers and other employees of the organisations ; (e) on the formulation of the disciplinary procedure of the organisations ; (f) on any other matter or thing that may be necessary in carrying out the provisions of this Act. (2) The council may form such committees as it may deem necessary."
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Delegation",
+      "content": "The powers and duties conferred upon the President under this Act may be exercised by such Minister as the President may authorise for that purpose."
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "Disclosure of information",
+      "content": "(1) Any person employed or having been employed by either organisation who, without lawful authority, communicates, releases or discloses, whether verbally, in writing, by conduct or in any other manner, to any person, any information relating to his or her duties or those of any other officer, employee or former employee of the organisations , commits an offence and is liable on conviction to a period of imprisonment not exceeding fourteen years. (2) Any person employed or having been employed by either organisation who— (a) holds communication with or gives intelligence to any person, except for purposes of obtaining information from that person; or (b) discloses the secrets of either organisation to any person, commits an offence of disclosure of intelligence and is liable on conviction to be sentenced to death."
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "Behaviour prejudicial to the organisations",
+      "content": "Any officer or other employee of the organisations who arrests, detains or confines any person in contravention of section 4 (2) or conducts himself or herself in a manner which is likely to bring either organisation or both into disrepute or contempt commits an offence and is liable on conviction to a term of imprisonment not exceeding ten years."
+    },
+    {
+      "provision_ref": "s12",
+      "section": "12",
+      "title": "Regulations",
+      "content": "The President may, on the advice of the council , make regulations— (a) formulating the code of conduct governing officers and other employees of the organisations ; (b) prescribing the conditions of service of officers and employees of the organisations ; (c) prescribing disciplinary procedures to be followed by the organisations ; and (d) generally for better carrying into effect this Act. History of this document 31 December 2000 this version Chapter 305 Revised Laws 2000 Consolidation 13 November 1987 Commenced Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About ULII ULII is a project of the Law Reporting Committee of the Judiciary of Uganda. ULII aims to bridge the existing gap in public access to the law of Uganda. Working with the AfricanLII and in collaboration with other partners, such as the Free Access to Law Movement, ULII's major aim is to be a user-friendly portal of all publicly available legal information in Uganda. The Judiciary of Uganda considers access to its decisions and the law upon which they are based as key tenets of its key mission: Justice for All . ULII is also an end user interface for the Electronic Court Case Management Information System. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Uganda Judiciary Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "council",
+      "definition": "the council established under section 7",
+      "source_provision": "s1"
+    },
+    {
+      "term": "organisations",
+      "definition": "the security organisations established under section 2 .",
+      "source_provision": "s1"
+    }
+  ]
+}

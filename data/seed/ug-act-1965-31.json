@@ -1,0 +1,60 @@
+{
+  "id": "ug-act-1965-31",
+  "type": "statute",
+  "title": "Potable Spirits Act",
+  "title_en": "Potable Spirits Act",
+  "short_name": "Potable Spirits Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://ulii.org/en/akn/ug/act/1965/31/eng@2023-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires— “ compounding spirits ” and its cognate expressions means to communicate any flavour to or to mix any ingredient or material with spirits but not so as to denature the spirits ; “ currency point ” has the value assigned to it in the Schedule to this Act; “ denatured spirits ” means spirits mixed with any substance so as to render the mixture unfit and incapable of being readily converted so as to be fit for human consumption as a beverage; “ licensing officer ” means a person appointed by the Minister to be a licensing officer for the purposes of this Act; “ spirits ” includes spirits of any description and all mixtures, compounds or preparations made with spirits, but does not include any denatured spirits ."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Compounding spirits without licence",
+      "content": "(1) Subject to this section, no person shall compound for profit or sale any spirits otherwise than in accordance with a licence issued under section 3 . (2) Any person who compounds spirits without a licence issued under section 3 commits an offence and is liable, on conviction, to a fine not exceeding one hundred twenty currency points or to imprisonment for a term not exceeding twelve months, or both. (3) Subsections (1) and (2) shall not apply to the bona fide compounding of spirits — (a) in any canteen, club, institute, mess or similar institution not conducted by a private individual for personal profit, for the lawful sale of the spirits to the members only of the canteen, club, institute, mess or similar institution for consumption therein; (b) in any vessel in territorial waters or in any aircraft for the lawful sale of the spirits to any passenger or officer or member of the crew of the vessel or aircraft for consumption in the vessel or aircraft; (c) in the course of the lawful preparation or administration of medicine by a medical practitioner registered under the Medical and Dental Practitioners Act, a veterinary surgeon registered under the Veterinary Surgeons Act or a pharmacist registered under the Pharmacy and Drugs Act ; (d) in any circumstances or in any other case in respect of which the Minister, by statutory instrument made for that purpose, has granted an exemption from this section."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Issue of licences",
+      "content": "The licensing officer may, upon an application made for that purpose to him or her, issue a licence for the compounding of spirits under this Act subject to such terms and conditions, including the specification of formulae, as he or she thinks fit."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Regulations",
+      "content": "The Minister responsible for finance may, by statutory instrument, make regulations— (a) prescribing the form of licences and the fees to be paid for a licence; (b) for the duration and cancellation of licences; and (c) generally for better carrying into effect the provisions and purposes of this Act."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Power to amend Schedule",
+      "content": "The Minister responsible for finance may, by statutory instrument, with the approval of Cabinet, amend the Schedule to this Act. Schedule (Sections 1, 5) Currency point A currency point is equivalent to twenty thousand shillings. History of this document 31 December 2023 this version Chapter 77 Revised Laws 2023 Consolidation 28 July 2023 Amended by Law Revision (Miscellaneous Amendments) Act, 2023 31 December 2000 Chapter 97 Revised Laws 2000 Consolidation Read this version 15 October 1965 Commenced Related documents Is amended by Law Revision (Miscellaneous Amendments) Act, 2023 [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About ULII ULII is a project of the Law Reporting Committee of the Judiciary of Uganda. ULII aims to bridge the existing gap in public access to the law of Uganda. Working with the AfricanLII and in collaboration with other partners, such as the Free Access to Law Movement, ULII's major aim is to be a user-friendly portal of all publicly available legal information in Uganda. The Judiciary of Uganda considers access to its decisions and the law upon which they are based as key tenets of its key mission: Justice for All . ULII is also an end user interface for the Electronic Court Case Management Information System. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Uganda Judiciary Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "denatured spirits",
+      "definition": "spirits mixed with any substance so as to render the mixture unfit and incapable of being readily converted so as to be fit for human consumption as a beverage",
+      "source_provision": "s1"
+    },
+    {
+      "term": "licensing officer",
+      "definition": "a person appointed by the Minister to be a licensing officer for the purposes of this Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "spirits",
+      "definition": "spirits of any description and all mixtures, compounds or preparations made with spirits, but does not include any denatured spirits .",
+      "source_provision": "s1"
+    }
+  ]
+}

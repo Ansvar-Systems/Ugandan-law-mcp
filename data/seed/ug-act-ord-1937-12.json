@@ -1,0 +1,110 @@
+{
+  "id": "ug-act-ord-1937-12",
+  "type": "statute",
+  "title": "Public Trustee Act",
+  "title_en": "Public Trustee Act",
+  "short_name": "Public Trustee Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://ulii.org/en/akn/ug/act/ord/1937/12/eng@2000-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Appointment of public trustee",
+      "content": "The Minister, by notice in the Gazette , may appoint some fit and proper person to be public trustee for Uganda, and may in like manner appoint a deputy or deputies to assist him or her, and every deputy so appointed shall, subject to the control of the public trustee, be competent to discharge any of the duties and exercise any of the powers of the public trustee, and when discharging those duties, or exercising those powers, shall have the same privileges and be subject to the same liabilities as the public trustee."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Public trustee to be a corporation sole",
+      "content": "The public trustee shall be a corporation sole by the name of the public trustee and as such shall have perpetual succession and an official seal, and may sue and be sued in his or her corporate name, but any instrument sealed by him or her shall not, by reason of his or her using a seal, be rendered liable to higher stamp duty than if he or she were an individual."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Power of public trustee to appoint agents, etc.",
+      "content": "(1) A district commissioner shall be the agent in his or her area of the public trustee; but the public trustee may appoint such other person as he or she shall think fit to be his or her agent in that area either generally or in any particular trust estate or in any matter arising out of any trust estate. (2) The public trustee may, at his or her discretion, delegate to an agent any or all of the powers and duties conferred or imposed upon him or her by this Act. (3) An agent shall, in all respects, act under the direction of the public trustee who shall not be answerable for any act or omission on the part of the agent which is not in conformity with the power or duty delegated by the public trustee or which shall not have happened by the public trustee’s own fault or neglect. (4) An agent, other than an officer of the Government, shall find security to the satisfaction of the public trustee for the performance of his or her duties and may be remunerated either by salary or such fees as the Minister may from time to time by rule prescribe. (5) The public trustee or a deputy public trustee or an agent shall be entitled to appear in court, either in person or by counsel, in any proceedings to which the public trustee is a party. (6) The public trustee shall be at liberty, without the previous leave of the court, to instruct and employ an advocate in any case as he or she shall think fit; and that advocate shall be remunerated out of the funds of the particular trust estate concerned."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Powers and duties of public trustee",
+      "content": "(1) Subject to and in accordance with this Act and any rules made under it, the public trustee may, if he or she thinks fit— (a) act as an ordinary trustee; or (b) be appointed trustee by a court of competent jurisdiction. (2) Except that the Trustees Act and any enactment amending or replacing it shall apply to him or her, and subject as is hereafter expressly otherwise provided, the public trustee shall have the same powers, duties and liabilities and be entitled to the same rights and privileges and be subject to the same control and orders of the court as any other trustee acting in the same capacity. (3) The public trustee may decline either absolutely, or except on such conditions as he or she may impose, to accept any trust. (4) The public trustee shall not accept any trust under any composition or scheme or arrangement for the benefit of creditors nor of any estate known or believed by him or her to be insolvent. (5) The public trustee shall not, except as provided by any rules made under this Act, accept any trust which involves the management or carrying on of any business. (6) The public trustee shall always be the sole trustee, and it shall not be lawful to appoint the public trustee to be trustee with any other person."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Appointment of public trustee as trustee by person creating trustby trust deed",
+      "content": "(1) Any person intending to create a trust otherwise than by will, being a trust which the public trustee is not prohibited from accepting under the provisions of this Act, may, by instrument creating the trust, and with the consent of the public trustee, appoint him or her by that name or any other sufficient description to be the trustee of the property subject to the trust; but the consent of the public trustee shall be recited in the instrument, and the instrument shall be duly executed by the public trustee. (2) Upon such appointment the property subject to the trust shall vest in the public trustee and shall be held by him or her upon the trusts declared in the instrument."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Procedure in case of appointment of a public trustee as trustee under a will",
+      "content": "(1) When the public trustee has been appointed trustee under any will, the executor of the will or the administrator of the estate concerned, after obtaining probate or letters of administration with will annexed, shall immediately notify the appointment to the public trustee in writing, and shall supply him or her with a certified copy of the will and of any trust instrument and other documents affecting the trust, and such particulars as to the nature and value of the trust property, and the liabilities, if any, attaching to such property or the holder of the property, and the names, ages and addresses of any beneficiaries under the trust, and such other information as the public trustee may consider desirable to obtain in any particular case. (2) After having been supplied with such information as provided under subsection (1), the public trustee shall decide whether the trust shall be accepted or refused, and shall give the executor or administrator notice of such acceptance or refusal, and in case of acceptance shall signify in writing his or her consent to act in the trust and the terms upon which his or her consent is given."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Appointment of public trustee by court",
+      "content": "If any property is subject to a trust, other than a trust which the public trustee is prohibited from accepting under the provisions of this Act, and there is no trustee within the limits of Uganda willing or capable to act in the trust, the court may on the application of any interested party or of the public trustee make an order for the appointment of the public trustee to be the trustee of such property; but where the application is not made by the public trustee, no such order shall be made without his or her consent."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Transfer of legacy, etc. of infant or lunatic to public trustee",
+      "content": "If any infant or lunatic is entitled to any gift, legacy or share of the estate of a deceased person, it shall be lawful for the person by whom the gift is made, or the executor or administrator by whom the legacy or share is payable or transferable, or for any trustee of any gift, legacy or share, with the consent of the public trustee, to transfer the gift, legacy or share by an instrument in writing to the public trustee by that name or any other sufficient description; but the consent of the public trustee shall be recited in the instrument and the instrument shall be duly executed by the public trustee."
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Security not required from public trustee",
+      "content": "The public trustee shall not be required by any court to enter into any bond and security on his or her appointment in any capacity under this Act."
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "Government liability for Acts of public trustee",
+      "content": "The Government shall be liable to make good out of the public funds of Uganda all sums required to discharge any liability which the public trustee, if he or she were a private trustee, would be personally liable to discharge, except when the liability is one to which neither the public trustee nor any of his or her officers or agents has in any way contributed, and which neither he or she nor any of his or her officers or agents could by the exercise of reasonable diligence have averted, and in that case the public trustee, his or her officers or agents shall not, nor shall the Government, be subject to any liability."
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "Fees chargeable",
+      "content": "There shall be charged in respect of the duties of the public trustee such fees, whether by way of percentage or otherwise, as the Minister may prescribe by rules made under this Act; except that in respect of any fee that may be charged by percentage on the annual income accruing for the benefit of any trust, either from money invested or from properties held in trust, the Minister may prescribe the maximum percentage that may be charged and the public trustee, with the approval of the Minister, may fix the actual percentage that shall be charged on that annual income year by year."
+    },
+    {
+      "provision_ref": "s12",
+      "section": "12",
+      "title": "Accounts to be audited",
+      "content": "The accounts of the public trustee shall be audited at least once annually, and at any other time if the Minister so directs, by the prescribed person and in the prescribed manner."
+    },
+    {
+      "provision_ref": "s13",
+      "section": "13",
+      "title": "Court orders",
+      "content": "The court may make such orders as it thinks fit respecting any trust property vested in the public trustee or the interest or the produce of the trust property."
+    },
+    {
+      "provision_ref": "s14",
+      "section": "14",
+      "title": "Powers to incur expenditure",
+      "content": "The public trustee may, in addition to any other powers of expenditure lawfully exercisable by him or her, incur expenditure on such acts as may be necessary for the proper care and management of any property belonging to any trust administered by him or her."
+    },
+    {
+      "provision_ref": "s15",
+      "section": "15",
+      "title": "Payments to minor beneficiaries in cases of small estates",
+      "content": "Where any property is held by the public trustee for any minor beneficiary, and at the time when it came into the care of the public trustee, it was of less value than two thousand shillings, the public trustee, at his or her discretion and without any application to the court, may apply the whole or any part of that property for or towards the maintenance, education, advancement or expenses of the minor beneficiary, or pay or transfer the property to the father or mother of the minor or some other suitable person, on behalf of the minor, and the receipt of the father or mother of the minor, or of the other person referred to in this section, shall be a full and complete discharge to the public trustee so far as regards the share."
+    },
+    {
+      "provision_ref": "s16",
+      "section": "16",
+      "title": "Power to make rules",
+      "content": "The Minister may make rules for the safe custody, deposit and investment of funds which come into the hands of the public trustee and for better carrying out or rendering effective the provisions of this Act. History of this document 28 July 2023 amendment not yet applied Amended by Law Revision (Miscellaneous Amendments) Act, 2023 31 December 2000 this version Chapter 161 Revised Laws 2000 Consolidation 15 July 1937 Commenced Related documents Is amended by Law Revision (Miscellaneous Amendments) Act, 2023 [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About ULII ULII is a project of the Law Reporting Committee of the Judiciary of Uganda. ULII aims to bridge the existing gap in public access to the law of Uganda. Working with the AfricanLII and in collaboration with other partners, such as the Free Access to Law Movement, ULII's major aim is to be a user-friendly portal of all publicly available legal information in Uganda. The Judiciary of Uganda considers access to its decisions and the law upon which they are based as key tenets of its key mission: Justice for All . ULII is also an end user interface for the Electronic Court Case Management Information System. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Uganda Judiciary Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": []
+}

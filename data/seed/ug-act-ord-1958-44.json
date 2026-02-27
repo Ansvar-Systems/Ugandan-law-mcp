@@ -1,0 +1,56 @@
+{
+  "id": "ug-act-ord-1958-44",
+  "type": "statute",
+  "title": "Identification of Offenders Act",
+  "title_en": "Identification of Offenders Act",
+  "short_name": "Identification of Offenders...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://ulii.org/en/akn/ug/act/ord/1958/44/eng@2023-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires— “ authorised officer ” means— (a) any police officer as defined in the Police Act; (b) any prison officer as defined in the Prisons Act ; and (c) any person appointed by the Minister by notice in the Gazette to be an authorised officer for the purpose of this Act; “ currency point ” has the value assigned to it in the Schedule to this Act; “ Fingerprint Bureau ” means the office established under section 3 ."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Taking of fingerprints, etc.",
+      "content": "(1) Any authorised officer may take, or cause to be taken in his or her presence, for the purpose of record and identification, the fingerprints, footprints, casts of the fingerprints, casts of the footprints, palmprints, photographs and measurements of any person in lawful custody. (2) The Minister may prescribe the form upon which fingerprints, palmprints or footprints shall be taken; and the authorised officer who took the prints or caused them to be taken shall certify on the form that he or she took the prints or caused them to be taken in his or her presence and that the particulars on the form are correct to the best of his or her information, knowledge and belief. (3) If a person whose fingerprints, footprints or palmprints have been taken is convicted of any offence, the conviction and the sentence imposed in respect of it shall be recorded by an authorised officer on a form prescribed by the Minister which the authorised officer shall then send to the Fingerprint Bureau in order that the conviction may be entered on the form referred to in subsection (2) relating to the convicted person. (4) If a person whose fingerprints, footprints, casts of the fingerprints, casts of the footprints, palmprints, photographs or measurements have been taken is acquitted of any offence with which he or she is charged or is discharged from custody and if he or she has not previously been convicted, the fingerprints, footprints, casts, palmprints, photographs and measurements and any record of them shall be destroyed. (5) Any person who, being required under subsection (1) to have any print, cast, photograph or measurement taken, refuses to comply with the requirement commits an offence and is liable, on conviction, to a fine not exceeding two hundred fifty currency points. (6) Where any person is convicted of an offence under subsection (5) , the court may make an order authorising the taking of any print, cast, photograph or measurement from the convicted person; and an authorised officer shall be entitled thereupon to take such print, cast, photograph or measurement using the force as may be necessary so to do."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Fingerprint Bureau",
+      "content": "There is established an office to be known as the Fingerprint Bureau , for the comparison of fingerprints, footprints or casts of fingerprints and footprints, and palmprints and for the preservation and indexing of the forms upon which any prints are taken."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Fingerprint forms to be evidence",
+      "content": "Any form prescribed under section 2(2) and certified in the manner described in there shall be admissible in evidence without proof and shall be prima facie evidence— (a) that any fingerprint, footprint or palmprint recorded on the form was taken from the person who it is stated in the form to have been taken; and (b) that the person has been convicted of the offence recorded on the form."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Rules",
+      "content": "The Minister may make rules— (a) prescribing the manner in which fingerprints, footprints, casts of the fingerprints, casts of the footprints, palmprints, photographs and measurements shall be taken under this Act; (b) prescribing anything required to be prescribed under this Act; (c) regulating the work of the Fingerprint Bureau ; and (d) for better carrying out the purposes of this Act."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Power to amend Schedule",
+      "content": "The Minister responsible for finance may, by statutory instrument, with the approval of Cabinet, amend the Schedule to this Act. Schedule (Sections 1, 6) Currency point A currency point is equivalent to twenty thousand shillings. History of this document 31 December 2023 this version Chapter 127 Revised Laws 2023 Consolidation 28 July 2023 Amended by Law Revision (Miscellaneous Amendments) Act, 2023 31 December 2000 Chapter 119 Revised Laws 2000 Consolidation Read this version 01 September 1960 Commenced Related documents Is amended by Law Revision (Miscellaneous Amendments) Act, 2023 [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About ULII ULII is a project of the Law Reporting Committee of the Judiciary of Uganda. ULII aims to bridge the existing gap in public access to the law of Uganda. Working with the AfricanLII and in collaboration with other partners, such as the Free Access to Law Movement, ULII's major aim is to be a user-friendly portal of all publicly available legal information in Uganda. The Judiciary of Uganda considers access to its decisions and the law upon which they are based as key tenets of its key mission: Justice for All . ULII is also an end user interface for the Electronic Court Case Management Information System. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Uganda Judiciary Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Fingerprint Bureau",
+      "definition": "the office established under section 3 .",
+      "source_provision": "s1"
+    }
+  ]
+}

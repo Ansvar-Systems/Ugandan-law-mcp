@@ -1,0 +1,552 @@
+{
+  "id": "ug-act-ord-1955-32",
+  "type": "statute",
+  "title": "Building Societies Act",
+  "title_en": "Building Societies Act",
+  "short_name": "Building Societies Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://ulii.org/en/akn/ug/act/ord/1955/32/eng@2000-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires— (a) \" basic advance \", in relation to any advance made or to be made by a building society for the purpose of its being used in defraying the purchase price of land , means the maximum amount which the society would consider proper to advance upon the security of that land if no other security were taken by the society; (b) \" building society \" means a society formed for the purpose of raising by the subscriptions of members a stock or fund from which to make advances to members and registered in accordance with this Act; (c) \" continuing arrangement \" means any arrangement made between a building society and another person by which, in contemplation of a series of advances comprising excess advances being made by the society to members for the purpose of their being used in defraying the purchase prices of lands, that person undertakes to give to the society a series of guarantees, each of which is to secure sums payable to the society in respect of such an advance; (d) \" dispute \" means a dispute between a building society and a member or any representative of a member in his or her capacity of a member of the society, unless by the rules for the time being it shall be otherwise expressly provided, and in the absence of such express provision shall not apply to any dispute between any such society and any member of the society or other person as to the construction or effect of any mortgage deed or any contract contained in any document, other than the rules of the society, and shall not prevent any society, or any member of the society or any person claiming through or under the member, from obtaining in the ordinary course of law any remedy in respect of any such mortgage or other contract to which he or she or the society would otherwise be by law entitled; (e) \" excess advance \" means, in relation to any advance, the amount by which the advance exceeds the basic advance ; (f) \" land \" includes every estate and interest in land; (g) \" Minister \" means the Minister responsible for finance; (h) \" register \" means the register of building societies to be kept by the registrar under the provisions of section 5 ; (i) \" registrar \" means the registrar of building societies appointed under section 2 and includes a deputy registrar and an assistant registrar; (j) \" special resolution \" means a resolution passed by not less than three-fourths of the members of a building society present and entitled to vote at any general meeting of which notice specifying the intention to propose that resolution has been duly given according to the rules of the society."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Appointment of registrar of building societies",
+      "content": "The Minister shall appoint a registrar of building societies to perform the duties and exercise the powers imposed and conferred by this Act, and may appoint a deputy registrar and any number of assistant registrars who shall be subject to the directions of the registrar of building societies."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part I",
+      "section": "3",
+      "title": "Certificates, etc. to be evidence",
+      "content": "Any certificate of incorporation, certificate of registration or other document relating to a building society purporting to be signed by the registrar shall, in the absence of any evidence to the contrary, be admissible as evidence without proof of the signature."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part I",
+      "section": "4",
+      "title": "Indemnity of officers",
+      "content": "The registrar shall not, nor shall any person acting under the authority of the registrar or under any regulation made in pursuance of this Act, be personally liable for or in respect of any act or matter done in good faith in the exercise or supposed exercise of the powers conferred by this Act or by any regulation made in pursuance of this Act. Part II – Formation and registration"
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part II",
+      "section": "5",
+      "title": "Maintenance of register",
+      "content": "The registrar shall keep a register of building societies in which he or she shall record, in respect of all building societies registered under section 6 or 68 , the following particulars— (a) the name of the society; (b) the situation of the registered office and the postal address of the society; (c) such other information as the registrar may determine."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part II",
+      "section": "6",
+      "title": "Formation of building societies",
+      "content": "(1) Any seven or more persons intending to form a building society may in general meeting adopt rules in compliance with section 9 and shall within fourteen days thereafter, or such extended period as the registrar (either before or after the expiration of such fourteen days) may allow, send to the registrar an application for registration in the prescribed form accompanied by two copies of such rules. (2) If the registrar is satisfied that the application and the rules are in compliance with this Act and any regulations made under it, he or she shall enter the prescribed particulars relating to it in the register ; and thereupon the society shall become a body corporate by its registered name with perpetual succession until terminated or dissolved under the provisions of this Act. (3) The registrar shall issue a certificate of incorporation in the prescribed form to every building society registered under the provisions of this section."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part II",
+      "section": "7",
+      "title": "Commencement of business",
+      "content": "No building society shall commence business until it has obtained a certificate of incorporation issued under the provisions of section 6 ."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part II",
+      "section": "8",
+      "title": "Provisions as to names",
+      "content": "(1) No building society may be registered with a name identical with that of any building society previously registered and still subsisting, or so nearly resembling the same as to be likely to deceive unless such subsisting society is in course of being terminated or dissolved and consents to such registration, or which is, in the opinion of the registrar , undesirable. (2) The name of every building society shall end with the words \"Building Society\". (3) A building society shall not use any name or title other than its registered name."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part II",
+      "section": "9",
+      "title": "Contents of rules",
+      "content": "The rules of every society shall set forth— (a) the name of the society and the chief office or place of meeting for the business of the society; (b) the manner in which the stock or funds of the society is or are to be raised; (c) the terms upon which shares are to be issued and withdrawn and the manner in which contributions are to be paid to the society; (d) whether preferential shares are to be issued and, if so, within what limits; (e) the manner in which advances are to be made and repaid; the deductions, if any, for premiums and the conditions upon which a borrower can redeem the amount due from him or her before the expiration of the period for which the advance was made, with tables, where applicable in the opinion of the registrar , showing the amount due from the borrower after each stipulated payment; (f) the manner in which losses are to be ascertained and provided for; (g) the manner in which membership is to cease; (h) whether the society intends to borrow money and if so, within what limits not exceeding those prescribed by this Act; (i) the purposes to which the funds of the society are to be applied and the manner in which they are to be invested; (j) the manner of altering and rescinding the rules of the society and of making additional rules; (k) the manner of appointing, remunerating and removing the board of directors, or committee of management, auditors and other officers; (l) the manner of calling general and special meetings of the members; (m) provision for an annual or more frequent audit of the accounts and inspection by the auditors of the mortgages and other securities belonging to the society; (n) whether disputes between the society and any of its members or any person claiming by or through any member or under the rules shall be settled by reference to the High Court or to the registrar or to arbitration; (o) provision for the device, custody and use of the common seal of the society; (p) provision for the custody of the mortgages and other securities belonging to the society; (q) the powers and duties of the board of directors, or committee of management and other officers; (r) the fines and forfeitures to be imposed on members of the society; and (s) the manner in which the society shall be terminated or dissolved."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part II",
+      "section": "10",
+      "title": "Common seal",
+      "content": "(1) Every building society shall have a common seal which shall bear the registered name of the society. (2) A building society which is by its rules permitted to carry on its business outside Uganda may, if authorised by its rules, have for use in any territory, district or place not situate in Uganda an official seal, which shall be a facsimile of the common seal of the society, with the addition on its face of the name of every territory, district or place where it is to be used. (3) A deed or other document to which an official seal is duly affixed shall bind the society as if it had been sealed with the common seal of the society."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part II",
+      "section": "11",
+      "title": "Registered office",
+      "content": "Every building society shall have a registered office and postal address in Uganda to which all communications and notices may be addressed. Part III – Management of building societies"
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part III",
+      "section": "12",
+      "title": "Directors",
+      "content": "(1) Every building society shall have a board of directors or committee of management consisting of three or more persons, of whom the secretary may but need not be one. (2) The duties of every director or member of the committee of management of a building society shall include the duty of satisfying himself or herself that the arrangements made for assessing the adequacy of securities to be taken in respect of advances to be made by the society are such as may be reasonably expected to ensure that the adequacy of any security to be so taken will be assessed by a competent and prudent person experienced in the matters relevant to the determination of the value of that security. (3) Nothing in this subsection shall be construed as precluding a director or member of the committee of management of a building society from approving arrangements referred to in subsection (2) by reason only that the arrangements provide for the assessment of the adequacy of such security by himself or herself or any other director or member of the committee of management of the society."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part III",
+      "section": "13",
+      "title": "Secretary",
+      "content": "(1) Every building society shall have a secretary. (2) Any duty or power authorised to be done or exercised by the secretary may, if the office is vacant or there is for any other reason no secretary capable of acting, be done or exercised by any assistant or deputy secretary capable of acting, or by an officer of the society authorised generally or specially in that behalf by the board of directors or committee of management."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part III",
+      "section": "14",
+      "title": "Auditors",
+      "content": "Every building society shall have one or more auditors, who shall be persons approved for that purpose by the registrar ."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part III",
+      "section": "15",
+      "title": "Officers to give security",
+      "content": "Every officer of a building society having the receipt or charge of any money belonging to the society shall before taking upon himself or herself the execution of his or her office become bound with one sufficient surety at least in a bond according to the prescribed form or give such other security as the society may direct in such sum as the society may require conditioned for rendering a just and true account of all monies received and paid by the officer on account of the society and for payment of all sums of money due from him or her to the society at such times as its rules appoint or as the society may require."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part III",
+      "section": "16",
+      "title": "Officers to account",
+      "content": "Every officer of a building society , his or her executors or administrators shall upon demand made or notice in writing given or left at his or her last or usual place of residence by or on behalf of the board of directors or committee of management of the society render an account of all monies received or paid by him or her on account of the society and for all monies remaining in his or her hands and shall deliver all securities and effects, books, papers and property of the society in his or her hands or custody to such person as the society may appoint."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part III",
+      "section": "17",
+      "title": "Officers not to accept gifts",
+      "content": "(1) No director, secretary, surveyor, advocate or other officer of a building society shall, in addition to the remuneration prescribed or authorised by the rules of the society, receive from any other person any gift, bonus, commission or benefit for or in connection with any loan made by the society. (2) Any person paying or accepting any such gift, bonus, commission or benefit commits an offence and is liable on conviction to a fine not exceeding two thousand shillings or to imprisonment for a period not exceeding six months, and the person accepting any such gift, bonus, commission or benefit shall as and when instructed by the court by whom he or she is convicted, pay over to the society the amount or value of such gift, bonus, commission or benefit, and in default of such payment is liable to imprisonment for a period not exceeding six months."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part III",
+      "section": "18",
+      "title": "Restriction of payment of commissions",
+      "content": "(1) It shall not be lawful— (a) for a person having a financial interest in the disposition of any land to receive or to agree to receive any commission or gift from a building society or from any officer, servant or agent of a building society , in consideration of the introduction of mortgage business to the society in connection with the disposition of the land or in consideration of a promise to introduce such business to the society; or (b) for a building society , or any officer, servant or agent of a society, to offer to give or agree to give any commission or gift to any person known to the society, officer, servant or agent, as the case may be, to have a financial interest in the disposition of any land or to be a servant of a person having such an interest, for any such consideration as is mentioned in paragraph (a) of this subsection. (2) For the purposes of this section, a person who is employed otherwise than in pursuance of a contract of service in connection with the disposition of any land by a person who has a financial interest in the disposition shall be treated, so far as relates to the disposition of that land , as a servant of the person having the interest unless he or she carries on, independently of that person, the business of an advocate, estate agent, surveyor or auctioneer. (3) Where a building society has a financial interest in the disposition of any land , nothing in this section shall prohibit— (a) the society, or any officer, servant or agent of the society, from offering or giving or agreeing to give, in relation to the disposition of that land , any commission or gift to a servant of the society (not being a person who, to the knowledge of the society, officer, servant or agent, as the case may be, either himself or herself has a financial interest in the disposition of the land , or is in addition to being a servant of the society, also the servant of any person other than the society who has such an interest) for any such consideration as is mentioned in subsection (1); or (b) a servant of the society (not being a person who himself or herself has a financial interest in the disposition of that land or who is, in addition to being the servant of the society, also the servant of any person other than the society who has such an interest) from receiving or agreeing to receive, in relation to the disposition of that land any commission or gift from the society, or from any officer, servant or agent of the society, for any such consideration as aforesaid. (4) For the purposes of this section, a person shall be deemed to have an interest in the disposition of land if, and only if, he or she would, on a disposition of that land , be entitled, whether directly or indirectly, and whether in possession or remainder, to the whole or part of the proceeds of the disposition. (5) Any person who contravenes the provisions of this section commits an offence and is liable on conviction to a fine not exceeding ten thousand shillings or to imprisonment for a term not exceeding six months or to both such fine and imprisonment."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part III",
+      "section": "19",
+      "title": "Provisions excluding liability of officers forbidden",
+      "content": "(1) Any provision, whether contained in the rules of a building society or in any contract with a building society or otherwise, for exempting any director, member of the committee of management, manager or officer of a building society or any person (whether an officer of the society or not) employed by the society as auditor from, or indemnifying him or her against, any liability which by virtue of any rule of law would otherwise attach to him or her in respect of any negligence, default, breach of duty or breach of trust of which he or she may be guilty in relation to the society shall be void. (2) A building society may, in pursuance of any provision mentioned in subsection (1), indemnify any such director, member of the committee of management, manager, officer or auditor against any liability incurred by him or her in defending any proceedings, whether civil or criminal, in which judgment is given in his or her favour or in which he or she is acquitted or in connection with any application under section 20 in which relief is granted to him or her by the court."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part III",
+      "section": "20",
+      "title": "Powers of courts to grant relief",
+      "content": "(1) If in any proceedings for negligence, default, breach of duty or breach of trust against any person to whom this section applies, it appears to the court hearing the case that that person is or may be liable in respect of the negligence, default, breach of duty or breach of trust, but that he or she has acted honestly and reasonably and that having regard to all the circumstances of the case, including those connected with his or her appointment, he or she ought fairly to be excused for the negligence, default, breach of duty or breach of trust, the court may relieve the person either wholly or partly from his or her liability on such terms as the court may think fit. (2) Where any person to whom this section applies has reason to apprehend that any claim will or might be made against him or her in respect of any negligence, default, breach of duty or breach of trust, he or she may apply to the High Court for relief; and the High Court on any such application shall have the same power to relieve him or her as under this section as it would have had if it had been a court before which proceedings against that person for negligence, default, breach of duty or breach of trust had been brought. (3) The persons to whom this section applies are the directors, the members of the committee of management, the members and any officers of a building society and any persons employed by a building society as auditors, whether they are or are not officers of the society. Part IV – Powers of building societies"
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part IV",
+      "section": "21",
+      "title": "Power to borrow",
+      "content": "(1) A building society may receive deposits or loans at interest from the members or from other persons to be applied to the purposes of the society; but the total amount received on deposit or loan and not repaid by the society shall not at any time exceed two-thirds of the amount for the time being secured to the society by mortgages from its members. (2) In calculating the amount for the time being secured to a building society by mortgages from its members for the purposes of subsection (1), there shall be disregarded— (a) the amount secured on properties the payments in respect of which were upwards of twelve months in arrear at the date of the society's last preceding annual account and statement; and (b) the amount secured on properties of which the society had been twelve months in possession at the date of such account and statement. (3) Money deposited with a building society as security for an advance made by the society to a member, or as security for any guarantee given in respect of such an advance, shall be deemed to be money borrowed by the society."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part IV",
+      "section": "22",
+      "title": "Power to hold land",
+      "content": "(1) Subject to the provisions of any law dealing with land , it shall be lawful for a building society — (a) to acquire and hold any land with any title which the society requires for its business premises or for the housing of its staff; and (b) to acquire by foreclosure or surrender any land mortgaged to the society, but any land acquired by a building society under paragraph (b) of this subsection shall as soon afterwards as may be conveniently practicable be sold and converted into money. (2) A building society may let any part of its business premises which is not required for the immediate use of the society."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part IV",
+      "section": "23",
+      "title": "Power to make advances to members",
+      "content": "(1) A building society may make advances to its members out of its funds upon the security of any land ; except that no building society shall advance money on the security of any land which is subject to a prior mortgage, unless the prior mortgage is in favour of the society making the advance, and if any advance is made in contravention of this provision, the directors of the society or the members of the committee of management, as the case may be, who authorised the advance shall be jointly and severally liable for any loss on the advance occasioned to the society. (2) In determining the amount of any advance by a building society to one of its members upon the security of any land , the society shall not take into account the value of any additional security taken by the society for the advance, other than a security of a class specified in the Schedule to this Act. (3) Where a charge upon a policy of life assurance is taken as additional security for such an advance as aforesaid, the value of the policy shall be assessed at an amount not exceeding its surrender value at the time when the advance is made. (4) Where a guarantee given in pursuance of a continuing arrangement is taken as additional security for such an advance as aforesaid, the advance shall not exceed 95 percent of the amount of the purchase price for the defraying of which the advance is made, the basic advance shall not exceed 75 percent of that amount, and the excess advance shall not exceed 20 percent of that amount (5) Where a building society takes as additional security for an advance to a member a guarantee given in pursuance of a continuing arrangement , the terms of the advance shall not provide for the payment of any sums to the society in respect of the advance after the expiration of a period of twenty years from the date on which the advance is made nor, after any such advance as aforesaid has been made by the society, shall the society make any agreement which has the effect of rendering any sums payable to the society in respect of the advance after the expiration of that period. (6) Nothing in subsection (5) shall affect the power of a society to make any such agreement as aforesaid in relation to any advance which has been made by the society not less than one year before the making of the agreement if, in the opinion of the directors or members of the committee of management of the society it is desirable so to do in order to avoid hardship to a member of the society."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part IV",
+      "section": "24",
+      "title": "Power to invest",
+      "content": "(1) A building society may, from time to time as its rules permit, invest any portion of its funds not immediately required for its purposes, in or upon any stock, shares or securities for the time being authorised by law for the investment of trust monies or in any other classes of investment authorised by the Minister by statutory instrument. (2) A building society which makes any advance upon the security of any land to any person other than a member of the society shall have no power to take any additional security for the advance."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part IV",
+      "section": "25",
+      "title": "Power to carry on business abroad",
+      "content": "A building society shall have power, provided that its rules so allow, to carry on business in any territory, district or place not situate in Uganda and to invest any portion of its funds not immediately required for its purposes in advances upon the security of land in any such territory, district or place; but the amount which a building society may invest in any such territory, district or place shall not, without the consent of the Minister , exceed the sum of its share capital, loans and deposits raised in that territory, district or place by more than one-fifth of its capital assets for the time being in Uganda."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part IV",
+      "section": "26",
+      "title": "Dividends payable out of profits",
+      "content": "Notwithstanding anything to the contrary contained in its rules, no building society shall pay any dividend or interest on any of its shares, whether preferential or not, otherwise than out of profits earned by the society. Part V – Meeting and periodical returns"
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part V",
+      "section": "27",
+      "title": "Annual general meeting",
+      "content": "Every building society shall in each calendar year hold a general meeting as its annual general meeting in addition to any other meetings in that year, and shall specify the meeting as such in the notices calling it; except where a building society is incorporated after the 30th September in any year, it shall not be required to hold an annual general meeting during that year."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part V",
+      "section": "28",
+      "title": "Other meetings",
+      "content": "The board of directors or committee of management of a building society shall call such other general or special meetings as may be required by the rules of the society or as they may consider desirable, and shall, notwithstanding anything contained in the rules of the society, call a general or special meeting on the application of one-tenth of the members or, in the case of a society consisting of more than one thousand members, of one hundred members."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part V",
+      "section": "29",
+      "title": "Annual account and statement",
+      "content": "(1) Every building society shall, as soon as is practicable and not more than three months after the expiration of every calendar year, cause to be prepared an account of all the receipts and expenditure of the society during that year and a general statement of its funds and effects, liabilities and assets. (2) Every account and statement prepared under subsection (1) shall be attested by the auditors of the society and shall be countersigned by two directors or two members of the committee of management. (3) Every such account and statement shall be in such form and shall contain such particulars as may be prescribed and, without prejudice to the generality of the foregoing, shall show— (a) the amounts due to the holders of the various classes of shares respectively; (b) the amounts due to depositors and creditors for loans; (c) the balance due or outstanding on mortgage securities (not including prospective interest); and (d) the amount invested by the society in other securities, showing separately investments in and investments outside Uganda. (4) Every auditor in attesting any such annual account or statement shall either certify that it is correct, duly vouched and in accordance with the law, or specially report to the society in what respect he or she finds it incorrect, unvouched or not in accordance with the law, and shall certify that he or she has at that audit actually inspected the securities belonging to the society and shall state the number of properties with respect to which evidence of title has been produced to and actually inspected by him or her. (5) Every member, depositor and creditor for loans shall be entitled to receive from the society a copy of such account and statement. (6) A copy of every such annual account and statement certified in such manner as may be prescribed shall be sent to the registrar within fourteen days after the annual or other general meeting at which it is presented or within three months after the expiration of the calendar year to which it relates, whichever period expires first. (7) If any building society fails to comply with this section, the society and every director, member of the committee of management, secretary or other officer of the society commits an offence and is liable on conviction to a fine not exceeding one hundred shillings for every day during which the default continues."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part V",
+      "section": "30",
+      "title": "Returns of sales and transfers",
+      "content": "Every building society shall, in respect of each calendar year, cause to be prepared and sent to the registrar at the same time as its annual account and statement is so sent, a return in such form as may be prescribed containing such particulars as may be prescribed with respect to— (a) every property which has, during the period to which the return relates, been sold by the society in the exercise of its powers as mortgagee thereof; and (b) every mortgage which has been transferred by the society during that period. Part VI – Miscellaneous provisions"
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part VI",
+      "section": "31",
+      "title": "Books and records to be kept",
+      "content": "(1) Every building society shall keep the following books— (a) a minute book recording all proceedings of general meetings; (b) a minute book recording all proceedings of the board of directors or committee of management, as the case may be; (c) a register of directors or members of the committee of management, as the case may be, showing the full names of every director or member, his or her usual residential address, his or her nationality, and, if that nationality is not his or her nationality of origin, his or her nationality of origin, the date of his or her appointment and the date he or she ceased to hold office as such director or member; and (d) such books of account as may be necessary to show the receipts and expenditure of the society, the amounts due to the holders of the various classes of shares respectively and to depositors and creditors for loans, the balance due or outstanding on mortgage securities and the amount invested by the society. (2) Every building society shall cause to be kept records showing with respect to every advance made by the society on the security of any land — (a) the amount at which the land was assessed and the name of the person by whom the assessment was made; and (b) particulars of any additional security taken by the society. (3) If any building society fails to comply with this section, the society and every director, member of the committee of management, secretary or other officer of the society commits an offence and is liable on conviction to a fine not exceeding one hundred shillings for every day during which the default continues."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part VI",
+      "section": "32",
+      "title": "Rules to be binding",
+      "content": "The rules of a building society as for the time being registered under this Act shall be binding on the several members and officers of the society and on all persons claiming on account of a member or under the rules, all of whom shall be deemed and taken to have full notice of them."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part VI",
+      "section": "33",
+      "title": "Duty to supply copies of rules",
+      "content": "Every building society shall supply to any person requiring the same a complete printed copy of its rules, with a copy of the certificate of incorporation appended thereto, and shall be entitled to charge for the same a sum not exceeding two shillings."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part VI",
+      "section": "34",
+      "title": "Evidence of rules",
+      "content": "A copy of the rules of a building society , certified by the secretary or other officer of the society to be a true copy of its registered rules, shall, in the absence of any evidence to the contrary, be admissible as evidence of the rules."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part VI",
+      "section": "35",
+      "title": "Minors",
+      "content": "(1) Any person under the age of twenty-one years may be admitted as a member of any building society the rules of which do not prohibit such admission. (2) A member of a building society while under the age of twenty-one years may— (a) give all necessary acquittances; (b) consent to the dissolution of the society; and (c) by his or her next friend, present a petition for winding up. (3) A member of a building society while under the age of twenty-one years may not— (a) vote at any meeting of the society; (b) hold any office in the society; (c) transfer any share standing in his or her name; or (d) execute a valid mortgage to secure advances made to him or her by the society."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part VI",
+      "section": "36",
+      "title": "Shares may be held jointly",
+      "content": "Two or more persons may jointly hold a share in a building society ."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part VI",
+      "section": "37",
+      "title": "Prohibition of balloting",
+      "content": "No building society shall cause or permit applicants for advances to ballot for precedence or in any way make the granting of an advance depend on any chance or lot."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part VI",
+      "section": "38",
+      "title": "Implied warranty",
+      "content": "Where a building society makes to a member an advance for the purpose of its being used in defraying the purchase price of land , the society shall be deemed to warrant to the member that the purchase price is reasonable unless, before any contract requiring the member to repay the advance is entered into, the society gives to the member a notice in writing in such form as may be prescribed stating that the making of the advance implies no such warranty."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part VI",
+      "section": "39",
+      "title": "Notice before repayment",
+      "content": "(1) A building society shall not accept any deposit except on the terms that not less than one month's notice may be required by the society before repayment or withdrawal. (2) If a building society contravenes this section, the society and every director, member of the committee of management, secretary or other officer of the society commits an offence and is liable on conviction to a fine not exceeding four hundred shillings."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part VI",
+      "section": "40",
+      "title": "Payment of small sums on intestacy",
+      "content": "(1) If any member of or depositor with a building society having in the funds thereof a sum of money not exceeding one thousand shillings dies intestate, the amount due may be paid to the person who appears to the directors or committee of management of the society to be entitled to receive the same, notwithstanding that letters of administration have not been taken out, upon the society receiving satisfactory evidence of death and a statutory declaration that the member or depositor died intestate and that the person so claiming is so entitled. (2) Any payment made under the provisions of subsection (1) shall be valid and effectual with respect to any demand from any other person as next of kin or as the legal personal representative of such deceased member or depositor against the funds of the society, but, nevertheless, such next of kin or representative shall have his or her lawful remedy for the amount of such payment against the person who has received the same."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part VI",
+      "section": "41",
+      "title": "Exercise of power of sale",
+      "content": "(1) A building society exercising its power of sale of any land mortgaged to it shall take reasonable care to ensure that in the exercise of the power the price at which the land is sold is the best price which can reasonably be obtained, and any agreement if and so far as it relieves or may have the effect of relieving a society from the obligation imposed by this section shall be void. (2) Where a building society has exercised its power of sale of any land mortgaged to it, it shall, within fourteen days from the completion of the sale, send by registered post to the person who immediately before the sale was the owner of the land at his or her last known address a notice containing such particulars relating to the sale as may be prescribed. (3) Nothing in subsection (2) shall affect the operation of any rule of law relating to the duty of a mortgagee to account to a mortgagor. (4) If a building society contravenes the provisions of subsection (2), the society and every director, member of the committee of management, secretary or other officer of the society commits an offence and is liable on conviction to a fine not exceeding eight hundred shillings and to an additional fine not exceeding two hundred shillings for every day during which the default continues."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part VI",
+      "section": "42",
+      "title": "Withholding or misapplying property",
+      "content": "(1) If any person by false representation or imposition obtains possession of any monies, securities, books, papers or other effects of a building society , or, having the same in his or her possession, withholds or misapplies the same, or wilfully applies any part of them to purposes other than those expressed or directed in the rules of the society and authorised by this Act, he or she commits an offence and is liable on conviction to a fine not exceeding eight hundred shillings and to be ordered to deliver up to the society all such monies, securities, books, papers or other effects and to repay the amount of money applied improperly, and in default of such delivery of effects or repayment of such amount of money is liable to imprisonment for a period not exceeding six months. (2) Proceedings under subsection (1) may be taken by or at the instance of— (a) the society; (b) any member authorised by the society or by its board of directors or committee of management or by the registrar ; or (c) the registrar . Part VII – Change of name, address, officers and constitution"
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part VII",
+      "section": "43",
+      "title": "Change of name",
+      "content": "(1) A building society may, by special resolution and with the previous approval of the registrar signified in writing, change its name. (2) A society which changes its name in accordance with the provisions of subsection (1) shall, within fourteen days from the date of the meeting at which the resolution was adopted, send to the registrar two copies of the resolution certified in such manner as may be prescribed. (3) The registrar shall register one copy of the resolution and return the other to the society endorsed with a certificate of registration. (4) A change of name by a building society in accordance with this section shall not affect any rights or obligations of the society, or render defective any legal proceedings by or against the society, and any legal proceedings that might have been continued or commenced against it by its former name may be continued or commenced against it by its new name."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part VII",
+      "section": "44",
+      "title": "Change of address",
+      "content": "Every building society which changes the situation of its registered office or its postal address shall within fourteen days after such change send to the registrar notice of the change in the prescribed form."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part VII",
+      "section": "45",
+      "title": "Change of directors",
+      "content": "Whenever any person is appointed a director or member of the committee of management of a building society or ceases for any reason to be a director or member of the committee of management of a building society , the society shall within fourteen days after such happening send to the registrar notice of it in the prescribed form."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part VII",
+      "section": "46",
+      "title": "Alteration of rules",
+      "content": "(1) A building society may, by special resolution , alter or rescind any of its rules or make any additional rule; but no such special resolution shall have any validity until registered under the provisions of subsection (3). (2) Where a building society has altered or rescinded any of its rules or made any additional rule, it shall, within fourteen days from the date of the meeting at which the resolution was adopted, send to the registrar two copies of the resolution, certified in such manner as may be prescribed. (3) If the registrar is satisfied that the alteration, addition or rescission is in conformity with this Act, he or she shall register one copy of the resolution and return the other to the society endorsed with a certificate of registration."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part VII",
+      "section": "47",
+      "title": "Offences and penalties",
+      "content": "If any building society fails to comply with the provisions of section 43 (2), 44 , 45 or 46 (2), the society and every director, member of the committee of management, secretary and other officers of the society commits an offence and each is liable on conviction to a fine not exceeding one hundred shillings for every day during which the default continues. Part VIII – Amalgamation of societies and transfer of engagements"
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part VIII",
+      "section": "48",
+      "title": "Amalgamation of societies",
+      "content": "(1) Two or more building societies may unite and become one society upon such terms as shall be agreed upon by three-fourths of the members (holding not less than two-thirds of the whole number of shares) of each of such societies present at general meetings respectively convened for the purpose. (2) Two or more societies so uniting may adopt the name of either or any of them or such other name as the registrar may approve. (3) Notice of any such union shall be sent to the registrar in the prescribed form."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part VIII",
+      "section": "49",
+      "title": "Transfer of engagements",
+      "content": "(1) A building society may by a special resolution transfer its engagements to any other building society which may undertake to fulfill those engagements, and a building society may undertake to fulfill the engagements of any other building society by a special resolution . (2) No transfer of engagements shall take effect until the consent in writing of the holders of not less than two-thirds of the whole number of shares of each society party to it has been obtained and notice of the transfer (which it shall be the duty of the society transferring its engagements to send to the registrar ) has been registered."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part VIII",
+      "section": "50",
+      "title": "Special provisions for transfer and amalgamation",
+      "content": "(1) Notwithstanding sections 48 and 49 , any building society desiring to unite with one or more other building societies or to transfer its engagements to another building society or to undertake to fulfill the engagements of another building society which has not obtained the concurrence of the holders of two-thirds of the whole number of shares of the society may apply to the registrar in the prescribed manner for a confirmation of such union, transfer or undertaking and thereupon the registrar shall have power to confirm the same. (2) Before confirming any such union, transfer or undertaking the registrar shall publish notice of the same in the Gazette and in such one or more newspapers, if any, as he or she may determine and shall give the society and any other persons he or she may think fit an opportunity of being heard."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part VIII",
+      "section": "51",
+      "title": "Registration of unions and transfers of engagements to operate as conveyance",
+      "content": "Notwithstanding any provision to the contrary contained in the Registration of Titles Act, the registration by the registrar of the notice of union of any building societies under section 48 , or of the transfer of the engagements of any building society to another building society under section 49 or the confirmation by the registrar of any such union or transfer under section 50 , shall operate as an effectual transfer and assignment as at the date of the registration or confirmation of the funds, properties and assets of the societies so uniting to the united society or of the society transferring its engagements to the society to which such engagements are transferred."
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part VIII",
+      "section": "52",
+      "title": "Union or transfer of engagements not to prejudice creditors",
+      "content": "No union of building societies or transfer of engagements from one building society to another shall affect the rights of any creditor of either or any society uniting or transferring its engagements. Part IX – Determination of disputes"
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part IX",
+      "section": "53",
+      "title": "Arbitration",
+      "content": "(1) Where the rules of a building society direct disputes to be referred to arbitration, arbitrators shall be named and elected in the manner the rules provide, or if there is no such provision, at the first general meeting of the society, none of the arbitrators being beneficially interested, directly or indirectly in its funds, of whom a certain number, not less than three shall be chosen by ballot in each case of dispute , the number of the arbitrators and mode of ballot being determined by the rules of the society. (2) In the case of the death or refusal or neglect of any of the arbitrators to act, the society at a general meeting shall name and elect an arbitrator to act in the place of the arbitrator dying, or refusing or neglecting to act. (3) The names of all arbitrators elected to act under the foregoing provisions shall be entered in the minute book of the society. (4) The award made by the arbitrators or the major part of them according to the true purport and meaning of the rules of the society shall determine the dispute ; and should either of the parties to the dispute refuse or neglect to comply with or conform to such award within a time to be limited therein, the High Court, upon good and sufficient proof being adduced of such award having been made and of the refusal or neglect of the party to comply with it, shall enforce compliance with it upon the petition of any person concerned. (5) Where the parties to any dispute arising in a building society agree to refer the dispute to the registrar or where the rules of the society direct a dispute to be referred to the registrar , the award of the registrar shall have the same effect as that of arbitrators."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Part IX",
+      "section": "54",
+      "title": "Jurisdiction of the High Court",
+      "content": "The High Court may hear and determine disputes in the following cases— (a) if it shall appear to the court upon the petition of any person concerned that application has been made by either party to the dispute to the other party for the purpose of having the dispute settled by arbitration under the rules of the society and that such application has not been complied with within forty days, or that the arbitrators have refused or for a period of twenty-one days have neglected to make any award; or (b) where the rules of the society direct disputes to be referred to the High Court."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Part IX",
+      "section": "55",
+      "title": "Determination to be final",
+      "content": "Every determination by arbitrators or by the High Court or by the registrar under this Act of a dispute shall be binding and conclusive on all parties and shall be final to all intents and purposes and shall not be subject to appeal and shall not be removed or removable into any court or restrained or restrainable by the injunction of any court; but the arbitrators or the registrar , as the case may be, may at the request of either party state a case for the opinion of the High Court on any question of law (but shall not be compelled to do so) and shall have power to grant to either party in the dispute such discovery as to documents and otherwise as might be granted by the High Court, such discovery to be made on behalf of the society by such officer of the society as the arbitrators or the registrar may determine. Part X – Powers of the registrar"
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Part X",
+      "section": "56",
+      "title": "Power to require production of books, etc.",
+      "content": "(1) The registrar may at any time by notice in writing served on a building society or on any person who is or has been an officer of such a society, require the society or person to produce to the registrar such books, accounts, deeds and other documents relating to the business of the society and to furnish to him or her such other information relating to that business as he or she considers necessary for the exercise of the powers conferred upon the registrar by this Act; and any such notice may contain a requirement that any information to be furnished in accordance with the notice shall be verified by a statutory declaration. (2) If any building society or other person fails to comply with the requirements of a notice under this section, the society, and every director, member of the committee of management, secretary or other officer of the society or such other person, as the case may be, commits an offence and is liable on conviction to a fine not exceeding one hundred shillings for every day during which the default continues."
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Part X",
+      "section": "57",
+      "title": "Power to cause inspection of books",
+      "content": "(1) The registrar may, if he or she thinks fit on the application of ten members of a building society , each of whom has been a member of the society for not less than twelve months immediately preceding the date of the application, appoint an accountant or actuary to inspect the books of the society and to report thereon. (2) Any persons applying under subsection (1) for inspection shall deposit with the registrar such sum as a security for the costs of the proposed inspection as the registrar may require. (3) All expenses of or incidental to any such inspection shall be defrayed by the applicants, or out of the funds of the society, or by the members or officers, or former members or officers, of the society in such proportions as the registrar may direct. (4) A person appointed under this section shall have power to make copies of any books of the society and to take extracts from them at all reasonable hours at the registered office of the society or at any place where the books are kept. (5) The registrar shall communicate the results of any such inspection to the applicants and to the society."
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "Part X",
+      "section": "58",
+      "title": "Power to appoint inspector",
+      "content": "(1) The registrar may, on the application of one-tenth of the whole number of members of a building society or of one hundred members in the case of a building society consisting of more than one thousand members, and with the consent of the Minister , either— (a) appoint an inspector to examine into and report on the affairs of the society; or (b) call a special meeting of the society. (2) The application under this section shall be supported by such evidence as the registrar may direct for the purpose of showing that the applicants have good reason for requiring the inspection to be made or the meeting to be called and that they are not actuated by malicious motives in their application. (3) Such notice of the application shall be given to the society as the registrar may direct. (4) The registrar shall require the applicants to give security for the costs of the proposed inspection or meeting before the inspector is appointed or the meeting is called. (5) All expenses of and incidental to the inspection or meeting shall be defrayed by the applicants or out of the funds of the society, or by the members or officers, or former members or officers, of the society, in such proportions as the registrar may direct. (6) An inspector appointed under this section may require the production of all or any of the books, accounts, securities and documents of the society, and may examine on oath its officers, members, agents and servants in relation to its business, and may administer an oath accordingly. (7) The registrar may direct at what time and place a special meeting under this section is to be held, and what matters are to be discussed and determined at the meeting; and the meeting shall have all the powers of a meeting called according to the rules of the society, and shall in all cases have power to appoint its own chairman, any rule of the society to the contrary notwithstanding. (8) The registrar may, without any application by members, but with the consent of the Minister given on each occasion, exercise the powers given by this section in the following cases— (a) where a building society has for two months after notice failed to make any return required by this Act; (b) where a building society has for two months after notice failed to correct or complete any such return; (c) where evidence is furnished by statutory declaration of not less than three members of a building society of facts which in the opinion of the registrar , call for investigation; but the registrar shall forthwith, on receipt of any such declaration, send a copy of it to the society, and such society shall within fourteen days from the sending of such copy be entitled to give the registrar an explanatory statement in writing by way of reply to it."
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "Part X",
+      "section": "59",
+      "title": "Power to forbid invitations for subscriptions, etc.",
+      "content": "(1) If with respect to any building society the registrar considers it expedient so to do in the interests of persons who have invested or deposited or may invest or deposit money with the society, he or she may by order direct that, until the order is revoked, no invitation to subscribe for, or to acquire or offer to acquire, securities or to lend or deposit money shall be made by or on behalf of the society; but before making any order under this section, the registrar shall serve on the society a written notice stating his or her intention to make the order and shall consider any representations with respect to the proposed order made to him or her by the society within the period of thirty days from the date of the service of the notice and, if the society so requests, afford it an opportunity of being heard by him or her within that period. (2) If any invitation is made in contravention of an order made under subsection (1), the person by whom the invitation is so made commits an offence and is liable on conviction to imprisonment for a term not exceeding two years or to a fine not exceeding ten thousand shillings or to both such imprisonment and fine."
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "Part X",
+      "section": "60",
+      "title": "Power to suspend or cancel registration",
+      "content": "(1) Where the registrar is satisfied that a certificate of incorporation has been obtained for a building society by fraud or mistake or that any such society exists for an illegal purpose or has wilfully and after notice from the registrar violated any of the provisions of this Act or has ceased to exist, the registrar may by notice in writing cancel the registration of the society or suspend its registration for any term not exceeding three months, and may renew such suspension from time to time for the like period. (2) The registrar shall before cancelling or suspending the registration of a building society under the foregoing powers give to the society not less than two months' previous notice in writing specifying briefly the ground of the proposed cancellation or suspension and shall as soon as practicable after the cancellation or suspension takes place cause notice of it to be published in the Gazette and in such one or more newspapers, if any, as he or she may determine. (3) A building society may appeal to the High Court against the cancellation or suspension of its registration, and thereupon the court may, if it thinks it just so to do, set aside the cancellation or suspension. (4) The registrar may also, if he or she thinks fit, at the request of any building society , evidenced in such manner as the registrar may direct, cancel the registration of the society. (5) A building society whose registration has been cancelled or suspended shall, from the time of such cancellation or suspension (but in the case of suspension only while the suspension lasts and in any case subject to the right of appeal given by this section) absolutely cease to enjoy the privileges conferred by this Act, but without prejudice to any liability incurred by the society, and any such liability may be enforced against the society as if the cancellation or suspension had not taken place. Part XI – Termination, dissolution and winding up"
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "Part XI",
+      "section": "61",
+      "title": "Termination and dissolution",
+      "content": "(1) A building society may terminate or be dissolved— (a) upon the happening of any event declared by its rules to be the termination of the society; (b) by dissolution in the manner prescribed by its rules; (c) by dissolution with the consent of three-fourths of the members, holding not less than two-thirds of the number of shares in the society, testified by their signatures to an instrument of dissolution; or (d) by winding up either voluntarily, under the supervision of the High Court, or by the High Court. (2) Notice of the termination of any building society and of the commencement and completion of any dissolution or winding up shall be sent to the registrar and registered by him or her."
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "Part XI",
+      "section": "62",
+      "title": "Instruments of dissolution",
+      "content": "(1) Every instrument of dissolution of a building society shall set forth— (a) the liabilities and assets of the society in detail; (b) the number of members, and the amount standing to their credit in the books of the society; (c) the claims of depositors and other creditors, and the provision to be made for their payment; (d) the intended appropriation or division of the funds and property of the society; (e) the names of one or more persons to be appointed trustees for the purpose of the dissolution, and their remuneration. (2) The provisions of an instrument of dissolution may be varied with the like consent, testified in the same manner, as is required for an instrument of dissolution. (3) Every instrument of dissolution and every instrument varying the provisions of an instrument of dissolution shall be made and signed in duplicate and sent to the registrar within fourteen days of signature, whereupon the registrar shall register one copy of the instrument and return the other to the society endorsed with a certificate of registration. (4) An instrument of dissolution and any instrument varying the provisions of an instrument of dissolution shall when registered be binding upon all the members of the society."
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "Part XI",
+      "section": "63",
+      "title": "Winding up",
+      "content": "(1) The High Court may, on the petition of— (a) any member authorised to present the same on behalf of the society by three-fourths of the members present at a general meeting of the society specially called for the purpose; or (b) any judgment creditor for not less than one thousand shillings, but not otherwise, order that a building society be wound up, either voluntarily under the supervision of the court or by the court. (2) The provisions of the Companies Act relating to the winding up of companies under the supervision of the court or by the court shall apply to the winding up of a building society , as though the same were a company registered under that Act."
+    },
+    {
+      "provision_ref": "s64",
+      "chapter": "Part XI",
+      "section": "64",
+      "title": "Obligations of liquidators and trustees",
+      "content": "Where a building society is being dissolved in the manner prescribed by its rules or in pursuance of a special resolution , the provisions of this Act shall continue to apply as if the liquidators or other persons conducting the dissolution of the society or the trustees appointed under the instrument of dissolution were the board of directors or committee of management of the society."
+    },
+    {
+      "provision_ref": "s65",
+      "chapter": "Part XI",
+      "section": "65",
+      "title": "Liability of members",
+      "content": "(1) The liability of any member of a building society in respect of any share upon which no advance has been made shall be limited to the amount actually paid or which he or she has to pay until his or her share is fully paid up and in respect of any share upon which an advance has been made shall be limited to the amount payable on it under any mortgage or other security or under the rules of the society. (2) When a building society is being dissolved or wound up, a member to whom an advance has been made under any mortgage or other security or under the rules of the society shall not be liable to pay the amount payable under the mortgage or other security or rules except at the time and subject to the conditions therein expressed."
+    },
+    {
+      "provision_ref": "s66",
+      "chapter": "Part XI",
+      "section": "66",
+      "title": "Account and balance sheet on dissolution",
+      "content": "If a building society is dissolved in the manner prescribed by its rules or in pursuance of a special resolution , the liquidators, trustees and other persons having the conduct of the dissolution shall, within twenty-eight days from the termination of the dissolution, send to the registrar an account and balance sheet signed and certified by them as correct, showing the assets and liabilities of the society at the commencement of the dissolution and the way in which those assets and liabilities have been applied and discharged."
+    },
+    {
+      "provision_ref": "s67",
+      "chapter": "Part XI",
+      "section": "67",
+      "title": "Dissolution by award of registrar",
+      "content": "(1) On the application in writing of one-tenth of the whole number of members of any building society or of one hundred members in the case of a society of more than one thousand members, setting forth that the society is unable to meet the claims of its members and that it would be for their benefit that it should be dissolved and requesting an investigation into the affairs of the society with a view to its dissolution, the registrar may investigate the affairs of the society, but shall before doing so give not less than two months' previous notice in writing to the society at its registered office. (2) If on such investigation it appears that the society is unable to meet the claims of its members and that it would be for their benefit that it should be dissolved, the registrar may if he or she considers it expedient so to do award that the society be dissolved and shall direct in what manner the affairs of the society are to be wound up; but the registrar may suspend the award for such period as he or she may deem necessary to enable the society to make such alterations of its rules as will in his or her judgment prevent the necessity of the award being made. (3) The registrar shall, within twenty-one days after the making of any award for dissolution under this section, cause notice of it to be advertised in the Gazette and in such one or more newspapers, if any, as he or she may determine. Part XII – Building societies incorporated outside Uganda"
+    },
+    {
+      "provision_ref": "s68",
+      "chapter": "Part XII",
+      "section": "68",
+      "title": "Registration of foreign building societies",
+      "content": "(1) A building society incorporated outside Uganda the rules of which— (a) contain the several matters which in the case of building societies to be incorporated in Uganda are required by section 9 to be set forth; (b) contain no provision which is incompatible with any provision of this Act; and (c) expressly authorise the society to carry on business outside the country in which it is incorporated, may apply for registration under this Act. (2) Every such application shall be in the prescribed form and shall be accompanied by— (a) a copy of its rules and a copy of the certificate of incorporation, each certified in such manner as may be prescribed, and if the same are not written in the English language, certified translations of the same; (b) a statement of the situation and postal address of its registered or principal office in the country of its incorporation; (c) a statement of the situation and postal address of its principal office in Uganda; (d) a copy of its latest annual statement and account; (e) a statement of the names and addresses of the directors or of the committee of management, as the case may be. (3) The registrar may in his or her discretion allow or refuse an application for registration made under subsection (1); but any person aggrieved by the refusal of the registrar to register a building society under this section may within one month or such extended period as the Minister may allow from the date of such refusal appeal against such refusal to the Minister , whose decision shall be final. (4) Where the registrar allows an application, he or she shall enter the prescribed particulars relating to the society in the register and thereupon the society shall, subject to section 22 , become entitled to hold land and to take mortgages over land in Uganda. (5) The registrar shall issue a certificate of registration to every building society registered under this section. (6) No building society incorporated outside Uganda shall commence business in Uganda until it has received a certificate of registration under subsection (5)."
+    },
+    {
+      "provision_ref": "s69",
+      "chapter": "Part XII",
+      "section": "69",
+      "title": "Provisions of Act generally to apply",
+      "content": "The provisions of this Act relating to building societies incorporated in Uganda shall apply to building societies registered under section 68 , and in addition to those provisions the following special provisions shall apply to every building society registered under section 68 — (a) the society shall maintain an office and a postal address in Uganda; (b) the society shall keep separate books of account in respect of its business in Uganda which books shall be kept at the society's principal place of business in Uganda; (c) the society shall prepare a separate account and statements in respect of its business in Uganda which shall be in the form required in the case of a building society incorporated in Uganda with such modifications as the registrar may allow, as well as a consolidated account and statement; (d) the society shall not, save with the prior approval of the Minister , invest outside Uganda any monies raised in Uganda in excess of one-fifth of the capital assets for the time being of the society in Uganda. Part XIII – Rules and regulations"
+    },
+    {
+      "provision_ref": "s70",
+      "chapter": "Part XIII",
+      "section": "70",
+      "title": "Rules and regulations",
+      "content": "(1) The Chief Justice may make rules of court for regulating proceedings before the High Court, and applications and appeals to it under the provisions of this Act, and for the fees to be paid in respect thereof. (2) Subject to subsection (1), the Minister may make regulations prescribing anything required to be prescribed under this Act and for better carrying into effect the provisions of this Act and, without prejudice to the generality of the foregoing, such regulations may provide for the procedure in the registry of building societies, the hours in which the registry is to be open for business, the forms to be used and the fees to be paid in respect of any matter under this Act required, permitted or entitled to be done. Part XIV – General"
+    },
+    {
+      "provision_ref": "s71",
+      "chapter": "Part XIV",
+      "section": "71",
+      "title": "Defence to charge against officers",
+      "content": "Where under any provision of this Act a director, member of the committee of management, secretary or other officer of a society is made liable for any act or omission of the society, it shall be a good defence to any charge brought against him or her to prove that the offence was committed without his or her knowledge and that he or she used all due diligence to prevent its commission. Schedule (Section 23(2)) Classes of additional security which may be taken into account in determining the amount of advances to members 1. A charge upon a policy of life assurance. 2. A guarantee given, whether in pursuance of a continuing arrangement or not, by an assurance company. 3. A charge given by the member upon money deposited with the society or upon any stocks, shares or securities for the time being authorised by law for the investment of trust monies. 4. A guarantee, not being a guarantee given in pursuance of a continuing arrangement, accepted by the society with the written consent of the member and supported by a charge upon money deposited with the society or upon any such stocks, shares or securities as aforesaid. 5. A charge upon money deposited with the society, being a charge which is given in accordance with arrangements which are approved by the registrar and which provided that the society shall also take, as further security for each advance in respect of which such a charge is given to the society, a guarantee given by an assurance company. History of this document 31 December 2023 Chapter 104 Revised Laws 2023 Consolidation 31 December 2000 this version Chapter 108 Revised Laws 2000 Consolidation 23 June 1955 Commenced Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About ULII ULII is a project of the Law Reporting Committee of the Judiciary of Uganda. ULII aims to bridge the existing gap in public access to the law of Uganda. Working with the AfricanLII and in collaboration with other partners, such as the Free Access to Law Movement, ULII's major aim is to be a user-friendly portal of all publicly available legal information in Uganda. The Judiciary of Uganda considers access to its decisions and the law upon which they are based as key tenets of its key mission: Justice for All . ULII is also an end user interface for the Electronic Court Case Management Information System. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Uganda Judiciary Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "building society",
+      "definition": "a society formed for the purpose of raising by the subscriptions of members a stock or fund from which to make advances to members and registered in accordance with this Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "continuing arrangement",
+      "definition": "any arrangement made between a building society and another person by which, in contemplation of a series of advances comprising excess advances being made by the society to members for the purpose of their being used in defraying the purchase prices of lands, that person undertakes to give to the society a series of guarantees, each of which is to secure sums payable to the society in respect of such an advance",
+      "source_provision": "s1"
+    },
+    {
+      "term": "dispute",
+      "definition": "a dispute between a building society and a member or any representative of a member in his or her capacity of a member of the society, unless by the rules for the time being it shall be otherwise expressly provided, and in the absence of such express provision shall not apply to any dispute between any such society and any member of the society or other person as to the construction or effect of any mortgage deed or any contract contained in any document, other than the rules of the society, and shall not prevent any society, or any member of the society or any person claiming through or under the member, from obtaining in the ordinary course of law any remedy in respect of any such mortgage or other contract to which he or she or the society would otherwise be by law entitled",
+      "source_provision": "s1"
+    },
+    {
+      "term": "land",
+      "definition": "every estate and interest in land",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Minister",
+      "definition": "the Minister responsible for finance",
+      "source_provision": "s1"
+    },
+    {
+      "term": "register",
+      "definition": "the register of building societies to be kept by the registrar under the provisions of section 5",
+      "source_provision": "s1"
+    },
+    {
+      "term": "registrar",
+      "definition": "the registrar of building societies appointed under section 2 and includes a deputy registrar and an assistant registrar",
+      "source_provision": "s1"
+    },
+    {
+      "term": "special resolution",
+      "definition": "a resolution passed by not less than three-fourths of the members of a building society present and entitled to vote at any general meeting of which notice specifying the intention to propose that resolution has been duly given according to the rules of the society.",
+      "source_provision": "s1"
+    }
+  ]
+}

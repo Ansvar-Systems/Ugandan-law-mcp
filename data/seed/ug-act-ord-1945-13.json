@@ -1,0 +1,73 @@
+{
+  "id": "ug-act-ord-1945-13",
+  "type": "statute",
+  "title": "Cattle Grazing Act",
+  "title_en": "Cattle Grazing Act",
+  "short_name": "Cattle Grazing Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://ulii.org/en/akn/ug/act/ord/1945/13/eng@2023-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires— “ cattle ” means bulls, cows, oxen, calves, sheep and goats; “ currency point ” has the value assigned to it in the Schedule to this Act; “ veterinary officer ” means any person or class of persons declared by the Commissioner of Livestock and Entomology by statutory instrument to be a veterinary officer for the purposes of this Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Prohibition of grazing",
+      "content": "(1) A person shall not cause or permit any cattle belonging to him or her or under his or her control to graze on any land in respect of which there is in force an order made by a veterinary officer prohibiting grazing or in respect of which there is in force any order or rule made by a district administration prohibiting grazing. (2) A veterinary officer , with respect to land within his or her area or a district administration, with respect to land within the area of its jurisdiction, may make orders— (a) prescribing the maximum number of cattle that may be grazed on any particular area of land; (b) prescribing the maximum number of cattle that any person may be permitted to graze on any particular area of land, and every such order shall be published either by affixing a copy of it on a conspicuous part of the area of land referred to in the order, or in any other manner reasonably calculated to bring the order to the notice of any person who may be affected by it."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Impounding of cattle",
+      "content": "(1) Any cattle found grazing on any land in contravention of section 2 may be impounded either by the veterinary officer or by the district administration in such place or places as he or she or it may deem fit, and the cattle may, if not claimed by the owner within six days, be sold by the veterinary officer or district administration and the proceeds of the sale disposed of as the Minister may direct. (2) In the case of cattle claimed by their owners before the expiry of the six days specified in subsection (1) , the veterinary officer or district administration may retain such number of them as he or she or it may deem fit as security for any fine to be paid in the event of the owner’s conviction or as security for payment of all costs involved in impounding, herding and maintaining the cattle."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Report of impounding of cattle to chief administrative officer",
+      "content": "Any district administration which impounds cattle under this Act shall immediately report the impounding to the chief administrative officer."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Rules",
+      "content": "The Minister may make rules for better carrying out the provisions of this Act."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Offence and penalty",
+      "content": "Any person who contravenes any order made under section 2 or any rule made under section 5 commits an offence, and is liable, on conviction, to a fine not exceeding twelve currency points or to imprisonment for a term not exceeding six months, or both."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Application",
+      "content": "This Act shall apply only to such areas of Uganda as the Minister may by statutory instrument declare."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Power to amend Schedule",
+      "content": "The Minister responsible for finance may, by statutory instrument, with the approval of Cabinet, amend the Schedule to this Act. Schedule (Sections 1, 8) Currency point A currency point is equivalent to twenty thousand shillings. History of this document 31 December 2023 this version Chapter 51 Revised Laws 2023 Consolidation 28 July 2023 Amended by Law Revision (Miscellaneous Amendments) Act, 2023 31 December 2000 Chapter 42 Revised Laws 2000 Consolidation Read this version 31 October 1945 Commenced Related documents Is amended by Law Revision (Miscellaneous Amendments) Act, 2023 [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About ULII ULII is a project of the Law Reporting Committee of the Judiciary of Uganda. ULII aims to bridge the existing gap in public access to the law of Uganda. Working with the AfricanLII and in collaboration with other partners, such as the Free Access to Law Movement, ULII's major aim is to be a user-friendly portal of all publicly available legal information in Uganda. The Judiciary of Uganda considers access to its decisions and the law upon which they are based as key tenets of its key mission: Justice for All . ULII is also an end user interface for the Electronic Court Case Management Information System. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Uganda Judiciary Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "cattle",
+      "definition": "bulls, cows, oxen, calves, sheep and goats",
+      "source_provision": "s1"
+    },
+    {
+      "term": "veterinary officer",
+      "definition": "any person or class of persons declared by the Commissioner of Livestock and Entomology by statutory instrument to be a veterinary officer for the purposes of this Act.",
+      "source_provision": "s1"
+    }
+  ]
+}

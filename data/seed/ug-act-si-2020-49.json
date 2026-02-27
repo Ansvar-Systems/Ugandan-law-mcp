@@ -1,0 +1,936 @@
+{
+  "id": "ug-act-si-2020-49",
+  "type": "statute",
+  "title": "National Environment (Waste Management) Regulations, 2020",
+  "title_en": "National Environment (Waste Management) Regulations, 2020",
+  "short_name": "National Environment (Waste...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://ulii.org/en/akn/ug/act/si/2020/49/eng@2020-03-20",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Title",
+      "content": "These Regulations may be cited as the National Environment (Waste Management) Regulations, 2020."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In these Regulations, unless the context otherwise requires— “ Act ” means the National Environment Act, 2019; “ after-care ” means measures that are necessary to be taken in relation to a waste management facility for the purposes of preventing harm to human health or the environment, following cessation of operations and decommissioning of a facility; “ Authority ” means the National Environment Management Authority established under the Act ; “ authorised officer ” means an officer of the Authority or any other person authorised to act on behalf of the Authority under the Act ; “ Board ” means the Board of the Authority appointed under the Act ; “ co-generation plant ” means any stationary or mobile plant in which waste is treated by thermal means for the purpose of disposal and for generation of energy; “ currency point ” has the value assigned to it in Schedule 1 of these Regulations; “ disposal ” means any operation related to waste management which is not a recovery operation even where the operation has as a secondary consequence the extraction of substances or energy; “ domestic waste ” means waste generated from households; “ electrical or electronic equipment ” means equipment which is dependent on electric currents or electromagnetic fields in order to function properly, as well as equipment for the generation, transfer, distribution and measurement of the currents and fields, including the components necessary for the cooling, heating and protection of the electrical or electronic equipment; “ electrical or electronic waste ” means waste from electrical or electronic equipment or any part of the equipment, including equipment that is old, obsolete, has reached end-of-life or has ceased to be of any value to its owner; “ environmental and social assessment ” means a procedure that ensures that the environmental and social impacts, risks or other concerns of a given project are taken into account in approving a project for implementation; “ environmental standards ” means standards produced or adopted by the Authority in consultation with the Uganda National Bureau of Standards for use in Uganda; “ extended producer responsibility ” means the responsibility of a producer for the entire life cycle of the product, including responsibility for take back, recycling and final disposal of the product; “ hazardous waste ” means waste classified, characterised and categorised as hazardous waste in accordance with Schedule 2, Schedule 3 and Schedule 4 to these Regulations; “ healthcare waste ” means hazardous or non- hazardous waste from medical or veterinary treatment and associated tutoring, research and laboratory facilities, and similar waste originating from other sources; “ incineration ” means thermal treatment of waste with or without recovery of the combustion heat generated, including through oxidisation of carbon or material containing carbon into carbon dioxide and water, as well as other thermal treatment processes including pyrolysis, gasification or plasma processes when the substances resulting from this treatment are subsequently oxidised; “ incineration residue ” means any material generated through the operation of an incineration plant or co-generation plant , and defined as waste , including bottom ash and slag, fly and boiler ash, solid reaction products from gas treatment, spent catalysts and spent activated carbon; “ industrial waste ” means waste produced by industrial activity and includes any material that is rendered useless during a manufacturing process; “ landfill ” means an engineered site for disposal of waste onto or into land, lined with impervious plastic sheeting to prevent leakage or leaching of dangerous substances into soil or water; “ lead agency ” means any ministry, department, agency, local government or public officer in which or in whom the functions of control or management of any segment of the environment is vested; “ local government ” means a local government established under the Local Governments Act ; “ municipal waste ” means waste , excluding industrial waste , collected within a local government ; “ plastic carrier bags ” means sacks and carrier bags made of polythene or other synthetic polymers for the conveyance and packaging of goods; “ product steward ” means a person or agent of such person responsible for the importation, manufacture, distribution or sale of a product that becomes waste or results in waste ; “ recovery ” means any operation the principal result of which is— (a) waste serving a useful purpose by replacing other materials which would otherwise have been used to fulfil a particular function; or (b) waste being prepared to fulfil that function, in the plant or in the wider economy; “ recycling ” means any recovery operation by which waste materials are re-processed into products, materials or substances whether for the original or other purposes, and includes the reprocessing of organic material; “ re-use ” means any operation by which products or components that are not waste are used again for the same purpose for which they were intended; “ transboundary movement of waste ” means any movement of hazardous waste or other waste from another country to or through Uganda or from Uganda to another country; “ vessel ” means motor vehicle, ship, aircraft or other mode of transport; “ waste ” means any substance or object which is dumped, abandoned, discarded or disposed of or intended or required by law to be disposed of; “ waste handler ” means a person licensed by the Authority under these Regulations to collect, transport, store, treat or dispose of waste ; “ waste management ” means activities relating to the collection, transportation, storage, treatment and disposal of waste , including the management of waste at source and during decommissioning of waste management facilities; “ waste management facility ” means a plant, site, structure and associated facilities or infrastructure used in the management of waste ."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part I",
+      "section": "3",
+      "title": "Application of Regulations",
+      "content": "(1) These Regulations apply— (a) to all waste classified, characterised and categorised under Schedule 2, Schedule 3 and Schedule 4 to these Regulations; (b) to the generation, collection, transportation, storage, treatment and disposal of waste ; (c) to transboundary movement of waste ; and (d) to all waste management facilities. (2) For the avoidance of doubt, subregulation (1) shall not apply to petroleum waste regulated under the Petroleum (Waste Management) Regulations, 2019. Part II – General provisions relating to waste management"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "Compliance with environmental principles",
+      "content": "A person who generates waste , a waste handler or a product steward shall, in compliance with the environmental principles set out in section 5 of the Act — (a) apply measures in the management of waste to prevent harm to human health and ensure safety of human beings; (b) apply measures in the management of waste to prevent pollution, harm to biological diversity and contamination of the wider environment by waste ; (c) use best available technologies and best environmental practices to manage waste ; and (d) ensure resource efficiency— (i) by the application of the waste management hierarchy and the control or minimisation of the generation of waste to the greatest extent possible; (ii) by promoting proper cyclical use of resources; and (iii) by ensuring proper disposal of circulative resources not put into cyclical use."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part II",
+      "section": "5",
+      "title": "Responsibility for waste management",
+      "content": "(1) A person who generates waste , a waste handler or product steward has a duty of care and shall take measures to ensure that— (a) waste is managed appropriately and securely in accordance with the Act , these Regulations, any other applicable law, environmental standards and conditions of the licence; (b) waste is managed in a manner that does not cause harm to human health or the environment; (c) any leakage or spillage of waste is quickly detected and managed; and (d) spillages which may cause pollution are managed in accordance with regulation 95 . (2) A waste handler shall, in accordance with the Occupational Safety and Health Act , 2006, ensure that employees involved in the collection, transportation, storage, treatment or disposal of waste are— (a) aware of the risks or hazards associated with handling of the waste ; (b) protected from exposure to health hazards; (c) provided with appropriate personal protective equipment, first aid facilities and proper training; and (d) accorded periodic and annual medical check-up as may be commensurate to the health risks they face. (3) The Authority , lead agency , a person who generates waste , a waste handler and a product steward shall create awareness and promote positive change in attitudes and practices regarding the management of waste ."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part II",
+      "section": "6",
+      "title": "Littering",
+      "content": "(1) A person shall not, in accordance with section 97 of the Act , empty, leave, store or transport waste in a manner that is unsightly or may cause damage or nuisance to the environment. (2) For the avoidance of doubt, subregulation (1) applies to wrecked vehicles, aircrafts and other vessels or similar large detached objects. (3) A person responsible for a waste management facility or a person transporting waste to a storage, treatment or disposal facility shall take appropriate measures to avoid littering. (4) A person who litters shall be responsible for the necessary clean-up. (5) The Authority or lead agency may direct the person who litters to clean-up to the satisfaction of the Authority or the lead agency . (6) Notwithstanding subregulation (5) , any other person may require the person who litters to clean-up and dispose of the waste in a responsible manner. (7) Where the person in subregulation (4) fails, neglects or refuses to clean-up as required, the Authority or lead agency may undertake the clean-up at the expense of that person and shall require payment of costs and expenses incurred by it in the clean-up exercise."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part II",
+      "section": "7",
+      "title": "Waste management hierarchy",
+      "content": "(1) A person who generates waste , a waste handler or a product steward shall manage waste in accordance with the Act and these Regulations through the application of the following hierarchical waste management practices— (a) prevention; (b) reduction and recovery at source; (c) re-use ; (d) recycling ; (e) other recovery ; (f) treatment; and (g) responsible disposal . (2) When applying the waste management hierarchy referred to in subregulation (1) , the person who generates waste , a waste handler or a product steward shall apply the options that deliver the best overall environmental outcome and the least negative impact to the environment and human health, taking into consideration best available technologies and best environmental practices."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part II",
+      "section": "8",
+      "title": "Waste streams",
+      "content": "(1) A person who generates industrial waste , a waste handler or product steward shall identify all waste streams with respect to volumes and any significant risks that the waste may pose to human health and the environment. (2) The waste streams identified under sub regulation (1) shall be quantified, characterised and documented to determine the best waste management options. (3) A person who generates industrial waste , a waste handler or product steward shall continuously monitor and evaluate the processes that generate waste streams from source through to recovery , recycling and disposal to ensure compliance with the Act and these Regulations."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part II",
+      "section": "9",
+      "title": "Intractable waste",
+      "content": "A person who generates waste , a waste handler or product steward shall, where the generation of intractable waste is not preventable under regulation 7(1)(a) and where there are no recycling , treatment or disposal options within Uganda, ensure that the waste is exported for proper disposal in accordance with these Regulations."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part II",
+      "section": "10",
+      "title": "Use of good waste management practices",
+      "content": "A person who generates hazardous waste or a waste handler shall— (a) put in place measures and management systems for handling hazardous waste , including ensuring that hazardous waste is segregated and managed at source and at the waste management facility by way of waste stream identification and clarification, to facilitate its appropriate handling and traceability; (b) ensure that the classification of waste , further handling and treatment of the waste is not distorted by mixing or dilution of the waste ; (c) put in place measures for segregation of the waste to ensure that the hazardous waste is identified, separated and managed differently from the non- hazardous waste ; and (d) ensure continuous improvement in the waste management practices as technology advances."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part II",
+      "section": "11",
+      "title": "Environment management system",
+      "content": "(1) A person who generates hazardous waste and a waste handler shall establish, maintain and implement an environment management system to ensure compliance with the requirements of the Act , the National Environmental (Audit) Regulations, 2020, these Regulations, conditions in the licence and any other applicable law. (2) The environmental management system referred to under subregulation (1) shall include— (a) measures for compliance with the waste management hierarchy specified in regulation 7 ; (b) operating procedures for waste handling and the equipment available for waste management ; (c) health, safety, social and environmental safeguards; (d) an environmental management and monitoring plan where applicable, developed in accordance with the National Environment (Environmental and Social Assessment) Regulations, 2020; (e) waste management plan which shall consider the choice of waste management options and their impacts on human health or the environment, including the ecological sensitive areas; (f) mechanisms for traceability of waste and waste streams from the point of waste generation to final disposal of waste ; (g) a programme to be implemented at the waste management facility for accepting waste , including routine and random inspections of incoming loads, visual inspection of all waste as it is delivered, inspection of suspicious loads and records of inspections; (h) a toxic release inventory of the chemicals used in the waste management processes; (i) training of personnel; (j) procedures for notification of relevant authorities; and (k) an effective information, education and communication strategy. (3) The waste management plan referred to under subregulation (2)(e) shall— (a) describe the geographical area of the waste management activity and specific activities addressed; (b) identify the waste streams and categories of waste produced or handled; (c) evaluate the waste management options; (d) explore waste minimisation strategies, taking into consideration the waste management hierarchy in accordance with these Regulations; (e) include a waste management programme and strategies for the minimisation of waste and the proper management of waste in accordance with the waste management hierarchy, including an evaluation tool for the programme; (f) select environmentally and socially suitable waste management practices in accordance with a licence issued under these Regulations. (g) highlight historical contaminated waste disposal sites, if any and measures for their rehabilitation; (h) include organisational aspects related to waste management , including a description of the allocation of responsibilities between public and private actors; (i) include an evaluation of the usefulness and suitability of economic and other instruments in tackling various waste problems; and (j) include a programme for environmental literacy for waste handlers and the general public, including strategies to promote public participation in waste management . (4) A person who generates hazardous waste and a waste handler shall ensure that the personnel managing the waste are qualified, trained and comply with the waste management system and waste management plan referred to in subregulations (2) and (3) . (5) The person who generates hazardous waste and a waste handler shall ensure that the waste management system and waste management plans developed under this regulation are documented, implemented, regularly updated and made available to the Authority and other relevant lead agencies upon request. Part III – Licence to manage waste"
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part III",
+      "section": "12",
+      "title": "Application for licence to manage waste",
+      "content": "(1) A person who intends to carry out the business of collecting, transporting, storing, treating or disposing of waste and any other person required under these Regulations shall apply to the Authority for a licence. (2) An application referred to in subregulation (1) shall be in the form set out in Schedule 5 to these Regulations and shall be accompanied by proof of payment of the fee prescribed in Schedule 6 to these Regulations. (3) An application referred to in subregulation (2) shall, as applicable, be accompanied by a copy of a certificate of approval of environmental and social impact assessment granted for the activity in accordance with the Act and the National Environment (Environment and Social Assessment) Regulations, 2020. (4) An application under this regulation shall— (a) contain general information regarding— (i) the legal status of the applicant; (ii) a description of the technical competence and experience of the applicant including the personnel; (iii) financial capacity of the applicant; (b) contain, in respect to transportation— (i) the nature and type of vessels and equipment to be used; (ii) proof of safety checks of the transportation vehicles for road worthiness and suitability; (iii) carriage capacity of vessel ; (iv) quantity of waste to be transported per vessel ; (v) proposed collection schedule for the transportation of the waste ; (vi) site or plant to which the waste is to be transported; (c) contain, in respect to storage— (i) proposed location of the storage facility; (ii) specifications regarding layout, design and construction of the facility; (iii) source, type and quantity of waste to be stored; (iv) type and labels of containers; (v) proposed safety measures at the facility; (vi) measures for the containment and treatment of leakage and leachate, if applicable; (vii) preliminary plan for decommissioning; (d) contain, in respect to treatment and disposal — (i) proposed location of the treatment or disposal site; (ii) approval of physical planning by the relevant lead agency ; (iii) specifications regarding the layout, design and construction of the site; (iv) type and quantity of waste to be treated or disposed of; (vi) type of treatment or disposal technique to be used; [Please note: numbering as in original.] (vii) estimated life-span of the site; (vii) measures for the containment and treatment of leakage and leachate; (viii) preliminary plan for decommissioning; and (e) contain, where applicable, consent from the local government where the waste management facility is to be located."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part III",
+      "section": "13",
+      "title": "Consent of local government",
+      "content": "(1) A person who intends to store, treat or dispose waste shall obtain the written consent of the local government in which the waste management facility is to be located. (2) The local government referred to in subregulation (1) shall, before granting the consent ensure that— (a) the intended location of the waste management facility conforms to the requirements in regulation 62 ; and (b) the applicable laws, ordinances, by-laws and planning requirements are complied with."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part III",
+      "section": "14",
+      "title": "Consultations",
+      "content": "(1) The Authority may consult a relevant lead agency before making a decision on an application under this Part. (2) The lead agency consulted under sub regulation (1) shall review the application and submit its comments and recommendations on the application within twenty-one days from the date of receipt of the application."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part III",
+      "section": "15",
+      "title": "Publication of notice of intention to issue a licence",
+      "content": "(1) The Authority may, where it deems necessary and at the cost of the applicant, publish its intention to issue a licence to manage waste in a newspaper of national circulation or any other media at least fifteen days before the issuance of the licence. (2) The notice under subregulation (1) shall contain— (a) the name and address of the applicant; (b) the proposed site or activity, where appropriate; (c) where applicable, the invitation to the public to make comments within the period specified in the notice; and (d) any other information the Authority may deem necessary."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part III",
+      "section": "16",
+      "title": "Processing of application for a licence",
+      "content": "(1) The Board shall set up a technical committee on pollution control in accordance with section 21 of the Act . (2) The Committee set up under subregulation (1) shall process applications under this Part, taking into account comments and recommendations received from the lead agency under regulation 14 and, where applicable, from the public under regulation 15(2)(c) . (3) The Committee may, in processing the application— (a) conduct inspections that are necessary to enable it to make an informed decision regarding— (i) the availability of adequate and appropriate facilities and equipment to transport, store, treat or dispose of the waste for which the application is made; (ii) measures for the protection of human health and the environment; (iii) any other specific measure that may be deemed necessary; and (b) make recommendations to the Authority in respect to the application. (4) The Authority shall, before issuing a licence under this regulation— (a) verify that the applicant has adequate financial capacity and has provided an insurance policy under regulation 19 and at least one other form of financial security referred to in regulation 18 ; (b) verify that the applicant has adequate technical capacity to manage the waste ; (c) consider the possible effects of the waste on the environment; (d) where applicable, verify that the applicant has obtained consent from the relevant local government in accordance with regulation 13 ; (e) verify that the applicant meets any other relevant requirements of the Act , these Regulations, environmental standards and any other applicable law; and (f) take any other measures as are necessary to ensure compliance with the relevant requirements of the Act , these Regulations, environmental standards and any other applicable law. (5) An application for a licence to manage waste shall be processed expeditiously, but in any case not later than ninety days from the date of receipt of a complete application."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part III",
+      "section": "17",
+      "title": "Determining financial capacity",
+      "content": "For the purposes of determining the financial capacity of an applicant under regulation 16(4)(a) , the Authority shall be guided by— (a) the net assets of the applicant as disclosed in the annual returns; (b) audited financial statements of the applicant for the last two years or as applicable; (c) the tax obligations of the applicant; (d) the bank statement of the applicant for the last two years or as applicable; (e) the actual stock in trade of the applicant; and (f) key financial ratios."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part III",
+      "section": "18",
+      "title": "Financial security",
+      "content": "(1) The Authority may, in accordance with section 141 of the Act , require an applicant for a licence to provide a financial security in the form of an on-demand bank guarantee in the format set out in Schedule 7 to these Regulations, insurance, performance bonds, escrow agreements or any other form of credit or similar security as the Authority may determine. (2) The financial security obtained under subregulation (1) shall be any one security and an insurance policy under regulation 19 . (3) The financial security shall guarantee environmental remediation of a waste management facility or vessel where— (a) there is need for immediate response action to an emergency occasioned by the waste management facility , vessel or activity of the waste handler ; (b) decommissioning, restoration and after-care procedures of the waste management facility have not been carried out to the satisfaction of the Authority ; or (c) the waste handler is declared insolvent. (4) In determining the financial security to be provided by the applicant under subregulation (1) , the Authority shall take into consideration— (a) the type and quantity of waste that the waste handler is authorised to handle; (b) the possible costs related to decommissioning, restoration and after-care procedures; (c) the potential cost of clean-up operations for the hazardous waste that may not be handled by the waste handler , given the quantities of hazardous waste permitted to be stored by the waste handler or transported for safe handling elsewhere; and (d) the risks associated with the waste management activity."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part III",
+      "section": "19",
+      "title": "Insurance",
+      "content": "(1) The Authority may require a person who generates hazardous waste or an applicant to be granted a licence under this Part, to subscribe to an insurance policy. (2) The insurance policy required under this Part shall cover environmental risks likely to arise out of the waste management operations, including harm caused to human health or the environment, and damage to a third party’s property caused by operations of the waste management activity."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part III",
+      "section": "20",
+      "title": "Grant of licence to manage waste",
+      "content": "(1) The Authority may, after being satisfied that the applicant meets the requirements of the Act and this Part, grant a licence to manage waste . (2) The licence issued under this regulation shall be in the format set out in Schedule 8 to these regulations. (3) A licence granted under this regulation shall not be transferable."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part III",
+      "section": "21",
+      "title": "Conditions in a licence",
+      "content": "(1) The Authority may, in granting a licence under regulation 20(1) , impose conditions, including requirements relating to— (a) compliance with conditions of a certificate of approval of environmental and social impact assessment; (a) fitness for purpose of facility or vessel ; (b) qualifications and experience of the personnel; (c) handling, transport, storage, treatment or disposal of waste , including requirements for facilities and equipment; (d) the need to obtain a financial security in accordance with regulation 18 before commencement of operations; (e) the need to subscribe to an insurance policy covering the environmental risks likely to arise out of the waste management activity in accordance with regulation 19 ; (e) pollution abatement, risk reduction and environmental standards , including control of emissions, noise and vibration, and effluent; (f) site specific measures; (g) decommissioning, restoration and after-care of the waste management facility ; (h) the type and total amount of waste permitted to be managed at any time; (i) additional measures for the protection of human health and the environment; and (j) any other measure as the Authority may deem necessary. (2) Where a licence relates to operation of a landfill , the Authority may, in addition to the conditions under subregulation (1) , stipulate— (a) the class of the landfill , in accordance with regulation 71 ; (b) the maximum capacity of the landfill ; (c) the types and quantity of waste which is authorised to be deposited in the landfill ; (d) the requirements for landfill preparation, operation and monitoring and control procedures, including preliminary requirements for decommissioning; (e) measures for compliance with the waste acceptance criteria contained in the operating procedures for the facility; (f) reporting obligations under the Act and these Regulations; and (g) any other condition specific to landfills as the Authority may deem necessary. (3) Where the licence relates to operation of an incineration or co-generation facility, the Authority may, in addition to the conditions under subregulation (1) , require the waste handler to put in place measures to guarantee that— (a) the facility is designed, equipped and will be operated in a manner that the requirements of the Act , these Regulations, any other applicable law and environmental standards are complied with, taking into account the categories of waste to be incinerated; (b) the heat generated during the incineration and co­generation process is recovered as far as practicable, including through combined heat and power, or the generation of process steam; (c) the residue from the incineration process is minimised in amount or hazard potential, and recycled where appropriate; or (d) the disposal of the residue remaining after minimisation or recycling under paragraph (c) is carried out in conformity with these Regulations."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part III",
+      "section": "22",
+      "title": "Duration of licence",
+      "content": "(1) A licence for transportation of waste shall be valid for a period of two years. (2) A licence for the storage, treatment or disposal of waste shall be valid for a period of three years."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part III",
+      "section": "23",
+      "title": "Variation, suspension or revocation of licence",
+      "content": "(1) The Authority may vary, suspend or revoke the licence issued under regulation 20 . (2) The reasons for variation of the licence under subregulation (1) may be to— (a) protect human health or the environment; (b) comply with prescribed environmental standards ; or (c) any other reasons the Authority may consider relevant. (3) Where the variation relates to substantive matters referred to under subregulation (2) , the Authority may require the waste handler — (a) to halt project activities until the variation has been made and an updated licence has been issued; (b) to conduct such investigations and assessments as the Authority may direct and to submit to the Authority reports with any comments on those reports from interested and affected parties; and (c) to consult the relevant lead agency or other stakeholders in accordance with regulation 14 or 15 . (4) Where the variation is at the initiative of the Authority , the Authority shall— (a) notify the waste handler in writing of the proposed variation; (b) give the waste handler an opportunity to comment on the proposed variation in writing; and (c) if necessary, consult the relevant lead agency or other stakeholders in accordance with regulation 14 or 15 , and accord them the opportunity to submit to the Authority written comments on the proposed variation. (5) The Authority shall, within twenty one days of completion of the process contemplated for substantive variations in subregulation (2) - (a) vary or decline to vary the licence; and (b) notify the waste handler and other interested or affected parties, if any, of the decision and its reasons. (6) Where the Authority varies the licence, the variation shall be without prejudice to any liabilities or obligations which may have accrued on the waste handler before the variation was effected. (7) The Authority may suspend or revoke the licence where— (a) information or data given by the applicant in the application or during consultations was false, substantially incorrect or intended to mislead; (b) information related to the conduct of the applicant which could have precluded the approval of the application had it been available to the Authority , is brought to the attention of the Authority ; (c) there is non-compliance with the Act , these Regulations or the conditions of a licence; (d) it is necessary to protect human health or to prevent harm or further harm to the environment, due to a situation that was not foreseen during the grant of the licence; or (e) there is a substantial change or modification of the process or technology, the basis on which the licence was granted, which may lead to adverse environmental impacts or endanger human health or undermine safety. (8) Where the Authority intends to suspend or revoke a licence, it shall— (a) notify the waste handler of the intention within fourteen days before the decision; and (b) inform the waste handler of their right to show cause why the licence should not be suspended or revoked. (9) A waste handler given notice under subregulation (8) may give a written response to the Authority within seven days from the date of receipt of the notice, stating reasons why the licence should not be suspended or revoked. (10) The Authority may, after the expiration of the period specified in subregulation (9) , suspend or revoke the licence where— (a) it is not satisfied with the reasons given by the waste handler ; or (b) it has not received a response from the waste handler . (11) Notwithstanding subregulation (9) , the Authority may, depending on the gravity of the matter, suspend or revoke a licence granted under these Regulations without notice and immediately stop operations of the waste handler . (12) Where a licence is suspended or revoked under subregulation (10) or (11) , the waste handler shall stop any further operations and undertake necessary remediation measures in a manner determined by the Authority . (13) Where a licence has been suspended and a waste handler has undertaken remediation measures under subregulation (12) to the satisfaction of the Authority , the waste handler may apply to the Authority for reconsideration."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part III",
+      "section": "24",
+      "title": "Renewal of licence",
+      "content": "(1) A person granted a licence under these Regulations may apply to the Authority for renewal of the licence at least sixty days before the expiration of the licence. (2) An application referred to under subregulation (1) shall be in the form set out in Schedule 5 to these Regulations. (3) The application referred to under subregulation (1) shall be accompanied by— (a) a copy of the current licence; (b) evidence of compliance with the conditions of the licence to be renewed, including where applicable, the most recent environmental compliance audit report or monitoring reports; (c) a copy of the most recent annual report; (d) proof of financial and technical capacity; (e) where applicable, a confirmation of the financial security, including insurance; (f) proof of payment of the fee prescribed in Schedule 6 to these Regulations; and (g) any other information that may be required by the Authority . (4) The Authority may process the application for renewal in accordance with this Part. (5) The Authority may, in renewing a licence under this regulation, impose any of the conditions specified in regulation 21 ."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part III",
+      "section": "25",
+      "title": "Transfer of waste management facility",
+      "content": "(1) Where a waste handler wishes to transfer a waste management facility , the waste handler shall, at least ninety days from the date of the proposed transfer— (a) notify the Authority in writing of the intention to transfer the facility; and (b) advise the new transferee to apply to the Authority for the issuance of a new licence in accordance with these Regulations using the form prescribed in Schedule 5 to these Regulations. (2) In the absence of the waste handler referred to under subregulation (1) , the transferee shall obtain the waste handler ’s information required under subregulation (2) and notify the Authority of the transfer. (3) The transferee referred to under subregulation (1) shall, within the period stipulated under subregulation (1) , apply to the Authority for a licence to manage waste in accordance with these Regulations. (4) The application under subregulation (2) shall, in addition to the requirements of regulation 12 , state— (a) the name and address of the proposed transferee; (b) the technical and financial capacity of the proposed transferee to carry on with the management of the waste ; (c) that the transferee shall be responsible for all the liabilities of the waste management facility ; (d) a resolution of the company or certificate of ownership from the registrar of companies; and (e) any other information the Authority may deem necessary. (5) The Authority may, in accordance with regulations 16 , 20 and 21 , approve the new application under this regulation. (6) Where the Authority makes the decision to issue a new licence, it shall cancel or withdraw the old licence before issuing a new licence. Part IV – Domestic waste , municipal waste and industrial waste Management of domestic and municipal waste"
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part IV",
+      "section": "26",
+      "title": "Disposal of domestic and municipal waste",
+      "content": "(1) A person who generates domestic waste or municipal waste may, without a licence issued under these Regulations, dispose of non-hazardous waste in an environmentally sound manner in accordance with these Regulations, and ordinances and by-laws made by a relevant local government . (2) A person who generates hazardous domestic waste or hazardous municipal waste shall ensure that— (a) the waste is segregated from non- hazardous waste ; (b) the waste does not cause harm to human health or the environment; and (c) hazardous waste is delivered to a waste handler licensed to receive hazardous waste under these Regulations. (3) Where hazardous domestic waste or hazardous municipal waste is delivered to a waste handler under subregulation (2)(c) , the person who generates the waste shall, as far as possible, ensure that— (a) information on the type of the waste is provided; and (a) the packaging is clearly labelled with this information. (4) The Authority or relevant local government may, by notice, limit the amount of domestic or municipal waste that can be handled under subregulation (1) ."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part IV",
+      "section": "27",
+      "title": "Local government responsibility for domestic and municipal waste",
+      "content": "(1) A local government shall put in place measures for the management of domestic and municipal waste generated within its jurisdiction, including collection, transportation and disposal of the waste . (2) For the purposes of subregulation (1) , the local government shall comply with these Regulations and may make ordinances and by­laws under the Local Governments Act , which shall include provisions on— (a) segregation and re-use of waste ; (b) control of open burning of waste ; (c) collection and transportation of waste ; and (d) treatment or disposal of waste . (3) A local government shall, with the approval of the Authority , establish and manage waste disposal sites for domestic and municipal waste in accordance with the Act and these Regulations. (4) Notwithstanding subregulation (3) , two or more local governments may cooperate in the management of waste generated within their jurisdiction, including operating joint waste management facilities. (5) For the avoidance of doubt, a local government shall, before establishing a waste disposal facility— (a) undertake an environmental and social impact assessment in accordance with the Act and the National Environment (Environmental and Social Assessment) Regulations, 2020; and (b) obtain a licence for the management of the facility in accordance with Part III of these Regulations. (6) A local government may contract a waste handler to manage domestic or municipal waste . (7) A local government intending to receive hazardous waste for disposal at its waste disposal facility shall obtain a licence in accordance with Part III of these Regulations."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part IV",
+      "section": "28",
+      "title": "Local government waste management plan",
+      "content": "The Authority may require a local government to develop a waste management plan in accordance with regulation 11 ."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part IV",
+      "section": "29",
+      "title": "Waste in public places",
+      "content": "(1) A local government shall provide waste receptacles at public places, including public recreational areas, public transport commuter parks and other heavily visited areas. (2) A local government shall ensure that the waste receptacles provided under subregulation (1) are emptied and that the waste is transported to a designated waste disposal site in accordance with these Regulations. (3) The local government shall ensure cleanliness of the area where the waste receptacles are located in accordance with subregulation (1) . (4) The duty of the local government under this regulation does not apply if another person has a duty to manage waste under this Part."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part IV",
+      "section": "30",
+      "title": "Waste along public roads and highways",
+      "content": "(1) A local government and relevant road authority shall ensure that waste receptacles are provided along public roads outside built-up areas. (2) The local government and relevant road authority shall ensure that the waste receptacles are emptied and the waste is transported to a designated waste disposal site. (3) The receptacles referred to in subregulation (1) shall be placed in a manner that does not cause safety risks to road users. (4) The local government and relevant road authority shall ensure that the necessary clean up within the road boundaries is undertaken where that is not the duty of any other person referred to in this Part. (5) The local government and relevant road authority or other authorized person shall provide places of convenience for road users in accordance with the Roads Act , 2019."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part IV",
+      "section": "31",
+      "title": "Waste generated at commercial premises or establishment",
+      "content": "A person who owns or operates a commercial premise or establishment shall ensure that— (a) waste generated at the premise or establishment is segregated; (b) waste receptacles are provided at the premises or establishment for the various waste streams; (c) the waste receptacles are emptied in a timely manner; (d) the waste is transported to a designated disposal site in accordance with these Regulations; and (e) the commercial premise or establishment is clean and free of vermin and offensive odour."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part IV",
+      "section": "32",
+      "title": "Waste generated during events",
+      "content": "A person responsible for an event and the owner of the premises where the event is held shall be responsible for the management of waste generated in relation to the event, including the clean-up of the area after the event, where the littering has been occasioned by that event."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part IV",
+      "section": "33",
+      "title": "Waste generated from a vessel",
+      "content": "(1) The owner or operator of a moving or stationary vessel shall ensure that no waste is discarded from the vessel onto water or land. (2) The owner or operator of a public service vessel shall provide waste receptacles in the vessel and shall be responsible for clean-up, where waste is littered. Management of industrial waste"
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part IV",
+      "section": "34",
+      "title": "Duty to manage industrial waste",
+      "content": "(1) A person who generates industrial waste shall ensure that the waste is managed by a waste handler in accordance with these Regulations. (2) Notwithstanding subregulation (1) , the Authority may, in accordance with these Regulations, licence a person who generates industrial waste to manage that waste where the Authority determines that the person has the capacity to do so. Part V – Extended producer responsibility and product stewardship, management of plastics and associated waste and management of electrical and electronic waste Extended producer responsibility and product stewardship"
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part V",
+      "section": "35",
+      "title": "Extended producer responsibility and product stewardship",
+      "content": "(1) A person who develops, manufactures or processes a product shall, in accordance with section 98 of the Act and these Regulations, be responsible for— (a) use of best available technology and process design that maximises resource efficiency, and applies the waste management hierarchy in the production processes for the product; (b) monitoring the product cycle from beginning to end, to prevent mixing of waste ; and (c) take-back of the product after its sale or use for environmentally safe treatment or disposal . (2) The responsibility for take-back of products referred to in subregulation (1) extends to a product steward who imports, distributes or sells a substance, a preparation or other product. (3) The product steward shall establish and operate collection schemes and shall provide information for the effective return and collection of products or product waste . (4) For purposes of this regulation, products that may be taken back include— (a) consumer goods past shelf life; (b) off specification products; (c) products that are no longer needed by the user; (d) discontinued products; (e) restricted or prohibited products; (f) glass, plastics, ceramics and associated waste ; and (g) electrical and electronic products destined for disposal in accordance with regulation 44 ."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part V",
+      "section": "36",
+      "title": "Guidelines for take-back of products",
+      "content": "The Authority may, in consultation with the lead agency and other relevant stakeholders, issue guidelines for— (a) take-back of products, including the management of collection centres and collection schemes; and (b) application of production technologies or process designs that prevent or minimise the generation of waste . Management of plastics and associated waste"
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part V",
+      "section": "37",
+      "title": "Prohibition of importation, sale and use of plastic bags and other plastics used for packaging",
+      "content": "(1) A person shall not import, export, manufacture, use or re-use plastic carrier bags or plastic products made of polymers of ethene (polythene) and propylene (polypropylene) except in accordance with section 76(1) of the Act . (2) Plastic carrier bags or plastic products prohibited under subregulation (1) shall be considered waste under these Regulations. (3) The management of plastic waste shall take into account the hazards that the waste presents to human health and the environment."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part V",
+      "section": "38",
+      "title": "Duty to minimise plastic waste",
+      "content": "Every person has a duty to minimise the generation of plastic waste and shall— (a) find and make use of alternative packaging materials that do not persist in the environment; and (b) prevent littering of the environment by plastics."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part V",
+      "section": "39",
+      "title": "Criteria for managing waste from plastics and plastic products",
+      "content": "(1) In accordance with section 76(2) and (3) of the Act , a person who imports or manufactures plastics or plastic products shall— (a) maintain a record of raw materials and their chemical constituents used to manufacture plastics and plastic products, including plastic carrier bags ; (b) document the quantity of plastics and plastic products; (c) batch and label the plastics and plastic products with use, recycling and disposal instructions; (d) ensure that the plastics and plastic products are stored and recycled by persons with appropriate facilities, making use of cyclical resources. (2) A person who buys or uses plastic carrier bags shall undertake measures to minimise single-use plastics by— (a) using reusable bag or container when shopping; (b) reusing the same plastic carrier bags for multiple shopping trips; (c) re-purposing plastic bags as trash liners or pet waste bags; (d) refusing a plastic carrier bag for easy-to-carry purchases; or (e) buying products in bulk. (3) Every person has a duty to separate plastic waste from other waste . (4) Where plastic waste is collected mixed or co-mingled with other waste , the responsible person or waste handler shall ensure that the waste is sorted to separate plastics from other recyclables and other waste . (5) Every business, retail outlet, shop, grocery store, institution of learning, workplace, including work operation spaces such as distribution and retail centres, shall set up collection centres for plastics and plastic carrier bags . (6) A person who purchases any product wrapped in or carried in plastic material or plastic carrier bag, may drop off the plastic to the retail outlet, shop, grocery store or other venue of a product steward . (7) A person who imports or manufactures plastics or plastic products is responsible for their take back in accordance with section 98 of the Act and for their recycling , by use of best available technologies and best environmental practice. (8) A person who imports or manufactures plastics or plastic products has a duty, in accordance with international standards and best industry practice, to recycle recyclable plastics, including plastic packaging materials and plastics for various uses. (9) The duty in subregulation (8) includes processing and disposal of non-recyclable fractions of plastic waste , including phase­out of non-recyclable plastic carrier bags . Management of electrical and electronic waste"
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part V",
+      "section": "40",
+      "title": "Management of electrical and electronic waste",
+      "content": "A person shall not dispose electrical or electronic waste in landfills or unauthorised places."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part V",
+      "section": "41",
+      "title": "Duty of product steward to receive electrical and electronic waste",
+      "content": "(1) A product steward who imports, distributes or sells electrical or electronic products shall receive waste arising from those products. (2) The duty to accept electrical or electronic waste under subregulation (1) applies irrespective of the sales volume or sales period for the product. (3) A product steward shall put in place receptacles within the shop, premise or outlet for the receipt of electrical or electronic waste . (4) Where electrical or electronic equipment is sold or delivered through a channel outside of the shop premises, including by mail order or via the internet, the product steward shall establish an effective system for the return of similar quantities of electrical or electronic waste . (5) Notwithstanding subregulation (1) , a product steward may, where the product steward has extra capacity, receive electrical or electronic waste belonging to the same product range and having the same functions as the products sold or distributed by the product steward ."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part V",
+      "section": "42",
+      "title": "Collection of electrical and electronic waste by local governments",
+      "content": "(1) A local government may establish collection centres for the receipt of electrical or electronic waste generated within its jurisdiction. (2) A local government may charge a fee for the receipt of electrical or electronic waste from industries, commercial enterprises or institutions. (3) A local government may, in collaboration with other stakeholders, provide incentives to encourage members of the public to deliver electrical or electronic waste to a collection centre for proper management. (4) Where a local government establishes a collection centre in accordance with subregulation (1) , it shall liaise with the manufacturer or product steward to ensure safe storage and disposal of the electrical and electronic waste collected."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part V",
+      "section": "43",
+      "title": "Information on disposal of electrical and electronic waste",
+      "content": "(1) The product steward or local government shall, by notices in public places, shops, display and exhibition premises, temporary points of sale and other sale areas and information materials, provide information that electrical or electronic waste should be delivered to a designated collection centre and not be disposed of together with other types of waste . (2) The notices referred to in subregulation (1) shall— (a) be easy to read; (b) be distinct from other information; and (c) be displayed in a conspicuous place."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part V",
+      "section": "44",
+      "title": "Management of received electrical or electronic waste",
+      "content": "(1) A product steward or local government that receives or collects electrical or electronic waste is not required to obtain a licence for the receipt or collection of that waste . (2) The product steward or local government receiving electrical or electronic waste shall ensure that— (a) the received electrical and electronic waste is secured; (b) the waste is handled in a manner that does not cause harm to human health or the environment; (c) the waste is exported or delivered to a waste handler authorised to handle that waste in accordance with the Act and these Regulations; (d) records are kept of the quantities and types of electrical or electronic waste — (i) received or collected by the product steward or local government collection facility; and (ii) exported or delivered to a waste handler . (3) A waste handler who receives electrical or electronic waste under subregulation (2)(c) shall— (a) ensure that the received electrical and electronic waste is secured; (b) put in place a system for the segregation of the different materials and components of the waste ; (c) ensure that the hazardous materials and components in the waste are segregated from other waste and handled in accordance with Part VI; and (e) ensure that the recycling target, if any, is met. [Please note: numbering as in original.] (4) A person may re-use or recycle segregated materials and components of the electrical or electronic waste only where it is determined, in accordance with the Act and these Regulations, that such re-use or recycling will not cause harm to human health or the environment. Part VI – Management of hazardous waste Classification, Characterisation and Categorisation of Hazardous Waste"
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part VI",
+      "section": "45",
+      "title": "Waste classification, characterisation and categorisation",
+      "content": "(1) A person who generates hazardous waste , not being a person referred to under regulation 26(2) and a waste handler , shall classify, characterise and categorise waste streams in accordance with these Regulations, using test methods contained in the guidelines set out in Schedule 9 to these Regulations. (2) The person referred to under subregulation (1) shall, in characterising the waste , take into account— (a) the source of the waste ; (b) information about the process producing the waste , and any hazardous chemicals and substances used in the process or that may have contaminated the waste ; (c) data on the composition of the waste and its leaching behaviour; (d) the smell, colour and physical form of the waste ; (e) whether the waste consists of a mixture of different substances and if so, the composition of the mixture and the extent to which the composition may vary; and (f) possible variations and changes in-between the waste streams during the management of the waste . (3) Where the waste referred to under Schedule 3 to these Regulations is not identified, separated and characterised as nonhazardous, the whole container or consignment shall be considered hazardous waste . (4) A person referred to under sub regulation (1) shall use laboratories which are designated by the Authority or certified for provision of laboratory services for the characterisation of waste ."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part VI",
+      "section": "46",
+      "title": "Prohibition on mixing hazardous waste",
+      "content": "(1) A person who generates waste or a waste handler shall not mix hazardous waste with— (a) a different category of hazardous waste ; (b) non- hazardous waste ; or (c) any substance or material other than hazardous waste of the same category. (2) A person who generates waste or a waste handler shall not mix or dilute hazardous waste with other material or substances for the purpose of reducing the concentrations of hazardous substances to avoid classification or characterisation as hazardous waste . (3) Where hazardous waste has been mixed, the holder of that waste shall make arrangements for the separation of the waste to be effected by a waste handler authorised to handle that waste . Responsibility for handling of hazardous waste"
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part VI",
+      "section": "47",
+      "title": "Responsibility of a person who generates hazardous waste",
+      "content": "A person who generates hazardous waste , not being a person referred to under regulation 26(1) , shall— (a) provide for proper storage of the waste in accordance with regulations 54 and 55 ; (b) maintain sufficient information on the source, content and properties of the waste to ensure that the waste is managed in a responsible manner; (c) ensure that the waste is managed by a waste handler authorised to manage that waste if the person generating the waste is not licensed to handle the waste ; (d) ensure that where the waste is delivered to a waste handler — (i) complete a waste manifest in accordance with regulation 53 ; (ii) package and label the waste in accordance with regulations 56 and 57 ; and (iii) keep documentation to verify delivery of the waste to a waste handler authorised to handle the waste ."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part VI",
+      "section": "48",
+      "title": "Responsibility of a waste handler in relation to hazardous waste",
+      "content": "(1) The waste handler managing hazardous waste shall— (a) obtain the necessary licences and permits for the proper management of the waste in accordance with the Act and these Regulations; (b) establish or maintain necessary facilities for the specific aspect of waste management licensed; (c) ensure that the waste received is accompanied by a waste manifest and other relevant documentation showing that it is classified, characterised and categorised in accordance with regulation 45 ; (d) in the case of hazardous domestic waste delivered in accordance with regulation 26(2) (c) — (i) transport the waste in accordance with a licence issued under Part III to these Regulations; (ii) classify, characterise and categorise the waste received at the facility in accordance with these Regulations, using the guidance set out in Schedule 9 to these Regulations; and (ii) issue a waste manifest for the waste in accordance with regulation 53 . (2) The waste handler shall use the information on classification, characterisation and categorisation of hazardous waste together with the waste manifest to guide the subsequent management of the waste . (3) The waste handler shall not accept the waste that— (a) is not covered under the licence; (b) is not accompanied by a waste manifest; or (c) does not match the description on the accompanying waste manifest. (4) Where a person attempts to transport or deliver waste to a waste management facility contrary to subregulation (3) , the waste handler shall— (a) reject the waste ; (b) immediately notify the Authority and a relevant lead agency ; and (c) direct the transporter to return the waste , unless otherwise instructed by the Authority . (5) Where the waste handler rejects waste under subregulation (4) , the waste handler shall immediately notify the Authority , lead agency and any other relevant government authority. Healthcare waste"
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part VI",
+      "section": "49",
+      "title": "Categories of healthcare waste",
+      "content": "(1) A person who generates healthcare waste shall categorise the waste as hazardous or non- hazardous waste . (2) Hazardous healthcare waste includes— (a) sharps waste , including needles, hypodermic needles, scalpels, blades, knives and infusions; (b) infectious waste , including waste contaminated with blood and other body fluids, cultures and stocks of infectious agents from laboratory work and waste from infected patients in isolation wards; (c) pathological waste , including waste consisting of tissues, organs, body parts, blood, body fluids and other waste from surgery and autopsies on deceased persons with infectious diseases; (a) pharmaceutical waste , including cytotoxic and genotoxic waste and expired, unused, split and contaminated pharmaceutical products; [Please note: numbering as in original.] (b) chemical healthcare waste containing the characteristics in regulation 45 , including discarded solid, liquid and gaseous chemicals; and (c) radioactive healthcare waste , including materials contaminated with radionuclides. (3) For the avoidance of doubt, a person handling healthcare waste shall comply with these Regulations."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part VI",
+      "section": "50",
+      "title": "Assessment of healthcare waste",
+      "content": "In addition to the requirements in regulations 45 and 46 , a person who generates healthcare waste and a waste handler authorised to manage healthcare waste shall— (a) undertake waste assessment to characterise the biological and physico-chemical composition of the healthcare waste in order to develop a waste minimisation plan and strategy for handling the different types and quantities of the waste ; (b) estimate the quantities of hazardous healthcare waste that require special handling in accordance with regulation 55 ; and (c) identify and determine the potential for recycling and other waste minimization measures in accordance with regulation 7 ."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part VI",
+      "section": "51",
+      "title": "Handling of healthcare waste",
+      "content": "(1) A person who generates healthcare waste and a waste handler authorised to manage healthcare waste shall ensure that the waste is managed in a manner that does not cause harm to human health or the environment, and in accordance with the Act , these Regulations and any other applicable law. (2) A person who generates healthcare waste shall ensure that— (a) the healthcare waste is segregated and handled according to the different categories in regulation 49(2) ; (b) the healthcare waste is not mixed with other types of waste ; and (c) infectious healthcare waste is contained and managed to avoid harm to human health or the environment or transmission of infections. (3) A person who generates healthcare waste shall ensure that the waste is managed by a waste handler authorised to handle healthcare waste . (4) The Authority may, in accordance with these Regulations, license a person who generates healthcare waste to manage that waste where the Authority determines that the person has the capacity to do so. (5) A waste handler authorised to manage healthcare waste shall ensure that— (a) the healthcare waste is not mixed with other types of waste ; (b) infectious healthcare waste is contained, treated and managed to avoid harm to human health or the environment or transmission of infections; and (c) the waste is packaged and labelled in accordance with regulations 56 and 57 . Waste Containing Radioactive Material"
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part VI",
+      "section": "52",
+      "title": "Handling of waste containing radioactive material",
+      "content": "(1) A person who generates waste and a waste handler shall ensure that any waste containing radioactive materials is managed in accordance with the Act , the Atomic Energy Act , 2008 and Regulations made under that Act . (2) For the purpose of subregulation (1) , a person who generates waste likely to contain radioactive material and a waste handler , shall put in place measures and obtain and use necessary equipment to detect radioactivity in waste generated or handled. (3) The person who generates waste and a waste handler shall, in accordance with these Regulations and a permit or licence obtained from the Atomic Energy Council, control the use of radioactive materials, to prevent exposure or contamination and accumulation of waste containing radioactive material and to provide for safe disposal of the waste . (4) The person who generates waste and a waste handler shall be liable for any exposure of persons to waste containing radioactive material and related waste in the waste handler ’s control. Handling, Storage and Labelling of Hazardous Waste"
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part VI",
+      "section": "53",
+      "title": "Waste manifest",
+      "content": "(1) For the purpose of traceability and proper documentation of the hazardous waste , a person who generates hazardous waste and a waste handler shall each complete a waste manifest for each consignment of hazardous waste in the format set out in Schedule 10 to these Regulations. (2) The waste manifest referred to in subregulation (1) shall accompany each consignment of waste . (3) A copy of the waste manifest shall be kept by the person who generates the waste and the waste handler in hard copy and, where possible, in electronic form for a period of at least five years from the date of first movement of the waste , thereafter the waste manifest shall be kept and be available in electronic form. (4) The waste manifest shall be made available to the Authority , lead agency , environmental inspectors and other authorised officers, upon request."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Part VI",
+      "section": "54",
+      "title": "Storage of hazardous waste",
+      "content": "(1) A person who generates hazardous waste or a waste handler may store waste for a period not exceeding one year to accumulate quantities of waste material that can be transported for recycling , treatment or disposal where the waste streams involved are small or the production processes generating these waste streams operate intermittently. (2) A person who generates hazardous waste shall not store quantities of waste exceeding three tonnes at any given time. (3) For the avoidance of doubt, the quantity of hazardous waste that can be stored by a waste handler at any given time shall be prescribed in the licence issued under Part III of these Regulations. (4) A person who generates hazardous waste and a waste handler shall keep records of the waste stored under this regulation. (5) Notwithstanding subregulation (1) , the Authority may, before the expiration of the one year period prescribed, and in the interest of human health or the environment, require a person who generates hazardous waste or a waste handler to remove the waste stored within a shorter specified time."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Part VI",
+      "section": "55",
+      "title": "Requirements for storage areas for hazardous waste",
+      "content": "(1) A person who generates hazardous waste and a waste handler who stores hazardous waste shall ensure that the waste is stored in a manner that does not cause harm to human health or the environment. (2) A person who generates hazardous industrial waste and a waste handler shall store the waste in designated storage areas approved by the Authority . (3) A storage area for hazardous waste referred to in subregulation (2) shall— (a) be established based on an environmental risk assessment undertaken in accordance with the Act and any other applicable law; (b) be located in an area that does not inconvenience the neighbouring communities or pose a risk of pollution to fragile ecosystems; (c) have an impermeable surface to prevent leakage to the ground, water and surrounding environment; (d) contain appropriate storage containers that can be easily moved, where applicable; (e) be secured to prevent unauthorised access; (f) be indicated on the facility layout drawing, including the storage capacity, waste types to be stored, and operating practices; (g) allow for proper inspections and handling of the waste ; and (h) comply with any other requirements the Authority may deem necessary. (4) Access to waste storage areas shall be controlled and documented to the extent that is necessary— (a) to allow for an inventory of waste to be completed as required; (b) to avoid uncontrolled accumulation of waste ; and (c) to avoid tampering and unnecessary human or environmental exposure to the waste . (5) A person who generates hazardous waste and the waste handler shall establish adequate procedures for corrective measures to be taken immediately in the event of accidents or leakages."
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Part VI",
+      "section": "56",
+      "title": "Waste handling containers for hazardous waste",
+      "content": "(1) A person who generates hazardous waste and a waste handler shall not store or transport in the same container— (a) two or more categories of waste which are not compatible; or (b) waste which is not compatible with any substance placed in the container. (2) A person who generates hazardous waste and a waste handler who uses a container to store or transport hazardous waste shall— (a) ensure that the container is suitable for the purpose and meets standards approved by the Authority ; (b) ensure that the container is not reactive to the waste to be stored in it; (c) keep the container closed at all times during storage or transportation; (d) not handle, store or transport the container in a manner which may cause it to leak or rupture; (e) ensure that the outside of the container is clearly labelled in accordance with these Regulations; (f) ensure that the container is sufficiently durable so as to contain the waste safely; (g) ensure that the packaging and fastenings are strong and solid throughout to ensure that the container does not loosen and that the container meets the normal stresses and strains of handling; (h) ensure that the container does not cause harm to persons involved in handling the waste , the neighbouring community and the environment in general; and (i) ensure that any replaceable fastening fitted to the container holding the waste is designed so that the container can be repeatedly refastened without its contents spilling. (3) A person shall not— (a) place hazardous waste in an unclean container that previously held a material which is incompatible with that waste ; or (b) use a container which has been used for hazardous waste to store, hold or transport water, food, animal feed or a product which may directly or indirectly become part of food for human consumption or animal feed. (4) For the avoidance of doubt, containers used to carry hazardous chemicals or hazardous waste which cannot be reused for similar purposes, are considered hazardous waste under these Regulations."
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Part VI",
+      "section": "57",
+      "title": "Labelling of hazardous waste management facilities, containers and vessels",
+      "content": "(1) A container or package containing hazardous waste shall have attached to it a label, written in English in easily legible characters as determined by the Authority . (2) The label referred to in subregulation (1) shall be permanently fixed to the container or package and may have a translation in a relevant local language, where necessary. (3) The label referred to under subregulation (2) shall include the following information as appropriate— (a) the identity of the waste , including name, classification and characteristic of the waste ; (b) the net contents; (c) flash point, if appropriate; (d) precautions and action required in the event of a spillage; (e) information detailing the nature and degree of hazard inherent in the waste , including all or some of the following as appropriate— (i) the words “warning” or “caution”; (ii) the words “danger! Unauthorised persons keep away”; (iii) the words “HAZARDOUS WASTE”; (iv) the word “poison”, marked indelibly in blue or a contrasting background; and (v) pictogram or symbols in accordance with Schedule 11 depicting the degree of hazard; (f) a statement directing the user to read the label before handling of the waste ; (g) emergency contact information; and (h) any other information that the Authority may deem necessary. (4) The Authority may determine the size and font of the pictogram, symbols and words referred to in subregulation (3)(e) . (5) All primary containers for waste containing hazardous chemicals and substances shall be packaged with up-to-date safety data sheets with instructions for handling of the hazardous waste , including safety precautions in accordance with environmental standards and best industry practices. (6) A vessel carrying hazardous waste shall be labelled in accordance with subregulation (3) and the label— (a) shall not contain any warranties, guarantees or liability exclusion clauses inconsistent with the Act or these Regulations; and (b) shall include the words “HAZARDOUS WASTE” in permanent, fluorescent and legible characters, placed on both sides of the vessel in a colour contrasting with the background. (7) A person who generates hazardous waste or a waste handler shall ensure that hazardous waste containment areas are appropriately marked in accordance with subregulation (3) . Collection and Transportation of Hazardous Waste"
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "Part VI",
+      "section": "58",
+      "title": "Collection and transportation of hazardous waste",
+      "content": "(1) A waste handler licensed to transport hazardous waste shall ensure that— (a) the collection and transportation of the waste is conducted in a manner that does not cause leakage, spillage, scattering or littering of the waste or the emitting of noxious smells or harmful odours; (b) the vessel used for transportation of hazardous waste is labelled in accordance with regulation 57 ; (c) that the vessel used for transportation of the hazardous waste or other means of conveyance of the waste uses designated routes, if any, from the point of collection of the waste up to the disposal facility; (d) a waste manifest and a safety data sheet for waste containing hazardous chemicals accompany the waste , to enable the tracking of each batch of hazardous waste from its source to its final disposal ; and (e) the personnel involved in the collection and transportation of the hazardous waste are, in accordance with the Occupational Safety and Health Act , 2006 and any other applicable law, provided with— (i) appropriate personal protection equipment and safety clothing; (ii) appropriate equipment or facilities for handling the waste ; (iii) safe and secure sitting facilities in the vehicles used for transporting the waste ; and (iv) proper training, information and instruction, including on how to handle emergency situations. (2) The Authority may, in consultation with a relevant lead agency , designate a transportation route referred to under subregulation (l)(c). (3) A waste handler shall not permit unauthorised access to the vessel used for the transportation of the waste . (4) A waste handler shall ensure that the vessel used for transportation of hazardous waste is not used for any other purpose."
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "Part VI",
+      "section": "59",
+      "title": "Transportation journey management plan",
+      "content": "(1) The waste handler with a licence to transport hazardous waste shall develop a journey management plan before commencement of operations for the transportation of hazardous waste and shall make it available to the Authority and any other relevant lead agency , upon request. (2) The journey management plan referred to under subregulation (1) shall include— (a) the designated routes; (b) route specific speed limits; (c) designated driving period; (d) health, safety and environment requirements; and (e) any other information that the Authority and any other relevant lead agency may require. (3) A copy of the journey management plan referred to in subregulation (1) shall at all times be present in the vessel transporting the hazardous waste . (4) The waste handler shall install electronic tracking systems for vehicles used in the transportation of hazardous waste . (5) The waste handler shall provide access to real time vehicle tracking information to the Authority and relevant lead agency . Part VII – Treatment and disposal of waste"
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "Part VII",
+      "section": "60",
+      "title": "Treatment and disposal of waste",
+      "content": "(1) The waste handler shall treat or dispose waste in accordance with the treatment or disposal methods and environmental standards approved by the Authority and shall use best available technologies and best environmental practices. (2) Where there are no environmental standards , the waste handler may, with the approval of the Authority , use internationally recognised standards. (3) The waste handler shall have quality control and quality assurance protocols to ensure that the treatment and disposal of waste is in compliance with the Act , these Regulations, environmental standards , conditions in the licence and any other applicable law."
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "Part VII",
+      "section": "61",
+      "title": "Treatment and disposal of hazardous waste",
+      "content": "(1) A waste handler licensed to treat hazardous waste shall, in addition to the requirements in regulation 60 , take reasonable measures to determine the composition, nature and properties of the waste before treatment. (2) For the purposes of subregulation (1) , the waste handler shall, in accordance with these Regulations and any other applicable laws, undertake physical, chemical or biological analyses, taking into account the waste manifest and any relevant published scientific information. (3) Without limiting the general effect of subregulation (2) , the waste handler shall inquire into and ascertain the composition of waste wherever the waste handler has reason to believe that— (a) a process or operation producing the hazardous waste delivered to the waste management facility has changed; or (b) the description of the waste received at the facility does not match the description of the waste on the accompanying waste manifest. General provisions relating to waste management facilities"
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "Part VII",
+      "section": "62",
+      "title": "Siting of waste management facilities",
+      "content": "(1) A person shall not establish, construct or operate any waste management facility — (a) in a floodplain; (b) within five hundred metres of a mapped out geological fractured zone; (c) in a place which is prone to natural disasters, including earthquakes, floods and landslides, unless the waste management facility is designed, constructed, operated and maintained to prevent collapse or washout; (d) within two hundred meters of any land which may be prone to or impacted by slope failure; (e) on a hilly or mountainous area with a gradient of more than 60 degrees; (f) in a water source area, including the surface and subsurface water catchment area, through which pollutants are likely to move toward and reach water sources; (g) within five hundred metres of a cultural or natural heritage or archeological site; or (h) within 6 kilometers from an aerodrome. (2) Where the waste management facility is for treatment or disposal of hazardous waste , the waste handler shall, in addition to the requirements in subregulation (1) ensure that— (a) the waste treatment or disposal facility is not within two hundred meters from the boundaries of a protected area, bird sanctuary, wildlife management area or land acquired and administered under the Uganda Wildlife Act , the National Forestry and Tree Planting Act , 2003 or any other law on conservation areas; (b) the waste treatment or disposal facility is not located within a wetland or within five hundred meters from a riverbank, lakeshore or area immediately adjacent to fragile ecosystems; (c) the boundary of the waste treatment or disposal facility is at a distance of at least five hundred metres away from human settlements or commercial areas; and (d) the boundary of the waste treatment or disposal facility is not within areas suitable for agriculture except with the approval of the Authority . (3) The waste handler shall ensure that the waste treatment or disposal facility— (a) is enclosed and secured from access by unauthorised persons or wildlife; (b) has an updated site layout plan; and (c) has a buffer zone around it as prescribed under the Act , these Regulations and any other applicable law. (4) Without limiting the general effect of subregulation (2)(c) , the waste handler shall conduct scientific studies on the climatological and hydro-geological characteristics of the area proposed for siting of a waste management facility , to determine any further distance being more than five hundred meters as may be necessary for the protection of human settlements and commercial areas from the impacts of a waste management facility ."
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "Part VII",
+      "section": "63",
+      "title": "Management of run-off",
+      "content": "(1) A waste handler shall put in place sufficient measures to minimise and manage run-off from the waste management facility . (2) The Authority may prescribe requirements regarding management of run-offi including requirements relating to measurement and reporting of relevant discharge parameters in accordance with the National Environment (Standards for Discharge of Effluent into Water or Land) Regulations, 2020."
+    },
+    {
+      "provision_ref": "s64",
+      "chapter": "Part VII",
+      "section": "64",
+      "title": "Joint treatment or disposal facilities",
+      "content": "(1) The Authority may require two or more waste handlers with similar waste residues to have a joint facility for treatment or disposal of the residues from their respective facilities. (2) Where the Authority requires a joint treatment or disposal facility under subregulation (1) , the waste handlers shall comply with the Act and these Regulations. Utilisation of waste"
+    },
+    {
+      "provision_ref": "s65",
+      "chapter": "Part VII",
+      "section": "65",
+      "title": "Utilisation of waste",
+      "content": "(1) A person may utilise waste where— (a) the purpose is not primarily to get rid of the waste ; (b) the waste is not classified, characterised or categorised as hazardous waste in accordance with Part VI; (c) there is sufficient evidence to show that the activity for which the waste is to be utilised would have taken place even without access to the waste ; (d) the utilisation of the waste does not cause harm to human health or the environment; (e) the properties of the waste make it suitable for the purpose; and (f) the amount of waste required is proportionate to the need for the material. (2) Where the waste proposed to be utilised under subregulation (1) is treated hazardous waste , the person who wishes to utilise that waste shall apply to the Authority for approval. (3) The Authority may approve utilisation of waste under subregulation (2) where it is satisfied that the hazardous properties of the waste have been neutralised. (4) The waste handler and the person utilising the waste under this regulation shall be responsible for any pollution or health impacts that may arise from the utilisation of the waste . Contaminated soil"
+    },
+    {
+      "provision_ref": "s66",
+      "chapter": "Part VII",
+      "section": "66",
+      "title": "Handling of contaminated soil",
+      "content": "(1) Contaminated soil shall be characterised and handled in accordance with environmental standards prescribed by the Authority . (2) Contaminated soil that is classified, characterised and categorised as hazardous waste in accordance with this regulation and regulation 45 , shall be managed in accordance with these Regulations, the National Environment (Minimum Standards for Management of Soil Quality) Regulations, 2001 and any other applicable law. (3) The waste handler shall, in accordance with regulation 45 , undertake an analysis of contaminated soils and produce a report providing the type and concentration level of the contaminants and how the contaminated soil will be treated and managed. (4) The report produced under subregulation (3) shall be available to the Authority or authorised officer on request."
+    },
+    {
+      "provision_ref": "s67",
+      "chapter": "Part VII",
+      "section": "67",
+      "title": "Utilisation of treated soil",
+      "content": "(1) Contaminated soil may be treated and utilised in accordance with these Regulation and any other applicable law. (2) A person who wishes to utilise treated soil shall apply to the Authority in writing for approval, taking into account subregulation (3) . (3) The Authority may, in consultation with the relevant lead agency , approve the utilisation of treated soil where— (a) the Authority is satisfied that the hazardous properties of the treated soil have been neutralised. (b) the purpose is not primarily to get rid of the treated soil; (c) there is sufficient evidence to show that the activity for which the treated soil is to be utilised would have taken place even without access to the treated soil; (d) the utilisation of the treated soil does not cause harm to human health or the environment; (e) the properties of the treated soil make it suitable for the purpose; and (f) the amount of treated soil applied for is proportionate to the need for the material. (4) The waste handler and the person utilising the treated soil under this regulation shall be responsible for any pollution or health impacts that may arise from the utilisation of the treated soil. Part VIII – Landfills"
+    },
+    {
+      "provision_ref": "s68",
+      "chapter": "Part VIII",
+      "section": "68",
+      "title": "General provisions for landfills",
+      "content": "(1) The purpose of this Part is to ensure that where landfilling of waste is approved by the Authority as the waste disposal method, the waste is landfilled in a sound and controlled manner and does not cause adverse effects on human health or the environment. (2) A waste handler who has been operating a dumpsite before the coming into force of these Regulations shall, within three months from the coming into force of these Regulations, apply to the Authority for guidance to transition from a dumpsite to an engineered landfill . (3) Subject to subregulation (2) , the Authority may require the waste handler to close the dumpsite."
+    },
+    {
+      "provision_ref": "s69",
+      "chapter": "Part VIII",
+      "section": "69",
+      "title": "Landfills",
+      "content": "(1) A waste handler with a licence to own or operate a landfill , shall, in addition to the requirements of regulation 21(2) — (a) construct an engineered landfill in accordance with the Act , these Regulations, environmental standards , guidelines for landfills issued by the Authority , best environmental practices and best available technologies; (b) ensure, in accordance with regulation 62 , that the engineered landfill is located in an area which— (i) has been identified after undertaking research and studies, and found to be suitable for the purpose; (ii) has been subjected to environmental and social assessment in accordance with the National Environment (Environmental and Social Assessment) Regulations, 2020; (c) provide an approved secure buffer zone surrounding the active area of the engineered landfill , in accordance with environmental standards ; (d) apply appropriate and effective practices and techniques that prevent leakage of hazardous elements into the groundwater systems and soil, so as to prevent the risk of environmental pollution; and (e) conduct quarterly monitoring of air, water and soil quality in the surrounding environment to establish the level of contaminants arising from the landfill operations and submit monitoring reports to the Authority on a half yearly basis. (2) Where there are no environmental standards in Uganda, the waste handler may, with the approval of the Authority , use internationally recognised standards."
+    },
+    {
+      "provision_ref": "s70",
+      "chapter": "Part VIII",
+      "section": "70",
+      "title": "Waste prohibited from being landfilled",
+      "content": "A waste handler shall not landfill — (a) liquid waste ; (b) flammable waste ; (c) explosive or reactive waste ; (d) electrical and electronic waste ; (e) infectious healthcare waste ; (f) radioactive or corrosive waste ; (g) polymers, including non-biodegradable plastics, carrier bags and tyres; (h) glass; (i) waste from research institutions and education facilities that contains chemical substances whose effects on human health and the environment are not known; and (j) any other type of waste as may be determined by the Authority ."
+    },
+    {
+      "provision_ref": "s71",
+      "chapter": "Part VIII",
+      "section": "71",
+      "title": "Classes of landfills",
+      "content": "A landfill shall be classified into— (a) Class 1: landfills for hazardous waste in accordance with Part VI other than hazardous waste specified in regulation 70 ; or (b) Class 2: landfills for non- hazardous waste — (i) biodegradable waste ; or (ii) inert waste other than similar waste specified in regulation 70 ."
+    },
+    {
+      "provision_ref": "s72",
+      "chapter": "Part VIII",
+      "section": "72",
+      "title": "Waste to be accepted in the different classes of landfills",
+      "content": "(1) A waste handler shall ensure that— (a) a class 1 landfill receives and manages only hazardous waste ; and (b) a class 2 landfill receives and manages only non- hazardous waste . (2) A waste handler shall treat hazardous waste before it is landfilled. (3) A waste handler shall ensure that waste delivered to a landfill is suitable for the landfill and is accompanied with documentation required under these Regulations. (4) A waste handler shall reject waste that does not meet the acceptance criteria for the landfill ."
+    },
+    {
+      "provision_ref": "s73",
+      "chapter": "Part VIII",
+      "section": "73",
+      "title": "Waste database",
+      "content": "(1) A waste handler shall maintain an up to date database of the quantities and characteristics of the waste disposed in the landfill , indicating— (a) the type, description and origin of the waste ; (b) the date of delivery of the waste ; (c) the identity of the person or facility that generated the waste ; (d) the method of treatment of the waste prior to landfilling; and (e) in the case of hazardous waste , the exact location of the waste on the site. (2) The database referred to in subregulation (1) shall be kept for a minimum period of ten years. (3) The database maintained under subregulation (1) shall be made available to the Authority , a lead agency or an authorised officer upon request."
+    },
+    {
+      "provision_ref": "s74",
+      "chapter": "Part VIII",
+      "section": "74",
+      "title": "Water control and leachate management",
+      "content": "A waste handler shall take appropriate measures to— (a) control water from precipitation entering into the landfill mass; (b) prevent surface water or groundwater from entering the landfilled waste ; (c) collect contaminated water and leachate; and (d) treat contaminated water and leachate collected from the landfill to achieve the required discharge quality."
+    },
+    {
+      "provision_ref": "s75",
+      "chapter": "Part VIII",
+      "section": "75",
+      "title": "Protection of soil and water",
+      "content": "(1) The waste handler shall ensure that the landfill is situated and designed in accordance with these Regulations, conditions in the licence and the guidelines issued by the Authority to prevent pollution of soil, groundwater or surface water. (2) The waste handler shall put in place preventive measures to ensure that soil, groundwater and surface water is protected by lining the landfill as follows— (a) the base and sides of the landfill shall contain a layer which is a combination of— (i) a geological barrier determined by geological and hydro-geological conditions below and in the vicinity of a landfill site, providing sufficient attenuation capacity to prevent potential risk to soil and groundwater; (ii) an impermeable liner; (iii) a drainage layer with a minimum thickness of 0.5 meters or more as may be determined by the Authority to ensure that leachate accumulation at the base of the landfill is kept to a minimum; and (iv) a functional leakage and leachate detection system; (b) the top layer of the landfill placed during closure and decommissioning shall have a combination of a draining layer, a top liner and where applicable— (i) a layer to allow for controlled release of gas out of the landfill ; (ii) an impermeable membrane; and (iii) a geological barrier. (3) The base layer referred to in subregulation (2)(a) shall be at a minimum of 1.5 meters above groundwater. (4) The waste handler shall, during the construction of the landfill , put in place measures to ensure that topsoil and overburden is securely stored to avoid erosion and contamination during the operation of a landfill ."
+    },
+    {
+      "provision_ref": "s76",
+      "chapter": "Part VIII",
+      "section": "76",
+      "title": "Gas control",
+      "content": "(1) A waste handler shall put in place appropriate measures to collect or control the accumulation and migration of landfill gases. (2) A waste handler may only flare landfill gases for safety and emergency reasons."
+    },
+    {
+      "provision_ref": "s77",
+      "chapter": "Part VIII",
+      "section": "77",
+      "title": "Nuisance and hazards",
+      "content": "A waste handler shall put in place appropriate measures to minimise nuisance and hazards arising from— (a) gaseous emissions, including offensive odour and particulate matter; (b) wind-blown materials; (c) traffic related to the landfill ; (d) noise and vibrations; and (e) birds, vermin and insects."
+    },
+    {
+      "provision_ref": "s78",
+      "chapter": "Part VIII",
+      "section": "78",
+      "title": "Stability of landfilled waste",
+      "content": "(1) A waste handler shall ensure that placement of waste in the landfill is undertaken in a manner that ensures stability of the mass of waste and associated structures. (2) Where an artificial barrier is established, the waste handler shall monitor how the waste settles, to prevent damage to the barrier."
+    },
+    {
+      "provision_ref": "s79",
+      "chapter": "Part VIII",
+      "section": "79",
+      "title": "Control and monitoring procedures in the operational phase",
+      "content": "(1) A waste handler shall implement a quality control and monitoring programme during the operation of the landfill in accordance with these Regulations and landfill guidelines issued by the Authority . (2) The quality control and monitoring programme referred to under subregulation (1) shall— (a) describe and provide a map showing the installations; (b) identify the monitoring devices, instruments or tools that should be used, including the calibration procedures for each instrument; (c) provide detailed instructions for the collection of samples, including collection of quality control or quality assurance samples; (d) provide detailed instructions on measurements, including a description of the units of measurement, the required measurement precision and accuracy, and any other relevant information; (e) identify all data that should be recorded, including the date and time of all samples or measurements, staff names, weather conditions, sampling locations; (f) provide relevant forms or equipment for data recording; and (g) address health and safety issues by providing or referencing an appropriate health and safety plan. (3) A waste handler shall notify the Authority of any health, safety and environmental effects disclosed by the control and monitoring procedures. (3) A waste handler shall ensure that sampling and analyses for quality control, quality assurance and environmental monitoring purposes is carried out in accordance with the Act , these Regulations, environmental standards and conditions in the licence."
+    },
+    {
+      "provision_ref": "s80",
+      "chapter": "Part VIII",
+      "section": "80",
+      "title": "Excavation, disruption or removal of deposited material in landfill",
+      "content": "(1) A waste handler who intends to excavate, disrupt or remove deposited material from an active, terminated or closed landfill shall apply to the Authority for approval. (2) The application under subregulation (1) shall include a plan stating— (a) the area of the landfill involved; (b) the depth of the excavation with final grades; (c) the site where excavated material is to be re-deposited; (d) the estimated time required for completion of excavation procedures; (e) proposed control measures to address potential risks from the operations; and (f) any other relevant information. (3) The Authority may, in granting an approval under subregulation (1) , include conditions related to— (a) measures to be taken to control dust, odour, fires, vermin, rodents, insects, litter, surface water run-off and erosion; (b) confinement of the excavation, disruption or removal of deposited material to a specific area in the landfill ; and (c) any other condition the Authority may deem necessary."
+    },
+    {
+      "provision_ref": "s81",
+      "chapter": "Part VIII",
+      "section": "81",
+      "title": "Closure and after-care procedures",
+      "content": "(1) Where a landfill or part of a landfill is to be closed, the waste handler shall take into account the changes that are likely to occur in the landfill in order to inform the process of landfill decommissioning and after-care . (2) Where a landfill or part of a landfill is to be closed, the waste handler shall notify the Authority and undertake decommissioning in accordance with Part X of these Regulations. (3) A landfill or part of a landfill , shall be regarded as closed only after the Authority has carried out a final on-site inspection and is satisfied that the conditions for closure have been fulfilled. (4) A waste handler shall, in accordance with regulation 79 , remain responsible for the after-care of the landfill including maintenance, monitoring and control, and for remediation action for a period of at least thirty years. (5) The landfill after-care referred to in subregulation (4) may include— (a) control and monitoring of landfill gases; (b) monitoring and management of leachate; (c) control of erosion, including of top cover; (d) monitoring the quality of groundwater; (e) observation of changes in condition of vegetation; and (f) observation and control of vermin and odour. (6) Where there are special cells for inert waste , aftercare monitoring shall be for a minimum of twenty years. (7) A waste handler shall immediately notify the Authority of any adverse environmental effects disclosed by the after-care and monitoring. Part IX – Waste Incineration"
+    },
+    {
+      "provision_ref": "s82",
+      "chapter": "Part IX",
+      "section": "82",
+      "title": "General provisions for waste incineration",
+      "content": "(1) The purpose of this Part is to ensure that where incineration is approved as the waste disposal method, the waste is incinerated in a sound and controlled manner and does not cause adverse effects on human health or the environment. (2) A waste handler with a licence to incinerate waste shall ensure that the incinerator— (a) is technically sound and controls air pollution, including by flue gas cleaning system; (b) has means of monitoring the performance of the combustion process; (c) is adapted to the specific type and hazardous constituents of waste to be incinerated; (d) is designed to ensure that its operation is in compliance with environmental standards ; (e) where feasible, is designed to provide for recovery of energy; and (f) where feasible, is designed to recover metals or mineral from bottom-ash or slag."
+    },
+    {
+      "provision_ref": "s83",
+      "chapter": "Part IX",
+      "section": "83",
+      "title": "Registration and control",
+      "content": "(1) A waste handler shall ensure that each type of waste accepted at a waste incineration plant or co-generation plant , is weighed and recorded. (2) Where hazardous waste is accepted at a waste incineration plant or co-generation plant , the waste handler shall ensure that the waste corresponds with the description in the waste manifest. (3) A waste handler shall maintain an up to date database of the quantities and characteristics of the waste incinerated at the facility, indicating— (a) origin of the waste ; (b) date of delivery of the waste ; (c) identity of the person or facility that generated the waste ; (d) where applicable, the method of treatment of the waste prior to incineration ; and (e) the characteristic of the residue material after incineration . (4) The database under subregulation (3) shall be kept for a minimum period of ten years. (5) The database maintained under subregulation (3) shall be made available to the Authority or an authorised officer , upon request."
+    },
+    {
+      "provision_ref": "s84",
+      "chapter": "Part IX",
+      "section": "84",
+      "title": "Conditions for incineration",
+      "content": "(1) A waste handler shall ensure that a waste incineration plant or co-generation plant is designed, constructed and operated in a manner that meets the following minimum requirements— (a) incineration plants shall be operated to achieve a level of incineration where the Total Organic Carbon content in the slag and bottom ashes is less than 3 percent or the loss on ignition is less than 5 percent of the dry weight of the material and, if necessary, appropriate techniques of waste pre-treatment shall be used; (b) incineration plants shall be designed, equipped, built and operated in a manner that ensures that the emissions resulting from the process are in compliance with the Act , these Regulations, conditions in the licence and environmental standards ; and (c) each line of the incineration plant shall be equipped with at least one auxiliary burner in case the functionality of the main burner is compromised. (2) Waste incineration plants and co-generation plants shall be designed, built and operated to ensure that— (a) the quantity of incineration residue from the operation of the plant is minimised as much as possible, and that valuable components in the residue will be recovered; (b) the content of hazardous substances in the incineration residue is further minimised as much as possible; (c) energy generated by the incineration process is recovered as far as practically possible; and (d) odours or other emissions from the incineration process are not a nuisance, and do not cause harm to human health or the environment. (3) The waste handler shall ensure that changes in technology or operational conditions of a waste incineration plant or co-generation plant do not generate more residues or residues with a higher content of organic pollutants contrary to the Act , these Regulations, conditions in a licence or environmental standards . (4) Where a waste handler intends to make changes under subregulation (3) , the waste handler shall notify the Authority at least three months prior to the proposed change. (5) A waste handler authorised to incinerate healthcare waste shall ensure that infectious waste is handled appropriately and incinerated without mixing with other categories of waste . (6) Non-hazardous incineration residue may be utilised in accordance with regulation 65 , where appropriate or handed to an authorised waste handler for final disposal . (7) For the avoidance of doubt, hazardous residue from incineration shall be managed in accordance with Part VI of these Regulations."
+    },
+    {
+      "provision_ref": "s85",
+      "chapter": "Part IX",
+      "section": "85",
+      "title": "Maintenance of waste incineration plants and co-generation plants",
+      "content": "(1) The waste handler shall ensure that the incineration and co­generation equipment is maintained in sound operational condition. (2) The waste handler shall document the maintenance systems and procedures for the equipment referred to in subregulation (1) ."
+    },
+    {
+      "provision_ref": "s86",
+      "chapter": "Part IX",
+      "section": "86",
+      "title": "Control of emissions",
+      "content": "(1) The waste handler shall ensure that a waste incineration plant or co-generation plant is designed, built and operated in a manner which ensures that the emission levels are within the limits prescribed under the Act , these Regulations, environmental air quality standards, any other applicable law and conditions in the licence. (2) Flue gas from incineration plants shall be raised in a controlled manner through a stack. (3) The height of the stack referred to in subregulation (2) shall be at a level that ensures that concentration of air pollution at ground level or at any nearby air in-let does not exceed the air quality standards prescribed under the air quality regulations made under the Act . (4) The Authority may set the required stack height in the licence."
+    },
+    {
+      "provision_ref": "s87",
+      "chapter": "Part IX",
+      "section": "87",
+      "title": "Control of wastewater discharges",
+      "content": "The waste handler shall ensure that a waste incineration plant or co-generation plant is designed, built and operated in a manner that ensures that the concentration of hazardous substances in wastewater from the cleansing of flue gas comply with the requirements of the Act , these Regulations, the Water (Waste Discharge) Regulations, the National Environment (Standards for Discharge of Effluent into Water or Land) Regulations, 2020 and conditions in the licence."
+    },
+    {
+      "provision_ref": "s88",
+      "chapter": "Part IX",
+      "section": "88",
+      "title": "Monitoring and control of processes",
+      "content": "(1) The waste handler shall undertake technological, environmental and health monitoring to ensure that waste incineration plants or co-generation plants are equipped to monitor operation and control parameters relevant to the incineration process. (2) Technological monitoring shall be undertaken to check performance and ability of the facility to control emissions and shall include— (a) monitoring of state-of-the-art and best available technology for a smart facility operation; (b) regular inspection, to determine signs of corrosion, wear, blockages or other damage in the facility; and (c) energy recovery aspects of the facility. (3) Environmental monitoring shall include— (a) continuous measurements of pressure, temperature, concentration of pollutants and composition of the flue gas; (b) continuous monitoring of metals and their compounds as well as dioxins and furans; (c) continuous measurements of pH, temperature and flow of wastewater from the cleansing of flue gas; (d) continuous measurements of temperature after the last injection of combustion air, as measured near the inner wall or at another representative point of the combustion chamber; (e) measurement of the quantity of waste incinerated; (f) performance tests to ascertain compliance with the emission limits and performance specifications for continuous monitoring systems, when the facility is operating under normal conditions; and (b) measurement of any other parameters that the Authority may deem necessary. [Please note: numbering as in original.] (3) Health monitoring shall assess and monitor employee health both prior and during employment and shall include— (a) compliance with the health and safety programme of the facility; (b) pre-employment screening, to determine fitness-for-duty, including the ability to work while wearing personal protective equipment, and provide baseline data for future exposures; (c) periodic medical monitoring examinations, the content and frequency of which depend on the nature of the work and exposure, to determine biological trends that may mark early signs of chronic adverse health effects; (d) provisions for emergency and acute non-emergency treatments; and (e) auxiliary utilisation of portable sensor stickers to facilitate the detection of fugitive emissions of defined pollutants. (4) Where the waste handler observes significant variations from the limits prescribed under these Regulations, the air quality regulations made under the Act , any other applicable law and conditions of the licence, the waste handler shall notify the Authority within twenty-four hours. Part X – Decommissioning of waste management facilities"
+    },
+    {
+      "provision_ref": "s89",
+      "chapter": "Part X",
+      "section": "89",
+      "title": "Decommissioning plan",
+      "content": "(1) A waste handler shall prepare and submit to the Authority , for approval, a comprehensive decommissioning plan for the waste management facility at least twelve months prior to the commencement of the decommissioning. (2) The decommissioning plan referred to in subregulation (1) shall, as a minimum contain— (a) details of how the waste management facility will be decommissioned and disposed of or closed when operations cease; (b) details of how the waste generated during decommissioning will be managed; (c) procedures for the restoration or rehabilitation and remediation of the waste management site against the baseline of the area immediately before the facility was constructed or the immediate surrounding environment; (d) the occupational health and safety measures to be undertaken during decommissioning; (e) proposals on further use of the decommissioned site or facility, other use, complete or partial removal and disposal of the facilities; (f) an indication of resources required for the decommissioning, restoration and after care; (g) the proposed duration of the decommissioning process; (h) environmental monitoring measures during and after decommissioning; (i) evidence of consultation with the relevant stakeholders on the proposed decommissioning; (j) a summary of the most recent environmental compliance audit report and where available, the response from the Authority to the audit report; and (k) any other information the Authority may require. (3) Where the decommissioning plan is in respect to a landfill , the plan shall, in addition to the requirements under subregulation (2) include— (a) measures to address likely residual issues and impacts identified; (b) final shaping and landscaping; (c) final landfill cover or cap design, including the utilisation of the topsoil stockpiled during the design and construction of the landfill ; (d) measures for permanent storm-water diversion, run-off control and anti-erosion measures; and (e) a description of any infrastructure relating to selected end­ use, where applicable. (4) The Authority shall on receipt of the decommissioning plan, review it and may require further information and evaluation to be carried out by the waste handler or may require a new or amended plan to be submitted. (5) The Authority shall, before approving the decommissioning plan, consult the relevant lead agency . (6) The Authority may, when satisfied with the decommissioning plan and taking into account any comments from the lead agency referred to under subregulation (5) , approve the plan with conditions where necessary. (7) The Authority shall review and approve or reject the plan submitted under this regulation within 6 months from date of receipt of a complete plan."
+    },
+    {
+      "provision_ref": "s90",
+      "chapter": "Part X",
+      "section": "90",
+      "title": "Decommissioning of a waste management facility",
+      "content": "(1) The waste handler shall undertake the decommissioning process in accordance with the approved decommissioning plan, these Regulations, any other applicable law, environmental standards , guidelines issued by the Authority and international environmental best practices. (2) Where there are no environmental standards , the decommissioning shall be undertaken in accordance with internationally recognised standards approved by the Authority and best industry practices. (3) The Authority may, during the decommissioning process, impose additional requirements on the waste handler . (4) The waste handler shall, during decommissioning— (a) remove all roads and other access means and make them inaccessible, where applicable; (b) remove all foundations of buildings, permanent structures, equipment and debris from the decommissioned site; (c) geo-reference the decommissioned site and include a landmark approved by the Authority ; (d) remove any contaminated soil so as not to cause further pollution of the area, where applicable; (e) restore the decommissioned site as near as possible to its original state; (f) vegetate or re-vegetate the decommissioned site with indigenous species compatible with the surrounding ecosystem; (h) record and monitor the restoration of the decommissioned site after decommissioning for a period required by the Authority in consultation with the relevant lead agency ; and [Please note: numbering as in original.] (i) carry out any other activity related to the decommissioning as the Authority may require."
+    },
+    {
+      "provision_ref": "s91",
+      "chapter": "Part X",
+      "section": "91",
+      "title": "Post decommissioning and after care",
+      "content": "(1) On completion of the decommissioning, the waste handler shall submit a report stating— (a) the end of the decommissioning process; (b) achievements and lessons learnt; (c) issues for follow up; and (d) any other relevant information. (2) The report submitted under subregulation (2) shall be accompanied by— (a) the post decommissioning audit report undertaken by an independent auditor contracted by the waste handler ; and (b) a site verification report by the relevant local government . (3) Notwithstanding subregulation (2) , the Authority may require the waste handler to submit an annual report on the condition of the decommissioned site in accordance with regulation 100 . (4) The Authority shall, where it receives the report under subregulation (2) — (a) consult the relevant lead agency ; and (b) carry out an independent verification of the decommissioned site. (5) The Authority shall, where it is not satisfied with the decommissioning process, require the waste handler to undertake further remediation or may undertake the remediation at the expense of the waste handler . (6) For the avoidance of doubt, the waste handler shall remain liable for the post-care and future pollution costs resulting from the waste management activities in accordance with the Act and these Regulations. Part XI – Transboundary movement of waste"
+    },
+    {
+      "provision_ref": "s92",
+      "chapter": "Part XI",
+      "section": "92",
+      "title": "Export and import of waste",
+      "content": "(1) A person who intends to export waste from Uganda or to import waste into Uganda shall apply in writing to the Authority for a licence. (2) An application under subregulation (1) shall be accompanied with a movement document in Form I set out in Schedule 12 to these Regulations and the fees prescribed in Schedule 6 to these Regulations. (3) The Authority may issue a licence to an applicant to export waste from Uganda— (a) where it is satisfied with the completed movement document submitted under subregulation (2) ; and (b) after obtaining the consent of the Designated National Authority of the state to which the waste is to be exported and, where applicable, the country through which the applicant intends to move the waste . (4) The Authority may issue a licence to an applicant and give consent to import waste into Uganda where— (a) the applicant has the requisite financial security; (b) the Authority has received a complete movement document from the Designated National Authority of the country where the waste is being imported from; (c) the Authority is satisfied with the information in the completed movement document submitted under subregulation (2) ; (d) the Authority has received comments from the international body designated under any agreement or arrangement to which Uganda is a party or participant, where applicable; and (e) the importer is licensed to manage the type of waste to be imported and has the facilities and capacity to safely manage the waste in accordance with these Regulations. (5) A licence for export or import of waste shall be as prescribed in Form II set out in Schedule 12 to these Regulations and issued on payment of the fee prescribed in Schedule 6 to these Regulations. (6) A person shall not transport hazardous waste by water within Uganda, except hazardous waste generated from islands or operations on water bodies within the territorial jurisdiction of Uganda. (7) Waste shall only be exported out of Uganda or imported into Uganda through the customs points of entry designated in Schedule 13 to these Regulations."
+    },
+    {
+      "provision_ref": "s93",
+      "chapter": "Part XI",
+      "section": "93",
+      "title": "Waste in transit through Uganda",
+      "content": "(1) A person transporting waste through Uganda shall ensure that— (a) the waste transported conforms to the accompanying documents; (b) the waste is packaged in containers meeting the specifications in regulations 56 and 57 , and bears a seal of the relevant lead agency for the transit period; (c) there is evidence of consent from the Designated National Authority of the state of final destination of the waste ; (d) the Authority has been notified about the transportation and has consented to it; (e) the transportation within Uganda is carried out in compliance with the laws of Uganda; and (f) the waste is not disposed of or abandoned in Uganda. (2) A person transporting waste through Uganda shall ensure that the waste is accompanied by a notification document in the Form set out in Schedule 14 to these Regulations. Part XII – Environmental, health and safety measures"
+    },
+    {
+      "provision_ref": "s94",
+      "chapter": "Part XII",
+      "section": "94",
+      "title": "Personnel handling hazardous waste",
+      "content": "(1) A person who generates hazardous waste and a waste handler shall comply with the Occupational Safety and Health Act , 2006, and any other applicable law relating to employee rights, health, safety and security. (2) A person who generates hazardous waste and a waste handler shall ensure that personnel involved in the management of hazardous waste are provided with— (a) appropriate personal protective equipment; (b) periodic and annual medical check-ups for exposure to hazardous substances; (c) appropriate equipment or facilities for handling the waste ; (d) safe and secure facilities in the workplace, including vehicles and other vessels used for transportation of hazardous waste ; and (e) proper training, information and instructions on the management of hazardous waste ."
+    },
+    {
+      "provision_ref": "s95",
+      "chapter": "Part XII",
+      "section": "95",
+      "title": "Control of emissions, discharges and contamination of the environment",
+      "content": "(1) A person who generates hazardous waste and a waste handler shall take measures to ensure that the waste management methods do not cause adverse effects to human health or the environment through emissions, discharges or other contamination. (2) A person who generates hazardous waste and a waste handler shall operate a facility, plant, site or vessel used for management of hazardous waste in a manner that— (a) controls vermin, disease and pest infestation at the facility, plant site or vessel ; (b) provides sufficient ventilation for enclosed facilities; (c) prevents pollution and littering at the facility, plant, site or vessel ; and (d) complies with any other requirements given by the Authority or applicable law. (3) A person who generates waste and a waste handler shall, in addition to this regulation, comply with the standards specified in the National Environment (Standards for Discharges of Effluent into Water or Land) Regulations, 2020."
+    },
+    {
+      "provision_ref": "s96",
+      "chapter": "Part XII",
+      "section": "96",
+      "title": "Protection against exposure to noxious fumes",
+      "content": "A waste handler shall ensure that vapours emitted during filling, cleaning or storage of waste containers, or during operations at a waste management facility do not— (a) expose a person at the vicinity of the waste management facility to noxious fumes or offensive odour; or (b) cause the concentration of vapours to exceed permissible levels of exposure in accordance with the air quality standards made under the Act ."
+    },
+    {
+      "provision_ref": "s97",
+      "chapter": "Part XII",
+      "section": "97",
+      "title": "Precautionary measures",
+      "content": "A person who generates hazardous waste and a waste handler shall, in accordance with Schedule 15 to these Regulations and the Occupational Safety and Health Act , 2006, put in place and maintain at a waste management facility — (a) warning, hazard and safety systems appropriate to the nature of operations at the facility; and (b) measures to prevent fire or explosions, accidental reactions of the waste with other substances, uncontrolled releases of hazardous substances or damage to the structural integrity of the waste management facility ."
+    },
+    {
+      "provision_ref": "s98",
+      "chapter": "Part XII",
+      "section": "98",
+      "title": "Emergency preparedness and response",
+      "content": "(1) A person who generates hazardous waste and a waste handler shall establish an emergency preparedness and response system based on an environmental risk assessment undertaken in accordance with the Act , the National Environment (Environmental and Social Assessment) Regulations, 2020, the oil spill regulations made under the Act , where applicable and any other applicable law. (2) The emergency preparedness and response system established under subregulation (1) shall be documented in an emergency preparedness and response plan. (3) The emergency preparedness and response plan made under subregulation (2) shall, as applicable, contain— (a) the location of the waste management facility in sufficient detail; (b) the site lay out; (c) a description of the available emergency response equipment, actions and vessels; (d) a description of the hazardous waste managed at the facility or transported; (e) the maximum number of persons likely to be present at the facility on a normal working day; (f) the emergency planning assumptions, including emergency measures planned for identified incidents and areas likely to be affected; (g) the response resources available or that can be called for, to control an incident, hazard or accident; (h) the emergency response procedures and command structures; and (i) notification procedures. (4) A person who generates hazardous waste and a waste handler shall ensure that employees are equipped with skills and are regularly trained and instructed on how to handle emergency situations. (5) The emergency preparedness and response plan prepared in accordance with subregulation (2) shall be reviewed on an annual basis or such other shorter period as may be deemed necessary, to ensure that the measures put in place are effective during an emergency. (6) A person who generates hazardous waste and a waste handler shall keep a record of each review carried out under subregulation (5) , including— (a) the measures, systems, procedures, equipment or other factors reviewed; (b) a description of the review methods; (c) the date of the review of each component; (d) the results of the review; and (e) description and date of any corrective action. (7) The record referred to in subregulation (6) shall be available for inspection by the Authority or other authorised officer . (8) The person who generates hazardous waste and a waste handler shall take action when an emergency situation occurs during waste management ."
+    },
+    {
+      "provision_ref": "s99",
+      "chapter": "Part XII",
+      "section": "99",
+      "title": "Operational shutdowns and emergencies",
+      "content": "(1) The waste handler shall prepare a plan for proper handling of waste in the event of operational shutdowns and emergencies. (2) The plan developed under subregulation (1) shall clearly indicate— (a) the period of operational shutdown; (b) emergency procedures; (c) how the waste will be handled during operational shutdown or emergency; (d) the availability of fire-fighting and other emergency equipment and personnel; and (e) any other information for the proper shutdown and handling of emergencies. (2) The personnel working within the waste management facility shall be trained in emergency prevention, preparedness and response. (3) The plan prepared under subregulation (1) shall be made available to the Authority or an authorised officer upon request. Part XIII – Records, reports and notifications"
+    },
+    {
+      "provision_ref": "s100",
+      "chapter": "Part XIII",
+      "section": "100",
+      "title": "Waste records and annual report",
+      "content": "(1) A waste handler shall in respect of the waste handled and in accordance with these Regulations, maintain at the waste management facility — (a) a record of the waste handled, including a chain-of-custody transfer of waste and copies of the waste manifests; (b) a record of the operations, including measurements and monitoring records of pollutants; and (c) incident reports and actions taken. (2) The record under subregulation (1) including electronic records shall be made available to the Authority or an authorised officer upon request. (3) The waste handler shall, by the 31 st of January of each year, submit to the Authority an annual report in the format set out in Schedule 16, including, where applicable information on— (a) the type and amount of waste managed; (b) emission and discharges from the waste management activities; (c) health and safety data; and (d) any other information the Authority may deem necessary. (4) A waste handler shall submit to the Authority an environmental compliance audit report in accordance with the National Environment (Audit) Regulations, 2020. (5) The records and documents generated under this regulation shall be kept for a minimum of ten years. (6) The Authority may develop an electronic tracking system for the records and reports required under these Regulations."
+    },
+    {
+      "provision_ref": "s101",
+      "chapter": "Part XIII",
+      "section": "101",
+      "title": "Notifications",
+      "content": "(1) In the event of acute pollution caused by waste , a person who generates waste , a waste handler or product steward shall immediately notify the nearest police, the Authority and relevant lead agency . (2) A person who generates waste , a waste handler or product steward shall as soon as possible and in any case not later than twenty four hours, notify the Authority and relevant lead agency where— (a) radioactivity has been detected in the waste ; (b) the waste delivered does not meet the description in the waste manifest; (c) the waste cannot be traced or has not reached its destination; and (d) the waste has been mixed up or otherwise tampered with. (3) The duty in subregulation (1) or (2) does not release the person who generates waste , a waste handler or product steward from the obligation to take immediate action to mitigate the damage resulting from the waste ."
+    },
+    {
+      "provision_ref": "s102",
+      "chapter": "Part XIII",
+      "section": "102",
+      "title": "Database of licences",
+      "content": "(1) The Authority shall maintain a database of all licences issued under the Act and these Regulations. (2) Subject to the Constitution and the Access to information Act 2005, the database maintained under subregulation (1) may be made accessible to the public upon request and payment of the prescribed fee."
+    },
+    {
+      "provision_ref": "s103",
+      "chapter": "Part XIII",
+      "section": "103",
+      "title": "Inspection and monitoring",
+      "content": "The Authority or authorised officer may conduct regular inspections and monitoring of the waste management facilities to— (a) assess compliance by the waste handler with the requirements of the Act , these Regulations, the Occupational Safety and Health Act , 2006, any other applicable law and environmental standards ; (b) ascertain that appropriate measures are in place for avoiding and minimising the consequences of incidents or accidents arising from the waste management activity on human health and the environment; or (c) ensure that information contained in reports sent to the Authority by the waste handler reflects the performance of the waste management facility . Part XIV – Offences, penalties and general provisions"
+    },
+    {
+      "provision_ref": "s104",
+      "chapter": "Part XIV",
+      "section": "104",
+      "title": "Negligent acts",
+      "content": "A person who dumps waste that is rejected by a waste handler commits an offence and is liable on conviction— (a) in the case of an individual, to a fine not exceeding ten thousand currency points or imprisonment not exceeding two years or both; (b) in the case of a body corporate, to a fine not exceeding fifty thousand currency points; or (c) in the case of a continuing offence, to a fine not exceeding two thousand currency points in respect of each day or part of day on which the offence continues."
+    },
+    {
+      "provision_ref": "s105",
+      "chapter": "Part XIV",
+      "section": "105",
+      "title": "Offences relating to plastic carrier bags and plastic products",
+      "content": "A person who imports, exports, manufactures, uses or reuses plastic carrier bags or plastic products made of polymers of ethene (polythene) and propylene (polypropylene) prohibited under the Act commits an offence and is liable on conviction— (a) in the case of an individual, to a fine not exceeding ten thousand currency points or imprisonment not exceeding five years or both; (b) in the case of a body corporate, to a fine not exceeding fifty thousand currency points; or (c) in the case of a continuing offence, to a fine not exceeding two thousand currency points in respect of each day or part of day on which the offence continues."
+    },
+    {
+      "provision_ref": "s106",
+      "chapter": "Part XIV",
+      "section": "106",
+      "title": "Administrative measures",
+      "content": "Without prejudice to penalties imposed by a competent court, the Authority may— (a) give a written warning to the waste handler ; (b) stop and inspect any vessel used for the transportation of waste ; (c) enter upon any premises or facility used for waste management ; (d) order a waste handler to immediately suspend or terminate an activity where there is acute risk of harm to human health or the environment; (e) close a waste management facility that does not comply with the requirements of a licence issued under these Regulations; (f) impose an administrative penalty prescribed by law on a person who generates waste , a product steward or a waste handler ; (g) impose a surcharge of five percent of the amount required to be paid which is in default for each day of default; (h) confiscate the property or equipment; (i) order payment of costs and expenses incurred by the Authority or authorised person in administering the measures under this regulation; (j) order the waste handler to adopt appropriate technologies or install appropriate equipment; or (k) order the waste handler to take samples and analyse them as the Authority may direct."
+    },
+    {
+      "provision_ref": "s107",
+      "chapter": "Part XIV",
+      "section": "107",
+      "title": "Guidelines",
+      "content": "The Authority may, in collaboration with the relevant lead agency , make guidelines for waste management , including guidelines for— (a) landfills; (b) incineration of waste ; and (c) plastic waste ."
+    },
+    {
+      "provision_ref": "s108",
+      "chapter": "Part XIV",
+      "section": "108",
+      "title": "Revocation of S.I 153-2",
+      "content": "(1) The National Environment (Waste Management) Regulations S.I. No. 153-2 are revoked. (2) An approval made or licence given under the National Environment (Waste Management) Regulations repealed under subregulation (1) , and which is in force immediately before the commencement of these Regulations— (a) shall have effect from the commencement of these Regulations as if granted under these Regulations; and (b) in the case of an approval or licence for a specified period, shall remain in force, subject to these Regulations, for so much of that period as falls after the commencement of these Regulations. Schedule 1 (Regulation 2) Currency point A currency point is equivalent to twenty thousand shillings. Schedule 2 (Regulation 2 and 3(1)(a)) Waste classified as hazardous UN CODE Characteristics Class 1 1 H1 Explosive An explosive substance or waste is a solid or liquid substance or waste (or mixture of substances or waste) which is in itself capable by chemical reaction or producing gas at such a temperature and pressure and at such a speed as to cause damage to the surroundings. 2.1 H2.1 Flammable gases. Gases which at 20 °C and a standard pressure of 101.3 kPa are ignitable when in a mixture of 13 percent or less by volume with air; or have a flammable range with air of at least 12 percentage points regardless of the lower flammable limit. Flammability shall be determined by tests or by calculation in accordance with methods adopted by ISO (see ISO 10156:1996). Where insufficient data is available to use these methods, tests by a comparable method recognized by a national competent authority may be used. 2.3 H2.3 Toxic gases. Gases which are known to be so toxic or corrosive to humans as to pose a danger to health; or are presumed to be toxic or corrosive to humans because they have an LC50 value equal to or less than 5000 ml/m 3 (ppm). 3 H3 Flammable Liquids The word ‘flammable’ has the same meaning as inflammable’ Flammable liquids are liquids, or mixtures of liquids, or liquids containing solids in solution or suspension (for example paints, varnishes, lacquers, etc. but not including substances or waste otherwise classified on account of their dangerous characteristics) which give off a flammable vapour at temperatures of not more than 60.5°C, closed-cup test, or not more than 65.6°C, open-cup test. (Since the results of open-cup tests and of closed cup tests are not strictly comparable and even individual results by the same test are often variable, regulations varying from the above figures to make allowance for such difference would be within the spirit of this definition). 4.1 H4.1 Flammable solids Solids, or waste solids, other than those classed as explosives, which under conditions encountered in transport are readily combustible, or may cause or contribute to fire through friction. 4.2 H4.2 Substances or waste liable to spontaneous combustion. Substances or waste which are liable to spontaneous heating under normal conditions encountered in transport, or to heating up on contact with air, and being then liable to catch fire. 4.3 H4.3 Substances or waste which, in contact with water emit flammable gases. Substances or waste which, by interaction with water, are liable to become spontaneously flammable or to give off flammable gases in dangerous quantities. 5.1 H5.1 Oxidizing. Substances or waste which, while in themselves not necessarily combustible, may, generally by yielding oxygen, cause or contribute to the combustion of other materials. 5.2 H5.2 Organic peroxides. Organic substances or waste which contain the bivalent-O- O-structure are thermally unstable substances which may undergo exothermic self-accelerating decomposition. 6.1 H6.1 Toxic or Poisonous (Acute). Substances or waste liable either to cause death or serious injury or to harm human health if swallowed or inhaled or by skin contact. 6.2 H6.2 Infectious substances extremely hazardous to health. Substances or waste containing viable micro-organisms or their toxins which are known or suspected to cause disease in animals or humans. 8. H8 Corrosives Substances or waste which, by chemical action, will cause severe damage when in contact with living tissue, or in the case of leakage will materially damage, or even destroy, other goods or the means of transport; they may also cause other hazards. 9 H10 Liberation of toxic gases in contact with air or water Substances or waste which, by interaction with air or water, are liable to give off toxic gases in dangerous quantities. H11 Toxic (delayed or chronic). Substances or waste which, by intersection with air or water, are liable to give off toxic gases in dangerous quantities. Substances or waste which, if they are inhaled or ingested or if they penetrate the skin, may involve delayed or chronic effects, including carcinogenicity. H12 Ecotoxic. Substances or waste which if released present or may present immediate or delayed adverse impacts to the environment by means of bio-accumulation and/or toxic effects upon biotic systems. H13 Capable, by any means, after disposal, of yielding another material, e.g. leachate, which possesses any of the characteristics listed above. 1 Corresponds to the hazardous classification system included in the United Nations Recommendations on the Transport of Dangerous Goods (ST/SG/AC.10/1/Rev. 5. United Nations, New York, 1988). Schedule 3 (Regulation 2, 3(1)(a) and 45(3)) Waste characterised as hazardous List A Waste contained in this Schedule are characterized as hazardous and their designation in this Schedule does not preclude the use of Schedule 3 to demonstrate that a waste is not hazardous. Al Metal and metal-bearing waste. A1010 Metal waste and waste consisting of alloys of any of the following— Antimony Arsenic Beryllium Cadmium Lead Mercury Selenium Tellurium Thallium but excluding such waste specifically listed on list B. A1020 Waste having as constituents or contaminants, excluding metal waste in massive form, any of the following— Antimony; antimony compounds Beryllium; beryllium compounds Cadmium; cadmium compounds Lead; lead compounds Selenium; selenium compounds Tellurium; tellurium compounds. A1030 Waste having as constituents or contaminants any of the following— Arsenic; arsenic compounds Mercury; mercury compounds Thallium; thallium compounds. A1040 Waste having as constituents any of the following— Metal carbonyls Hexavalent chromium compounds. A1050 Galvanic sludges A1060 Waste liquors from the pickling of metals. A1070 Leaching residues from zinc processing, dust and sludges such as jarosite, hematite, etc. A1080 Waste zinc residues not included on list B, containing lead and cadmium in concentrations sufficient to exhibit Schedule 3 characteristics A1090 Ashes from the incineration of insulated copper wire A1100 Dusts and residues from gas cleaning systems of copper smelters A111O Spent electrolytic solutions from copper electrorefining and electrowinning operations A1120 Waste sludges, excluding anode slimes, from electrolyte purification systems in copper electrorefining and electrowinning operations A1130 Spent etching solutions containing dissolved copper Al 140 Waste cupric chloride and copper cyanide catalysts A1150 Precious metal ash from incineration of printed circuit boards not included on list B A1160 Waste lead-acid batteries, whole or crushed A1170 Unsorted waste batteries excluding mixtures of only list B batteries. Waste batteries not specified on list B containing Schedule 4 constituents to an extent to render them hazardous A1180 Waste electrical and electronic assemblies or scrap containing components such as accumulators and other batteries included on list A, mercury-switches, glass from cathode-ray tubes and other activated glass and PCB-capacitors, or contaminated with Schedule 4 constituents (e.g., cadmium, mercury, lead, polychlorinated biphenyl) to an extent that they possess any of the characteristics contained in Schedule 3 (note the related entry on list B Bl 110) A1190 Waste metal cables coated or insulated with plastics containing or contaminated with coal tar, PCB, lead, cadmium, other organohalogen compounds or other Schedule 4 constituents to an extent that they exhibit Schedule 3 characteristics. A2 Waste containing principally inorganic constituents, which may contain metals and organic materials. A2010 Glass waste from cathode-ray tubes and other activated glasses. A2020 Waste inorganic fluorine compounds in the form of liquids or sludges but excluding such waste specified on list B. A2030 Waste catalysts but excluding such waste specified on list B. A2040 Waste gypsum arising from chemical industry processes, when containing Schedule 4 constituents to the extent that it exhibits a Schedule 3 hazardous characteristic (note the related entry on list B B2080). A2050 Waste asbestos (dusts and fibres). A2060 Coal-fired power plant fly-ash containing Scheduled substances in concentrations sufficient to exhibit Schedule 3 characteristics (note the related entry on list B B2050). A3 Waste containing principally organic constituents, which may contain metals and inorganic materials. A3010 Waste from the production or processing of petroleum coke and bitumen. A3020 Waste mineral oils unfit for their originally intended use. A3030 Waste that contain, consist of or are contaminated with leaded anti-knock compound sludges. A3040 Waste thermal (heat transfer) fluids. A3050 Waste from production, formulation and use of resins, latex, plasticizers, glues/adhesives excluding such waste specified on list B (note the related entry on list B B4020). A3060 Waste nitrocellulose. A3070 Waste phenols, phenol compounds including chlorophenol in the form of liquids or sludges. A3080 Waste ethers not including those specified on list B. A3090 Waste leather dust, ash, sludges and flours when containing hexavalent chromium compounds or biocides (note the related entry on list B B3100). A3100 Waste paring and other waste of leather or of composition leather not suitable for the manufacture of leather articles containing hexavalent chromium compounds or biocides (note the related entry on list B B3090). A3110 Fellmongery waste containing hexavalent chromium compounds or biocides or infectious substances (note the related entry on list B B3110). A3120 Fluff - light fraction from shredding. A3130 Waste organic phosphorous compounds. A3140 Waste non-halogenated organic solvents but excluding such waste specified on list B. A3150 Waste halogenated organic solvents. A3160 Waste halogenated or unhalogenated non-aqueous distillation residues arising from organic solvent recovery operations. A3170 Waste arising from the production of aliphatic halogenated hydrocarbons (such as chloromethane, dichloro-ethane, vinyl chloride, vinylidene chloride, allyl chloride and epichlorhydrin. A3180 Waste, substances and articles containing, consisting of or contaminated with polychlorinated biphenyl (PCB), poly­chlorinated terphenyl (PCT), polychlorinated naphthalene (PCN) or polybrominated biphenyl (PBB), or any other polybrominated analogues of these compounds, at a concentration level of 50 mg/kg or more. A3190 Waste tarry residues (excluding asphalt cements) arising from refining, distillation and any pyrolitic treatment of organic materials. A3200 Bituminous material (asphalt waste) from road construction and maintenance, containing tar (note the related entry on list B, B2130). A3210 Plastic waste, including mixtures of such waste, containing or contaminated with Schedule 4 constituents to the extent that it exhibits a Schedule 3 characteristic. A4 Waste which may contain either inorganic or organic constituents. A4010 Waste from the production, preparation and use of pharma­ceutical products but excluding such waste specified on list B. A4020 Clinical and related waste; that is waste arising from medical, nursing, dental, veterinary, or similar practices, and waste generated in hospitals or other facili"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Act",
+      "definition": "the National Environment Act, 2019",
+      "source_provision": "s2"
+    },
+    {
+      "term": "after-care",
+      "definition": "measures that are necessary to be taken in relation to a waste management facility for the purposes of preventing harm to human health or the environment, following cessation of operations and decommissioning of a facility",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Authority",
+      "definition": "the National Environment Management Authority established under the Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "authorised officer",
+      "definition": "an officer of the Authority or any other person authorised to act on behalf of the Authority under the Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Board",
+      "definition": "the Board of the Authority appointed under the Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "co-generation plant",
+      "definition": "any stationary or mobile plant in which waste is treated by thermal means for the purpose of disposal and for generation of energy",
+      "source_provision": "s2"
+    },
+    {
+      "term": "disposal",
+      "definition": "any operation related to waste management which is not a recovery operation even where the operation has as a secondary consequence the extraction of substances or energy",
+      "source_provision": "s2"
+    },
+    {
+      "term": "domestic waste",
+      "definition": "waste generated from households",
+      "source_provision": "s2"
+    },
+    {
+      "term": "electrical or electronic equipment",
+      "definition": "equipment which is dependent on electric currents or electromagnetic fields in order to function properly, as well as equipment for the generation, transfer, distribution and measurement of the currents and fields, including the components necessary for the cooling, heating and protection of the electrical or electronic equipment",
+      "source_provision": "s2"
+    },
+    {
+      "term": "electrical or electronic waste",
+      "definition": "waste from electrical or electronic equipment or any part of the equipment, including equipment that is old, obsolete, has reached end-of-life or has ceased to be of any value to its owner",
+      "source_provision": "s2"
+    },
+    {
+      "term": "environmental and social assessment",
+      "definition": "a procedure that ensures that the environmental and social impacts, risks or other concerns of a given project are taken into account in approving a project for implementation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "environmental standards",
+      "definition": "standards produced or adopted by the Authority in consultation with the Uganda National Bureau of Standards for use in Uganda",
+      "source_provision": "s2"
+    },
+    {
+      "term": "extended producer responsibility",
+      "definition": "the responsibility of a producer for the entire life cycle of the product, including responsibility for take back, recycling and final disposal of the product",
+      "source_provision": "s2"
+    },
+    {
+      "term": "hazardous waste",
+      "definition": "waste classified, characterised and categorised as hazardous waste in accordance with Schedule 2, Schedule 3 and Schedule 4 to these Regulations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "healthcare waste",
+      "definition": "hazardous or non- hazardous waste from medical or veterinary treatment and associated tutoring, research and laboratory facilities, and similar waste originating from other sources",
+      "source_provision": "s2"
+    },
+    {
+      "term": "incineration",
+      "definition": "thermal treatment of waste with or without recovery of the combustion heat generated, including through oxidisation of carbon or material containing carbon into carbon dioxide and water, as well as other thermal treatment processes including pyrolysis, gasification or plasma processes when the substances resulting from this treatment are subsequently oxidised",
+      "source_provision": "s2"
+    },
+    {
+      "term": "incineration residue",
+      "definition": "any material generated through the operation of an incineration plant or co-generation plant , and defined as waste , including bottom ash and slag, fly and boiler ash, solid reaction products from gas treatment, spent catalysts and spent activated carbon",
+      "source_provision": "s2"
+    },
+    {
+      "term": "industrial waste",
+      "definition": "waste produced by industrial activity and includes any material that is rendered useless during a manufacturing process",
+      "source_provision": "s2"
+    },
+    {
+      "term": "landfill",
+      "definition": "an engineered site for disposal of waste onto or into land, lined with impervious plastic sheeting to prevent leakage or leaching of dangerous substances into soil or water",
+      "source_provision": "s2"
+    },
+    {
+      "term": "lead agency",
+      "definition": "any ministry, department, agency, local government or public officer in which or in whom the functions of control or management of any segment of the environment is vested",
+      "source_provision": "s2"
+    },
+    {
+      "term": "local government",
+      "definition": "a local government established under the Local Governments Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "municipal waste",
+      "definition": "waste , excluding industrial waste , collected within a local government",
+      "source_provision": "s2"
+    },
+    {
+      "term": "plastic carrier bags",
+      "definition": "sacks and carrier bags made of polythene or other synthetic polymers for the conveyance and packaging of goods",
+      "source_provision": "s2"
+    },
+    {
+      "term": "product steward",
+      "definition": "a person or agent of such person responsible for the importation, manufacture, distribution or sale of a product that becomes waste or results in waste",
+      "source_provision": "s2"
+    },
+    {
+      "term": "recovery",
+      "definition": "any operation the principal result of which is— (a) waste serving a useful purpose by replacing other materials which would otherwise have been used to fulfil a particular function",
+      "source_provision": "s2"
+    },
+    {
+      "term": "recycling",
+      "definition": "any recovery operation by which waste materials are re-processed into products, materials or substances whether for the original or other purposes, and includes the reprocessing of organic material",
+      "source_provision": "s2"
+    },
+    {
+      "term": "re-use",
+      "definition": "any operation by which products or components that are not waste are used again for the same purpose for which they were intended",
+      "source_provision": "s2"
+    },
+    {
+      "term": "transboundary movement of waste",
+      "definition": "any movement of hazardous waste or other waste from another country to or through Uganda or from Uganda to another country",
+      "source_provision": "s2"
+    },
+    {
+      "term": "vessel",
+      "definition": "motor vehicle, ship, aircraft or other mode of transport",
+      "source_provision": "s2"
+    },
+    {
+      "term": "waste",
+      "definition": "any substance or object which is dumped, abandoned, discarded or disposed of or intended or required by law to be disposed of",
+      "source_provision": "s2"
+    },
+    {
+      "term": "waste handler",
+      "definition": "a person licensed by the Authority under these Regulations to collect, transport, store, treat or dispose of waste",
+      "source_provision": "s2"
+    },
+    {
+      "term": "waste management",
+      "definition": "activities relating to the collection, transportation, storage, treatment and disposal of waste , including the management of waste at source and during decommissioning of waste management facilities",
+      "source_provision": "s2"
+    },
+    {
+      "term": "waste management facility",
+      "definition": "a plant, site, structure and associated facilities or infrastructure used in the management of waste .",
+      "source_provision": "s2"
+    }
+  ]
+}

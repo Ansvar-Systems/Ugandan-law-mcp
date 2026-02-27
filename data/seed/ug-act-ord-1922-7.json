@@ -1,0 +1,72 @@
+{
+  "id": "ug-act-ord-1922-7",
+  "type": "statute",
+  "title": "Boy Scouts and Girl Guides Act",
+  "title_en": "Boy Scouts and Girl Guides Act",
+  "short_name": "Boy Scouts and Girl Guides Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://ulii.org/en/akn/ug/act/ord/1922/7/eng@2000-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires— (a) \" association \" means the Uganda Boy Scouts Association; (b) \" boy scout \" means a boy scout recognised as such under the constitution, byelaws or rules of the association , and includes all officers of the association ; (c) \" commissioner \" means the person holding or acting in the office of chief commissioner of boy scouts for Uganda."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Restriction on use of uniform, etc. of association",
+      "content": "It shall not be lawful for any person, not being under the byelaws or rules of the association duly authorised and entitled so to do, publicly to wear, carry or bear any uniform, badge, token or emblem which under those byelaws or rules is specifically adopted for use under the authority of the association or which could reasonably be held to be an imitation of the same in such style or manner as to convey an impression that that person is under those byelaws or rules entitled so to wear, carry or bear that uniform, badge, token or emblem."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Restriction on sale of badges, etc. of association",
+      "content": "No person shall sell or offer for sale any article bearing a badge, token or emblem specifically adopted for use under the authority of the association , or which could reasonably be held to be an imitation of the same, unless he shall have first submitted the article to the inspection of the commissioner and shall have obtained authority from him in writing so to do."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Boy scout not to pass himself off as police officer, etc.",
+      "content": "(1) It shall not be lawful for any boy scout , not being otherwise thereunto lawfully entitled and authorised, to pretend to be, or to pass himself off as, or to arrogate to himself the authority, position or powers of, or to claim to be or to act as— (a) a member of a police force or the Uganda Peoples’ Defence Forces; (b) an officer exercising police functions in the service of the administration of a district; or (c) an agent or officer of the Government or of the administration of a district. (2) No boy scout shall seek or attempt by virtue of his wearing any uniform, badge, token or emblem of the association , or uniform, badge, token or emblem purporting or appearing to be such, to enforce or exercise authority otherwise than in accordance with and as authorised by the byelaws or rules of the association ."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "No person falsely to claim connection with association",
+      "content": "It shall not be lawful for any person to— (a) form, organise or work; or (b) be concerned in forming, organising or in work, in connection with any corps or body which without due authority granted by the association — (c) claims or purports to be a corps or body of boy scouts or otherwise to be connected with the association ; or (d) holds itself out or passes itself off as a corps or body of boy scouts or as otherwise connected with the association ."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Offences and penalties",
+      "content": "Any person wilfully contravening any of the provisions of this Act commits an offence and is liable on conviction to imprisonment for a period not exceeding one month or to a fine not exceeding two hundred shillings or to both, and it shall be lawful for the court to order the forfeiture of any such uniform, badge, token or emblem, as mentioned in sections 2 and 3 , in respect of which an offence has been committed and a conviction recorded."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Application of Act to Girl Guides Association",
+      "content": "This Act shall apply, mutatis mutandis , to the Uganda Girl Guides Association. History of this document 28 July 2023 amendment not yet applied Amended by Law Revision (Miscellaneous Amendments) Act, 2023 31 December 2000 this version Chapter 45 Revised Laws 2000 Consolidation 22 March 1922 Commenced Related documents Is amended by Law Revision (Miscellaneous Amendments) Act, 2023 [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About ULII ULII is a project of the Law Reporting Committee of the Judiciary of Uganda. ULII aims to bridge the existing gap in public access to the law of Uganda. Working with the AfricanLII and in collaboration with other partners, such as the Free Access to Law Movement, ULII's major aim is to be a user-friendly portal of all publicly available legal information in Uganda. The Judiciary of Uganda considers access to its decisions and the law upon which they are based as key tenets of its key mission: Justice for All . ULII is also an end user interface for the Electronic Court Case Management Information System. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Uganda Judiciary Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "association",
+      "definition": "the Uganda Boy Scouts Association",
+      "source_provision": "s1"
+    },
+    {
+      "term": "boy scout",
+      "definition": "a boy scout recognised as such under the constitution, byelaws or rules of the association , and includes all officers of the association",
+      "source_provision": "s1"
+    },
+    {
+      "term": "commissioner",
+      "definition": "the person holding or acting in the office of chief commissioner of boy scouts for Uganda.",
+      "source_provision": "s1"
+    }
+  ]
+}

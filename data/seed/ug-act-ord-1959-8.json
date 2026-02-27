@@ -1,0 +1,50 @@
+{
+  "id": "ug-act-ord-1959-8",
+  "type": "statute",
+  "title": "Trust Corporations (Probate and Administration) Act",
+  "title_en": "Trust Corporations (Probate and Administration) Act",
+  "short_name": "Trust Corporations (Probate...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://ulii.org/en/akn/ug/act/ord/1959/8/eng@2000-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Interpretation",
+      "content": "In this Act, \"trust corporation\" means a body corporate which is authorised by the instrument constituting it or defining its powers to act as executor of the will or administrator of the estate of a deceased person or as trustee of a settlement whether created by will or otherwise, and which either— (a) has for the time being an issued capital of not less than two million shillings or its equivalent; or (b) gives in any particular case such security as the High Court may determine for the due performance and discharge of the duties, obligations and liabilities imposed on executors and administrators by the provisions of the Succession Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Grant of probate, etc. to trust corporations",
+      "content": "(1) Notwithstanding anything contained in the Succession Act, the High Court may— (a) where a trust corporation is named in a will as executor, whether alone or jointly with another person, grant probate to the corporation either solely or jointly with another person, as the case may require; and (b) grant letters of administration to a trust corporation, either solely or jointly with another person, and the corporation may act accordingly as executor or administrator, as the case may be. (2) A trust corporation which acts as executor or administrator in accordance with a grant made under subsection (1) may exercise such powers and shall perform such duties and be subject to such obligations and liabilities as are conferred and imposed on executors or administrators, as the case may be, by the Succession Act. (3) Probate or letters of administration shall not be granted to a syndic or nominee on behalf of a trust corporation."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Procedure",
+      "content": "(1) Subject to the provisions of this section, the provisions of the Succession Act relating to the practice and procedure to be followed in applications for and grants of probate and letters of administration shall apply to applications for and grants of probate and letters of administration by and to trust corporations under the provisions of this Act. (2) Any officer authorised for the purpose by a trust corporation or the directors or governing body thereof may, on behalf of the corporation, swear affidavits, give security and do any other act or thing which the court may require with a view to the grant to the corporation of probate or letters of administration, and the acts of an officer so authorised shall be binding on the corporation."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Syndic's interest to vest in corporation",
+      "content": "(1) Where, at the commencement of this Act, any interest in the estate of a deceased person is vested in a syndic on behalf of a trust corporation acting as the legal representative of that person, that interest shall, by virtue of this Act, vest in the corporation, and the syndic shall be kept indemnified by the corporation in respect of that interest. (2) This section shall not apply to securities registered or inscribed in the name of a syndic or to an estate or interest in land registered under the Registration of Titles Act in the name of a syndic, but any such securities, estate or interest shall be transferred by the syndic to the corporation, or as the corporation may direct."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Effect and saving",
+      "content": "(1) This Act shall have effect whether the testator or the intestate died before or after the commencement of this Act, and no such vesting or transfer as is mentioned in section 4 shall operate as a breach of covenant or condition against alienation or give rise to a forfeiture. (2) This Act shall not apply in the case of a deceased person who is, or whose estate is, exempted under the provisions of section 334 of the Succession Act from the operation of Parts XXIX to XL of that Act or from any of those Parts. History of this document 31 December 2000 this version Chapter 163 Revised Laws 2000 Consolidation 26 March 1959 Commenced Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About ULII ULII is a project of the Law Reporting Committee of the Judiciary of Uganda. ULII aims to bridge the existing gap in public access to the law of Uganda. Working with the AfricanLII and in collaboration with other partners, such as the Free Access to Law Movement, ULII's major aim is to be a user-friendly portal of all publicly available legal information in Uganda. The Judiciary of Uganda considers access to its decisions and the law upon which they are based as key tenets of its key mission: Justice for All . ULII is also an end user interface for the Electronic Court Case Management Information System. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Uganda Judiciary Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "trust corporation",
+      "definition": "a body corporate which is authorised by the instrument constituting it or defining its powers to act as executor of the will or administrator of the estate of a deceased person or as trustee of a settlement whether created by will or otherwise, and which either— (a) has for the time being an issued capital of not less than two million shillings or its equivalent",
+      "source_provision": "s1"
+    }
+  ]
+}

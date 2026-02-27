@@ -1,0 +1,852 @@
+{
+  "id": "ug-act-2013-1",
+  "type": "statute",
+  "title": "Uganda Communications Act, 2013",
+  "title_en": "Uganda Communications Act, 2013",
+  "short_name": "Uganda Communications Act, ...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://ulii.org/en/akn/ug/act/2013/1/eng@2013-01-18",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Commencement",
+      "content": "(1) Subject to subsection (2), this Act shall come into force upon the date of its publication in the Gazette . (2) Part X of this Act shall come into force within one year from the date of publication in the Gazette , on the date appointed by the Minister by statutory instrument."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires— \" authorised \", in relation to an officer or employee of the Commission , means authorised by the Executive Director to exercise the powers or perform the duties in respect of which an authorised person is required; \" Board \" means the Board established under section 9 ; \" broadcaster \" means a licensed person who packages and distributes or distributes television or radio programmed services for reception by subscribers or the public, regardless of the technology; \" broadcasting \" means the transmission of sound, video or data , intended for simultaneous reception by the public; \" cinematograph theatre \" means any building, structure, tent or other erection of whatever nature or any place or land in or on which a cinematograph or video exhibition is presented to the public either gratuitously or for reward; \" Commission \" means the Uganda Communications Commission established under section 4 ; \" communications \" means telecommunications, data communication, radio communications, postal communications and includes broadcasting ; \" communications services \" means services performed consisting of the dissemination or interchange of audio, visual or data content using postal, radio, or telecommunications media, data communication, and includes broadcasting ; \" content \" means any sound, text, still picture, moving picture or other audiovisual representation, tactile representation or any combination of the preceding which is capable of being created, manipulated, stored, retrieved or communicated electronically; \" currency point \" has the value assigned to it in Schedule 1; \" data \" means electronic representations of information in any form; \" dominant position \" means a position of market power enjoyed by an operator , which enables the operator to prevent effective competition being maintained in the relevant market by giving it the power to behave, to an appreciable extent, independently of its competitors and customers; \" Executive Director \" means the Executive Director of the Commission appointed under section 16 ; \" eligible person \" means a person who— (a) has not been adjudged bankrupt or has not entered into a composition or a scheme of arrangement with his or her creditors; or (b) has not been convicted of an offence whose penalty exceeds six months imprisonment or a fine exceeding twelve currency points or both; \" emission of electromagnetic energy \" includes the deliberate radiation or reflection of electromagnetic energy by means of any apparatus designed or specially adapted for that purpose whether the reflection is continuous or intermittent; \" electronic media \" means communication of any message to the public by means of any electronic apparatus; \" exhibition \" means a display of art, video or data to the public, with or without sound by means of any electronic apparatus; \" franking machine \" means a machine for the purposes of making impressions on postal articles to denote prepayment of postage and includes any metre or metres and any franking or date stamping dies or incidental dies; \" licence \" means a licence issued under this Act; \" Minister \" means the Minister responsible for information and communications technology; \" operator \" means a person licensed to provide a communication or broadcasting service; \" person \" includes any individual, company, association, or body of persons corporate or unincorporate; \" postal article \" includes any letter, postcard, newspaper, book, document, pamphlet, pattern, sample packet, small packet, parcel package or other article tendered for dispatch or specified in the International Postal Union or in the licence of an operator ; \" postal services \" means the services performed and facilities provided in connection with— (a) the collection, transmission and delivery by land, water or air of postal articles; (b) the issue of postage stamps and the use of franking machines; (c) the issue and payment of money from one place to another or address commonly referred to as money ordering; \" producer \" includes a person who is at any given time, in charge of programme production and transmission to the public by means of any electronic apparatus; \" radio communication \" means the transmitting or receiving over paths which are not provided by any material substance constructed or arranged for that purpose, of electromagnetic energy of a frequency not exceeding three million megahertz being energy which either— (a) serves for the conveyance of messages, sound or visual images, whether messages are actually received by any person or not, or for the actuation or control of machinery or apparatus; or (b) is used in connection with the determination of position, bearing or distance, or for the gaining of information as to the presence, absence, position or motion of any object or objects of any class; \" radio communications apparatus \" or \"radio communications station\" means any apparatus or station, as the case may be, for transmitting or receiving of radio communication other than a domestic radio set and where— (a) that radio communications apparatus or station cannot lawfully be used without a radio communications licence or without an exemption under section 23 ; (b) radio communication in the form of messages, audio or visual images is received or transmitted by that apparatus or station; (c) an apparatus is electrically coupled with another apparatus or station for the purpose of enabling any person to receive or transmit messages, sound or visual images; \" radio communications services \" means services performed and the facilities provided in connection with communication by means of radio communications apparatus ; \" telecommunication \" means the emission, transmission or reception through the agency of electricity or electromagnetism of any sounds, signals, signs, writing, images or intelligence of any nature by wire , radio, optical or other electromagnetic systems whether or not such signs, signals, writing, images, sounds or intelligence have been subjected to rearrangement, computation or other processes by any means in the course of their transmission, emission or reception; \" telecommunications apparatus \" or \" telecommunication station\" means any apparatus or equipment used or intended to be used in connection with the transmission of communications by means of electricity from one place to another place either along a wire joining those two places or partly by wire from each of those two places and partly by radio communication ; \" telecommunications line \" means any wire , cable, equipment, tower, mast, antenna, tunnel, hole, pit trench, pole or other structure or thing used or intended to be used in connection with a telecommunications system ; \" telecommunications service \" means a service consisting of the conveyance or reception of any sounds, signs, signals, writing or images by wire , optical or other electronically guided media systems whether or not the signs, signals, writing, images, sounds or intelligence have been subjected to rearrangement, computation or other process by any means in the course of their transmission, emission or reception; \" telecommunications system \" means a system for the conveyance through the agency of electric, magnetic, electromagnetic, electrochemical, electromechanical or light energy of— (a) speech, music, data and other sounds; (b) visual images; (c) signals serving for the importance, whether as between persons and things, of any matter otherwise than in the form of sounds, visual images; or (d) signals serving for the actuation or control of machinery or apparatus; and including telecommunications apparatus situated in the Republic of Uganda; \" tribunal \" means the Uganda Communications Tribunal established under section 60 ; \" wire \" includes optical cable."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part I",
+      "section": "3",
+      "title": "Objectives of the Act",
+      "content": "The objectives of this Act are to develop a modem communications sector, which includes telecommunications, broadcasting , radio communications , postal communications , data communication and infrastructure by— (a) establishing one regulatory body for communications in accordance with international best practice; (b) enhancing national coverage of communications services (c) expanding the existing variety of communications services available in Uganda to include modern and innovative communications services ; (d) reducing the direct role of Government as an operator in the communications sector and minimising the subsidies paid by the Government to the communications sector; (e) encouraging the participation of the private sector in the development of the communications sector; (f) introducing, encouraging and enabling competition in the communications sector through regulation and licensing of competitive operators to achieve rapid network expansion, standardisation as well as operation of competitively priced and quality services; and (g) establishing and administering a fund for the development of rural communications and information and communication technology in the country. Part II – Uganda Communications Commission"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "Establishment of Uganda Communications Commission",
+      "content": "(1) There is established the Uganda Communications Commission . (2) The Commission is a body corporate with perpetual succession and a common seal and may for the purposes of discharging its functions under this Act— (a) acquire, hold or dispose of movable and immovable property; (b) sue and be sued in its corporate name; (c) do all acts and things that a body corporate may lawfully do. (3) The seal of the Commission shall be authenticated in accordance with Schedule 2."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part II",
+      "section": "5",
+      "title": "Functions of the Commission",
+      "content": "(1) The functions of the Commission are— (a) to implement the objectives of this Act; (b) to monitor, inspect, licence , supervise, control and regulate communications services ; (c) to allocate, license, standardize and manage the use of the radio frequency spectrum resources in a manner that ensures widest variety of programming and optimal utilization of spectrum resources; (d) to process applications for the allocation of satellite orbital locations; (e) to regulate rates and charges for communications services with a view to protecting consumers from excessive tariffs and to prevent unfair competitive practices. (f) to establish, amend, administer and enforce a national numbering plan and electronic addresses plan; and assign numbers and electronic addresses; (g) to conduct, or authorise any person to conduct, technical evaluations relating to communications services ; (h) to coordinate and collaborate with the relevant national and international organisations in matters relating to communications ; (i) to set national standards and ensure compliance with national and international standards and obligations laid down by international communication agreements and treaties to which Uganda is a party; (j) to receive, investigate and arbitrate complaints relating to communications services , and take necessary action; (k) to promote and safeguard the interests of consumers and operators as regards the quality of communications services and equipment; (l) to promote research into the development and use of new communications techniques and technologies, including those which promote accessibility of persons with disability and other members of society to communications services ; (m) to improve communications services generally and to ensure equitable distribution of services throughout the country; (n) to promote competition, including the protection of operators from acts and practices of other operators that are damaging to competition, and to facilitate the entry into markets of new and modem systems and services; (o) to regulate interconnection and access systems between operators and users of telecommunications services; (p) to advise the Government on communications policies and legislative measures in respect of providing and operating communications services ; (q) to represent Uganda’s communications sector at national and international fora and organizations relating to its functions and to coordinate the participation of any interested groups; (r) to collaborate with educational institutions in order to promote specialised education in the field of communications ; (s) to establish and administer a fund for the development of rural communications and information and communication technology in the country; (t) to advise the Minister on the administration of this Act; (u) establish an intelligent network monitoring system to monitor traffic, revenue and quality of service of operators; (v) to regulate value added services provided by communications operators; (w) to operate and manage the Uganda Institute of Information and Communications Technology; (x) to set standards, monitor and enforce compliance relating to content ; and (y) to encourage and promote infrastructure sharing amongst licensees and to provide regulatory guidelines (z) to carry out any other function that is related to the functions of the Commission . (2) The Commission shall submit to the Minister quarterly reports on the performance of its functions. (3) The Minister may at any time request the Commission for a report of its performance. (4) The Commission shall submit an annual performance report to the Minister within three months prior to the end of each year. (5) The Minister shall lay the annual report of the Commission before Parliament."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part II",
+      "section": "6",
+      "title": "Powers of the Commission",
+      "content": "(1) The Commission may in the exercise of its functions— (a) charge fees for services provided by the Commission ; (b) institute a levy on the gross annual revenue from operators in accordance with section 68 ; (c) collect the revenue determined by the Minister in respect of the international incoming telecommunications traffic; (d) impose a fine on a person who unlawfully possesses, installs, connects or operates any communications equipment or apparatus, or unlawfully provides or performs any communications services ; (e) classify communications services and licenses. (2) The Commission may in accordance with this Act, confiscate any apparatus which is possessed, installed, connected or operated unlawfully. (3) The owner of an apparatus confiscated by the Commission may appeal to the tribunal against the confiscation."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part II",
+      "section": "7",
+      "title": "Powers of the Minister",
+      "content": "(1) The Minister may, in writing, give policy guidelines to the Commission regarding the performance of its functions. (2) The Commission shall comply with the policy guidelines given by the Minister under this section."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part II",
+      "section": "8",
+      "title": "Independence of the Commission",
+      "content": "Subject to this Act, the Commission shall exercise its functions independently of any person or body."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part II",
+      "section": "9",
+      "title": "Board of the Commission",
+      "content": "(1) The Commission shall be governed by a Board . (2) The Board shall consist of the following— (a) a person with experience and knowledge in tele­ communications , broadcasting or postal communications , who shall be the chairperson; (b) a representative of professional engineers recommended by the Institute of Professional Engineers; (c) one prominent lawyer who is a member of the Uganda Law Society; (d) a person knowledgeable in the field of economics, financial management and public administration; (e) a representative of the Ministry responsible for information and communications technology, who shall be an ex-officio member; (f) the Executive Director ; (g) a representative of consumers recommended by the Uganda Consumers Association; and (h) one eminent person of good repute and proven integrity representing the public. (3) All members of the Board shall be appointed by the Minister with approval of Cabinet, one of whom shall be a person with disability and at least three of whom shall be women. (4) A member of the Board shall hold office on the terms and conditions specified in the instrument of appointment. (5) A member of the board shall hold office for three years and shall be eligible for reappointment for only one further term."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part II",
+      "section": "10",
+      "title": "Disqualification from appointment",
+      "content": "A person shall not be appointed to the Board who— (a) is engaged in an organization which operates or provides communications services , directly or indirectly, as owner, shareholder, partner or otherwise; (b) is engaged in the manufacture or distribution of communications equipment in Uganda, directly or indirectly, as owner, shareholder, partner or otherwise; (c) has a financial or proprietary interest in an organization referred to in paragraph (a) or (b); (d) is insolvent; (e) is incapacitated by mental or physical illness that renders the person incapable of performing the functions of a member of the Board ; (f) is otherwise unable or unfit to discharge the functions of a member of the Board ."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part II",
+      "section": "11",
+      "title": "Vacating office of member of the Board",
+      "content": "(1) A member of the Board shall vacate office, if the member— (a) is declared insolvent; (b) is convicted of a criminal offence in respect of which a penalty of imprisonment of six months or more is imposed without the option of a fine; (c) is continuously and persistently unable to discharge the functions of the office of a member of the Board ; (d) subsequently becomes disqualified from being a member under section 10 . (e) fails to disclose to the Commission any interest that member has in a contract or proposed contract connected with the Commission or any other matter; (f) misbehaves or abuses the office of a member of the Board . (2) The Minister shall determine that a member vacates office under subsection (1). (3) A member of the Board may resign from office in writing to the Minister . (4) Where a member resigns, dies or is removed from office under this section, the Minister shall within three months and in accordance with section 9 , appoint another person to replace the member, and to hold office for the remainder of the term of that member."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part II",
+      "section": "12",
+      "title": "Meetings of the Board",
+      "content": "(1) The Board shall meet at least once every three months for the purposes of discharging its functions. (2) The meetings of the Board shall be conducted in accordance with Schedule 3."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part II",
+      "section": "13",
+      "title": "Remuneration of members of the Board",
+      "content": "The members of the Board may be paid remuneration or allowances approved by the Minister in consultation with the Ministers responsible for public service and finance."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part II",
+      "section": "14",
+      "title": "Committees of the Board",
+      "content": "(1) The Board may appoint committees— (a) to inquire into and advise the Board on any matter concerning the functions of the Commission ; (b) to exercise the powers or perform a function of the Commission . (2) The Board shall establish a contents committee to oversee content matters under the Act. (3) A committee appointed under subsection (1) shall consist of a chairperson and other members of the Board , as the Board may determine. (4) A committee may invite any person to attend any of its meetings and may co-opt any person to the committee but that person shall not vote on any matter before the committee. (5) Members of a committee appointed under this section may be paid allowances as the Board may, with the written approval of the Minister , determine. (6) Subject to any direction given by the Board , a committee appointed under this section may regulate its own procedure. Part III – Secretariat and staff of the Commission"
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part III",
+      "section": "15",
+      "title": "Secretariat of the Commission",
+      "content": "(1) The Commission shall have a secretariat which shall be responsible for the day-to-day operations of the Commission and implementing the decisions of the Board . (2) The secretariat shall be headed by a full time Executive Director ."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part III",
+      "section": "16",
+      "title": "Executive Director",
+      "content": "(1) The Executive Director shall be appointed by the Minister on the recommendation of the Board . (2) A person shall not be appointed executive director unless that person has relevant knowledge, qualification and considerable experience in either communications , economics, finance, law or administration. (3) The Executive Director shall hold office for five years, and shall be eligible for reappointment for only one further term. (4) A person shall cease to hold the office of Executive Director if that person — (a) resigns; (b) is declared insolvent; (c) is convicted of a criminal offence in respect of which a penalty of imprisonment of six months or more is imposed without the option of a fine; (d) is removed from office by the Minister on the recommendation of the Board for— (i) continuously and persistently being unable to discharge the functions of the office Executive Director ; (ii) failing to disclose to the Commission any interest in a contract or proposed contract or any other matter connected to the Commission ; or (iii) misbehavior or abuse of office."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part III",
+      "section": "17",
+      "title": "Duties of the Executive Director",
+      "content": "(1) Subject to this Act and to the general supervision of the Board , the Executive Director is the chief executive officer of the Commission and is responsible for— (a) implementing the policies and programmes agreed upon by the Commission ; (b) managing the funds and property of the Commission ; (c) administering, organizing and supervising the staff of the Commission ; (d) keeping the Board informed of the activities of the Commission ; (e) keeping record of all the transactions of the Commission . (2) In the performance of his or her duties, the Executive Director is answerable to the Board ."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part III",
+      "section": "18",
+      "title": "Secretary to the Commission",
+      "content": "(1) There shall be a secretary to the Commission who shall be appointed by the Board on the terms and conditions specified in the instrument of appointment. (2) The secretary shall be responsible for taking all the minutes of the meetings of the Board . (3) The secretary shall perform all other duties and functions that the Board or the Executive Director may assign to the secretary. (4) The secretary shall, in the discharge of his or her duties, be answerable to the Executive Director ."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part III",
+      "section": "19",
+      "title": "Other officers and staff of the Commission",
+      "content": "(1) There shall be officers and staff of the Commission as may be necessary for the effective performance of the functions of the Commission . (2) The officers and staff of the Commission shall be appointed by the Board on such terms and conditions as the Board shall determine."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part III",
+      "section": "20",
+      "title": "Protection of members of the Board and officers of the Commission",
+      "content": "A member of the Board or an officer of the Commission or a person acting on the directions of the Board or of an officer of the Commission is not personally liable for any act or omission done or omitted to be done in good faith in the exercise of functions under this Act. Part IV – Licensing of communications Radio, telecommunications and other communications licences"
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part IV",
+      "section": "21",
+      "title": "Licence for radio communications",
+      "content": "A person shall not, without a licence issued by the Commission — (a) establish or use any radio station or provide radio communication services; (b) sell, let, hire or otherwise dispose of any radio communications apparatus ; (c) manufacture, possess, install, connect or operate any radio communications apparatus or interference-causing apparatus."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part IV",
+      "section": "22",
+      "title": "Licence for telecommunications",
+      "content": "A person shall not, establish a telecommunications station, provide telecommunications services or construct, maintain or operate telecommunications apparatus without a licence issued by the Commission ."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part IV",
+      "section": "23",
+      "title": "Exemption from requirement for licence",
+      "content": "Notwithstanding sections 21 and 22 , a licence is not required for communications apparatus— (a) exempted by regulations made under this Act; (b) for use by the police, the armed forces or any other services directly used by the State in the performance of official functions, which comply with technical requirements specified by the Commission . Management and use of frequency spectrum"
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part IV",
+      "section": "24",
+      "title": "Licence to use frequency spectrum",
+      "content": "The Commission shall exclusively issue licences for— (a) radio broadcasting or communications apparatus and spectrum use; (b) possession and operation of radio broadcasting or communications apparatus; (c) broadcasting and communications as the Commission may consider appropriate."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part IV",
+      "section": "25",
+      "title": "Management of radio spectrum",
+      "content": "(1) Notwithstanding any other law, the Commission is exclusively responsible for— (a) planning, monitoring, managing and allocating the use of the radio spectrum; (b) establishing technical requirements and standards in respect of— (i) radio communications apparatus ; (ii) interference-causing apparatus or any class of that apparatus; (c) negotiating with the International Telecommunications Union or its affiliated bodies on matters relating to radio spectrum. (2) For the purposes of section 5 (1)(c), the Commission may, through spectrum refarming, withdraw spectrum where the Commission is satisfied that the spectrum is not utilized optimally or efficiently. Installation of television and radio stations"
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part IV",
+      "section": "26",
+      "title": "Installation of television and radio stations",
+      "content": "(1) A person shall not install or operate a television station, radio station or any related broadcasting apparatus without a licence issued by the Commission . (2) The Commission shall, before issuing a licence under this section, take into account— (a) proof of existence of adequate technical facilities; (b) the location of the station and geographical area to which broadcast is to be made; (c) social, cultural and economic values; and (d) the environmental impact assessment. (3) A person who contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding one thousand five hundred currency points or imprisonment not exceeding five years or both. (4) For the purposes of sub section (3), in the case of a corporate body, any or all the persons who are authorized to sign any document on behalf of the corporate body may be held liable for the contravention. Broadcasting licence , right to broadcast and broadcasting standards"
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part IV",
+      "section": "27",
+      "title": "Broadcasting licence",
+      "content": "(1) A person shall not broadcast without a broadcasting license issued by the Commission . (2) A person who contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding twenty five currency points or imprisonment not exceeding one year or both."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part IV",
+      "section": "28",
+      "title": "Right to broadcast",
+      "content": "(1) A person shall not, take any action which is not authorized under this Act or other law, on account of the content of a programme, to prevent the broadcasting of a programme. (2) Subsection (1) does not absolve a person from complying with any law which prohibits— (a) the broadcasting of pornographic material and obscene publications; or (b) any broadcasting which infringes upon the privacy of any individual."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part IV",
+      "section": "29",
+      "title": "Duties of a licensee and producer",
+      "content": "The holder of a licence or a producer of a broadcasting station or disseminating apparatus shall— (a) ensure that what is broadcast is not contrary to public morality; (b) retain a record of all that is broadcast, for not less than sixty days."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part IV",
+      "section": "30",
+      "title": "Disqualification of a producer",
+      "content": "A person shall not be appointed a producer of a broadcasting station if that person — (a) is less than eighteen years of age; (b) is of unsound mind; (c) is not ordinarily resident in Uganda; (d) does not possess the requisite qualifications prescribed by the Media Council."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part IV",
+      "section": "31",
+      "title": "Minimum broadcasting standards",
+      "content": "A person shall not broadcast any programme unless the broadcast or programme complies with Schedule 4."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part IV",
+      "section": "32",
+      "title": "Ethical broadcasting standards",
+      "content": "(1) Subject to this Act, the ethical broadcasting standards which apply to broadcasters are the professional code of ethics specified in the First Schedule to the Press and Journalist Act. (2) The standards referred to in subsection (1) may be modified by the Commission to accord with this Act. Part V – Postal services"
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part V",
+      "section": "33",
+      "title": "Licensing of postal services",
+      "content": "(1) A person shall not convey, deliver or distribute postal articles without a licence issued under this Act. (2) A person shall not require a licence to convey, deliver or distribute the following postal articles— (a) articles for delivery to another person or persons to whom they are directed, without hire, reward or other profit or advantage for receiving, carrying or delivering them; (b) articles solely concerning goods or other property sent by land, water or air, and delivered with the goods or property to which the letters relate without hire, reward, profit or advantage for receiving them, and the articles are open to inspection and have subscribed on them the words \"consignee’s articles\" or other words to that effect."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part V",
+      "section": "34",
+      "title": "Subcontracting by a licensee",
+      "content": "(1) In the case of postal services , a licensee may use a subcontractor to perform the services subject to the licensee’s responsibility to comply with all obligations and conditions under the licence and this Act. (2) The liability of a subcontractor of a licensee under subsection (1) in the collection, transmission or delivery of any postal article or for loss or delay of or damage to the article or any other loss or damage in relation to the performance of postal services shall be the same as the liability of the licensee. (3) Subsection (2) does not affect the liability of the subcontractor to the licensee."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part V",
+      "section": "35",
+      "title": "Protection of postal articles",
+      "content": "(1) A person engaged in postal services shall protect any postal article and ensure that an employee of that person does not— (a) open the article; (b) know or disclose the contents of a postal article ; (c) deliver an article in the course of transmission to a person other than the addressee, without the consent of the addressee; (d) permit that article to be opened or delivered to a person other than the addressee, without the consent of the addressee, or permit anyone other than the addressee to know or to disclose the contents of a postal article . (2) Any person who negligently or knowingly fails to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding one hundred and twenty currency points or imprisonment for a period not exceeding five years or both on the first conviction; and a fine not exceeding two hundred and forty currency points or imprisonment for a period not exceeding ten years or both on a subsequent conviction. (3) Subsection (1) does not apply to an article opened or disposed of under— (a) the law regulating customs; (b) any other law prohibiting or regulating the importation or exportation of an article; (c) any regulation permitting the opening of a postal article for the purposes of ascertaining details pertaining to the sender or addressee which are necessary in order to return or deliver the postal article ."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part V",
+      "section": "36",
+      "title": "Limitation of liability of a licensee",
+      "content": "(1) The liability of a holder of a licence for— (a) the loss, misdelivery or delay of or damage to, any postal article in the course of transmission by the licensee; (b) the interception, detention or disposal of any postal article in accordance with this Act; or (c) the wrong payment of a money order, shall not exceed that provided for by regulations made by the Commission , the contract governing the service contracted or the Universal Postal Union. (2) The holder of a licence shall give notice to the public regarding the type of liability under subsection (1) which applies to the licensee. Part VI – Video and cinema operators"
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part VI",
+      "section": "37",
+      "title": "Licence for cinematograph theatre or video library",
+      "content": "(1) A person shall not operate a cinematograph theatre or a video or film library without a licence issued by the Commission . (2) The Commission shall issue the licence on terms and conditions the Commission may consider necessary. (3) The Commission shall, before issuing a licence under this section consider whether, at the place or premises of the applicant, there is adequate provision for the safety, health or convenience of the persons attending a video or cinematograph exhibition . (4) A person who contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding twenty four currency points or imprisonment not exceeding twelve months or both. Part VII – General provisions relating to licences"
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part VII",
+      "section": "38",
+      "title": "Application for a licence",
+      "content": "(1) An application for a licence under this Act shall be made to the Commission in the prescribed form. (2) Before granting a licence , the Commission shall, take into account the following— (a) whether the applicant is an eligible person ; (b) the capability of the applicant to operate a system or service for which a licence is sought; (c) the objectives of this Act; (d) whether the grant of the licence is in the public interest. (3) A licence under this section shall— (a) be issued upon payment of the fees prescribed for the licence ; (b) state the terms and conditions upon which it is granted; (c) specify the services to be provided by the operator ; (d) where applicable, specify the network to be operated. (4) The Commission shall grant the licence within sixty days from the date of application. (5) Where the Commission refuses to grant the licence , it shall within fourteen days provide a written explanation to the applicant, giving reasons for the refusal."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part VII",
+      "section": "39",
+      "title": "Terms and conditions of a licence",
+      "content": "(1) The Commission shall prescribe the terms and conditions of all operators licensed under this Act. (2) A licence may include the provision of services to rural or sparsely populated areas or other specified areas and other conditions specified in Schedule 6. (3) An operator shall provide the service for which that operator has obtained a licence . (4) For the purposes of this section, the conditions may include— (a) in the case of a licence to establish a radio communication station, the specifications as to the positions and nature of the station, the purpose for and circumstances in which and the persons by whom the station may be installed or used; (b) in the case of any other telecommunication licence , specifications as to the apparatus which may be installed or used, the places where, the purposes for, the circumstances in which and the persons by whom an apparatus may be used; and (c) in the case of a postal services licence , specifications as to the services to be performed, the place of postal services and the geographical spread of the services and places."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part VII",
+      "section": "40",
+      "title": "Modification of licence",
+      "content": "(1) The Commission may, upon reasonable grounds, modify the conditions of any licence if the Commission considers it necessary to achieve the objectives of this Act, or is in the public interest, taking into account the justified interests of operators and the principles of fair competition and equality of treatment. (2) Before modifying any condition of a licence , the Commission shall give the operator notice of not less than sixty days, stating the reasons for the intended modification and giving the operator an opportunity to make any representation. (3) The Commission shall give an operator reasonable time within which to comply with the modification of the licence . (4) A person aggrieved by a decision of the Commission may appeal to the tribunal ."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part VII",
+      "section": "41",
+      "title": "Suspension and revocation of licence",
+      "content": "(1) The Commission may suspend or revoke a licence issued under this Act, on the following grounds— (a) serious and repeated breach of the licence conditions; (b) any fraud or intentional misrepresentation by the operator applying for the licence ; (c) where the operator is engaged in or is supporting activities amounting to a treasonable offence under the Penal Code Act; or (d) where the operator has ceased to be an eligible person . (2) After consideration of any representations by the operator , the Commission may— (a) prescribe time during which the operator is required to remedy the offending act or conduct; (b) require the operator to pay a fine not exceeding the equivalent of ten percent of its gross annual revenue. (3) The Commission shall give the operator written notice of not less than sixty days specifying the reasons for the intended suspension or revocation, during which the operator may make representations to the Commission . (4) Where the Commission is of the opinion that the measures under subsection (3) are not sufficient, the Commission may— (a) suspend the licence for a specified period; or (b) revoke the licence ."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part VII",
+      "section": "42",
+      "title": "Transfer of licence",
+      "content": "(1) A licence issued by the Commission shall not be transferred without the written consent of the Commission . (2) An operator may apply to the Commission in the prescribed manner for consent to transfer a licence . (3) An application under subsection (2) shall be accompanied by an application for grant of a licence by the person to whom the operator intends to transfer the licence . (4) The Commission shall in considering an application for the transfer of a licence have regard to the same terms and conditions as those that apply to the grant of a new licence , but the Commission may in its discretion refuse to grant the application under this section. (5) For the purposes of this section— (a) \"transfer of licence \" includes the acquisition of control of the licence holder; (b) \"control\" as used with respect to any person shall mean the possession, directly or indirectly, of the power to direct or cause the direction of the management of that person , whether through the ownership of shares, voting, securities, partnership or other ownership interests, agreement or otherwise. (6) The Commission shall grant its consent to transfer a licence within forty five days from the date of application. (7) Where consent is not granted under this section, the Commission shall within fourteen days provide a written explanation, giving reasons for the refusal."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part VII",
+      "section": "43",
+      "title": "Lapse and renewal of a licence",
+      "content": "(1) An application for the renewal of a licence shall be made at least two months before the expiration of the licence . (2) In considering an application for a renewal of a licence , the Commission shall have regard to the performance of the operator during the duration of the licence . (3) The Commission shall renew a licence within thirty days from the date of application. (4) Where a licence is not renewed under this section, the Commission shall within fourteen days, provide a written explanation, giving reasons for the refusal."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part VII",
+      "section": "44",
+      "title": "Annual report on operations of licensee",
+      "content": "Every licensee shall, at the end of each year of business, prepare and submit to the Commission in the prescribed form, a report on the operations and services of the licensee and the extent to which the conditions of the licence are followed. Part VIII – Investigation and inspections"
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part VIII",
+      "section": "45",
+      "title": "Investigation of complaints",
+      "content": "The Commission may investigate any matter within its functions under this Act which relates to— (a) communications services or apparatus provided or supplied in Uganda; and (b) any representation made to the Commission by or on behalf of a person whom the Commission considers to have an interest in the matter which is the subject of the representation."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part VIII",
+      "section": "46",
+      "title": "Power to institute inquiries",
+      "content": "(1) The Commission may appoint any person or committee to inquire into and report to the Commission on any matter pending before the Commission . (2) The Commission shall institute an inquiry where the Commission is directed to do so by the Minister . (3) The Commission may give to a person or committee appointed under this section, directions regarding the procedures for conducting the inquiry."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part VIII",
+      "section": "47",
+      "title": "Report on investigations",
+      "content": "(1) A person or committee appointed to carry out inquiries under section 46 shall submit a report to the Commission in a form and manner that the Commission may direct. (2) Where an inquiry is instituted in accordance with the direction of the Minister , the Commission shall submit a copy of the report to the Minister ."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part VIII",
+      "section": "48",
+      "title": "Directions to remedy breach",
+      "content": "Where as a result of an investigation the Commission is satisfied that an operator has breached a condition of a licence or an obligation under this Act, it may direct the operator in writing to remedy the breach or to do such act or acts as the Commission may specify in the direction, in accordance with the procedures specified in section 41 ."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part VIII",
+      "section": "49",
+      "title": "Appointment of inspectors",
+      "content": "(1) The Commission may appoint inspectors for the purposes of verifying compliance with this Act and the decisions of the Commission . (2) An inspector shall, when exercising powers under this Act, produce the instrument of appointment and identification when required to do so by any person ."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part VIII",
+      "section": "50",
+      "title": "Powers of an inspector",
+      "content": "(1) Subject to subsection (3), an inspector may— (a) enter and inspect at any reasonable time any place owned by or under the control of an operator in which the inspector believes on reasonable grounds to be any document, information or apparatus relevant to the enforcement of this Act and examine the document, information or apparatus or remove it for examination or reproduction; (b) enter any place in which the inspector believes that there is radio apparatus or interference-causing apparatus, and examine any radio apparatus, logs, books, reports, data , records, documents or other information, and remove the information, document, apparatus or equipment for examination or reproduction; (c) make reasonable use of any copying equipment or means of communication located at the place. (2) The inspector shall sign for any information, document, article, apparatus or equipment removed by the inspector under this section and shall leave a copy of the signed record with the operator . (3) Where a place referred to under subsection (1) is a dwelling house, an inspector shall not enter that dwelling house without the consent of the occupant, unless— (a) under the commission of a warrant issued under section 51 ; or (b) where by reason of exigent circumstances, it would not be practical for the inspector to obtain a warrant. (4) For the purposes of subsection (3)(b), \"exigent circumstances\" include circumstances in which the delay arising from obtaining a warrant would result in danger to human life or safety, loss or destruction of evidence. (5) The owner or person in charge of a place entered by an inspector shall give the inspector all reasonable assistance to enable the inspector to carry out the inspector’s duties under this Act."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part VIII",
+      "section": "51",
+      "title": "Search warrant",
+      "content": "(1) Where on application, a magistrate is satisfied by information on oath that— (a) entry to a dwelling house is necessary for the purpose of performing any duty of an inspector under this Act; and (b) entry to a dwelling house has been refused or is likely to be refused, the magistrate may issue a warrant authorising the inspector named in the warrant to enter that dwelling house, subject to conditions specified in the warrant. (2) In executing a warrant issued under this section, an inspector shall not use force unless accompanied by a police officer, and unless the use of force is specifically authorised in the warrant. (3) For the purposes of this section, \"magistrate\" means a Magistrate not below a Magistrate Grade I. Part IX – Fair competition and equality of treatment"
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part IX",
+      "section": "52",
+      "title": "Commission to promote fair competition",
+      "content": "The Commission shall, in the performance of its functions under this Act, promote, develop and enforce fair competition and equality of treatment among all operators in any business or service relating to communication."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part IX",
+      "section": "53",
+      "title": "Unfair competition prohibited",
+      "content": "(1) An operator shall not engage in any activities, which have, or are intended or are likely to have, the effect of unfairly preventing, restricting or distorting competition in relation to any business activity relating to communications services . (2) For the purposes of subsection (1) the acts or omissions include— (a) any abuse by an operator , independently or with others, of a dominant position which unfairly excludes or limits competition between the operator and any other party; (b) entering into an agreement or engaging in any concerted practice with any other party, which unfairly prevents, restricts or distorts competition; or (c) effecting anticompetitive changes in the market structure and, in particular, anticompetitive mergers and acquisitions in the communications sector."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Part IX",
+      "section": "54",
+      "title": "Exceptions to fair competition",
+      "content": "The Commission may, in writing, allow an operator to carry on any act or omission prohibited under section 53 where the Commission is satisfied that, the act or omission— (a) contributes to— (i) the improvement of any goods or services; (ii) the promotion of communications services in Uganda in accordance with this Act; and (b) does not— (i) impose on the parties restrictions which are not indispensable to attaining the objective specified under paragraph (a); and (ii) give the parties the ability to substantially reduce competition in respect of the goods or services in question."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Part IX",
+      "section": "55",
+      "title": "Breach of fair competition",
+      "content": "(1) The Commission may, by its own motion, investigate any operator who commits any act or omission in breach of fair competition. (2) A person may complain to the Commission against a breach of fair competition by an operator . (3) The Commission shall, if it appears that a breach of competition has been committed, investigate the act or omission and give written notice to the operator stating— (a) that the Commission is investigating a possible breach of fair competition; (b) the reasons for the suspicion of a contravention or breach, including any matter of facts or law which are relevant to the investigation; (c) further information required from the operator in order to complete the investigation; and (d) where appropriate, the steps to be taken in order to remedy the breach. (4) The operator may, within thirty days from the date of the notice, make representations in response to the notice. (5) Any person affected by the contravention or breach of fair competition may make a representation to the Commission in relation to the contravention or breach. (6) The Commission shall, after considering any representations of the operator or any other person , fix a date on which to make a decision on the matter. (7) The Commission may, upon satisfaction that an operator is competing unfairly— (a) order the operator to stop the unfair competition; (b) require the operator to pay a fine not exceeding ten percent of the annual turnover of the operator ; (c) declare any anticompetitive agreements or contracts null and void. (8) Subsection (6) shall not affect in any way the right of a person to take any other action against the operator under this Act or any other law. (9) Any person aggrieved by the decision of the Commission under this section may appeal to the tribunal . (10) This section shall not limit or in any way affect the obligations of an operator under any condition of a licence ."
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Part IX",
+      "section": "56",
+      "title": "Denial of access or service",
+      "content": "An operator shall not deny access or service to a customer except for nonpayment of dues or for any other just cause."
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Part IX",
+      "section": "57",
+      "title": "Equality of treatment",
+      "content": "An operator shall provide equal opportunity for access to the same type and quality of service to all customers in a given area at substantially the same rates, limiting variations to available or appropriate technologies required to serve specific subscribers."
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "Part IX",
+      "section": "58",
+      "title": "Interconnection of network facilities",
+      "content": "(1) A telecommunications operator may, with the approval of the Commission , enter into an agreement with any other operator for the purpose of connecting its network facilities with the network facilities of that other operator on terms and conditions that the operators may agree. (2) The operators referred to in subsection (1) shall submit to the Commission an application for approval of an interconnection agreement accompanied by a copy of the proposed interconnection agreement. (3) Upon receipt of the application and proposed interconnection agreement, the Commission shall within thirty days respond to the application in writing. (4) Where the Commission does not respond to the application in the time specified in subsection (3), the Commission shall be taken to have approved the application. (5) The Commission — (a) shall, within ninety days from the receipt of an application of an operator or within such other reasonable period in the circumstances; or (b) may, on its own motion, impose an interconnection agreement on two operators if a negotiated agreement is not possible or if the Commission determines that such agreement promotes fair competition. (6) Before imposing an interconnection agreement between two or more operators, the Commission shall give each operator thirty days’ notice stating the reasons for the intended imposition, and giving the operators opportunity to make representations. (7) The Commission shall issue minimum guidelines in accordance with which telecommunications operators shall negotiate interconnection agreements."
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "Part IX",
+      "section": "59",
+      "title": "Maximum interconnection rates",
+      "content": "(1) Notwithstanding section 58 , the Commission may fix maximum interconnection rates. (2) For the purposes of determining the rate under subsection (1), the Commission shall take into account— (a) accessibility and affordability of the communications services to all parts of the society; (b) fair treatment and competition among the operators Part X – Uganda Communications Tribunal"
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "Part X",
+      "section": "60",
+      "title": "Establishment of Uganda Communications Tribunal",
+      "content": "(1) There is established a tribunal known as the Uganda Communications Tribunal. (2) The tribunal shall consist of a judge and two other persons appointed by the President on the recommendation of the Judicial Service Commission . (3) The judge shall be the chairperson of the tribunal . (4) The chairperson or a member of the tribunal shall hold office for four years, and shall be eligible for reappointment. (5) The tribunal may, in the discharge of its functions, be assisted by not more than four technical advisers appointed by the tribunal from technical persons identified by the Minister . (6) A technical adviser shall be appointed for a specific assignment after which the appointment shall lapse."
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "Part X",
+      "section": "61",
+      "title": "Funds of the tribunal",
+      "content": "The funds of the tribunal shall consist of— (a) money appropriated by Parliament from time to time for enabling the tribunal to perform its functions; (b) grants, gifts or donations from the Government or other sources acceptable to the Minister and the Minister responsible for finance; or (c) funds provided to the tribunal by the Commission under section 71 ."
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "Part X",
+      "section": "62",
+      "title": "Disqualification from appointment to the tribunal",
+      "content": "A person shall not be appointed to the tribunal or as a technical adviser who— (a) is engaged in a communications company or organisation which operates communications systems or provides services or is engaged in the manufacture or distribution of communications equipment in Uganda, as an owner, shareholder, partner or otherwise, whether directly or indirectly; (b) has a financial or proprietary interest in an organisation referred to in paragraph (a) or in the manufacture or distribution of communications apparatus anywhere in Uganda; (c) is an undischarged bankrupt or has made any arrangement with creditors; (d) is incapacitated by mental or physical illness; or (e) is otherwise unable or unfit to discharge the functions of office of a member of the tribunal or technical adviser."
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "Part X",
+      "section": "63",
+      "title": "Vacating office of member of the tribunal",
+      "content": "(1) The office of a member of the tribunal shall fall vacant if— (a) the member is continuously and persistently unable to perform the functions of the office; (b) the member engages in misbehaviour or abuse of office; (c) the member is subsequently disqualified from membership in accordance with section 62 ; (d) the member fails to disclose to the tribunal any interest in a contract or proposed contract or any other matter before the tribunal . (2) A vacancy under subsection (1)(a) shall be determined by the President on the recommendation of the Minister . (3) A member of the tribunal may resign office by notification in writing to the President. (4) A technical adviser shall cease to be a technical adviser if he or she— (a) is subsequently disqualified from appointment in accordance with this section; (b) fails to disclose to the tribunal any interest in the communications sector or in a contract or other matter before the Commission or the tribunal ; (c) subsequently acquires any material interest in the communications sector. (5) A vacancy under sub-section (4) shall be determined by the Minister on the recommendation of the Commission . (6) A technical advisor may resign office by notification in writing to the Minister ."
+    },
+    {
+      "provision_ref": "s64",
+      "chapter": "Part X",
+      "section": "64",
+      "title": "Jurisdiction of the tribunal",
+      "content": "(1) The tribunal shall have jurisdiction to hear and determine all matters relating to communications services arising from decisions made by the Commission or the Minister under this Act. (2) For the avoidance of doubt, the jurisdiction of the tribunal does not include the trial of any criminal offence."
+    },
+    {
+      "provision_ref": "s65",
+      "chapter": "Part X",
+      "section": "65",
+      "title": "Powers of the tribunal",
+      "content": "(1) The tribunal shall in the exercise of its jurisdiction under this Act have all powers of the High Court. (2) For the purposes of this section the law applicable to a civil action in the High Court shall, with the necessary modifications, apply to proceedings before the tribunal . (3) Judgments and orders of the tribunal shall be executed and enforced in the same manner as judgments and orders of the High Court. (4) Any person aggrieved by a decision of the tribunal may within thirty days from the date of the decision or order appeal to the Court of Appeal. (5) The law applicable to appeals from the High Court in civil matters shall, with the necessary modifications or the written adjustments as the Chief Justice may direct, apply to appeals from the Commission to the tribunal and from the tribunal to the Court of Appeal. Part XI – Uganda Post Limited"
+    },
+    {
+      "provision_ref": "s66",
+      "chapter": "Part XI",
+      "section": "66",
+      "title": "Uganda Post Limited",
+      "content": "(1) Uganda Post Limited shall provide reserved postal services , exclusively and the postal services that the company is required to provide, as mandatory postal services , at uniform prices and conditions. (2) The Uganda Post Limited shall, exclusively, be responsible for producing and issuing postage stamps, prestamped envelopes, aerograms and international reply coupons bearing the official national coat of arms or the words \"Republic of Uganda\", \"Uganda\" or \"Uganda Post\". (3) The Uganda Post Limited may, subject to such conditions as it may determine and without prejudice to the provisions of this Act or any regulations made under this Act, license the use by any person of franking machines. Part XII – Financial provisions"
+    },
+    {
+      "provision_ref": "s67",
+      "chapter": "Part XII",
+      "section": "67",
+      "title": "Funds of the Commission",
+      "content": "(1) The funds of the Commission shall consist of— (a) money appropriated by Parliament for the purposes of the Commission ; (b) licence fees and money paid to the Commission for services rendered; (c) money collected from the levy on the gross annual revenue of operators charged in accordance with section 68 ; (d) revenue collected from license in respects of intemationl incoming telecommunications traffic; (e) money borrowed by the Commission ; (f) loans, grants, gifts or donations from Government and other sources made with the approval of the Minister , the Minister responsible for finance and Parliament. (2) The Minister shall by statutory instrument determine the percentage of revenue received by operators from internationl incoming telecommunications traffic to be collected by the Commission ."
+    },
+    {
+      "provision_ref": "s68",
+      "chapter": "Part XII",
+      "section": "68",
+      "title": "Levy on gross annual revenue of operators",
+      "content": "(1) The Commission may levy a charge on the gross annual revenue of operators licenced under this Act. (2) The levy in subsection (1) shall be the percentage specified in schedule 5. (3) For avoidance of doubt, the levy in subsection (2) shall not be less than two percent. (4) The levy shall be shared between information and communication technology development and rural communication in the ratio of one to one."
+    },
+    {
+      "provision_ref": "s69",
+      "chapter": "Part XII",
+      "section": "69",
+      "title": "Power to open and operate bank accounts",
+      "content": "(1) The Commission shall open and maintain bank accounts as are necessary for the performance of the functions of the Commission . (2) The bank accounts shall be operated in a manner determined by the Board ."
+    },
+    {
+      "provision_ref": "s70",
+      "chapter": "Part XII",
+      "section": "70",
+      "title": "Estimates of income and expenditure",
+      "content": "(1) The Board shall, not less than two months before the beginning of each financial year, prepare and submit to the Minister for approval, a budget containing the estimates of income and expenditure of the Commission for the next financial year. (2) The Commission shall not incur any expenditure exceeding the budget without the approval of the Minister ."
+    },
+    {
+      "provision_ref": "s71",
+      "chapter": "Part XII",
+      "section": "71",
+      "title": "Application of Commission funds",
+      "content": "Subject to section 70 (2), the funds of the Commission may be applied to the payment— (a) or discharge of expenses, obligations, including international obligations, or liabilities incurred in connection with the performance of the functions or exercise of the powers of the Commission ; (b) of any remuneration or allowances payable under this Act."
+    },
+    {
+      "provision_ref": "s72",
+      "chapter": "Part XII",
+      "section": "72",
+      "title": "Investment of surplus funds",
+      "content": "(1) The Board shall declare to the Minister any surplus funds that the Commission may have at the end of the financial year. (2) Any funds of the Commission not immediately required for any purpose under this Act, may be invested— (a) on a fixed deposit account with a bank approved by the Board ; (b) in treasury bills and securities of the Government; (c) in any other manner determined by the Board with the approval of the Minister , other than in the business licensed under this Act."
+    },
+    {
+      "provision_ref": "s73",
+      "chapter": "Part XII",
+      "section": "73",
+      "title": "Financial year of Commission",
+      "content": "The financial year of the Commission is the period of twelve months beginning on the 1st day of July in each year, and ending on the 30th day of June in the next calendar year."
+    },
+    {
+      "provision_ref": "s74",
+      "chapter": "Part XII",
+      "section": "74",
+      "title": "Accounts",
+      "content": "The Commission shall— (a) keep proper books of accounts and all records relating to the transactions and affairs of the Commission ; (b) within three months after the end of the financial year, prepare annual financial statements for the preceding financial year; and (c) within three months after the end of each financial year, submit the annual accounts to the Auditor General."
+    },
+    {
+      "provision_ref": "s75",
+      "chapter": "Part XII",
+      "section": "75",
+      "title": "Audit",
+      "content": "(1) The Auditor General or an auditor appointed by the Auditor General shall, in each financial year, audit the accounts of the Commission . (2) The Auditor General or an auditor appointed by the Auditor General shall within three months after receipt of the accounts submit to the Minister and Parliament a report on the audited accounts of the Commission . Part XIII – Offences and penalties"
+    },
+    {
+      "provision_ref": "s76",
+      "chapter": "Part XIII",
+      "section": "76",
+      "title": "Unlawful opening of postal article",
+      "content": "A person who— (a) opens or permits to be opened any postal article otherwise than in accordance with this Act or any other law; (b) knowingly reveals, discloses or in any way makes known the content of information in relation to a postal article opened under this Act or otherwise than in accordance with this Act or any other law; (c) knowingly destroys, detains or secrets any mail bag or postal article otherwise than in accordance with this Act or any other law; (d) knowingly permits any unauthorised person to interfere with any mail bag or postal article ; (e) fraudulently or with intent to deceive, prepares, alters, secrets or destroys any document used for the purposes of postal services , commits an offence and is liable to a fine not exceeding one hundred and twenty currency points or imprisonment not exceeding five years or both."
+    },
+    {
+      "provision_ref": "s77",
+      "chapter": "Part XIII",
+      "section": "77",
+      "title": "Issuing money order with fraudulent intent",
+      "content": "A person who with intent to defraud or without a licence under this Act issues any money order or valuable security commits an offence and is liable on conviction to a fine not exceeding twelve currency points or to imprisonment not exceeding six months or both."
+    },
+    {
+      "provision_ref": "s78",
+      "chapter": "Part XIII",
+      "section": "78",
+      "title": "Offences and penalties for unlicensed persons",
+      "content": "Any person who establishes, installs, maintains, provides or operates— (a) a radio communication station; (b) a telecommunications system or service; or (c) a postal service, without a licence issued under this Act, commits an offence and is liable on conviction to a fine not exceeding ninety six currency points and in the case of a continuing offence, to a further fine not exceeding fifteen currency points for each day or part of a day during which the offence continues after conviction."
+    },
+    {
+      "provision_ref": "s79",
+      "chapter": "Part XIII",
+      "section": "79",
+      "title": "Interception and disclosure of communication",
+      "content": "(1) Any operator of a communications service or system, or employee of an operator of a communications service or system who— (a) unlawfully intercepts any communication between other persons sent by means of that service or system; (b) unlawfully interferes with or obstructs any radio communication ; or (c) unlawfully discloses any information in relation to a communication of which that operator or employee is aware, commits an offence and is liable on conviction to a fine not exceeding one hundred and twenty currency points or imprisonment not exceeding five years or both. (2) Any person who without lawful excuse, intercepts, makes use of or divulges any communication except where permitted by the originator of the communication, commits an offence and is liable on conviction to a fine not exceeding one hundred and twenty currency points or imprisonment not exceeding five years or both. (3) For the purpose of sub-clause (2) where the conviction is a subsequent conviction, the person shall on conviction be liable to a fine not exceeding two hundred and forty currency points or imprisonment not exceeding ten years or both."
+    },
+    {
+      "provision_ref": "s80",
+      "chapter": "Part XIII",
+      "section": "80",
+      "title": "Interception of Government communication",
+      "content": "An operator of communications services or employee of an operator who intentionally intercepts, disrupts, denies accessibility to or diverts government communication commits an offence and is liable on conviction to a fine not exceeding ninety six currency points or imprisonment not exceeding forty eight months or both."
+    },
+    {
+      "provision_ref": "s81",
+      "chapter": "Part XIII",
+      "section": "81",
+      "title": "Sending false distress signals",
+      "content": "Any person who knowingly sends, transmits or causes to be sent or transmitted any false or fraudulent distress signal, message, call or radiogram of any kind commits an offence and is liable on conviction to a fine not exceeding thirty currency points and in the case of a second conviction to a fine not exceeding ninety six currency points, or to imprisonment not exceeding forty eight months or both."
+    },
+    {
+      "provision_ref": "s82",
+      "chapter": "Part XIII",
+      "section": "82",
+      "title": "Offences in respect of radio communications",
+      "content": "A person who— (a) installs, operates or possesses a radio communications apparatus except in accordance with this Act; or (b) without lawful excuse manufactures, imports, distributes, leases, offers for sale, sells, installs, modifies, operates or possesses any apparatus or device or its component under circumstances that give rise to a reasonable interference to another apparatus, device or component or if that apparatus device or component has been used, or is or was intended to be used, for the purposes of contravening this Act, commits an offence and is liable on conviction to a fine not exceeding one hundred and twenty currency points or imprisonment not exceeding five years or both and on a subsequent conviction to a fine not exceeding two hundred and forty currency points or imprisonment not exceeding ten years."
+    },
+    {
+      "provision_ref": "s83",
+      "chapter": "Part XIII",
+      "section": "83",
+      "title": "Protection of telecommunication installations",
+      "content": "(1) A person who— (a) prevents or obstructs the transmission or delivery of any message; or (b) damages, removes or tampers with any installation or plant or any part of it belonging to an operator , commits an offence and is liable on conviction to a fine not exceeding one hundred and twenty currency points or imprisonment not exceeding five years or both and on a subsequent conviction to a fine not exceeding two hundred and forty currency points or imprisonment not exceeding ten years or both. (2) In addition to the penalty under subsection (1), the court may order the person convicted to make good any damage occasioned."
+    },
+    {
+      "provision_ref": "s84",
+      "chapter": "Part XIII",
+      "section": "84",
+      "title": "False advertisement",
+      "content": "A person who, without a licence , advertises or places a notice, mark or word at any place which notice, advertisement, mark or word signifies, implies or may reasonably lead the public to believe that the advertiser or other person is a holder of a licence under this Act commits an offence and is liable on conviction to a fine not exceeding ninety six currency points or imprisonment not exceeding four years or both and in case of a continuing offence, to a further fine not exceeding forty eight currency points for each day during which the offence continues after conviction."
+    },
+    {
+      "provision_ref": "s85",
+      "chapter": "Part XIII",
+      "section": "85",
+      "title": "General penalty",
+      "content": "Any person convicted of an offence under this Act for which no penalty is expressly provided is liable to a fine not exceeding ninety six currency points or imprisonment not exceeding four years or both. Part XIV – Miscellaneous"
+    },
+    {
+      "provision_ref": "s86",
+      "chapter": "Part XIV",
+      "section": "86",
+      "title": "Powers of the Commission in a state of emergency",
+      "content": "(1) The Commission may, during a state of emergency in the interest of public safety— (a) direct any operator to operate a network in a specified manner in order to alleviate the state of emergency; (b) take temporary possession of any communication station within Uganda, and any apparatus which may be installed and used in the station, for a specified period not exceeding six months; (c) in writing direct a licensed person , to intercept or detain a postal article , class or description of postal articles in the course of transmission within Uganda and deliver it to an officer specified in the order. (2) The officer to whom the article is delivered under subsection (1)(c) shall dispose of the article in the manner specified by the Commission . (3) A proclamation by the President under article 110 of the Constitution is conclusive proof of the existence of a state of emergency."
+    },
+    {
+      "provision_ref": "s87",
+      "chapter": "Part XIV",
+      "section": "87",
+      "title": "Transfer of assets and liabilities",
+      "content": "All assets, rights and liabilities relating to communications services to which Uganda Communications Commission or Broadcasting Council were entitled or subject, before the commencement of this Act, shall vest in the Commission ."
+    },
+    {
+      "provision_ref": "s88",
+      "chapter": "Part XIV",
+      "section": "88",
+      "title": "Transfer of service contracts",
+      "content": "Employees of Uganda Communications Commission and Broadcasting Council immediately before the commencement of this Act whose services are transferred to the Commission shall transfer to the Commission on similar or better terms than those enjoyed by those employees before the transfer."
+    },
+    {
+      "provision_ref": "s89",
+      "chapter": "Part XIV",
+      "section": "89",
+      "title": "Pension fund and retired and redundant employees",
+      "content": "(1) All former employees of the Uganda Communications Commission or Broadcasting Council who at the commencement of this Act are receiving retirement benefits and pensions from the Uganda Communications Commission or Broadcasting Council shall continue to be paid by the Commission . (2) All employees of Uganda Communications Commission or Broadcasting Council who become redundant as a result of the implementation of section 88 shall be paid the calculated and ascertained retirement benefits and pension due to them under the Uganda Communications Act or the Electronic Media Act respectively. (3) The contributory pension fund established under the Uganda Communications Act shall continue in force in accordance with this Act."
+    },
+    {
+      "provision_ref": "s90",
+      "chapter": "Part XIV",
+      "section": "90",
+      "title": "Agreements and licences by the Commission or Broadcasting Council",
+      "content": "All valid— (a) licences issued by Uganda Communications Commission or Broadcasting Council before the commencement of this Act; and (b) any other agreements entered into by Uganda Communications Commission or Broadcasting Council before the commencement of this Act, shall remain valid and only be modified by the Commission within one year from the time the Commission commences operations to the extent that any provisions of the agreements or licences are inconsistent with this Act."
+    },
+    {
+      "provision_ref": "s91",
+      "chapter": "Part XIV",
+      "section": "91",
+      "title": "Pending court proceedings or orders of court",
+      "content": "(1) Any pending court proceedings, court actions, judgments or court orders which were enforceable by or against Uganda Communications Commission immediately before the commencement of this Act, and are connected with the assets vested in the Commission or the functions of the Commission , shall be enforceable by or against the Commission as they would have been enforced by or against the Uganda Communications Commission , immediately before the commencement of this Act. (2) Any pending court proceedings, judgment or order against the Attorney General arising out of matters connected with the Broadcasting Council, shall continue against the Attorney General until they are disposed of or satisfied."
+    },
+    {
+      "provision_ref": "s92",
+      "chapter": "Part XIV",
+      "section": "92",
+      "title": "Service of notices on the Commission",
+      "content": "Any notice or other document required to be served on the Commission may be served by— (a) delivery to the Executive Director or any authorised employee; (b) delivery at the office of the Executive Director and obtaining evidence of receipt; or (c) courier delivery to the Executive Director ."
+    },
+    {
+      "provision_ref": "s93",
+      "chapter": "Part XIV",
+      "section": "93",
+      "title": "Regulations",
+      "content": "(1) The Minister may, after consultation with the Commission and with the approval of Parliament, by statutory instrument, make regulations for better carrying into effect the provisions of this Act. (2) Without prejudice to subsection (1) the Minister may make regulations relating to— (a) fees payable upon the grant or renewal of a licence ; (b) the classification or categories of licences; (c) the use of any communications station, apparatus or licence ; (d) obligations for permitting and facilitating the inspection of any communications station, apparatus or licence ; (e) anti competitive practices; (f) energy regulation requirements to be complied with by any person who uses, sells, other than for export, or lets on hire any apparatus generating, designed to generate or liable to generate, fortuitous electromagnetic energy at frequencies that may be specified; (g) the exhibition at any communications station of notices that may be specified in the regulations; (h) the use on board any vessel or aircraft other than a vessel or aircraft registered or licensed in Uganda, within the limits of Uganda and the territorial waters adjacent to Uganda, of communications apparatus on that vessel or aircraft, and the importation, acquisition, manufacture, sale, letting on hire or other disposition of communications apparatus of any kind, or the use or installation of that apparatus; (i) the requirements of the communications services to be provided by a licensee, in terms of quantitative and quality criteria; (j) the specifications of reserved and mandatory services to be provided for by an operator under this Act; (k) the way the consumer will be informed about the range of commercial services and the conditions under which they are provided; (l) prescribing conditions to be observed in the erection, alteration or equipment of cinematograph theatres; (m) prescribing conditions to be observed in relation to safety from fire or otherwise of any cinematograph theatre or the control of person attending the theatre; (n) the conditions under which a licensee can apply for compensation for loss-incurring operations as the result of the operator ’s obligation imposed on the operator by the Commission regarding the provision of uneconomic services in pursuance of the objectives of this Act; (o) the retention of records relating to programmes or broadcasts; (p) the obligations of proprietors, producers or broadcaster in respect of public broadcasts; (q) the licensing and management of telecommunication numbering and orbital slots; (r) the regulation of community broadcasting . (3) Regulations made shall be laid before Parliament. (4) Regulations made under this section may provide in respect of any contravention of the regulations for the imposition of a fine not exceeding forty eight currency points or imprisonment not exceeding twenty four months or both. (5) The Executive Director may by notice require anybody who, in his or her opinion is not complying with the regulations made under this section, to discontinue the use, sale or letting on hire, as the case may be, the apparatus in question, or to use, sell or let on hire the apparatus subject to conditions that may be specified in the notice."
+    },
+    {
+      "provision_ref": "s94",
+      "chapter": "Part XIV",
+      "section": "94",
+      "title": "Amendment of Cap. 49",
+      "content": "The Stage Plays and Public Entertainment Act is amended— (a) in section 1 by substituting for paragraph (a) the following— “ (a) Commission means the Uganda Communications Commission established under the Uganda Communications Act, 2013.\"; (b) by substituting for any reference to \"council\" in that Act, a reference to \" Commission \"."
+    },
+    {
+      "provision_ref": "s95",
+      "chapter": "Part XIV",
+      "section": "95",
+      "title": "Amendment of Schedules",
+      "content": "The Minister may, with the approval of Cabinet, by statutory instrument amend the Schedules to this Act."
+    },
+    {
+      "provision_ref": "s96",
+      "chapter": "Part XIV",
+      "section": "96",
+      "title": "Repeal and saving",
+      "content": "(1) The Electronic Media Act, Cap. 104 and the Uganda Communications Act, Cap. 106 are repealed. (2) Notwithstanding subsection (1), any statutory instrument made under the Electronic Media Act or the Uganda Communications Act which is in force immediately before the commencement of this Act, shall remain in force until revoked under this Act. Schedule 1 (Section 2) Currency point One currency point is equivalent to twenty thousand shillings Schedule 2 (Section 4) Seal of the Commission 1. The common seal of the Commission shall be determined by the Commission and shall be kept in the custody of the Executive Director. 2. The common seal shall, when affixed to any document, be authenticated by the signatures of the chairperson and the Executive Director. 3. In the absence of the chairperson or when the chairperson is unable to perform this function, two other members of the Commission appointed for that purpose shall sign in the place of the chairperson. 4. A person performing the functions of Executive Director shall sign in the absence of the Executive Director. 5. A contract or instrument which if entered into or executed by a person not being a body corporate would not be required to be under seal may be entered into or executed without seal on behalf of the Commission by the Executive Director or any other person authorised in that behalf by the Commission. 6. Every document purporting to be— (a) an instrument issued by the Commission and sealed with the common seal of the Commission and authenticated in the manner prescribed in paragraphs 2 to 4; or (b) a contract or instrument entered into or executed under paragraph 5, shall be received in evidence as such an instrument without further proof unless the contrary is proved. Schedule 3 (Section 12) Meetings of the Board 1. Meetings of the Board (1) Meetings of the Board shall be convened by the chairperson, and the Commission shall meet for the transaction of business at such places and times as may be decided upon by the Board but in any case shall meet at least once every three months. (2) The chairperson or, in the absence of the chairperson, a member appointed by the Board to act in the chairperson’s place may at any time call a special meeting of the Board and shall call a special meeting upon a written request by a majority of the members of the Board. (3) The chairperson shall preside at every meeting of the Board. (4) In the absence of the chairperson, the members present may appoint a member from among themselves to preside at that meeting. 2. Quorum The quorum at a meeting of the Board shall be four members. 3. Decisions of the Board (1) All questions proposed at a meeting of the Board shall be decided by a simple majority of the votes of the members present and voting; and in case of an equality of votes, the person presiding shall have a casting vote in addition to that person’s deliberative vote. (2) A decision may be made by the Board without meetings but by circulation of the relevant papers among the members and by the expression of the views of the majority of the members in writing; however, any member shall be entitled to require that the decision be deferred and the matter on which a decision is sought be considered at a meeting of the Board. 4. Board may co-opt members The Board may invite any person to attend any of its meetings as a consultant and may co-opt any person to the Board but that person shall not vote on any matter before the Board. 5. Declaration of interest (1) Any member of the Board having pecuniary or other interest, directly or indirectly in any contract or proposed contract or other matter before the Board shall, at that meeting, declare the nature of such interest and shall not take part in any discussion or vote on that matter; and if the chairperson directs, the person shall withdraw from that meeting. (2) The failure of any member of the Board to disclose an interest in any contract or proposed contract or any other matter before the Board will cause the decision of the Board to be voidable at the instance of the other members of the Board, and that member shall be liable to be relieved of his or her duties. (3) For purposes of determining whether there is a quorum, a member withdrawing from a meeting or who is not taking part under subparagraph (1) shall be treated as being present. 6. Board may regulate its procedure Subject to this Act, the Board may regulate its own procedure and may make rules regarding the holding of meetings, notice to be given, the keeping of minutes or any other matter relating to its meetings. Schedule 4 (Section 31) Minimum broadcasting standards A broadcaster or video operator shall ensure that— (a) any programme which is broadcast— (i) is not contrary to public morality; (ii) does not promote the culture of violence or ethnical prejudice among the public, especially the children and the youth; (iii) in the case of a news broadcast, is free from distortion of facts; (iv) is not likely to create public insecurity or violence; (v) is in compliance with the existing law; (b) programmes that are broadcast are balanced to ensure harmony in such programmes; (c) adult-oriented programmes are appropriately scheduled; (d) where a programme that is broadcast is in respect to a contender for a public office, that each contender is given equal opportunity on such a programme; (e) where a broadcast relates to national security, the contents of the broadcast are verified before broadcasting. Schedule 5 (Section 68) Rate of percentage of gross annual revenue payable by operators The rate of gross annual revenue payable by an operator to the Commission under section 68 shall not be less than 2 percent and shall not exceed 2.5 percent. Schedule 6 (Section 39) Conditions of a licence 1. A licence issued under this Act may include the following conditions— (a) the payment of sums of money calculated as a proportion of the rate of the annual turnover of the operator’s licensed system or otherwise; (b) the payment by the operator of a contribution toward any loss incurred by another operator as a result of such other operator’s obligation imposed on the operator by the Commission regarding the provision of uneconomic service in pursuance of the objectives of this Act; (c) the provision of services to disadvantaged persons; (d) interconnection of an operator’s telecommunications system with any other system and permitting the connection of telecommunications apparatus to an operator’s system; (e) prohibiting an operator from giving undue preference to or from exercising undue discrimination against any particular person or class of persons, including any operator; (f) furnishing the Commission with such documents, accounts, returns or such other information as the Commission may require for the performance of its functions under this Act; (g) requiring an operator to publish in such manner as may be specified in the licence a notice stating the charges and terms and conditions that are to be applicable to facilities and services provided; (h) provision of service on priority service to the Government or specified organisations; (i) requiring an operator to ensure that an adequate and satisfactory information system, including billing, tariff, directory information and directory inquiry services, is provided to customers; (j) conditions specifying the criteria for setting tariffs; (k) requiring an operator to comply with such technical standards or requirements, including service performance standards, as may be specified in the licence; (l) any other condition as the Commission may consider appropriate or expedient. 2. It is a condition of every licence issued under this Act that the licensee shall— (a) comply with all relevant international conventions or instruments to which Uganda is a party; (b) in the case of a broadcaster, allocate time for the coverage of national events and functions. 3. A licence shall not be used for a purpose other than that for which it is issued. History of this document 01 July 2014 amendment not yet applied Amended by Finance Act, 2014 18 January 2013 this version Published in Uganda Gazette 4 Commenced 23 December 2012 Assented to Related documents Repeals Uganda Communications Act Is amended by Finance Act, 2014 Subsidiary legislation Title Uganda Communications (Fees and Fines) (Amendment) (No. 2) Regulations, 2020 Statutory Instrument 111 of 2020 Uganda Communications (Fees and Fines) Regulations, 2019 Statutory Instrument 94 of 2019 Uganda Communications (Quality of Service) Regulations, 2019 Statutory Instrument 92 of 2019 Uganda Communications (Interconnection and Access) Regulations, 2019 Statutory Instrument 88 of 2019 Uganda Communications (Consumer Protection) Regulations, 2019 Statutory Instrument 87 of 2019 Uganda Communications (Intelligent Network Monitoring System) Regulations, 2019 Statutory Instrument 82 of 2019 Uganda Communications (Equipment Type Approval) Regulations, 2019 Statutory Instrument 78 of 2019 Uganda Communications (Computer Emergency Response Team) Regulations, 2019 Statutory Instrument 30 of 2019 [] [] [] [{\"provision_eid\": \"part_II__sec_5__subsec_1__para_l\", \"citations\": 1}, {\"provision_eid\": \"part_II__sec_5__subsec_1__para_y\", \"citations\": 1}, {\"provision_eid\": \"part_XIV__sec_93\", \"citations\": 1}] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About ULII ULII is a project of the Law Reporting Committee of the Judiciary of Uganda. ULII aims to bridge the existing gap in public access to the law of Uganda. Working with the AfricanLII and in collaboration with other partners, such as the Free Access to Law Movement, ULII's major aim is to be a user-friendly portal of all publicly available legal information in Uganda. The Judiciary of Uganda considers access to its decisions and the law upon which they are based as key tenets of its key mission: Justice for All . ULII is also an end user interface for the Electronic Court Case Management Information System. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Uganda Judiciary Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Board",
+      "definition": "the Board established under section 9",
+      "source_provision": "s2"
+    },
+    {
+      "term": "broadcaster",
+      "definition": "a licensed person who packages and distributes or distributes television or radio programmed services for reception by subscribers or the public, regardless of the technology",
+      "source_provision": "s2"
+    },
+    {
+      "term": "broadcasting",
+      "definition": "the transmission of sound, video or data , intended for simultaneous reception by the public",
+      "source_provision": "s2"
+    },
+    {
+      "term": "cinematograph theatre",
+      "definition": "any building, structure, tent or other erection of whatever nature or any place or land in or on which a cinematograph or video exhibition is presented to the public either gratuitously or for reward",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Commission",
+      "definition": "the Uganda Communications Commission established under section 4",
+      "source_provision": "s2"
+    },
+    {
+      "term": "communications",
+      "definition": "telecommunications, data communication, radio communications, postal communications and includes broadcasting",
+      "source_provision": "s2"
+    },
+    {
+      "term": "communications services",
+      "definition": "services performed consisting of the dissemination or interchange of audio, visual or data content using postal, radio, or telecommunications media, data communication, and includes broadcasting",
+      "source_provision": "s2"
+    },
+    {
+      "term": "content",
+      "definition": "any sound, text, still picture, moving picture or other audiovisual representation, tactile representation or any combination of the preceding which is capable of being created, manipulated, stored, retrieved or communicated electronically",
+      "source_provision": "s2"
+    },
+    {
+      "term": "data",
+      "definition": "electronic representations of information in any form",
+      "source_provision": "s2"
+    },
+    {
+      "term": "dominant position",
+      "definition": "a position of market power enjoyed by an operator , which enables the operator to prevent effective competition being maintained in the relevant market by giving it the power to behave, to an appreciable extent, independently of its competitors and customers",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Executive Director",
+      "definition": "the Executive Director of the Commission appointed under section 16",
+      "source_provision": "s2"
+    },
+    {
+      "term": "eligible person",
+      "definition": "a person who— (a) has not been adjudged bankrupt or has not entered into a composition or a scheme of arrangement with his or her creditors",
+      "source_provision": "s2"
+    },
+    {
+      "term": "emission of electromagnetic energy",
+      "definition": "the deliberate radiation or reflection of electromagnetic energy by means of any apparatus designed or specially adapted for that purpose whether the reflection is continuous or intermittent",
+      "source_provision": "s2"
+    },
+    {
+      "term": "electronic media",
+      "definition": "communication of any message to the public by means of any electronic apparatus",
+      "source_provision": "s2"
+    },
+    {
+      "term": "exhibition",
+      "definition": "a display of art, video or data to the public, with or without sound by means of any electronic apparatus",
+      "source_provision": "s2"
+    },
+    {
+      "term": "franking machine",
+      "definition": "a machine for the purposes of making impressions on postal articles to denote prepayment of postage and includes any metre or metres and any franking or date stamping dies or incidental dies",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licence",
+      "definition": "a licence issued under this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "the Minister responsible for information and communications technology",
+      "source_provision": "s2"
+    },
+    {
+      "term": "operator",
+      "definition": "a person licensed to provide a communication or broadcasting service",
+      "source_provision": "s2"
+    },
+    {
+      "term": "person",
+      "definition": "any individual, company, association, or body of persons corporate or unincorporate",
+      "source_provision": "s2"
+    },
+    {
+      "term": "postal article",
+      "definition": "any letter, postcard, newspaper, book, document, pamphlet, pattern, sample packet, small packet, parcel package or other article tendered for dispatch or specified in the International Postal Union or in the licence of an operator",
+      "source_provision": "s2"
+    },
+    {
+      "term": "postal services",
+      "definition": "the services performed and facilities provided in connection with— (a) the collection, transmission and delivery by land, water or air of postal articles",
+      "source_provision": "s2"
+    },
+    {
+      "term": "producer",
+      "definition": "a person who is at any given time, in charge of programme production and transmission to the public by means of any electronic apparatus",
+      "source_provision": "s2"
+    },
+    {
+      "term": "radio communication",
+      "definition": "the transmitting or receiving over paths which are not provided by any material substance constructed or arranged for that purpose, of electromagnetic energy of a frequency not exceeding three million megahertz being energy which either— (a) serves for the conveyance of messages, sound or visual images, whether messages are actually received by any person or not, or for the actuation or control of machinery or apparatus",
+      "source_provision": "s2"
+    },
+    {
+      "term": "radio communications station",
+      "definition": "any apparatus or station, as the case may be, for transmitting or receiving of radio communication other than a domestic radio set and where— (a) that radio communications apparatus or station cannot lawfully be used without a radio communications licence or without an exemption under section 23",
+      "source_provision": "s2"
+    },
+    {
+      "term": "radio communications services",
+      "definition": "services performed and the facilities provided in connection with communication by means of radio communications apparatus",
+      "source_provision": "s2"
+    },
+    {
+      "term": "telecommunication",
+      "definition": "the emission, transmission or reception through the agency of electricity or electromagnetism of any sounds, signals, signs, writing, images or intelligence of any nature by wire , radio, optical or other electromagnetic systems whether or not such signs, signals, writing, images, sounds or intelligence have been subjected to rearrangement, computation or other processes by any means in the course of their transmission, emission or reception",
+      "source_provision": "s2"
+    },
+    {
+      "term": "telecommunication station",
+      "definition": "any apparatus or equipment used or intended to be used in connection with the transmission of communications by means of electricity from one place to another place either along a wire joining those two places or partly by wire from each of those two places and partly by radio communication",
+      "source_provision": "s2"
+    },
+    {
+      "term": "telecommunications line",
+      "definition": "any wire , cable, equipment, tower, mast, antenna, tunnel, hole, pit trench, pole or other structure or thing used or intended to be used in connection with a telecommunications system",
+      "source_provision": "s2"
+    },
+    {
+      "term": "telecommunications service",
+      "definition": "a service consisting of the conveyance or reception of any sounds, signs, signals, writing or images by wire , optical or other electronically guided media systems whether or not the signs, signals, writing, images, sounds or intelligence have been subjected to rearrangement, computation or other process by any means in the course of their transmission, emission or reception",
+      "source_provision": "s2"
+    },
+    {
+      "term": "telecommunications system",
+      "definition": "a system for the conveyance through the agency of electric, magnetic, electromagnetic, electrochemical, electromechanical or light energy of— (a) speech, music, data and other sounds",
+      "source_provision": "s2"
+    },
+    {
+      "term": "tribunal",
+      "definition": "the Uganda Communications Tribunal established under section 60",
+      "source_provision": "s2"
+    },
+    {
+      "term": "wire",
+      "definition": "optical cable.",
+      "source_provision": "s2"
+    }
+  ]
+}

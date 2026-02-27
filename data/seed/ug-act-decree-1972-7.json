@@ -1,0 +1,32 @@
+{
+  "id": "ug-act-decree-1972-7",
+  "type": "statute",
+  "title": "Robbery Suspects Act",
+  "title_en": "Robbery Suspects Act",
+  "short_name": "Robbery Suspects Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://ulii.org/en/akn/ug/act/decree/1972/7/eng@2000-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Interpretation",
+      "content": "In this Act, “security officer” means any member of the Uganda Peoples’ Defence Forces, the Uganda Police Force or the Uganda Prisons Service."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Use of force to arrest robbery suspect",
+      "content": "Notwithstanding section 16 of the Penal Code Act, where a security officer has reason to believe that any person has or is about to commit the offence of robbery within the meaning of section 285 of the Penal Code Act and that person refuses or neglects to submit to arrest by any person or does any act calculated to evade arrest, then the security officer may use any force he or she may deem necessary to prevent the escape of that person. History of this document 31 December 2000 this version Consolidation 01 June 1972 Commenced Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About ULII ULII is a project of the Law Reporting Committee of the Judiciary of Uganda. ULII aims to bridge the existing gap in public access to the law of Uganda. Working with the AfricanLII and in collaboration with other partners, such as the Free Access to Law Movement, ULII's major aim is to be a user-friendly portal of all publicly available legal information in Uganda. The Judiciary of Uganda considers access to its decisions and the law upon which they are based as key tenets of its key mission: Justice for All . ULII is also an end user interface for the Electronic Court Case Management Information System. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Uganda Judiciary Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "security officer",
+      "definition": "any member of the Uganda Peoples’ Defence Forces, the Uganda Police Force or the Uganda Prisons Service.",
+      "source_provision": "s1"
+    }
+  ]
+}

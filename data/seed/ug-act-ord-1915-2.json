@@ -1,0 +1,80 @@
+{
+  "id": "ug-act-ord-1915-2",
+  "type": "statute",
+  "title": "Justices of the Peace Act",
+  "title_en": "Justices of the Peace Act",
+  "short_name": "Justices of the Peace Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://ulii.org/en/akn/ug/act/ord/1915/2/eng@2023-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Appointment of justices of the peace",
+      "content": "(1) The Minister may appoint under his or her hand, as occasion may require, any resident of Uganda being a citizen of Uganda or of a country of the Commonwealth to be a justice of the peace for Uganda or for any part of Uganda, whose appointment shall be notified in the Gazette . (2) Every justice of the peace shall on appointment take and subscribe the same oaths or affirmations as are required to be taken by a magistrate and in the manner prescribed by law for the taking of an oath or affirmation by a magistrate."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "General powers of justices",
+      "content": "A justice of the peace shall, subject to this Act, have and exercise within the limits for which he or she is appointed, such powers, rights, duties and jurisdictions as are vested in a justice of the peace by this Act or by or in virtue of any other Act for the time being in force in Uganda."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Justices to have certain powers and duties of magistrates to administer oaths, etc.",
+      "content": "(1) A justice of the peace shall have the same powers and duties as a magistrate to administer oaths and affirmations, to release on bail, to remand in custody, to take affidavits, to attest signatures and to certify to copies of documents, and shall exercise those powers in like manner and take the same fees therefor on behalf of the Government. (2) A person remanded in custody by a justice of the peace shall be brought before a magistrate as soon as practicable. (3) Subject to subsection (2) , a justice of the peace shall only remand a person for a single period not exceeding ten days."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Power of justices to arrest",
+      "content": "(1) A justice of the peace shall, within the local limits of his or her jurisdiction, have the same powers of arrest as a police officer in respect of any offence committed in his or her presence; except that a justice of the peace shall, without unnecessary delay, take the offender or cause him or her to be taken before the nearest magistrate within whose jurisdiction the offence shall have been committed. (2) A justice of the peace may, at any time, arrest or direct the arrest in his or her presence within the local limits of his or her jurisdiction, of any person for whose arrest he or she is competent at the time and in the circumstances to issue a warrant, and shall, without unnecessary delay, take that person or cause him or her to be taken before the nearest magistrate within whose local jurisdiction that person shall have been arrested. (3) Whenever a justice of the peace arrests or causes any person to be arrested under subsection (1) or (2) and does not himself or herself take the person arrested before the magistrate, he or she shall issue a warrant under his or her hand in the form in the Schedule to this Act, and that warrant shall be sufficient authority to the person to whom it is directed to take the person arrested before the magistrate; and if the person shall have been arrested for an offence committed in the presence of the justice of the peace, the justice of the peace shall, without unnecessary delay, send to the magistrate a statement setting forth the facts relating to the offence and the names and addresses of persons known to him or her to have been witnesses to the commission of the offence."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Power of justices to take cognisance of an offence on complaint or police report",
+      "content": "(1) A justice of the peace may— (a) upon receiving a complaint of facts which constitute an offence; or (b) upon receiving a police report of such facts, issue process for the purpose of compelling the appearance of the person accused; and the process shall be made returnable before a magistrate having jurisdiction to try the accused or to commit him or her for trial. (2) A justice of the peace shall not take cognisance of an offence unless he or she is satisfied that there is sufficient ground for proceeding; neither shall he or she issue a warrant unless the case is one in which, under the law of criminal procedure for the time being in force in Uganda, a warrant should issue in the first instance or he or she has reason to believe that the person accused has absconded or will not obey a summons. (3) Whenever, by the law for the time being in force, any court is prohibited from taking cognisance of any case except with the sanction or on the complaint of the Minister or a court or a public servant or any person, a justice of the peace shall not take cognisance of that case, except with the sanction or on the complaint required by that law. (4) If any fee would, under the law for the time being in force, have been payable if the process had been issued by a magistrate, the fee shall be paid by the person or persons liable to pay it at the court of the magistrate, before whom the process is returnable."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Examination of complainant by justice",
+      "content": "A justice of the peace taking cognisance of an offence on complaint shall at once examine the complainant upon oath, and the substance of the examination shall be reduced to writing and be signed by the complainant and also by the justice of the peace; except that when a complaint is made in writing, nothing in this section shall be deemed to require a justice of the peace to examine the complainant before issuing process for the purpose of compelling the attendance of the accused before a magistrate as provided in section 5 , if the justice of the peace is satisfied that the complaint shows sufficient grounds for proceeding."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Issue of process or dismissal of complaint",
+      "content": "(1) Whenever a justice of the peace issues process as provided in section 5 , he or she shall immediately forward to the magistrate before whom the process is returnable, the substance of the examination, if any, taken and signed as provided in section 6 or, if there is no such examination, the written complaint or police report on which the process has been issued. (2) Whenever a justice of the peace dismisses a complaint, he or she shall immediately forward to the High Court the written complaint, if any, and the substance of the examination taken and signed as provided in section 6 together with a statement of his or her reasons for dismissing the complaint."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Jurisdiction of magistrate on process issued by justice",
+      "content": "(1) A magistrate before whom any accused person is brought under section 4 , or before whom any process issued by a justice of the peace has been made returnable, shall have the like jurisdiction in the case as if the person had come before him or her on a process issued by himself or herself or as if the process issued had been issued by himself or herself. (2) Notwithstanding subsection (1) — (a) if the person is brought or the process is made returnable before a magistrate who is not empowered to try the accused or to commit the accused for trial, that magistrate shall immediately issue process returnable before a magistrate duly empowered to try or commit the accused for trial; (b) when by any law for the time being in force any process fee or other fees are payable, the magistrate shall not proceed with the trial of the case until the fees are paid, unless the fees are lawfully remitted; and if the fees are not paid within a reasonable time, the magistrate may dismiss the complaint."
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Power of High Court to order further inquiry; appeal by person aggrieved",
+      "content": "(1) A judge of the High Court on examining any record required by section 7(2) to be forwarded to the High Court may direct any court subordinate to the High Court to make, and that court shall then make, further inquiry into any complaint which has been dismissed by a justice of the peace. (2) A person aggrieved by an order made by a justice of the peace dismissing a complaint may appeal to the High Court against the order, upon payment of such fee as may be prescribed by rules of court."
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "Power of Chief Justice to issue instructions and rules of court",
+      "content": "The Chief Justice may issue instructions and rules of court not being inconsistent with this or any other Act, as may seem proper to him or her, for the guidance and control of justices of the peace in the exercise and performance of their powers and duties as such, and every justice of the peace is required to comply with and obey those instructions and rules."
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "Justices to account for fees, etc. received",
+      "content": "Every justice of the peace shall keep, in such form as may be required by the Minister, true and faithful account of all fees and money paid to him or her under this Act or any other Act or law for the time being in force authorising or requiring him or her to receive any fee or money for or on behalf of the Government, and shall produce all such accounts whenever so required by the Auditor General or other officer authorised by the Minister for that purpose, and shall render such returns and pay over to the Treasury all fees and money as aforesaid in such manner and at such times and through such officers as the Minister shall direct. Schedule (Section 4(3)) Form [Editorial note: The form has not been reproduced. Please refer to the publication document.] History of this document 31 December 2023 this version Chapter 17 Revised Laws 2023 Consolidation 31 December 2000 Chapter 15 Revised Laws 2000 Consolidation Read this version 15 February 1915 Commenced Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About ULII ULII is a project of the Law Reporting Committee of the Judiciary of Uganda. ULII aims to bridge the existing gap in public access to the law of Uganda. Working with the AfricanLII and in collaboration with other partners, such as the Free Access to Law Movement, ULII's major aim is to be a user-friendly portal of all publicly available legal information in Uganda. The Judiciary of Uganda considers access to its decisions and the law upon which they are based as key tenets of its key mission: Justice for All . ULII is also an end user interface for the Electronic Court Case Management Information System. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Uganda Judiciary Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": []
+}

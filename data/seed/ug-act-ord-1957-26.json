@@ -1,0 +1,44 @@
+{
+  "id": "ug-act-ord-1957-26",
+  "type": "statute",
+  "title": "Makerere University (Deposit Library) Act",
+  "title_en": "Makerere University (Deposit Library) Act",
+  "short_name": "Makerere University (Deposi...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://ulii.org/en/akn/ug/act/ord/1957/26/eng@2000-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires, \"book\" includes every part or division of a book, newspaper, periodical, magazine, review, Gazette , pamphlet, sheet of letterpress, sheet of music, map, plan, chart or table separately published, but does not include any second or subsequent edition of a book unless such edition contains additions or alterations either in the letterpress or in the maps, prints or other illustrative material belonging to the book."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Delivery of copies of books, etc.",
+      "content": "(1) The publisher of every book published in Uganda shall— (a) within one month after the publication, deliver, at the publisher’s own expense, a copy of the book to the librarian of the deposit section of the library of Makerere University, who shall give a receipt for it; (b) if written demand is made within three months after publication, deliver, within one month after receipt of that written demand, or if the demand was made before publication, within one month after publication, to the Minister, one copy of the book. (2) In the case of an encyclopaedia, newspaper, review, magazine or work published in a series of numbers or parts, the written demand made under subsection (1)(b) may include all numbers or parts of the work which may be subsequently published. (3) The copy of the book delivered pursuant to subsection (1)(a) or (b) shall be a copy of the whole book with all maps and illustrations belonging to it, finished and coloured in the same manner as the best copies of the book are published, and shall be bound, sewed or stitched together, and on the best paper on which the book is printed."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Offences and penalties",
+      "content": "If any publisher fails to comply with any of the provisions of section 2 , he or she commits an offence and is liable on conviction to a fine of one hundred shillings, and the court before which the publisher is convicted may, in addition, order the offender to deliver to the librarian of the deposit section of the library of Makerere University or to the Minister or to both, as the case may be, a copy of the book in respect of which the conviction is recorded, or to pay to the librarian or to the Minister or to both, as the case may be, the value of the book."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Powers of exemption",
+      "content": "The Minister may by statutory order exempt from all or any of the provisions of this Act any specified class of book either absolutely or subject to such conditions as may be specified in the order. History of this document 28 July 2023 amendment not yet applied Amended by Law Revision (Miscellaneous Amendments) Act, 2023 31 December 2000 this version Chapter 133 Revised Laws 2000 Consolidation 01 March 1958 Commenced Related documents Is amended by Law Revision (Miscellaneous Amendments) Act, 2023 [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About ULII ULII is a project of the Law Reporting Committee of the Judiciary of Uganda. ULII aims to bridge the existing gap in public access to the law of Uganda. Working with the AfricanLII and in collaboration with other partners, such as the Free Access to Law Movement, ULII's major aim is to be a user-friendly portal of all publicly available legal information in Uganda. The Judiciary of Uganda considers access to its decisions and the law upon which they are based as key tenets of its key mission: Justice for All . ULII is also an end user interface for the Electronic Court Case Management Information System. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Uganda Judiciary Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "book",
+      "definition": "every part or division of a book, newspaper, periodical, magazine, review, Gazette , pamphlet, sheet of letterpress, sheet of music, map, plan, chart or table separately published, but does not include any second or subsequent edition of a book unless such edition contains additions or alterations either in the letterpress or in the maps, prints or other illustrative material belonging to the book.",
+      "source_provision": "s1"
+    }
+  ]
+}

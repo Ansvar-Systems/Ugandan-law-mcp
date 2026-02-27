@@ -1,0 +1,307 @@
+{
+  "id": "ug-act-ord-1904-15",
+  "type": "statute",
+  "title": "Divorce Act",
+  "title_en": "Divorce Act",
+  "short_name": "Divorce Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://ulii.org/en/akn/ug/act/ord/1904/15/eng@2023-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Interpretation",
+      "content": "In this Act, “ child ” means a person who has not attained the age of eighteen years."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Limitations of Act",
+      "content": "Nothing in this Act shall authorise— (a) the making of any decree of dissolution of marriage unless the petitioner is domiciled in Uganda at the time when the petition is presented; or (b) the making of any decree of nullity of marriage unless the petitioner is domiciled in Uganda at the time when the petition is presented or unless the marriage was solemnised in Uganda."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part I",
+      "section": "3",
+      "title": "Jurisdiction",
+      "content": "(1) Where all parties to a proceeding under this Act are Africans or where a petition for damages only is lodged in accordance with section 21 , jurisdiction may be exercised by a court over which presides a magistrate grade I or a chief magistrate. (2) In all other cases jurisdiction shall be exercised by the High Court only. Part II – Dissolution of marriage"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "Grounds for divorce",
+      "content": "A husband or wife may apply, by petition to the court, for the dissolution of the marriage on the ground that since the solemnisation of the marriage, his wife or her husband— (a) has been guilty of adultery; (b) has changed his or her profession of Christianity for the profession of some other religion, and gone through a form of marriage with another man or woman; (c) has been guilty of bigamy; (d) has been guilty of rape, sodomy or bestiality; (e) has been guilty of cruelty; or (f) has been guilty of desertion, without reasonable excuse, for two years or upwards."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part II",
+      "section": "5",
+      "title": "Co-respondent",
+      "content": "The petitioner for divorce under this Act shall make the alleged adulterer or adulteress a co-respondent to the petition, except where the petitioner is excused by the court from doing so on one of the following grounds— (a) that the petitioner does not know the person with whom the adultery was committed; (b) that the petitioner does not know the name of the alleged adulterer, although he or she has made efforts to discover the name; or (c) that the alleged adulterer is dead."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part II",
+      "section": "6",
+      "title": "Scope of inquiry by court",
+      "content": "The court shall satisfy itself, so far as it reasonably can, as to the facts alleged, and also whether or not the petitioner has been in any manner accessory to or conniving at the going through of the form of marriage or the adultery complained of, or has condoned it, and shall also inquire into any countercharge which may be made against the petitioner."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part II",
+      "section": "7",
+      "title": "Dismissal of petition",
+      "content": "The petition shall be dismissed if the court is satisfied that the petitioner’s case has not been proved, or is not satisfied that the alleged adultery has been committed, or finds that during the marriage, the petitioner has been accessory to or conniving at the going through of the form of marriage or the adultery or has condoned it, or finds that the petition is presented or prosecuted in collusion with either the respondent or co-respondent."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part II",
+      "section": "8",
+      "title": "Grant of petition",
+      "content": "(1) If the court is satisfied that the petitioner’s case has been proved, and does not find that the petitioner has been accessory to or has connived at the going through of the form of marriage or the adultery, or has connived at or condoned it, or that the petition is presented or prosecuted in collusion, the court shall pronounce a decree nisi for the dissolution of the marriage. (2) Notwithstanding subsection (1) , the court shall not be bound to pronounce the decree if it finds that the petitioner has, during the marriage, been guilty of adultery, or been guilty of unreasonable delay in presenting or prosecuting the petition, or of cruelty to the respondent, or of having deserted or wilfully separated himself or herself from the respondent before the adultery complained of, and without reasonable excuse, or of such wilful neglect of or misconduct towards the respondent as has conduced the adultery."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part II",
+      "section": "9",
+      "title": "Condonation of adultery",
+      "content": "Adultery shall not be deemed to have been condoned unless conjugal cohabitation has been continued or subsequently resumed."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part II",
+      "section": "10",
+      "title": "Grant of relief to respondent",
+      "content": "If the respondent opposes the relief sought on the ground, where the petitioner is the husband, of his adultery, cruelty, or desertion without reasonable excuse, or, where the petitioner is the wife, on the ground of her adultery, the court may give the respondent, on his or her application, the same relief to which he or she would have been entitled if a petition had been presented seeking that relief, and the respondent may give evidence of or relating to the adultery, cruelty or desertion. Part III – Nullity of marriage"
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part III",
+      "section": "11",
+      "title": "Petition for nullity of marriage",
+      "content": "A husband or a wife may present a petition to the court praying that his or her marriage may be declared null and void."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part III",
+      "section": "12",
+      "title": "Grounds for decree of nullity",
+      "content": "(1) The following are the grounds on which a decree of nullity of marriage may be made— (a) that the respondent was permanently impotent at the time of the marriage; (b) that the parties are within the prohibited degrees of consanguinity, whether natural or legal, or affinity; (c) that either party was a lunatic or idiot at the time of the marriage; (d) that the former husband or wife of either party was living at the time of the marriage, and the marriage with the previous husband or wife was then in force; or (e) that the consent of either party to the marriage was obtained by force or fraud, in any case in which the marriage might be annulled on this ground by the law of England. (2) If the court finds that the petitioner’s case has been proved, it shall pronounce a decree nisi declaring the marriage to be null and void."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part III",
+      "section": "13",
+      "title": "Children of annulled marriage",
+      "content": "Where a marriage is annulled on the ground that a former husband or wife was living, and it is found that the subsequent marriage was contracted in good faith and with the full belief of the parties that the former husband or wife was dead, or where a marriage is annulled on the ground of insanity, children begotten before the decree nisi is made shall be specified in the decree, and shall be entitled to succeed, in the same manner as legitimate children, to the estate of the parent who at the time of the marriage was competent to contract. Part IV – Judicial separation and protection orders"
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part IV",
+      "section": "14",
+      "title": "Grounds for judicial separation",
+      "content": "A husband or wife may apply, by petition, to the court for a judicial separation on the ground of cruelty, adultery, or desertion without reasonable excuse for two years or upwards, and the court, on being satisfied that the allegations of the petition are true, and that there is no legal ground why the application should not be granted, may decree judicial separation accordingly."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part IV",
+      "section": "15",
+      "title": "Property of wife after judicial separation",
+      "content": "Where judicial separation has been decreed under this Act, the wife shall, from the date of the decree, and while the separation continues, be considered as unmarried with respect to property of every description which she may acquire or which may come to or devolve upon her, and that property may be disposed of by her in all respects as if she were an unmarried woman, and on her demise, if she dies intestate, shall go as it would have gone if her husband had then been dead; but if she again cohabits with her husband, all property to which she may be entitled when that cohabitation takes place shall be held to her separate use, subject, however, to any agreement in writing made between herself and her husband while separate."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part IV",
+      "section": "16",
+      "title": "Contracts, etc. of wife after judicial separation",
+      "content": "Where judicial separation has been decreed under this Act, the wife shall, while the separation continues, be considered as an unmarried woman for the purposes of contracts, wrongs and injuries, and of suing and being sued in any civil proceedings, and her husband shall not be liable in respect of any contract, act or costs entered into, done, omitted or incurred by her during the separation; except that— (a) where alimony has been decreed or ordered to be paid to the wife upon the judicial separation, and it is not duly paid, the husband shall be liable for necessaries supplied for her use; and (b) nothing in this Act shall prevent the wife from joining, at any time during the separation, in the exercise of a joint power given to herself and her husband."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part IV",
+      "section": "17",
+      "title": "Petition to reverse decree of judicial separation",
+      "content": "(1) A husband or wife upon the application of whose wife or husband, as the case may be, a decree of judicial separation has been pronounced, may thereafter present a petition praying for the reversal of the decree on the ground that it was obtained in his or her absence, and that where desertion was the ground of the decree there was reasonable excuse for the desertion alleged. (2) The court may, on being satisfied of the truth of the allegations of the petition, reverse the decree accordingly."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part IV",
+      "section": "18",
+      "title": "Protection orders",
+      "content": "(1) Any wife, in whose property the husband has acquired an interest by virtue of the marriage may, if deserted by him, apply by petition to the court for an order to protect any property which she may have obtained or may obtain after the desertion, against him and his creditors and any person claiming under him. (2) The court may, if satisfied that the desertion was without easonable excuse, and that the wife is maintaining herself, make that order. (3) The order shall state the time at which the desertion commenced, and shall, as regards all persons dealing with the wife in reliance on the order, be conclusive as to that time. (4) While the order is in force, the wife shall be, and be deemed to have been from the date of the desertion, in the like position in all respects with regard to the property and contracts, and suing and being sued, as she would be if she had obtained a decree of judicial separation under this Act. (5) The husband, or any other creditor or person claiming under him, may apply to the court for the discharge or variation of the order, and the court may, if the desertion has ceased, or if for any other cause it thinks fit so to do, discharge or vary the order accordingly. (6) If the husband or any creditor or person claiming under him, seizes or continues to hold any property of the wife after notice of any such order, the wife may by action recover the property, and also a sum equal to double its value."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part IV",
+      "section": "19",
+      "title": "Effect of reversal, etc. of judicial separation or protection order",
+      "content": "(1) The reversal, discharge or variation of a decree of judicial separation, or of a protection order, shall not affect any rights or remedies which a person would otherwise have had in respect of any contracts or acts of the wife entered into or done between the dates of the decree or order and of the reversal, discharge or variation of the decree or order. (2) Any person who, in reliance on any such decree or order, makes any payment to or permits any transfer or acts to be made or done by the wife shall, notwithstanding the decree or order may then have been reversed, discharged or varied or the separation of the wife from her husband may have ceased, or at some time since the making of the decree or order has been discontinued, be protected and indemnified as if, at the time of the payment, transfer or act, the decree or order were valid and still subsisting without variation, and the separation had not ceased or been discontinued, unless at the time of the payment, transfer or other act, that person had notice of the reversal, discharge or variation of the decree or order of the cessation or discontinuance of the separation. Part V – Restitution of conjugal rights"
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part V",
+      "section": "20",
+      "title": "Restitution of conjugal rights",
+      "content": "(1) If a husband or wife has, without reasonable excuse, withdrawn from the society of the other, the wife or husband may apply by petition to the court for restitution of conjugal rights. (2) The court, on being satisfied that the allegations of the petition are true, and that there is no legal ground why the application should not be granted, may decree restitution of conjugal rights accordingly. (3) Nothing shall be pleaded in answer to a petition for restitution of conjugal rights which would not be a ground for a suit for judicial separation or for a decree of nullity of marriage. Part VI – General"
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part VI",
+      "section": "21",
+      "title": "Damages for adultery",
+      "content": "(1) A husband or wife, as the case may be, may, by petition, claim damages from any person on the ground that that person committed adultery with the wife or husband of the petitioner, as the case may be. (2) Such claim may be made either in a petition for dissolution of marriage or for judicial separation, or by petition for that purpose only. (3) The court shall ascertain the amount of damages and may direct that the damages be levied under warrant on the movable or immovable property of the person ordered to pay and may direct in what manner the damages, when recovered, shall be paid or applied, and may direct that the whole or any part of the damages shall be settled for the benefit of the children, if any, of the marriage, or as a provision for the maintenance of the wife or husband, as the case may be. (4) Where the officer having execution of a warrant for the recovery of damages ordered under subsection (3) reports that no property or insufficient property exists upon which the damages may be levied, the court may, by warrant, commit the person ordered to pay, to imprisonment for a term not exceeding six months. (5) Every person so committed to prison shall be released from prison before the expiration of his or her sentence— (a) on the amount of the damages being paid to the officer in charge of the prison; or (b) by order of the court if the court is satisfied that the damages have otherwise been fully paid."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part VI",
+      "section": "22",
+      "title": "Costs against co-respondent",
+      "content": "A co-respondent may be ordered to pay the whole or any part of the costs of the proceedings if adultery with the wife or husband of the petitioner, as the case may be, has been established against him or her; except that he or she shall not be ordered to pay the costs of the petitioner— (a) if, at the time of the adultery, he or she had no reason to believe that the respondent was married; or (b) if the respondent was, at the time of the adultery, living apart from his wife or her husband."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part VI",
+      "section": "23",
+      "title": "Alimony pendente lite",
+      "content": "In any suit under this Act the husband or wife, as the case may be, whether or not he or she has obtained a protection order, may apply to the court for alimony pending the suit, and the court may make such order as it may deem just; except that alimony pending the suit shall in no case exceed one-fifth of the husband’s or wife’s average net income for the three years next preceding the date of the order, and shall continue in the case of a decree nisi of dissolution or nullity of marriage until the decree is made absolute."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part VI",
+      "section": "24",
+      "title": "Permanent alimony",
+      "content": "(1) Ona decree absolute declaring a marriage to be dissolved, or on a decree of judicial separation obtained by a husband or wife, the court may order the wife or husband, as the case may be, to secure to her husband or to his wife, such sum of money as, having regard to her husband’s or his wife’s fortune, as the case may be, if any, to the ability of the husband or wife, and the conduct of the parties, it thinks reasonable. (2) The court may direct the alimony to be paid either in a lump sum or in yearly, monthly or weekly payments for any period not exceeding the life of the husband or wife, and for that purpose may cause a proper instrument to be executed by all necessary parties. (3) The court may direct the alimony to be paid either to the husband himself or wife herself or to a trustee to be approved on his behalf or her behalf by the court, and may impose such terms and restrictions, and may direct the execution of such trust deeds as it may think fit, and may from time to time, appoint a new trustee."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part VI",
+      "section": "25",
+      "title": "Discharge or alteration of order for alimony",
+      "content": "Where an order has been made for the payment of alimony, and the husband or wife, as the case may be from any cause subsequently becomes unable to make the payments, the court may discharge or modify, or suspend the order in whole or in part, and may again revive the order in whole or in part."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part VI",
+      "section": "26",
+      "title": "Power to vary settlements",
+      "content": "After a decree absolute of dissolution or of nullity of marriage, the court may inquire into the existence of antenuptial or postnuptial settlements made on the parties whose marriage is the subject of the decree, and may make such orders with reference to the application of the whole or part of the settled property, whether for the benefit of the husband or wife or of the children, if any, or of both children and parents, as seems fit; except that no order for the benefit of the parents, or either of them, shall be made at the expense of the children."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part VI",
+      "section": "27",
+      "title": "Powers of court as to settlements",
+      "content": "Where the court has power to direct any property to be settled, or to vary the terms of an existing settlement, it may appoint trustees to whom the money shall be paid, and may order the necessary instruments to be prepared containing such provisions as it may think fit, and may order all necessary parties to execute the instruments, and may appoint new trustees, and may do all such other acts as it may deem necessary for carrying such directions into effect."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part VI",
+      "section": "28",
+      "title": "Custody of children",
+      "content": "In suits for dissolution of marriage, or for nullity of marriage or for judicial separation, the court may, at any stage of the proceedings, or after a decree absolute has been pronounced, make such order as it thinks fit, and may vary or discharge the orders, with respect to the custody, maintenance and education of the minor children of the marriage, or for placing them under the protection of the court."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part VI",
+      "section": "29",
+      "title": "Procedure",
+      "content": "Subject to the provisions of this Act, all proceedings under this Act shall be regulated by the Civil Procedure Act."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part VI",
+      "section": "30",
+      "title": "Petitions",
+      "content": "(1) Every petition shall state, as distinctly as the nature of the case permits, the facts on which the claim is based, and shall be verified as if it were a plaint, and may at the hearing be referred to as evidence. (2) Petitions for dissolution of marriage, or for nullity of marriage, or for judicial separation, shall state that there is not any collusion or connivance between the petitioner and the respondent."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part VI",
+      "section": "31",
+      "title": "Service of petition",
+      "content": "Every petition under this Act shall be served on the party to be affected by it, either within or without Uganda, in such manner as the court may, by general or special order, from time to time direct; except that the court may dispense with such service in case it seems necessary or expedient so to do."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part VI",
+      "section": "32",
+      "title": "Examination of witnesses",
+      "content": "The witnesses in all proceedings shall be examined orally; except that the parties may verify their respective cases by affidavit, but so that the deponent may be orally cross-examined and re-examined either on the application of the other party or by direction of the court."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part VI",
+      "section": "33",
+      "title": "Husband and wife compellable witnesses",
+      "content": "On any petition presented by a wife for the dissolution of her marriage on the ground of adultery coupled with cruelty or desertion without reasonable excuse, the husband and wife respectively shall be competent and compellable to give evidence relating to the cruelty or desertion."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part VI",
+      "section": "34",
+      "title": "Sittings in camera",
+      "content": "The court may hear the whole or any part of the proceedings under this Act with closed doors."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part VI",
+      "section": "35",
+      "title": "Adjournment",
+      "content": "The court may adjourn the hearing of any petition under this Act, and may require further evidence on the petition."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part VI",
+      "section": "36",
+      "title": "Making decrees nisi , decrees absolute",
+      "content": "(1) No decree nisi of dissolution or nullity of marriage shall be made absolute till after the expiration of six months from the date of the decree, or such longer period as the Chief Justice may by rules prescribe. (2) During that period any person may show cause why the decree should not be made absolute by reason of the same having been obtained by collusion, or by reason of material facts not having been brought before the court. (3) On cause being so shown, the court shall make the decree absolute, or reverse the decree nisi , or require further inquiry, or otherwise deal with the case as justice may demand. (4) The court may order the costs arising from such cause being shown to be paid by the parties or such one or more of them, including the wife if she has separate property, as it thinks fit. (5) Where a petitioner fails to move within a reasonable time that the decree nisi be made absolute, the court may dismiss the suit."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part VI",
+      "section": "37",
+      "title": "Enforcement of orders and appeals",
+      "content": "All decrees and orders made by the court in proceedings under this Act shall be enforced, and may be appealed from, as if they were decrees or orders made by the court in the exercise of its original civil jurisdiction; except that— (a) in suits for dissolution or nullity of marriage a respondent or corespondent not appearing and defending the suit on the occasion of the decree nisi being made shall not appeal against the decree being made absolute, unless the court gives leave to appeal at the time of the decree being made absolute; and (b) no appeal from an order absolute for dissolution or nullity of marriage shall lie in favour of any party who, having had time and opportunity to appeal from the decree nisi , has not appealed from it."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part VI",
+      "section": "38",
+      "title": "Re-marriage of parties",
+      "content": "When the time limit for appealing against a decree of dissolution or nullity of marriage has expired, and no appeal has been presented, or when in the result of any such appeal, any marriage shall be declared to be dissolved or annulled, but not sooner, the parties to the marriage may marry again as if the prior marriage had been dissolved by death."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part VI",
+      "section": "39",
+      "title": "Clergyman of Church of Uganda not bound to marry divorced guilty party",
+      "content": "No clergyman in Holy Orders of the Church of Uganda shall be compelled to solemnise the marriage of any person whose former marriage has been dissolved on the ground of his or her adultery, or shall be liable to any suit, penalty, or censure for solemnising, or refusing to solemnise, such marriage."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part VI",
+      "section": "40",
+      "title": "Another clergyman may perform service",
+      "content": "When a clergyman in Holy Orders or other minister of religion in charge of any church or chapel refuses to perform such marriage service between persons who would, but for the refusal, be entitled to be married in the church or chapel, he or she shall permit any other clergyman in Holy Orders of the Church to perform the service in the church or chapel."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part VI",
+      "section": "41",
+      "title": "Rules of court",
+      "content": "The Chief Justice may make rules of court with respect to all matters of procedure under this Act, and may also prescribe the forms to be used and the fees to be paid in proceedings taken under this Act. History of this document 31 December 2023 this version Chapter 144 Revised Laws 2023 Consolidation 28 July 2023 Amended by Law Revision (Miscellaneous Amendments) Act, 2023 31 December 2000 Chapter 249 Revised Laws 2000 Consolidation Read this version 01 October 1904 Commenced Related documents Is amended by Law Revision (Miscellaneous Amendments) Act, 2023 [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About ULII ULII is a project of the Law Reporting Committee of the Judiciary of Uganda. ULII aims to bridge the existing gap in public access to the law of Uganda. Working with the AfricanLII and in collaboration with other partners, such as the Free Access to Law Movement, ULII's major aim is to be a user-friendly portal of all publicly available legal information in Uganda. The Judiciary of Uganda considers access to its decisions and the law upon which they are based as key tenets of its key mission: Justice for All . ULII is also an end user interface for the Electronic Court Case Management Information System. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Uganda Judiciary Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "child",
+      "definition": "a person who has not attained the age of eighteen years.",
+      "source_provision": "s1"
+    }
+  ]
+}

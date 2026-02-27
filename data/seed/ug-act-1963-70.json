@@ -1,0 +1,471 @@
+{
+  "id": "ug-act-1963-70",
+  "type": "statute",
+  "title": "Weights and Measures Act",
+  "title_en": "Weights and Measures Act",
+  "short_name": "Weights and Measures Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://ulii.org/en/akn/ug/act/1963/70/eng@2000-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Interpretation",
+      "content": "(1) In this Act, unless the context otherwise requires— (a) \" buyer \" includes a prospective buyer and a person acting on his or her behalf; (b) \" by way of trade \" means having any connection whatever with trade, and includes preparation for trade and checking in connection with trade; (c) \" container \" includes any form of packaging goods for sale as a single item, whether by way of wholly or partly enclosing the goods or by way of attaching the goods to, or winding the goods round, some other article, and, in particular, includes a wrapper or confining band; (d) \" derived \" means derived from the metric standards as provided by sections 2 , 3 , 4 , 5 and 6 ; (e) \" examiner \" means an examiner of weights and measures appointed under section 36 ; (f) \" goods \" means anything which is the subject of trade; (g) \" indication of quantity \", in relation to any container in or on which goods are made up, means a statement in writing to the effect that those goods are of, or of not less than, a specified quantity by net weight or other measurement or by number, as the case may require; (h) \" inspector \" means an inspector of weights and measures appointed under section 35 and includes the superintendent , deputy superintendent and the assistant superintendent ; (i) \" motor vehicle \" has the same meaning as in the Traffic and Road Safety Act; (j) \" occupier \", in relation to any premises or in relation to the use of any place for any purpose, means the person for the time being in charge of the premises or, as the case may be, the person for the time being using that place for that purpose; (k) \" Permanent Secretary \" means the person for the time being holding the office of Permanent Secretary in the Ministry responsible for the administration of this Act; (l) \" premises \" includes any place, whether open or enclosed, and any stall or vehicle ; (m) \" prepacked \" means made up in advance ready for sale in or on a container ; and on any premises where articles of any description are so made up, or are kept or stored for sale after being so made up, any article of that description found made up in or on a container shall be deemed to be prepacked unless the contrary is proved; (n) \" road \" has the same meaning as in the Traffic and Road Safety Act; (o) \" sale \" includes barter, or transfer of goods for valuable consideration; (p) \" seller \" includes a prospective seller and a person acting on his or her behalf; (q) \" stamp \" means the mark specified in the Seventh Schedule to this Act for use as evidence of the passing of weighing or measuring equipment as fit for use for trade, whether applied by impressing, engraving, etching, stencilling, branding or otherwise howsoever, and cognate expressions shall be construed accordingly; (r) \" superintendent \" means the superintendent of weights and measures appointed under section 34 ; (s) \" testing equipment \" means testing equipment maintained under section 11 ; (t) \" trailer \" has the same meaning as in the Traffic and Road Safety Act; (u) \" valid \", in relation to a stamp borne by any weighing or measuring equipment , means a stamp of such date that it is in due force according to any period which may have been prescribed in respect of the stamp by rules made under section 18 , and cognate expressions shall be construed accordingly; (v) \" vehicle \" has the same meaning as in the Traffic and Road Safety Act; (w) \" weighing or measuring equipment \" means equipment for measuring in terms of weight , length, area, volume, capacity or number, whether or not the equipment is constructed to give an indication of the measurement made or other information determined by reference to that measurement; (x) \" weight \", in relation to a unit of measurement, means mass, and the weight of any thing may be expressed by reference to the units of measurement set out in Part I of the First Schedule to this Act, in the same terms as its mass. (2) Except where the context otherwise requires, any reference in this Act to any person, other than a reference to an inspector or examiner , shall be construed as a reference to that person or some other person acting on his or her behalf in the matter in question. Part II – Units of measurement"
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part II",
+      "section": "2",
+      "title": "Measurement of weight",
+      "content": "(1) The pound or the kilogram shall be the unit of measurement of weight by reference to which any measurement of weight shall be made in Uganda, and— (a) the pound shall be 0.45359237 kilogram exactly; (b) the kilogram shall be the solid mass unit represented by the international prototype of the kilogram maintained by the International Bureau of Weights and Measures. (2) Part I of the First Schedule to this Act shall have effect for defining for all purposes in Uganda the units of measurement of weight set out in it."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part II",
+      "section": "3",
+      "title": "Measurement of length",
+      "content": "(1) The yard or the metre shall be the unit of measurement of length by reference to which any measurement of length shall be made in Uganda, and— (a) the yard shall be 0.9144 metre exactly; (b) the metre shall be the length equal to 1650763.73 wavelengths in vacuum created by radiation corresponding to the transition between the levels ²P₁₀ and ⁵D₅ of the krypton atom 86. (2) Part II of the First Schedule to this Act shall have effect for defining for all purposes in Uganda the units of measurement of length set out in it."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "Measurement of area",
+      "content": "(1) The square yard or the square metre shall be the unit of measurement of area by reference to which any measurement of area shall be made in Uganda, and— (a) the square yard shall be the superficial area equal to that of a square each side of which measures one yard; (b) the square metre shall be the superficial area equal to that of a square each side of which measures one metre. (2) Part III of the First Schedule to this Act shall have effect for defining for all purposes in Uganda the units of measurement of area set out in it."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part II",
+      "section": "5",
+      "title": "Measurement of volume",
+      "content": "(1) The cubic yard or the cubic metre shall be the unit of measurement of volume by reference to which any measurement of volume shall be made in Uganda, and— (a) the cubic yard shall be the volume equal to that of a cube each edge of which measures one yard; (b) the cubic metre shall be the volume equal to that of a cube each edge of which measures one metre. (2) Part IV of the First Schedule to this Act shall have effect for defining for all purposes in Uganda the units of measurement of volume set out in it."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part II",
+      "section": "6",
+      "title": "Measurement of capacity",
+      "content": "(1) The gallon or the litre shall be the unit of measurement of capacity by reference to which any measurement of capacity shall be made in Uganda, and— (a) the gallon shall be the space occupied by 10 pounds weight of distilled water of density 0.998859 gram per millilitre weighed in air of density 0.001217 gram per millilitre against weights of density 8.136 grams per millilitre; (b) litre has the same meaning as a cubic decimetre. (2) Part V of the First Schedule to this Act shall have effect for defining for all purposes in Uganda the units of measurement of capacity set out in it."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part II",
+      "section": "7",
+      "title": "Amendments of definitions of units of measurement",
+      "content": "The Minister may by statutory order amend the definitions of the kilogram, the metre and the litre occurring respectively in sections 2 , 3 , and 6 , and the amendments shall be the meanings appearing to him or her to reproduce in English the definitions of the units recognised by the General Conference of Weights and Measures from time to time convened by the International Bureau of Weights and Measures."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part II",
+      "section": "8",
+      "title": "This Part and section 9 subject to section 46",
+      "content": "This Part of the Act and section 9 shall be subject to section 46 and any statutory order made under it. Part III – Standards of weight and measure"
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part III",
+      "section": "9",
+      "title": "Primary standards",
+      "content": "(1) The Minister shall, as occasion may require, procure and cause to be maintained standards of measurement of weight , length, area, volume and capacity representing and corresponding to any of the several weights and measures specified in the Second Schedule to this Act. (2) Every weight and measure so procured shall be verified at the standard weights and measures department of the Board of Trade in the United Kingdom and, upon the issue of a certificate signed by an officer of that board that the weight or measure falls within the permissible limits of error and that it is fit for use as a standard, the weight or measure shall become a Uganda primary standard and shall, for all purposes, be deemed to be true and accurate. (3) Every such Uganda primary standard shall be made of such materials and in such manner and shall be placed in such a receptacle as to be, so far as practicable, proof against mechanical and atmospheric agencies and all sources of error. (4) The Uganda primary standards shall be kept at the office of the treasury officer of accounts, and the receptacle in which they are kept shall be secured by two locks which shall not be capable of being opened by the same key. (5) The key of one lock shall be kept by the treasury officer of accounts, and the key of the other lock shall be kept by the superintendent . (6) The treasury officer of accounts and the superintendent shall be wardens of the Uganda primary standards. (7) Once at least in every ten years the Minister shall cause the Uganda primary standards for the time being to be reverified at the standard weights and measures department of the Board of Trade in the United Kingdom, and to be adjusted and renewed if requisite. (8) Before the primary standards are sent out of Uganda for reverification, the Minister shall cause to be deposited at the offices of the treasury officer of accounts, equivalent weights and measures of the secondary standards which are referred to in section 10 , and those secondary standards shall be deemed to be Uganda primary standards during such time as the primary standards are out of Uganda. (9) The superintendent shall, at least once in every six months, make a careful examination of all the primary standards with a view to seeing that they are complete, clean and in good condition."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part III",
+      "section": "10",
+      "title": "Secondary standards",
+      "content": "(1) The superintendent shall procure a copy of each of the Uganda primary standards, and those copies shall be known as the secondary standards. (2) The superintendent shall maintain the secondary standards and— (a) shall cause every secondary standard to be verified not less than once in every five years by comparison with the corresponding primary standard and for the purpose of such comparison may temporarily remove the primary standards to his or her own office; (b) shall, if necessary, cause a secondary standard to be corrected and adjusted to agree with the corresponding primary standard; (c) shall complete a certificate in the form set out in the Third Schedule to this Act in respect of every secondary standard found to be accurate on such comparison. (3) Judicial notice shall be taken of every secondary standard certified in accordance with this section, and each such standard shall be deemed to be true and accurate until the contrary is proved."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part III",
+      "section": "11",
+      "title": "Working standards and testing equipment",
+      "content": "(1) The superintendent shall procure for the use of inspectors and examiners in the exercise of their duties such standards, in this Act referred to as \"working standards\", being of the denomination of any of the secondary standards, and such testing equipment as he or she may deem expedient. (2) The superintendent shall maintain the working standards and— (a) shall cause every working standard to be verified not less than once a year by comparison with the corresponding secondary standard; (b) shall, if necessary, cause a working standard to be corrected and adjusted to agree with the corresponding secondary standard; (c) shall complete a certificate in the form set out in the Fourth Schedule to this Act in respect of every working standard found to be accurate on such comparison. (3) Judicial notice shall be taken of every working standard certified in accordance with this section, and each such standard shall be deemed to be true and accurate until the contrary is proved. (4) The superintendent shall keep a record of and shall maintain any testing equipment procured under this section and shall cause the accuracy of that testing equipment to be verified not less than once a year. Part IV – Weighing and measuring for trade"
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part IV",
+      "section": "12",
+      "title": "Meaning of \"use for trade\"",
+      "content": "(1) For the purposes of this Act, \"use for trade\" means use in Uganda in connection with, or with a view to, a transaction for— (a) the transferring or rendering of money or money’s worth in consideration of money or money’s worth; or (b) the making of a payment in respect of any tax or duty; where— (i) the transaction is by reference to quantity or is a transaction for the purposes of which there is made or implied a statement of the quantity of goods to which the transaction relates; and (ii) the use is for the purpose of the determination or statement of that quantity. (2) Notwithstanding any other provision of this Act, the following equipment shall be regarded for the purposes of this Act as weighing or measuring equipment in use for trade— (a) any weighing or measuring equipment which is made available for use by the public, whether on payment or otherwise; (b) any equipment which is used for the grading by reference to their weight , for the purposes of trading transactions by reference to that grading, of hens’ eggs in shell; and (c) any weighing or measuring equipment used in the course of making up any goods by quantity for trade or used for checking the quantity of goods on dispatch or delivery."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part IV",
+      "section": "13",
+      "title": "Units of measurement lawful for use for trade",
+      "content": "(1) No person shall— (a) use for trade any unit of measurement of weight , length, area, volume or capacity which is not included in the First Schedule to this Act, or which has been prohibited by a statutory order made under section 46 ; (b) except in connection with the dispensing of drugs, use for trade any abbreviation of, or symbol for, a unit of measurement of weight , length, area, volume or capacity other than the abbreviations specified in the Fifth Schedule to this Act. (2) No person shall use the carat (metric) for trade except for the purposes of transactions in precious stones or pearls. (3) Any person who contravenes any of the provisions of this section commits an offence. (4) The Minister may by rules made under this Act prescribe what may be treated for the purposes of use for trade as the equivalent of, or multiple or fraction of, any unit of measurement included in the First Schedule to this Act in terms of any other such unit. (5) The Minister may by statutory order amend the Fifth Schedule to this Act by adding to it or removing from it any abbreviation of a unit of measurement of weight , length, area, volume or capacity."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part IV",
+      "section": "14",
+      "title": "Weights and measures lawful for use for trade",
+      "content": "(1) No person shall use for trade, or have in his or her possession for use for trade, any weight or any measure of length, area, volume or capacity which is not included in the Second Schedule to this Act or which has been prohibited by a statutory order made under section 46 . (2) Subject to any rules made by the Minister under this Act— (a) a measure of length specified in Part II of the Second Schedule to this Act may be marked in whole or in part with divisions and subdivisions representing any shorter length; (b) no capacity measure specified in Part V of that Schedule may be marked with divisions or subdivisions representing any lesser quantity. (3) Any person who contravenes any of the provisions of this section commits an offence. (4) The Minister may by statutory order amend the Second Schedule to this Act by adding to it or removing from it any weight or measure of length, area, volume or capacity."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part IV",
+      "section": "15",
+      "title": "Weighing or measuring equipment lawful for use for trade",
+      "content": "(1) No person shall use any article as weighing or measuring equipment for trade as equipment to which this section applies, or have any article in his or her possession for such use, unless that article, or weighing or measuring equipment in which that article is incorporated or to the operation of which the use of that article is incidental— (a) has been passed by an inspector as fit for such use; and (b) except as otherwise expressly provided by or under this Act, bears a valid stamp indicating that it has been so passed, and such stamp remains undefaced otherwise than by reason of fair wear and tear. (2) No equipment to which this section applies which is required by rules made under section 22 to be passed and stamped under the provisions of this section only after it has been installed at the place where it is to be used for trade shall be used for trade if, after the equipment having been so passed and stamped, it is dismantled and reinstalled, until it has been restamped by an inspector . (3) Any person who— (a) contravenes any provisions of subsection (1); or (b) knowingly uses any equipment in contravention of subsection (2) or knowingly causes or permits any other person so to use it, or knowing that the equipment is required by virtue of the provisions of that subsection to be restamped disposes of it to some other person without informing that person of that requirement, commits an offence. (4) This section shall apply to the use for trade of weighing or measuring equipment of such classes or description as may be prescribed by rules made under this Act."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part IV",
+      "section": "16",
+      "title": "Submitting equipment to inspector",
+      "content": "(1) Any person requiring any weighing or measuring equipment to be passed as fit for use for trade shall submit the equipment to an inspector at his or her office or at such place and at such time as the superintendent may appoint (of which appointments public notice shall be given in the Gazette and in such other manner as the superintendent shall direct). (2) Notwithstanding subsection (1), where any weighing or measuring equipment by reason of its heavy weight or delicate construction cannot be conveniently brought to the inspector ’s office or other appointed place, or where any weighing or measuring equipment is required to be passed and stamped only after it has been installed at the place where it is to be used for trade, the inspector shall, upon the written request of the person submitting the equipment and upon the payment by that person of such attendance fee as may be prescribed by rules made under this Act, attend at the premises where the equipment is situated and shall test the equipment there."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part IV",
+      "section": "17",
+      "title": "Examination, stamping and adjusting of equipment by inspector and certificate of verification",
+      "content": "(1) An inspector shall examine and shall test by means of such secondary or working standards and testing equipment as he or she considers appropriate any weighing or measuring equipment which is brought or submitted to him or her and, subject to this Act and any rules made under section 22 , and to the payment by the person submitting the equipment of the fee prescribed by rules made under this Act, the inspector shall— (a) if the equipment falls within the limits of error prescribed by rules made under this Act, pass it as fit for use for trade and, subject to subsection (5) cause it to be stamped; but except as otherwise expressly provided by or under this Act, no weight or measure shall be stamped unless it has been marked in the manner prescribed by rules made under this Act with its purported value; (b) if the equipment does not fall within the prescribed limits of error, reject it as unfit for use for trade and shall deface any stamp which the equipment might bear. (2) An inspector may, subject to the consent of the person submitting the equipment and to the payment by that person of the fee prescribed by rules made under this Act, adjust any weight or measure of capacity or weighing equipment which has been rejected as unfit for use for trade so as to bring the article of equipment within the prescribed limits of error; and he or she shall thereafter proceed as in subsection (1). (3) An inspector shall cause to be given to every person submitting weighing or measuring equipment a certificate of verification in the form set out in the Sixth Schedule to this Act, or to the like effect, and the certificate shall indicate all weighing or measuring equipment which has been stamped, rejected or adjusted, as the case may be, for the same person on the same occasion. (4) An inspector shall cause to be kept a record of every examination and test of weighing or measuring equipment which is carried out by him or her under this section. (5) The requirements of this section with respect to stamping and marking shall not apply to any weight or measure which is too small to be stamped or marked in accordance with those requirements."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part IV",
+      "section": "18",
+      "title": "Period of validity of stamp",
+      "content": "(1) The Minister may by rules prescribe a period of time during which any stamp which is affixed on weighing or measuring equipment of any specific class or type or which is affixed on weighing or measuring equipment in use for any specific trade or purpose shall be in force; but any period so prescribed shall not be less that one year or more than three years reckoned from the last day of the month in which the stamp was affixed. (2) At the expiry of any period prescribed under this section, or at the expiry of three years in a case where no period has been prescribed, any stamp so affixed shall be invalid, and the weighing or measuring equipment bearing the stamp shall be deemed not to have been passed as fit for use for trade. (3) Subject to section 15 (1) and to this section, a stamp affixed on any weighing and measuring equipment shall be valid throughout Uganda."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part IV",
+      "section": "19",
+      "title": "Weighing or measuring equipment with novel features",
+      "content": "(1) Any weighing or measuring equipment possessing novel features shall not be passed as fit for use for trade by an inspector unless it is of a pattern in respect of which a certificate of approval has been granted by the Minister. (2) The Minister shall, in considering any pattern of weighing or measuring equipment for the granting of a certificate of approval under this section, have regard to the principle, materials and methods used in its construction and generally of the suitability for use for trade of the pattern of equipment. (3) The Minister shall give public notice, in such manner as he or she may direct, of the description of any pattern of weighing or measuring equipment in respect of which he or she has granted a certificate of approval under this section. (4) Any weighing or measuring equipment which does not conform with the general specifications prescribed by rules made under section 22 shall be deemed to possess novel features for the purposes of this section."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part IV",
+      "section": "20",
+      "title": "Weighing or measuring in presence of buyer or seller",
+      "content": "Any person who uses any weighing or measuring equipment for trade to determine the quantity of goods in the presence of the buyer or seller of those goods shall cause the equipment to be so placed, and shall so conduct the operation of weighing or measuring, as to permit the buyer or seller a clear and unobstructed view of the equipment and of all the indications of quantity, and any person who contravenes or fails to comply with this section commits an offence."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part IV",
+      "section": "21",
+      "title": "Evidence of possession",
+      "content": "Where any weighing or measuring equipment is found in the possession of any person carrying on trade or on any premises which are used for trade, that person or, as the case may be, the occupier of those premises shall be deemed for the purposes of this Act, unless the contrary is proved, to have that equipment in his or her possession for use for trade."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part IV",
+      "section": "22",
+      "title": "Rules relating to weighing or measuring and fees",
+      "content": "The Minister may make rules with respect to— (a) general specifications for any type or pattern of weighing or measuring equipment for use for trade; (b) the materials, markings and principles of construction of weighing and measuring equipment for use for trade; (c) the inspection, testing, passing as fit for use for trade and stamping of weighing or measuring equipment , including— (i) the prohibition of the stamping of such equipment in such circumstances as may be specified in the rules; or (ii) the circumstances in which an inspector or examiner may remove or detain any such equipment for inspection or testing; (d) the circumstances in which, conditions under which and manner in which stamps may be obliterated or defaced; (e) the purposes for which particular types of weighing or measuring equipment may be used for trade; (f) prohibiting or limiting the purposes or trade for which particular types of weighing or measuring equipment may be used; (g) the manner of erection or use of weighing or measuring equipment used for trade; and (h) the fees to be charged by an inspector in respect of the testing and stamping of weighing and measuring equipment and in respect of the adjusting of any weight , measure of capacity or weighing equipment and any other fees or charges as may appear to him or her to be appropriate."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part IV",
+      "section": "23",
+      "title": "Sale or hire of measuring equipment",
+      "content": "No person shall— (a) sell any weighing or measuring equipment unless the equipment bears a valid stamp of verification of a date not earlier than one year prior to the date of sale ; or (b) expose for sale or offer for sale , hire out, offer to hire out, expose for hire, rent or lend out any weighing or measuring equipment unless the equipment bears a valid stamp of verification of a date not earlier than the period prescribed under section 18 ; except that this section shall not apply to— (i) weighing or measuring equipment for use for laboratory or educational purposes; or (ii) weighing or measuring equipment of a type which when made was not intended or designed for use for trade and which bears the words \"Not for trade use\" or \"Not legal for trade use\" in a permanent and clear manner on a prominent part of it."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part IV",
+      "section": "24",
+      "title": "Offences in connection with equipment",
+      "content": "(1) Any person who in the case of any weighing or measuring equipment used or intended to be used for trade— (a) not being an inspector or a person acting under his or her instructions, marks in any manner any plug or seal used or designed for use for the reception of a stamp ; (b) forges, counterfeits or, except as permitted by or under this Act, in any way alters or defaces any stamp ; (c) removes any stamp and inserts it into the same or any other such equipment; or (d) makes any alteration in the equipment so as to make it false or unjust, commits an offence; except that paragraphs (a) and (b) shall not apply to the destruction or obliteration of any stamp , plug or seal in the course of the adjustment or repair of weighing or measuring equipment by a person who is a manufacturer of, or who is regularly engaged in the business of repairing, such equipment. (2) Any person who uses or has in his or her possession for use for trade, exposes, sells or offers for sale , utters or disposes of any weighing or measuring equipment which to his or her knowledge— (a) bears a stamp which is a forgery or counterfeit, or which has been transferred from other equipment, or which has been altered or defaced otherwise than as permitted by or under this Act; or (b) is false or unjust as the result of an alteration made in the equipment, commits an offence. (3) Any person who sells, exposes for sale , offers for sale or hires out, offers to hire out, exposes for hire, rents or lends out any weighing or measuring equipment in contravention of section 23 commits an offence."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part IV",
+      "section": "25",
+      "title": "Other offences in connection with equipment",
+      "content": "(1) Any person who uses for trade, or has in his or her possession for use for trade, any weighing or measuring equipment which is false or unjust commits an offence. (2) It shall be a defence for any person charged with an offence under subsection (1) to show— (a) that he or she used the equipment only in the course of his or her employment by some other person; and (b) that he or she neither knew, nor might reasonably have been expected to know, nor had any reason to suspect, the equipment to be false or unjust. (3) If any fraud is committed in the using of any weighing or measuring equipment for trade, the person committing the fraud and any other person party to it commits an offence. Part V – Regulation of certain transactions in goods"
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part V",
+      "section": "26",
+      "title": "Short weight and misrepresentation",
+      "content": "(1) Any person who makes up for sale , sells, delivers or purports to sell or deliver any goods by weight or other measurement or by number, makes up, sells, delivers or causes to be sold or delivered to any person a lesser quantity than that purported to be made up, sold or delivered or a lesser quantity than proportionately corresponds with the price charged, commits an offence. (2) Any person who, in connection with a sale or purchase of any goods or in making up, exposing or offering any goods for sale or in purporting to make known to a buyer or seller thereof the quantity of any goods or in offering to purchase any goods makes any misrepresentation either by words or writing as to the quantity of the goods , or does any other act calculated or likely to mislead a buyer or seller as to the quantity of the goods , commits an offence."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part V",
+      "section": "27",
+      "title": "Weight to be deemed net weight",
+      "content": "For the purposes of this Part of this Act, any statement by the seller whether by words or in writing, as to the weight of any goods shall be deemed, unless otherwise expressed, to be a statement by the seller as to the net weight of goods ."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part V",
+      "section": "28",
+      "title": "Check-weighing of vehicles",
+      "content": "(1) Where any vehicle is loaded with goods for sale by weight to a single buyer of the whole of the vehicle ’s load, or for delivery to the buyer after they have been sold, the buyer or seller of the goods or an inspector may require the person in charge of the vehicle to have the vehicle weighed on a weighbridge and, after the goods have been unloaded at the intended place of delivery, have it weighed again; but— (a) no person in charge of a vehicle shall be required to take his or her vehicle beyond a distance of two miles for the purpose of each such weighing; and (b) the powers conferred on an inspector by this subsection shall be exercised only to such extent as may appear to him or her reasonably necessary in order to secure that the provisions of this Act and any rules made under it are duly observed. (2) Any person in charge of a vehicle who fails without reasonable cause to comply with any requirements to have his or her vehicle weighed under subsection (1) commits an offence."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part V",
+      "section": "29",
+      "title": "Offences relating to prepacked goods",
+      "content": "(1) If in the case of any goods prepacked in or on a container marked with a statement in writing with respect to the quantity of the goods , the quantity of the goods is at any time found to be less than that stated, then, subject to this Part of this Act and in particular to section 30 (2), any person who has those goods in his or her possession for sale and any person by whom or on whose behalf those goods have been sold or agreed to be sold at any time while they were prepacked in or on the container in question commits an offence. (2) Subsection (1) shall have effect notwithstanding that the quantity stated is expressed to be the quantity of the goods at a specified time, or is expressed with some other qualification of whatever description, except where that quantity is so expressed in pursuance of an express requirement of this Act or any rules made under it."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part V",
+      "section": "30",
+      "title": "Pleading of warranty as defence",
+      "content": "(1) In any proceedings for an offence under this Part of this Act or any rules made under it, being an offence relating to the quantity or prepacking of any goods , it shall be a defence for the person charged to prove— (a) that he or she bought the goods from some other person— (i) as being of the quantity which the person charged purported to sell or represented, or which was marked on any container or stated in any document to which the proceedings relate; or (ii) as conforming with the statement marked on any container to which the proceedings relate, or with the requirements, with respect to the prepacking of goods , of this Act and any rules made under it, as the case may require; and (b) that he or she so bought the goods with a written warranty from that person that they were of that quantity or, as the case may be, did so conform; and (c) that at the time of the commission of the offence he or she had no reason to believe the statement contained in the warranty to be inaccurate and that he or she did in fact believe in its accuracy; and (d) in the case of proceedings relating to the quantity of any goods , that he or she took all reasonable steps to ensure that, while in his or her possession, the quantity of the goods remained unchanged and, in the case of such or any other proceedings, that apart from any change in their quantity the goods were at the time of the commission of the offence in the same state as when he or she bought them. (2) A warranty shall be a defence in any proceedings mentioned in this section only if, not later than three days before the date of the hearing, the person charged has sent to the prosecutor a copy of the warranty with a notice stating that he or she intends to rely on it and specifying the name and address of the person from whom the warranty was received, and has also sent a like notice to that person. (3) If the person charged in any proceedings mentioned in this section wilfully attributes to any goods a warranty given in relation to any other goods , he or she commits an offence. (4) A person who, in respect of any goods sold by him or her in respect of which a warranty might be pleaded under this section, gives to the buyer a false warranty in writing commits an offence unless he or she proves that when he or she gave the warranty he or she took all reasonable steps to ensure that the statements contained in it were, and would continue at all relevant times to be, accurate. (5) For the purposes of this section, any statement with respect to any goods which is contained in any document associated with the goods by way of delivery note or advice or in any invoice, and, in the case of goods made up in or on a container for sale or for delivery after sale , any statement with respect to those goods with which that container is marked, shall be deemed to be a written warranty of the accuracy of that statement."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part V",
+      "section": "31",
+      "title": "Other defences and safeguards",
+      "content": "(1) In any proceedings for an offence in respect of any goods under this Part of this Act or any rules made under it, it shall be a defence for the person charged to prove— (a) that the commission of the offence was due to a mistake, or to an accident or some other cause beyond his or her control; and (b) that he or she took all reasonable precautions and exercised all due diligence to avoid the commission of such an offence in respect of those goods by himself or herself or any person under his or her control. (2) If proceedings for an offence under this Part of this Act or any rules made under it in respect of the quantity of any prepacked goods or any goods made or made up for sale only in particular quantities are brought with respect to any article, and it is proved that, at the time and place at which that article was tested, other articles of the same kind were available for testing, the person charged shall not be convicted of such an offence with respect to that article unless a reasonable number of those other articles were also tested; and in any proceedings for such an offence the court— (a) if the proceedings are with respect to one or more of a number of articles tested on the same occasion, shall have regard to the average quantity in all the articles tested; (b) if the proceedings are with respect to a single article, shall disregard any inconsiderable deficiency or excess; and (c) shall have regard generally to all the circumstances of the case."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part V",
+      "section": "32",
+      "title": "Offences due to default of third person",
+      "content": "A person against whom proceedings are brought for an offence under this Part of this Act or any rules made under it shall, upon information duly laid by him or her and on giving to the prosecutor not less than three clear days’ notice of his or her intention to avail himself or herself of the provisions of this subsection, be entitled to have brought before the court in those proceedings any other person to whose act or default he or she alleges that the commission of the offence was due; and if, after the offence has been proved, the original defendant proves that the commission of the offence was due to an act or default of that other person— (a) that other person may be convicted of the offence; and (b) if the original defendant further proves that he or she exercised all due diligence to avoid the commission of the offence by him or her or any other person under his or her control, the original defendant shall be acquitted of the offence."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part V",
+      "section": "33",
+      "title": "Rules relating to transactions in particular goods",
+      "content": "The Minister may make rules with respect to— (a) goods which are to be sold only by quantity expressed in such manner as may be prescribed; (b) goods which are to be sold, kept for sale , made for sale or prepacked only in such quantities as may be prescribed; (c) goods which when prepacked , or when otherwise made up in or on a container for sale or delivery for sale , are to be marked with such information as may be prescribed and the manner of such marking; (d) goods which are not to be bought or sold without the quantity sold being made known to the buyer or seller at or before such time as may be prescribed; or (e) goods which when carried in a vehicle on a road are carried with a document containing such information as may be prescribed. Part VI – Administration"
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part VI",
+      "section": "34",
+      "title": "Superintendent of weights and measures",
+      "content": "(1) Subject to the provisions of any written law relating to the appointment of persons to the public service, there shall be appointed a superintendent of weights and measures for the purposes of this Act. (2) The superintendent shall, subject to the directions of the Permanent Secretary , be responsible for the custody and maintenance of the secondary standards, working standards and testing and stamping equipment and generally for the operation of the arrangements made to give effect to the purposes of this Act."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part VI",
+      "section": "35",
+      "title": "Inspectors of weights and measures",
+      "content": "Subject to any written law relating to the appointment of persons to the public service, there shall be appointed such number of inspectors of weights and measures as may be necessary for the purposes of this Act."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part VI",
+      "section": "36",
+      "title": "Examiners of weights and measures",
+      "content": "(1) Subject to any written law relating to the appointment of persons to the public service, there shall be appointed such number of examiners of weights and measures as may be necessary for the purposes of this Act. (2) The duties of an examiner shall be to carry out examinations and tests of weighing and measuring equipment and generally to exercise such other duties and powers in connection with the testing of instruments as may be conferred upon him or her by the superintendent ."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part VI",
+      "section": "37",
+      "title": "Powers of inspection and entry",
+      "content": "(1) An inspector or examiner may at all reasonable times enter any premises and— (a) inspect and test or require the owner or occupier of the premises to produce for inspection and testing any weighing or measuring equipment which is, or which he or she has reasonable cause to believe to be, used for trade or in the possession of any person or upon any premises for such use; (b) seize and detain any weighing or measuring equipment which he or she has reasonable cause to believe is used in contravention of any of the provisions of this Act; (c) require any person whom he or she believes to possess any information as to any matter which may help the inspector or examiner in any investigations under this Act to give such information as may be within his or her power to give; and (d) require any person to report to him or her in his or her office, or any other place within such a time as he or she may decide for the purpose of obtaining the information he or she may require. (2) An inspector may at all reasonable times enter any premises where goods are bought, sold or kept or exposed for sale , or where goods are in the course of delivery to, or have been delivered to, a purchaser or seller and— (a) inspect or weigh or otherwise measure or count any such goods to ascertain that the provisions of this Act, or any rules or statutory orders made under it, have been complied with; and if he or she is satisfied that any such goods are, or any statement appertaining to such goods is, incorrect and may be required as evidence in any proceedings brought under this Act, he or she may either seize the goods or require the person in charge of the goods to sell them to him or her; (b) in the case of prepacked goods , break open the wrapper or container for the purpose of weighing, measuring or counting the goods , and if the contents are found to be correct, the inspector may reseal the wrapper or container with a label certifying that the contents have been found to be correct; (c) require the person in charge of any document which may assist in any investigation to produce that document for inspection, and if the inspector has reasonable cause to believe that any such document contains any information which may be required as evidence in any proceedings brought under this Act, he or she may seize and detain that document; and (d) require any person in charge of any goods or any instrument to give such assistance as the inspector may require for carrying out his or her duties under this Act. (3) An inspector or examiner who enters any premises under the provisions of this section may take with him or her into the premises any equipment which is necessary to enable him or her to carry out his or her duties."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part VI",
+      "section": "38",
+      "title": "Obstruction of inspector or examiner",
+      "content": "(1) Any person who— (a) wilfully refuses or fails to produce to an inspector or examiner or any other person under the control of an inspector or examiner any goods , weight , measure, document or weighing or measuring equipment in his or her possession or custody, the production of which has been requested under section 37 ; (b) obstructs or hinders any inspector or examiner or person under the control of an inspector or examiner in the performance of any of their duties under this Act; (c) fails to comply with any reasonable requirement made of him or her by an inspector or examiner to enable the inspector or examiner to perform any of his or her duties under this Act; or (d) without reasonable cause, fails to give to an inspector or examiner the necessary information or assistance required under this Act, commits an offence. (2) Any person who gives an inspector or examiner information which he or she knows to be false when complying with any requirement made by an inspector or examiner under subsection (1)(d) commits an offence. (3) Nothing in this section shall be construed as requiring a person to answer any question or give any information if to do so might incriminate him or her. Part VII – General"
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part VII",
+      "section": "39",
+      "title": "Offences by corporations",
+      "content": "Where an offence under this Act or any rules made under it which has been committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, the officer or person as well as the body corporate shall be deemed to be guilty of that offence and is liable to be proceeded against and punished accordingly."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part VII",
+      "section": "40",
+      "title": "Liability of employer or master",
+      "content": "When an act is done under this Act by a servant, agent, partner or employee acting within the scope of his or her employment and the act would be an offence if done by the master, principal or employer, the master, principal or employer is guilty of that offence and is liable to the penalties provided by this Act."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part VII",
+      "section": "41",
+      "title": "Aiding",
+      "content": "Where any particular action is an offence under this Act or any rules made under it, every person who authorises, directs, causes, permits, advises, condones or aids the commission of that offence shall be considered to have committed that offence and may be proceeded with and convicted accordingly."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part VII",
+      "section": "42",
+      "title": "Protection from personal liability",
+      "content": "No act, matter or thing done by an inspector , examiner or any person assisting an inspector or examiner , if the act, matter or thing is done in good faith for the purpose of executing any duty under the provisions of this Act or any rules made under it, shall render him or her personally liable to any civil action, suit, claim or other proceedings whatsoever in respect of that act, matter or thing."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part VII",
+      "section": "43",
+      "title": "Rules",
+      "content": "The Minister may make rules for better carrying into effect the provisions of this Act and, without prejudice to the generality of the foregoing, may prescribe— (a) the manner of the performance by inspectors of their functions under this Act; (b) anything which is required to be prescribed by this Act; and (c) generally for better carrying out the purposes and provisions of this Act."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part VII",
+      "section": "44",
+      "title": "Offences and penalties generally",
+      "content": "(1) Any person who commits an offence under section 13 (1) or (2), 14 , 15 , 20 or 24 (3) is liable on conviction to a fine not exceeding five hundred shillings, and on a second or subsequent conviction, to a fine not exceeding one thousand shillings. (2) Any person who commits an offence under section 24 (1), 25 , 26 , 28 , 29 or 38 , is liable on conviction to a fine not exceeding two thousand shillings and on a second or subsequent conviction, to a fine not exceeding five thousand shillings or to imprisonment for a term not exceeding six months or to both the fine and imprisonment; but a person shall not be liable to the increased penalty under this subsection for a second or subsequent conviction, unless that conviction takes place within five years immediately following the previous conviction. (3) Where a person has been convicted of an offence under section 14 , 15 , 24 (1) or (2) or 25 , the court may, in addition to the penalty provided under this section order the forfeiture of any weighing or measuring equipment , stamp or stamping implement or article, as the case may be, in respect of which the offence was committed. (4) Any person who commits an offence under the section 24 (2) is liable on conviction to a fine not exceeding four thousand shillings or to imprisonment for a term not exceeding six months or to both the fine and imprisonment. (5) Where a person has been convicted of an offence under this Act, or any rules made under it, relating to goods , the court may, in addition to any other penalty which it may impose, make such order as it may deem reasonable requiring that person to remedy any matter for which he or she has been convicted within such a period of time as the court may decide and to pay such compensation to the aggrieved party as the court may decide. (6) Where any person has been convicted of any offence of selling weighing or measuring equipment which is false or unjust or which does not and cannot bear a valid stamp , the court may, in addition to any other penalty which it may impose, make an order requiring the seller to refund to the buyer the money paid for that equipment. Part VIII — Conversion to metric"
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part VIII-Conversiontometric",
+      "section": "45",
+      "title": "Metric system",
+      "content": "Units of measurement directly related to the metre and the kilogram are referred to in this Act as the metric system, and units of measurement related to the yard and the pound are referred to in this Act as the derived system."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part VIII-Conversiontometric",
+      "section": "46",
+      "title": "Prohibition of derived system",
+      "content": "The Minister may by statutory order specify any area, industry, trade or transaction to be an area, industry, trade or transaction in which the use of the derived system is prohibited or in which weights, measures or weighing and measuring instruments of the derived system or any system other than the metric system are prohibited by way of trade , with effect from such date and in such circumstances as he or she may think fit."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part VIII-Conversiontometric",
+      "section": "47",
+      "title": "Exemptions",
+      "content": "In any case where the Minister is satisfied that suitable arrangements exist for ultimate compliance with the provisions of any statutory order made under section 46 , he or she may by statutory order exempt any person, trade or industry from the provisions of a statutory order made under section 46 for such time and upon such conditions as he or she may think fit."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part VIII-Conversiontometric",
+      "section": "48",
+      "title": "Surrender to inspector",
+      "content": "(1) When a statutory order has been made under section 46 , the superintendent may, notwithstanding the fact that the order might not have been brought into force, by notice published in the Gazette , require— (a) any person, having in his or her control or possession a weighing or measuring instrument for use by way of trade , to have the instrument converted to indicate weight or measurement in metric units and after the conversion to submit the instrument to an inspector for verification; (b) any person, having in his or her control or possession for use by way of trade a weight or measure which is not of a denomination of the metric system, to surrender the weight or measure to an inspector ; or (c) any person, having in his or her control or possession for use by way of trade a weighing or measuring instrument which cannot be converted to indicate weight or measurement in metric units to the satisfaction of the superintendent to surrender the instrument to an inspector . (2) Subject to subsection (3), not less than twenty-eight days after the date of surrender of a weight or measure or a weighing or measuring instrument under this section, an inspector may cause the weight or measure or instrument to be destroyed or otherwise disposed of. (3) The owner of any weight , measure or weighing or measuring instrument surrendered under this section may, within fourteen days of the date of surrender, apply to a chief magistrate or a magistrate grade I for an order that the instrument should be returned to him or her, and the chief magistrate or magistrate grade I may, if he or she is satisfied that the weight , measure or instrument is not for use by way of trade or that the instrument may be satisfactorily converted to indicate weight or measurement in the metric system, order the return of the weight or measure or instrument on such conditions as he or she may think fit."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part VIII-Conversiontometric",
+      "section": "49",
+      "title": "Seizure and disposal of weight , measure and instrument of derived system",
+      "content": "(1) An inspector or any person authorised by the superintendent for that purpose may seize any weight , measure or weighing or measuring instrument of the derived system or which is not of the metric system which is found in the possession of any person or on any premises in an area, trade, industry or transaction in which the use of the derived system has been prohibited by a statutory order made under section 46 . (2) If an instrument seized under subsection (1) is, in the opinion of the inspector or authorised person, capable of being converted to indicate weight or measurement in metric units to the satisfaction of the superintendent , the inspector or authorised person shall detain the instrument for not less than twenty-eight days or such lesser period if he or she is satisfied that suitable arrangements have been made for the conversion of the instrument. (3) The provisions of section 48 (2) and (3) shall apply to a weight , measure or instrument seized under this section as if the weight , measure or instrument had been surrendered under section 48 ."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part VIII-Conversiontometric",
+      "section": "50",
+      "title": "Prohibition of weights, measures and instruments of derived system",
+      "content": "The Minister may by statutory order prohibit the importation, sale or manufacture of weights, measures and weighing and measuring instruments which do not weigh or measure in units of the metric system, and any weights, measures or instruments so prohibited shall not be accepted by an inspector for verification."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part VIII-Conversiontometric",
+      "section": "51",
+      "title": "Metric price conversion table",
+      "content": "Any person in any area, trade, industry or transaction in which the use of the derived system or any system other than the metric system has been prohibited by a statutory order made under section 46 , or any person who is required to have weighing or measuring instruments converted under this Part, shall at all times exhibit in a conspicuous position in his or her place of trade so as to be easily readable by members of the public such metric price conversion tables as the Minister may direct."
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part VIII-Conversiontometric",
+      "section": "52",
+      "title": "Transitional rules",
+      "content": "The Minister may make rules for all or any of the following purposes— (a) requiring that any goods sold or exposed for sale in any place are marked with a clear and legible price per metric unit of measurement or weight and the price per derived unit or measurement or weight ; (b) the examination, testing, licensing and control of persons engaging in or proposing to engage in the conversion, repairing or overhaul of weighing or measuring equipment , whether for profit or not, and the fees to be charged for any licence; (c) any purpose which will enable the transition to the metric system to be more easily and conveniently carried out."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part VIII-Conversiontometric",
+      "section": "53",
+      "title": "Offences and penalties relating to conversion to metric system",
+      "content": "Any person who— (a) fails to comply with or contravenes the provisions of any statutory order made under section 46 ; (b) fails to comply with or contravenes the provisions of any requirement made by the superintendent under section 48 ; (c) fails to comply with or contravenes the provisions of any statutory order made under section 50 ; (d) fails to comply with or contravenes the provisions of any direction given under section 51 ; or (e) fails to comply with or contravenes the provisions of any Rules made under section 52 , commits an offence and liable on conviction to a fine not exceeding one thousand shillings or to imprisonment for a period not exceeding six months. First Schedule (Section 2) Definition of units of measurement Part I – Measurement of weight Metric units 1. Metric ton = 1,000 kilograms Quintal = 100 kilograms Kilogram has the meaning assigned to it by section 2 of this Act Hectogram = 1/10 kilogram Gram = 1/1,000 kilogram Milligram = 1/1,000 gram 2. Metric carat = 1/5 gram Derived units Derived units 3. Ton = 2,240 pounds Hundred weight = 112 pounds Cental = 100 pounds Quarter = 28 pounds Stone = 14 pounds Pound = 0.45359237 kilogram Ounce = 1/16 pound Dram = 1/16 ounce Grain = 1/1,000 pound 4. Ounce troy = 480 grains 5. Ounce apothecaries = 480 grains Drachm = 1/8 ounce apothecaries Scruple = 1/3 drachm Part II – Measurement of length (Section 3) Metric units 1. Kilometre = 1,000 metres Metre has the meaning assigned to it by section 3 of this Act Decimetre = 1/10 metre Centimetre = 1/100 metre Millimetre = 1/1,000 metre Derived units 2. Mile 1,760 yards Furlong 220 yards Chain 22 yards Yard 0.9144 metre Foot 1/3 yard Inch 1/36 yard Part III – Measurement of area (Section 4) Metric units 1. Hectare = 100 ares Dekare = 10 ares Are = 100 square metres Square metre has the meaning assigned to it by section 4 of this Act Square decimetre = 1/100 square metre Square centimetre = 1/100 square decimetre Square millimetre = 1/100 square centimetre Derived units 2. Square mile 640 acres Acre Rood 4,840 square yards Square yard 1,210 square yards has the meaning assigned to it by section 4 of this Act Square foot 1/9 square yard Square inch = 1/144 square foot Part IV – Measurement of volume (Section 5) Metric units 1. Cubic metre has the meaning assigned to it by section 5 of this Act Cubic decimetre 1/1,000 cubic metre Cubic centimetre 1/1,000 cubic decimetre Derived units 2. Cubic yard has the meaning assigned to it by section 5 of this Act Cubic foot 1/27 cubic yard Cubic inch 1/1,728 cubic foot Part V – Measurement of capacity (Section 6) Metric units 1. Litre has the meaning assigned to it by section 6 of this Act Hectolitre 100 litres Decilitre 1/10 litre Centilitre 1/100 litre Millilitre 1/1,000 litre Derived units 2. Gallon = has the meaning assigned to it by section 6 of this Act Quart = 1/4 gallon Pint = 1/8 gallon Gill = 1/4 pint Fluid ounce = 1/20 pint Fluid drachm = 1/8 fluid ounce Minim = 1/60 fluid drachm Second Schedule (Section 9) Weights and measures lawful for use for trade Part I – Weights 1. Weights of— 56 pounds 4 ounces 10 grains 50 pounds 2 ounces 5 grains 28 pounds 1 ounce 3 grains 20 pounds 8 drams 2 grains 14 pounds 4 drams 1 grain 10 pounds 2 drams 0.5 grain 7 pounds 1 dram 0.3 grain 5 pounds ½ dram 0.2 grain 4 pounds 100 grains 0.1 grain 2 pounds 50 grains 0.05 grain 1 pound 30 grains 0.03 grain 8 ounces 20 grains 0.02 grain 0.01 grain 2. Weights of— 500 ounces troy 5 ounces troy 0.05 ounce troy 400 ounces troy 4 ounces troy 0.04 ounce troy 300 ounces troy 3 ounces troy 0.03 ounce troy 200 ounces troy 2 ounces troy 0.025 ounce troy 100 ounces troy 1 ounce troy 0.02 ounce troy 50 ounces troy 0.5 ounce troy 0.01 ounce troy 40 ounces troy 0.4 ounce troy 0.005 ounce troy 30 ounces troy 0.3 ounce troy 0.004 ounce troy 20 ounces troy 0.2 ounce troy 0.003 ounce troy 10 ounces troy 0.1 ounce troy 0.002 ounce troy 0.001 ounce troy 3. Weights of— 10 ounces apothecaries 1 ounce apothecaries 1½ scruples 8 ounces 4 drachms 1 scruple 6 ounces 2 drachms ½ scruple 4 ounces apothecaries 1 drachm 6 grains 2 ounces apothecaries 2 scruples 4 grains Metric system 4. Weights of— 20 kilograms 100 grams 500 milligrams 10 kilograms 50 grams 200 milligrams 5 kilograms 20 grams 100 milligrams 2 kilograms 10 grams 50 milligrams 1 kilogram 5 grams 20 milligrams 500 grams 2 grams 10 milligrams 200 grams 1 gram 5 milligrams 2 milligrams 1 milligram 5. Weights of— 500 carats (metric) 10 carats (metric) 0.25 carat (metric) 200 carats (metric) 5 carats (metric) 0.2 carat (metric) 100 carats (metric) 2 carats (metric) 0.1 carat (metric) 50 carats (metric) 1 carat (metric) 0.05 carat (metric) 20 carats (metric) 0.5 carat (metric) 0.02 carat (metric) 0.01 carat (metric) Part II – Measures of length 1. Measures of— 100 feet 10 feet 1 yard 66 feet 8 feet 2 feet 50 feet 6 feet 1 foot 33 feet 5 feet 6 inches 20 feet 4 feet 1 inch Metric system 2. Measures of— 20 metres 2 metres 1 decimetre 10 metres 1 metre 1 centimetre 3 metres Part III – Measures of area 1. Measures of, or any multiple of, 1 square foot. Metric system 2. Measures of, or any multiple of, 1 square decimetre. Part IV – Measures of volume Measures of, or any multiple of, 1/4 cubic yard. Part V – Measures of capacity 1. Measures of— any multiple of 1 gallon 1 quart 1 gill 1 gallon 1 pint ½ gill ½ gallon ½ pint ¼ gill 2. Measures of— any multiple of 1 fluid ounce up to 8 fluid ounces 1 fluid ounce 2 fluid drachms 30 minims 4 fluid drachms 1 fluid drachm 10 minims Metric system 3. any multiple of 10 litres 1 litre 25 millilitres 10 litres 500 millilitres 20 millilitres 5 litres 250 millilitres 10 millilitres 2 ½ litres 200 millilitres 5 millilitres 2 litres 100 millilitres 2 millilitres 50 millilitres 1 millilitres Third Schedule (Section 10) Certificate of verification of secondary standards I certify that the several standards _________________ numbered _________ viz.:—one each of ___________ have this day been duly verified in my presence by comparison with the Uganda primary standard ______________ numbered ____________ in accordance with section 10(2) of the Weights and Measures Act, and have been adjusted where necessary to agree with the corresponding primary standards. ___________________ Superintendent of Weights and Measures Dated this ________ day of ______________, 20 ______. Fourth Schedule (Section 11) Certificate of verification of working standards I certify that the several sets of working standards weights and measures, viz.:— Denominations Number in set Material Identification have this day been duly verified in my presence by comparison with the secondary standard weights and measures of the same denominations in accordance with section 11(2) of the Weights and Measures Act, and have been adjusted to agree with the corresponding secondary standards. __________________________________________ Superintendent of Weights and Measures Dated this ____ day of ______________, 20 ____. Fifth Schedule (Section 13) Abbreviations of units of measurement lawful for use for trade hundred weight = cwt. cental = ctl. quarter = qr. pound = lb. ounce = oz. dram = dr. grain = gr. yard = yd. foot = ft. inch = in. square yard = sq. yd. (or yd. 2 ) square foot = sq. ft. or (or ft. 2 ) square inch = sq. in. (or in. 2 ) cubic yard = cu. yd. (or yd. 3 ) cubic foot = cu. ft. (or ft. 3 ) cubic inch = cu. in. (or in. 3 ) gallon = gal. quart = qt. pint = pt. fluid ounce = fl. oz. 2. ounce troy = oz. tr. 3. ounce apothecaries = oz. apoth. fluid drachm = fl. dr. minim = min. Metric system kilogram = kg. gram = g. milligram = mg. carat (metric) = C.M. kilometre = km. metre = m. decimetre = dm. centimetre = cm. millimetre = mm. hectare = ha. dekare = da. are = a. square metre = m. 2 (or sq. m.) square decimetre = dm. 2 (or sq. dm.) square centimetre = cm. 2 (or sq. cm.) square millimetre = mm. 2 (or sq. mm.) cubic metre = m. 3 (or cu. m.) cubic decimetre = dm. 3 (or cu. dm.) cubic centimetre = cm. 3 (or cu. cm. or c.c.) litre = l. decilitre = dl. centilitre = cl. millilitre = ml. Sixth Schedule (Section 17) Certificate of verification I certify that the undermentioned weighing or measuring equipment submitted to me by ______________________ of __________________ has this day been duly verified and has been stamped, having been found fit for use for trade/or has been rejected/or adjusted as indicated hereunder. Received the sum of shs. ________ being verification or adjusting fees. Dated this ____ day of ______________, 20 ____. __________________________________________ Inspector of Weights and Measures Seventh Schedule (Section 1) Design of the stamp (Scan graphic of design) UGANDA Immediately above the word UGANDA shall be incorporated the personal identification number of the inspector which shall have been allocated to him or her by the superintendent. As close as practicable to the design shall be incorporated the last two figures of the year of stamping and a letter to indicate the month of stamping, and— the letter A shall indicate the month of January; the letter B shall indicate the month of February; the letter C shall indicate the month of March; the letter D shall indicate the month of April; the letter E shall indicate the month of May; the letter F shall indicate the month of June; the letter G shall indicate the month of July; the letter H shall indicate the month of August; the letter I shall indicate the month of September; the letter J shall indicate the month of October; the letter K shall indicate the month of November; the letter L shall indicate the month of December. History of this document 31 December 2023 Chapter 84 Revised Laws 2023 Consolidation 28 July 2023 amendment not yet applied Amended by Law Revision (Miscellaneous Amendments) Act, 2023 31 December 2000 this version Chapter 103 Revised Laws 2000 Consolidation 01 July 1965 Commenced Related documents Is amended by Law Revision (Miscellaneous Amendments) Act, 2023 Subsidiary legislation Title Weights and Measures (Testing and Stamping Fees) Rules, 2017 Statutory Instrument 34 of 2017 Weights and Measures (Dispensing Pumps, Bulk Meters and Bulk Measures) (Amendment) Rules 2011 Statutory Instrument 26 of 2011 [] [] [] [{\"provision_eid\": \"part_IV__sec_18\", \"citations\": 1}, {\"provision_eid\": \"part_IV__sec_22\", \"citations\": 1}, {\"provision_eid\": \"part_IV__sec_22__para_d\", \"citations\": 1}, {\"provision_eid\": \"part_IV__sec_22__para_h\", \"citations\": 1}, {\"provision_eid\": \"part_VIII-Conversiontometric__sec_49\", \"citations\": 3}, {\"provision_eid\": \"part_VII__sec_43\", \"citations\": 5}, {\"provision_eid\": \"part_V__sec_32\", \"citations\": 1}, {\"provision_eid\": \"part_V__sec_33\", \"citations\": 4}] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About ULII ULII is a project of the Law Reporting Committee of the Judiciary of Uganda. ULII aims to bridge the existing gap in public access to the law of Uganda. Working with the AfricanLII and in collaboration with other partners, such as the Free Access to Law Movement, ULII's major aim is to be a user-friendly portal of all publicly available legal information in Uganda. The Judiciary of Uganda considers access to its decisions and the law upon which they are based as key tenets of its key mission: Justice for All . ULII is also an end user interface for the Electronic Court Case Management Information System. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Uganda Judiciary Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "buyer",
+      "definition": "a prospective buyer and a person acting on his or her behalf",
+      "source_provision": "s1"
+    },
+    {
+      "term": "by way of trade",
+      "definition": "having any connection whatever with trade, and includes preparation for trade and checking in connection with trade",
+      "source_provision": "s1"
+    },
+    {
+      "term": "container",
+      "definition": "any form of packaging goods for sale as a single item, whether by way of wholly or partly enclosing the goods or by way of attaching the goods to, or winding the goods round, some other article, and, in particular, includes a wrapper or confining band",
+      "source_provision": "s1"
+    },
+    {
+      "term": "derived",
+      "definition": "derived from the metric standards as provided by sections 2 , 3 , 4 , 5 and 6",
+      "source_provision": "s1"
+    },
+    {
+      "term": "examiner",
+      "definition": "an examiner of weights and measures appointed under section 36",
+      "source_provision": "s1"
+    },
+    {
+      "term": "goods",
+      "definition": "anything which is the subject of trade",
+      "source_provision": "s1"
+    },
+    {
+      "term": "inspector",
+      "definition": "an inspector of weights and measures appointed under section 35 and includes the superintendent , deputy superintendent and the assistant superintendent",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Permanent Secretary",
+      "definition": "the person for the time being holding the office of Permanent Secretary in the Ministry responsible for the administration of this Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "premises",
+      "definition": "any place, whether open or enclosed, and any stall or vehicle",
+      "source_provision": "s1"
+    },
+    {
+      "term": "prepacked",
+      "definition": "made up in advance ready for sale in or on a container",
+      "source_provision": "s1"
+    },
+    {
+      "term": "sale",
+      "definition": "barter, or transfer of goods for valuable consideration",
+      "source_provision": "s1"
+    },
+    {
+      "term": "seller",
+      "definition": "a prospective seller and a person acting on his or her behalf",
+      "source_provision": "s1"
+    },
+    {
+      "term": "stamp",
+      "definition": "the mark specified in the Seventh Schedule to this Act for use as evidence of the passing of weighing or measuring equipment as fit for use for trade, whether applied by impressing, engraving, etching, stencilling, branding or otherwise howsoever, and cognate expressions shall be construed accordingly",
+      "source_provision": "s1"
+    },
+    {
+      "term": "superintendent",
+      "definition": "the superintendent of weights and measures appointed under section 34",
+      "source_provision": "s1"
+    },
+    {
+      "term": "testing equipment",
+      "definition": "testing equipment maintained under section 11",
+      "source_provision": "s1"
+    },
+    {
+      "term": "weighing or measuring equipment",
+      "definition": "equipment for measuring in terms of weight , length, area, volume, capacity or number, whether or not the equipment is constructed to give an indication of the measurement made or other information determined by reference to that measurement",
+      "source_provision": "s1"
+    },
+    {
+      "term": "use for trade",
+      "definition": "use in Uganda in connection with, or with a view to, a transaction for— (a) the transferring or rendering of money or money’s worth in consideration of money or money’s worth",
+      "source_provision": "s12"
+    }
+  ]
+}

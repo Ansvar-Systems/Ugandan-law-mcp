@@ -1,0 +1,1210 @@
+{
+  "id": "ug-act-2013-12",
+  "type": "statute",
+  "title": "Anti-Money Laundering Act, 2013",
+  "title_en": "Anti-Money Laundering Act, 2013",
+  "short_name": "Anti-Money Laundering Act, ...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://ulii.org/en/akn/ug/act/2013/12/eng@2020-11-27",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires— “ accountable person ” means any person listed in the Second Schedule to this Act; “ authorised officer ” means the Executive Director or Deputy Executive Director of the Financial Intelligence Authority , a prosecutor of the Director of Public Prosecutions, or a police officer of the rank of assistant inspector of police or higher; “ Authority ” means the Financial Intelligence Authority established under Part IV; “ bearer negotiable instruments ” means monetary instruments in the form of a document such as traveler’s checks and negotiable instruments, including checks, promissory notes and payment orders, that are issued to bearer, endorsed unconditionally or issued to a fictitious payee, or in another form that allows the transfer of the right upon delivery, and incomplete instruments including checks, promissory notes, and payment orders that are signed but have the payee’s name crossed out or omitted; [definition of “bearer negotiable instruments” inserted by section 1(a) of Act 3 of 2017 ] “ beneficial owner ” means the natural person who ultimately owns or controls a customer or the natural person on whose behalf a transaction is conducted, and includes a natural person who exercises ultimate effective control over a legal person or legal arrangement; [definition of “beneficial owner” substituted by section 1(b) of Act 3 of 2017 ] “ Board ” means the Financial Intelligence Authority Board established under Part IV; “ cash ” means coins and bank notes of Uganda or of another country that are designated as legal tender and that circulate as and are customarily used and accepted as a medium of exchange in the country of issue; “ competent authority ” means investigative, prosecuting, judicial, regulatory or supervisory authorities of the Government of Uganda and includes the Financial Intelligence Authority . “ confiscation ”, which includes forfeiture where applicable, means the permanent deprivation of property by an order of court ; “ court ” means the High Court; “ correspondent banking and other similar relationships ” means the provision of banking or other similar services by one financial institution to another institution to enable the latter to provide services and products to its own customers; [definition of “correspondent banking and other similar relationships” inserted by section 1(c) of Act 3 of 2017 ] “ crime ” means— (a) any activity that is a crime, offence or violation under the laws of Uganda; (b) any activity outside the jurisdiction of Uganda which, had it taken place in Uganda, would be a crime, offence or violation under the laws of Uganda. “ currency point ” has the value given to it in the First Schedule of this Act in relation to currency point; “ defendant ” means a person charged with a crime , whether or not he or she has been convicted, and includes, in the case of a proceeding for a restraining order under sections 71 to 82 , a person who is about to be charged with a crime; “ document ” means any record of information and includes— (a) anything on which there is a writing; (b) anything on which there are marks, figures, symbols, or perforations having meaning for persons qualified to interpret them; (c) anything from which sounds, images or writings can be produced, with or without the aid of anything else; (d) a map, plan, drawing, photograph or similar thing; (e) an electronic document. “ Financial group ” means a group that consists of a parent company or of any other type of legal person exercising control and coordinating functions over the rest of the group for the application of group supervision under the Core Principles, together with branches and/or subsidiaries that are subject to Anti Money Laundering or Countering the Financing of Terrorism policies and procedures at the group level; [definition of “Financial group” inserted by section 1(d) of Act 3 of 2017 ] “ financial institution ” means a person who carries on or transacts in the business of a bank or a credit institution, as defined in the Financial Institutions Act, or an insurance company licensed under the Insurance Act; “ freezing ” or “seizure” means temporarily prohibiting the transfer, conversion, disposition or movement of property or temporarily assuming custody or control of property on the basis of an order issued by a court ; “ gift ” means any transfer of property by a person to another person directly or indirectly— (a) after the commission of a crime ; (b) for a consideration the value of which is significantly less than the value of the consideration provided by the first person ; and (c) to the extent of the difference between the market value of the property transferred and the consideration provided by the transferee; “ gift caught by this Act ” means a gift made by the defendant at any time after the commission of the crime , or if more than one, the earliest of crimes, to which the proceedings for the time being relate, and the court considers it appropriate in all circumstances to take the gift into account; “ international organization ” means an entity established by formal political agreement between a member State that has the status of an international treaty; its existence is recognised by law in its member country; and it is not treated as resident institutional unit of the countries in which they are located; [definition of “international organization” inserted by section 1(e) of Act 3 of 2017 ] “ material ” means documentary material of any kind and includes information stored in a computer, disc, cassette, or on microfilm, or preserved by any mechanical or electronic device; “ Minister ” means the Minister responsible for Finance, Planning and Economic Development; \" monetary instrument \" [definition of “monetary instrument” repealed by section 1(f) of Act 3 of 2017 ] “ monetary transaction ” means a transaction that is conducted or concluded using a monetary instrument ; “ money laundering ” is the process of turning illegitimately obtained property into seemingly legitimate property and it includes concealing or disguising the nature, source, location, disposition or movement of the proceeds of crime and any activity which constitutes a crime under section 116 of this Act; “ occasional transaction ” means any transaction that is conducted by any person other than through an account in respect of which the person is a customer; [definition of “occasional transaction” amended by section 1(g) of Act 3 of 2017 ] “ payable-through accounts ” means correspondent accounts that are used directly by third parties to transact business on their own behalf. “ person ” means any natural or legal person or any entity (including any charitable organisation), natural or juridical, including but not limited to a corporation, partnership, trust or estate, joint stock company, association, syndicate, joint venture, or other unincorporated organisation or group, capable of acquiring rights or entering into obligations; “ politically exposed person ” means— (a) an individual who is or has been entrusted with a prominent public function in Uganda or another country, and includes a head of state or head of government, senior politician, senior government official, judicial or military official, senior executive of a state owned corporation, and important party officials; and (b) a person who is or has been entrusted with a prominent function by an international organization , and includes a member of senior management, director, deputy director or member of a board and includes a related person of the individual; [definition of “politically exposed person” substituted by section 1(h) of Act 3 of 2017 ] “ proceeds ” means any property or economic advantage derived from or obtained, directly or indirectly, through the commission of a crime , and includes property later successively converted, transformed or intermingled, as well as income, capital or other economic gains derived from such property at any time after the commission of the crime ; [definition of “proceeds” substituted by section 1(i) of Act 3 of 2017 ] “ property ” means assets of every kind whether corporeal or incorporeal, moveable or immoveable, tangible and legal documents or instruments evidencing title to or interest in such assets; “ provisional measures ” means those actions set out in sections 44 to 82 of this Act; “ realisable property ” means any property held by a defendant and any property held by a person to whom a defendant has directly or indirectly made a gift caught by this Act ; “ realisation ” means converting any kind of property into money, such as by sale; “ recognisance ” means a bond or obligation, entered into and recorded before a court or magistrate, by which a person engages himself to perform some act or observe some condition such as to appear when called upon, pay a debt or keep the peace; “ record ” means any material on which data are recorded or marked and which is capable of being read or understood by a person , computer system or other device; “ related person ” means an associate or close relative of the person ; [definition of “related person” inserted by section 1(j) of Act 3 of 2017 ] “ requesting State ” means any State which makes a request under the provisions of Part VI; “ shell bank ” means a bank incorporated in a jurisdiction in which it has no physical presence and which is not affiliated with a regulated financial group that is subject to effective consolidated supervision; [definition of “shell bank” substituted by section 1(k) of Act 3 of 2017 ] “ supervisory authority ” means a body that regulates or supervises any of the persons and businesses listed in paragraph 14 of the Second Schedule, and who, for the purposes of this Act, shall supervise those persons and businesses in matters relating to anti- money laundering and countering the financing of terrorism; [definition of “supervisory authority” inserted by section 1(l) of Act 3 of 2017 ] “ suspicious transaction ” refers to a transaction which is inconsistent with a customer’s known legitimate business or personal activities or with the normal business for that type of account or business relationship, or a complex and unusual transaction or complex or unusual pattern of transaction; “ tainted property ” means property used in or in connection with the commission of a crime or constituting the proceeds of crime ; “ terrorism financing ” means the offence specified in the Anti-Terrorism Act, 2002; [definition of “terrorism financing” inserted by section 1(m) of Act 3 of 2017 ] “ transaction with no apparent or visible legitimate economic purpose ” includes— (a) a transaction that gives rise to a reasonable suspicion that it may involve the laundering of money or the proceeds of any crime and is made in circumstances of unusual or unjustified complexity; (b) a transaction whose form or features suggest that it might be intended for an illegal purpose, or the economic purpose of which is not discernible; (c) a customer-relationship with the financial institution that does not appear to make rational economic sense, e.g., a customer having a large number of accounts with the same bank, frequent transfers between different accounts or inordinately high liquidity; (d) a transaction in which assets are withdrawn immediately after being deposited, unless the customer’s business activities furnish plausible reason for immediate withdrawal; (e) a transaction that cannot be reconciled with the usual activities of the customer(s) of the financial institution or branch office in question, and in which the reason for the customer’s choice of that particular financial institution or branch cannot be ascertained; (f) a transaction which, without plausible reason, results in the intensive use of what was previously a relatively inactive account, such as a customer’s account which shows virtually no normal personal or business related activities but is"
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Jurisdiction",
+      "content": "(1) Notwithstanding the provisions of any other law, Uganda shall have jurisdiction over the crimes under this Act when— (a) the crime is committed within the territory of Uganda; (b) the crime is committed on board a vessel that is flying the flag of Uganda or an aircraft that is registered under the laws of Uganda at the time the crime is committed ; (c) the crime is committed by a national of Uganda or a stateless person , who has his or her habitual residence in Uganda; (d) the crime is a crime under paragraph (g) of section 116 of this Act committed outside the territory of Uganda with the objective of committing a crime under paragraphs (a) up to (f) of section 116 of this Act within the territory of Uganda. (2) The crimes provided for in Part II of this Act shall be investigated by a competent authority , tried, judged and sentenced by a court regardless of whether or not the crimes occurred outside the territory of Uganda. Part II – Criminalisation of the laundering of proceeds of crime"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part II",
+      "section": "3",
+      "title": "Prohibition of money laundering",
+      "content": "It is prohibited for any person to intentionally— (a) convert, transfer, transport or transmit property , knowing or suspecting that such property to be the proceeds of crime , for the purpose of concealing or disguising the illicit origin of the property or of assisting any person who is involved in the commission of the crime generating the proceeds to evade the legal consequences of his or her actions; or (b) conceal, disguise or impede the establishment of the true nature, source, location, disposition, movement or ownership of or rights with respect to property , knowing or suspecting that such property to be the proceeds of crime ; or (c) acquire, possess, use or administer property , knowing, at the time of receipt, that the property is the proceeds of crime ; or (d) act to avoid the transaction reporting requirements provided in Part III of this Act; or (e) assist another to benefit from known proceeds of crime ; or (f) use known proceeds of crime to facilitate the commission of a crime ; or (g) participate in, associate with, conspire to commit, attempt to commit, aid and abet, or facilitate and counsel the commission of any of the acts described in paragraphs (a) to (f)."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "Evidence of state of mind",
+      "content": "Knowledge, intent or purpose required as an element of the crime of money laundering set out in this Part may be inferred from objective factual circumstances."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part II",
+      "section": "5",
+      "title": "Separate crime",
+      "content": "The crime of money laundering under this Act— (a) is a crime distinct from and in addition to other crimes under the laws of Uganda, including the crime generating the proceeds subject to the money laundering ; and (b) may be charged without the person having been convicted of the crimes generating the proceeds of money laundering . Part III – Money laundering prevention measures"
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part III",
+      "section": "6",
+      "title": "Identification of clients, customers, other persons and other anti- money laundering measures",
+      "content": "(1) An accountable person who maintains an account for a client or customer shall maintain the account in the true name of the account holder, and shall not open or keep anonymous accounts or accounts which are in fictitious or incorrect names. (2) An accountable person shall carry out due diligence measures in the following circumstances— (a) before or during the course of opening an account for or establishing a business relationship with a customer; (b) before carrying out an occasional transaction equal to or above the amount of five thousand currency points or its equivalent in foreign currency; whether conducted as a single transaction or several transactions that appear to be linked; (c) before carrying out an occasional transaction that is a domestic or international wire transfer; (d) whenever there is a suspicion of money laundering or terrorism financing ; (e) understand the ownership and control structure of the customer; (f) whenever doubts exist about the veracity or adequacy of previously obtained customer identification data; (g) take any other measures as may be specified by the Minister by regulation. (3) An accountable person shall apply the following due diligence measures on a risk sensitive basis and shall take into account the outcome of a risk assessment— (a) verify the identity of the client using reliable, independent source documents, data or information; (b) identify and take reasonable measures to verify the identity of a beneficial owner ; (c) understand and, as appropriate, obtain information on the purpose and intended nature of the business relationship to permit the accountable person to fulfil its obligations under this Act; (d) if another person is acting on behalf of the customer, identify and verify the identity of that other person , and verify that person ’s authority to act on behalf of the customer; (e) take any other measures as may be specified by the Minister upon the advice of the Board and the Authority . (4) An accountable person shall, in addition to the measures specified in subsection (3), undertake further customer due diligence measures to— (a) verify the identity of a customer using reliable, independent source documents, data or information, such as passports, birth certificates, driver’s licences, identity cards, national identification card, utility bills, bank statements, partnership contracts and incorporation papers or other identification documents prescribed by regulations made under this Act, in addition to documents providing convincing evidence of legal existence and powers of legal representatives; (b) verify the identity of the beneficial owner of the account, in the case of legal persons and other arrangements, including taking reasonable measures to understand the ownership, control and structure of the customer obtaining information concerning provisions regulating the power to bind the legal person and verifying that any person purporting to act on behalf of the customer is authorised, and to identify those persons; and (c) conduct ongoing due diligence on all business relationships and scrutinise transactions undertaken throughout the course of the business relationship to ensure that the transactions are consistent with the accountable person ’s knowledge of the customer and the risk and business profile of the customer, and where necessary, the source of funds. (5) An accountable person shall identify and verify the identity of the customer and beneficial owner before or during the course of establishing a business relationship or conducting an occasional transaction . (6) An accountable person may complete the verification of the customer or beneficial owners’ identity after the establishment of the business relationship or carrying out of the occasional transaction provided that— (a) the verification occurs as soon as reasonably practicable; (b) the money laundering and terrorism financing risks are effectively managed; and (c) delaying the verification is essential not to interrupt the normal conduct of business. (7) In addition to customer due diligence measures, an accountable person shall implement appropriate risk management systems to determine whether a customer or beneficial owner is a politically exposed person and if so, apply the following additional measures— (a) for a foreign politically exposed person , take reasonable measures to establish the source of wealth and funds; (b) apply enhanced ongoing monitoring of the business relationship and obtain the approval of senior management before establishing or continuing a business relationship with such a person ; (c) for a domestic politically exposed person , and a person who is or has been entrusted with a prominent function by an international organization , apply the measures referred to in paragraph (a) where the risks of money laundering or terrorism financing are high. (8) In relation to cross-border correspondent banking and other similar relationships , an accountable person shall, in addition to customer due diligence measures, apply the following measures— (a) adequately identify and verify the respondent institution with which it conducts such a business relationship; (b) gather sufficient information about a respondent institution to understand fully the nature of the respondent’s business and to determine from publicly available information, the reputation of the institution and the quality of supervision, including whether it has been subject to a money laundering or terrorist financing investigation or regulatory action; (c) assess the respondent institution’s anti- money laundering and terrorism financing controls; (d) document the respective responsibilities of the accountable person and the respondent institution; (e) obtain written approval from the Central Bank before establishing a new correspondent financial institution relationship; (f) obtain approval from senior management before establishing a new correspondent relationship; (g) with respect to payable-through accounts , be satisfied that the respondent institution has verified the identity of and performed on-going due diligence on the customers having direct access to accounts of the correspondent and that the respondent bank is able to provide relevant customer identification data upon request to the correspondent bank. (9) An accountable person shall apply the requirements under this section to cross-border correspondent banking and similar relationships established prior to the commencement of this Act. (10) An accountable person shall not enter into, or continue, a correspondent banking relationship with a shell bank , or a respondent institution that is known to permit its accounts to be used by a shell bank . (11) An accountable person shall implement specific and adequate measures to address the risks of money laundering and terrorism financing where the accountable person opens an account or establishes a business relationship or executes a transaction with a customer that is not physically present for the purpose of identification. (12) An accountable person shall apply enhanced due diligence measures to business relationships and transactions with persons or financial institutions from or in countries identified by the Authority or the accountable person as high risk. (13) An accountable person shall, as far as reasonably possible, examine the background and purpose of all complex, unusual large transactions and all unusual patterns of transactions which have no apparent economic or lawful purpose, document all information concerning those transactions and the identity of all parties involved in those transactions, and retain such records in accordance with this Act. (14) Where the accountable person considers the risk of money laundering or terrorism financing is high, an accountable person shall apply enhanced customer due diligence measures, and shall increase the degree and nature of monitoring of the business relationship to determine whether those transactions or activities appear unusual or suspicious. (15) An accountable person shall not, when unable to comply with the provisions of this section, open an account, commence a business relationship, or conduct the transaction, or shall terminate the business relationship, and make a suspicious transactions report in relation to the customer. (16) An accountable person shall apply the provisions of this section to accounts and customers existing prior to the commencement of this Act and on the basis of materiality and risk, and shall conduct due diligence on such existing relationship at appropriate times, or as prescribed by supervisory authorities. (17) An accountable person shall develop and implement programs for the prevention of money laundering and terrorism financing that are appropriate to the risks and the size of the accountable person ’s business and the programs shall include— (a) internal policies, procedures, and controls to fulfil the obligations under this Act; (b) appropriate compliance management arrangements; (c) adequate screening procedures to ensure high standards when hiring employees; (d) an employee training program to ensure that employees, managers and directors are kept informed of all the aspects of the anti- money laundering and combating terrorism financing requirements, new developments, money laundering and terrorism financing techniques, methods and trends, and concerning due diligence measures and suspicious transaction reporting; (e) an independent audit function to test and verify compliance with and the effectiveness of the measures taken in accordance with the Act; (f) mechanisms for sharing with other members of the financial group, information obtained under this section, and to protect the confidentiality and use of exchanged information. (18) An accountable person shall apply the measures under this section to its branches and majority owned subsidiaries to the extent permissible by the laws of the host country where the subsidiary or branch is situated. (19) Where the laws of the host country do not permit the proper implementation of the requirements under this Act, the accountable person shall implement additional measures, as appropriate, to manage the money laundering and terrorism financing risks and inform its supervisory authority . (20) An accountable person may rely on a third party to perform elements of the due diligence process where the following conditions are satisfied— (a) the accountable person immediately obtains all information required under this section; (b) the accountable person is satisfied that copies of identification data and other relevant documentation relating to customer due diligence under this section shall be made available from the third party upon request and without delay; and (c) the accountable person is satisfied that the third party is regulated, supervised or monitored for and has measures in place to comply with the requirements of this section. (21) An accountable person who relies on a third party that is part of the same financial group as the accountable person may consider that the requirements are satisfied where— (a) the group applies customer due diligence and record -keeping requirements and applies internal controls and measures in accordance with the requirements of this Act; (b) the implementation of the controls and measures referred to in paragraph (a) is supervised at a group level by a competent authority ; and (c) any higher country risk is adequately mitigated by the group’s anti money laundering and combatting the financing of terrorism policies. (22) For the avoidance of doubt, the responsibility for customer identification and verification shall at all times remain with the accountable person relying on the third party. (23) An accountable person shall ensure that simplified or reduced customer due diligence measures permitted for customers resident in another country are limited to cou"
+    },
+    {
+      "provision_ref": "s6A",
+      "chapter": "Part III",
+      "section": "6A",
+      "title": "Risk assessment",
+      "content": "(1) An accountable person shall take appropriate steps to identify, assess and monitor its money laundering and terrorism financing risks. (2) An accountable person shall identify, assess and, take appropriate measures to manage and mitigate the money laundering or terrorism financing risks that may arise in relation to— (a) the development of new products and new business practices; including new delivery mechanisms for products and services; and (b) the use of new or developing technologies for both new and pre-existing products. (3) The risk assessment under subsection (2) shall take place prior to the launch of the new product or business practice, or the use of a new or developing technology. [section 6A inserted by section 3 of Act 3 of 2017 ]"
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part III",
+      "section": "7",
+      "title": "Record-keeping",
+      "content": "(1) An accountable person shall establish and maintain all necessary books and records relating to— (a) the identity of a person obtained in accordance with customer due diligence measures; (b) all transactions both domestic and international, carried out by it and correspondence relating to the transactions as is necessary to enable the transaction to be readily reconstructed at any time by the Authority or other competent authority , and the records shall contain such particulars as the Minister may, by regulations prescribe; (c) all reports made to the Authority under this Act; including any accompanying documentation; (d) any enquiries relating to money laundering and financing of terrorism made by the Authority . (2) For the purposes of subsection (1), books and records include— (a) account files, business correspondence including the results of any analysis undertaken and copies of documents evidencing the identities of customers and beneficial owners obtained through customer due diligence measures or in accordance with the provisions in this Act; (b) records on transactions and information obtained through customer due diligence measures, sufficient to reconstruct each individual transaction for both account holders and non-account holders including the amounts and types of currency involved, if any; (c) any findings set out in writing in accordance with this Act and related transaction information. (3) The books and records referred to in subsection (1) shall be kept for a minimum period of ten years from the date— (a) on which the evidence of the identity of a person was obtained; (b) of any transaction or correspondence; (c) on which the account is closed or business relationship ceases, whichever is the later. (4) The books and records established and maintained for purposes of subsection (1) shall— (a) be sufficient to enable the transaction to be readily reconstructed at any time by the Authority or competent authority to provide, if necessary, evidence for the prosecution of any offence; and (b) be maintained in a manner and form that will enable the accountable institution to comply immediately with requests for information from the law enforcement agencies or the Financial Intelligence Authority ; (5) Where any book or record is required to be kept under this Act, a copy of the book or record , with the appropriate backup and recovery procedures, shall be kept in a manner prescribed by the Minister by regulations. (6) The records maintained under this section shall be made available, upon request, to the Authority , or to a competent authority for purposes of ensuring compliance with this Act and for purposes of an investigation or prosecution of an offence. [section 7 substituted by section 4 of Act 3 of 2017 ]"
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part III",
+      "section": "8",
+      "title": "Recording and reporting cash and monetary transactions",
+      "content": "(1) For each cash and monetary transaction involving a domestic or foreign currency exceeding one thousand currency points, an accountable person shall record the cash or monetary transaction on the form designated as Form A as may be appended to regulations made by the Minister , on the advice of the Authority . (2) The information required by Form A shall be recorded, accurately and completely, by the accountable person on the day the transaction has occurred and the Form A shall be maintained for a period of ten years from the date of the transaction. (3) Multiple cash and monetary transactions which altogether exceed the prescribed amount shall be treated as a single transaction if they are undertaken by or on behalf of any one person during any one day or such other period prescribed by the Minister , upon advice of the Authority , and shall be recorded on Form A as if they were a single transaction under this section. (4) Transactions conducted on their own account between accountable persons subject to supervision by authorities of the Government of Uganda are not required to be recorded on Form A. (5) A copy of the Form A completed under the requirements of this section shall be filed with the Authority , within such time as is prescribed by the Minister , upon advice of the Authority ."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part III",
+      "section": "9",
+      "title": "Reporting of suspicious transactions",
+      "content": "(1) An accountable person shall report to the Authority if it suspects or has reasonable grounds to suspect that a transaction or attempted transaction involves proceeds of crime or funds related or linked to or to be used for money laundering or terrorism financing , regardless of the value of the transaction. (2) An accountable person shall make the report under section (1) without delay but not later than two working days from the date the suspicion was formed. (3) The report under subregulation (1) shall be in the form prescribed by the Minister by regulations and shall be accompanied by any documents directly relevant to that suspicion and the grounds on which it is based. (4) An accountable person , if requested by the Authority , shall give the Authority any relevant information or copies of documents or files, however and wherever stored, inside or outside their buildings, and within the time prescribed by the Authority . (5) Advocates and other independent legal professionals and accountants are not required to report a transaction under this section if the relevant information was obtained in circumstances where they are subject to professional secrecy. (6) An accountable person or its directors and employees shall not disclose to a customer or any other person the fact that a report under this section or related information will be, is being, or has been, submitted to the Authority or that a money laundering or terrorism financing investigation is being or has been carried out. (7) Subsection (4), shall not preclude any disclosure or communication between and among directors and employees of the accountable person , in addition to advocates and competent authorities. (8) Where a supervisory authority or an auditor of an accountable person suspects or has reasonable grounds to suspect that information in its possession concerning any transaction or attempted transaction may be— (a) related to the commission of any offence under this Act or the offence of terrorism financing ; (b) relevant to an act preparatory to the offence of financing of terrorism; (c) an indication of money laundering or the financing of terrorism, the supervisory authority or the auditor shall, as soon as practicable after forming that suspicion or receiving the information, but not later than two working days, report the transaction or attempted transaction to the Authority . [section 9 substituted by section 5 of Act 3 of 2017 ]"
+    },
+    {
+      "provision_ref": "s9A",
+      "chapter": "Part III",
+      "section": "9A",
+      "title": "Protection of identity of persons and information in suspicious transaction reports",
+      "content": "A person shall not disclose any information that will identify or is likely to identify— (a) any person who has handled a transaction in respect of which a suspicious transaction report has been made; (b) any person who has made a suspicious transaction report; or (c) any information contained in a suspicious transaction report or information provided pursuant to this Act; except for the purposes of— (i) the investigation or prosecution of a person for an unlawful activity, a money laundering offence or an offence of financing of terrorism; or (ii) the enforcement of this Act. [section 9A inserted by section 6 of Act 3 of 2017 ]"
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part III",
+      "section": "10",
+      "title": "Cross border movements of currency and negotiable bearer instruments",
+      "content": "(1) A person — (a) entering or leaving the territory of Uganda and carrying cash or bearer negotiable instruments exceeding one thousand five hundred currency points or the equivalent value in a foreign currency; or (b) arranging for the transfer of cash or bearer negotiable instruments exceeding one thousand five hundred currency points or the equivalent value in a foreign currency into or out of the territory of Uganda by mail, shipping service or any other means, shall declare that amount to the Uganda Revenue Authority in the manner prescribed by the Minister by regulations. (2) The Uganda Revenue Authority may request additional information concerning the source and purpose of use of the cash or bearer negotiable instruments referred to in subsection (1). (3) The customs department of the Uganda Revenue Authority shall, without delay, forward to the Authority any form completed under the requirements of this section. (4) The Uganda Revenue Authority shall, in case of suspicion of money laundering or terrorism financing , or in the case of a false declaration or a failure to declare, seize the currency or bearer-negotiable instruments for a period not exceeding six months and shall immediately notify the Authority . (5) The court may, on application by the Authority , extend the time beyond that prescribed in subsection (4) in respect of a seizure. (6) The Authority shall, in consultation with the Uganda Revenue Authority , issue instructions and guidelines for the purposes of implementing the provisions of this section. [section 10 substituted by section 7 of Act 3 of 2017 ]"
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part III",
+      "section": "11",
+      "title": "Availability of records",
+      "content": "(1) In regard to information in records, reports, and other documentation required under this Part and in accordance with the laws of Uganda— (a) accountable persons shall make the information available to the court , or other competent authorities for use in criminal, civil, or administrative investigations, prosecutions, or proceedings, as the case may be, regarding crimes under this Act; (b) the competent authorities shall share the information with other appropriate competent authorities of Uganda when the information concerns crimes under this Act; (c) the competent authorities may share the information with the competent authorities of other countries when it concerns crimes under this Act; (d) the competent authorities shall treat as confidential such information, except insofar as such information is necessary for use in criminal, civil or administrative investigations, prosecution or proceedings, as the case may be, regarding crimes under this Act; (2) Where a competent authority requests an accountable person to advise whether— (a) a specified person is or has been a client; (b) a specified person is acting or has acted on behalf of any client; or (c) a client is acting or has acted for a specified person , the accountable person shall promptly provide the competent authority with the information."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part III",
+      "section": "12",
+      "title": "Admissibility of records",
+      "content": "A record , report, notice or other document kept under this Part, or a certified extract of any document , or a certified printout of any electronic record , is on its production in a matter before a court admissible as evidence of any fact contained in it of which direct oral evidence would be admissible."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part III",
+      "section": "13",
+      "title": "Electronic funds transfers",
+      "content": "(1) An accountable person who engages in electronic funds transfers shall obtain and include accurate originator information and information relating to the recipient when carrying out electronic funds transfers and shall ensure that the information remains with the transfer order or related message throughout the payment chain. (a) A financial institution originating the wire transfer that is unable to obtain the information referred to in subsection (1) shall not execute the transfer. [subsection (1) substituted by section 8 of Act 3 of 2017 ] (2) Subsection (1) shall not apply to an electronic funds transfer other than a money transfer effected by the use of a credit or debit card as a means of payment that results from a transaction carried out using a credit or debit card, provided that the credit or debit card number is included in the information accompanying such transfer. (3) Subsection (1) shall not apply to electronic funds transfers and settlements between accountable persons where the originator and beneficiary of the funds transfer are acting on their own behalf."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part III",
+      "section": "14",
+      "title": "Obligations of confidentiality not an impediment",
+      "content": "(1) An obligation as to bank or professional secrecy, confidentiality and any other restrictions on the disclosure of information whether imposed by law or any agreement shall not affect any obligation under this Act to report or furnish information. [subsection (1) amended by section 9(a) of Act 3 of 2017 ] (2) Subsection (1) shall not apply to communications between an advocate and a client which are privileged under the laws of Uganda. (3) For the purposes of subsection (2), privileged communication means— (a) confidential communication, whether oral or in writing, passing between an advocate in his or her professional capacity and another advocate in that capacity; or (b) any communication made or brought into existence for the purpose of obtaining or giving legal advice or assistance; and (c) any communication not made or brought into existence for the purpose of committing or furthering the commission of an illegal or wrongful act. [subsection (3) inserted by section 9(b) of Act 3 of 2017 ]"
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part III",
+      "section": "15",
+      "title": "Immunity from liability",
+      "content": "Where a report is made or information is furnished in good faith under this Act, the accountable person , its employees, officers, directors, and agents shall not be criminally, civilly or administratively liable for complying with this Part or for breach of any restriction on disclosure of information imposed by contract or by any legislative, regulatory or administrative provision, regardless of the result of the communication."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part III",
+      "section": "16",
+      "title": "Refraining from doing business with money launderers",
+      "content": "Subject to the requirements of section 13 , every accountable person shall take such measures as are reasonably necessary to ensure that neither it nor any service offered by it is used by a person to commit or facilitate the crime of money laundering and financing of terrorist activities."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part III",
+      "section": "17",
+      "title": "Continuing the transaction",
+      "content": "An accountable person who is party to a transaction and is required to make a report under sections 8 or 9 may continue with and carry out the transaction in respect of which the report is required as long as the accountable person complies with the requirements of this Act. Part IV – Financial Intelligence Authority"
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part IV",
+      "section": "18",
+      "title": "Establishment of the Authority",
+      "content": "(1) There is established a Financial Intelligence Authority . (2) The Authority is a body corporate with perpetual succession and may sue and be sued in its corporate name and do all acts and things as a body corporate may lawfully do. (3) The Authority shall have its head office in Kampala and may establish branches elsewhere in Uganda as it may decide."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part IV",
+      "section": "19",
+      "title": "Objectives",
+      "content": "The objectives of the Authority are to— (a) enhance the identification of the proceeds of crime and the combating of money laundering ; (b) ensure compliance with this Act; (c) enhance public awareness and understanding of matters related to money laundering . (d) make information collected by it available to competent authorities and to facilitate the administration and enforcement of the laws of Uganda; and (e) exchange, spontaneously or upon request, any information with similar bodies of other countries that may be relevant for the processing or analyzing of information relating to money laundering or terrorism financing . [paragraph (e) substituted by section 10 of Act 3 of 2017 ]"
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part IV",
+      "section": "20",
+      "title": "Functions",
+      "content": "(1) To achieve its objectives, the Authority — (a) shall receive process, analyse and interpret information disclosed to it and obtained by it in terms of this Act; [paragraph (a) amended by section 11(a) of Act 3 of 2017 ] (b) shall disseminate, either spontaneously or upon request, information and the results of its analysis to any relevant competent authority in Uganda and if the analysis and assessment shows that a money laundering offence, a terrorism financing offence or a crime has been, or is being committed, to send a copy of the referral or information to the relevant supervisory authority ; [paragraph (b) substituted by section 11(b) of Act 3 of 2017 ] (c) shall inform, advise and cooperate with other competent authorities; (d) shall give guidance to accountable persons, competent authorities, and other persons regarding compliance with the provisions of this Act; (e) shall retain the information referred to in paragraph (a) in the prescribed manner for a period of at least ten years; (f) shall be responsible for the collection of fines adjudicated under this Act; (g) shall issue guidelines to accountable persons not under the jurisdiction of supervisory authorities in relation to customer identification, record keeping, reporting obligation and the identification; and (h) may provide training programs for accountable institutions in relation to customer identification, record keeping, reporting obligations and the identification of suspicious transaction . (2) The information retained under paragraph (e) shall only be destroyed with the approval of the Minister ."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part IV",
+      "section": "21",
+      "title": "General powers of the Authority",
+      "content": "The Authority may do all that is necessary or expedient to perform its functions effectively, and in particular— (a) establish its own structure, staffing levels and the terms and conditions of service as determined by the Board and approved by the Minister ; (b) assign employees and seconded personnel to particular posts within the Authority ; (c) establish rules and procedures for career development and disciplining of staff; (d) manage the Authority ’s finances and assets; (e) obtain the services of any person by agreement, or from any government agency, to perform any specific act or function; (f) enter into contracts and acquire or dispose of any right in or to property ; (g) open and operate its own bank accounts; (h) insure itself against any loss, damage, risk or liability; (i) engage in any lawful activity, whether alone or together with any other organisation in Uganda or elsewhere, aimed at promoting its objectives; (j) obtain any information from accountable persons, supervisory agencies and law enforcement agencies in the performance of its functions in accordance with this Act. (k) instruct any accountable person to take such steps as may be appropriate in relation to enforcing compliance with this Act or to facilitate investigations anticipated by the Authority ; (l) in accordance with the provisions of this Act enter the premises of any accountable persons during ordinary business hours to inspect for compliance with provisions of the provisions of this Act; (m) make copies of records found in the possession of any accountable person ; (n) send a report on the activities of any accountable person to a competent authority if the Authority determines that there is an element of money laundering or terrorism financing ; (o) in accordance with the provisions of this Act, halt any financial activity in the event that a suspicion warning has been reported to the Authority ; (p) require any accountable person to carry out a risk based assessment of his or her customers as may be prescribed by regulations made under this Act; (pa) impose administrative sanctions on an accountable person who fails to comply with directives, guidelines or requests issued by the Authority ; [paragraph (pa) inserted by section 12(a) of Act 3 of 2017 ] (pb) register accountable persons; [paragraph (pb) inserted by section 12(a) of Act 3 of 2017 ] (pc) keep a register of accountable persons; [paragraph (pc) inserted by section 12(a) of Act 3 of 2017 ] (pd) coordinate a national risk assessment on anti- money laundering and financing of terrorism. [paragraph (pd) inserted by section 12(a) of Act 3 of 2017 ] (q) do anything that is incidental to the exercise of any of its powers. (r) to supervise, monitor and ensure compliance of this Act by all accountable persons in consultation with respective regulatory authorities. [paragraph (r) inserted by section 12(b) of Act 3 of 2017 ]"
+    },
+    {
+      "provision_ref": "s21A",
+      "chapter": "Part IV",
+      "section": "21A",
+      "title": "Powers to enforce compliance",
+      "content": "(1) The enforcement of compliance with the provisions of this Act by an accountable person shall be the responsibility of the supervisory body of the accountable person . (2) Where the accountable person has no supervisory body, it is the responsibility of the Authority to ensure that that accountable person complies with the provisions of this Act. (3) The Authority or a supervisory body may direct any accountable person that has, without reasonable excuse, failed to comply in whole or in part with any obligations under this Act to comply. (4) Where an accountable person fails to comply with a directive issued under subsection (3), the Authority or the supervisory body, may, upon application to a court , obtain an order against any or all of the officers or employees of that accountable person on such terms as the court deems necessary to enforce compliance with the Act. (5) Subject to subsection (4) the court may order that should the accountable person or any officer or employee of the accountable person fail, without reasonable excuse, to comply with all or any of the provisions of the order, the accountable person or officer or employee shall pay a fine not exceeding one thousand eight hundred currency points, and may in addition pay an additional fine of one hundred and eighty currency point for each day that the failure to comply continues. (6) A supervisory body, in exercising its powers under this section may— (a) take any measures it considers necessary or expedient to meet its obligations as imposed by this Act or any other law, order, or directive made under this Act; (b) require a reporting person supervised or regulated by it and to whom the provisions of this Act apply, to report on that accountable person ’s compliance with this Act or any other law, order, or directive under this Act, in the form and manner determined by the supervisory body; (c) issue or amend any licence, registration, approval or authorisation that the supervisory body may issue or grant in accordance with any other law, to include the following conditions— (i) a requirement for compliance with this Act; or (ii) the continued availability of human, financial, technological and other resources to ensure compliance with this Act or any order or directive made under this Act. (d) ascertain whether a person is fit and proper to hold office in a reporting institution taking into account any involvement, whether directly or indirectly by that person in any non-compliance with this Act, order, directive or Regulations made under this Act or in any money laundering activity. (7) A supervisory body shall submit to the Authority , within such period and in such manner, as the Authority may in writing prescribe, a written report on any action taken against any reporting institution under this Act or any order, directive or regulations made under this Act. (8) The Authority and every supervisory body shall coordinate the exercise of powers and performance of functions under this Act to ensure the consistent application of this Act. [section 21A inserted by section 13 of Act 3 of 2017 ]"
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part IV",
+      "section": "22",
+      "title": "Independence of the Financial Intelligence Authority",
+      "content": "(1) The Financial Intelligence Authority shall be independent in the performance of its functions and shall not be subjected to the direction, instruction or control of any person or Authority . (2) Notwithstanding subsection (1) the Minister may give the Authority policy Guidelines."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part IV",
+      "section": "23",
+      "title": "Financial Intelligence Authority Board",
+      "content": "The governing body of the Authority shall be the Board ."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part IV",
+      "section": "24",
+      "title": "Functions of the Board",
+      "content": "(1) The Board shall— (a) be the policy making organ of the Authority ; (b) give direction to the Executive Director in connection with the management, performance, operational policies and implementation of the policies of the Authority ; (c) on the recommendation of the Executive Director, approve such organizational structures, terms and conditions of service; (d) prescribe such administrative measures as may be required to safe guard all revenue of the Authority ; and (e) subject to sections 28 , 30 and 32 appoint, remove and suspend the members of staff of the Authority. (f) subject to sections 28 , 30 and 32 appoint, remove and suspend the members of staff of the Authority in accordance with the Human Resource Manual. [paragraph (f) substituted by section 14(a) of Act 3 of 2017 ] (g) review and approve the budgetary estimates of the Authority ; [paragraph (g) inserted by section 14(b) of Act 3 of 2017 ] (h) review and approve the strategic plan of the Authority ; and [paragraph (h) inserted by section 14(b) of Act 3 of 2017 ] (i) consider the annual report of the Authority and report to the Minister on any matter appearing in or arising out of such a report. [paragraph (i) inserted by section 14(b) of Act 3 of 2017 ] (2) Notwithstanding the provisions of section 27 , the Board may establish such committees as are necessary for the proper discharge of its functions under this Act."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part IV",
+      "section": "25",
+      "title": "Composition of the Board",
+      "content": "(1) The following shall be the members of the Board — (a) a Chairperson, who shall be a person of high moral character and proven integrity and possesses the relevant experience; (b) four members of high moral character and proven integrity with substantial experience in either law, finance, criminal investigations, or any other relevant experience; and (c) the Executive Director, who shall be an ex officio member. (2) The Minister shall appoint the Chairperson and other members of the Board (3) The members of the Board shall hold office on terms and conditions specified in their instruments of appointment. (4) The appointment of the members of the Board shall be approved by Parliament."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part IV",
+      "section": "26",
+      "title": "Tenure and removal of members of the Board",
+      "content": "(1) Members of the Board shall serve a term of three years, and may be reappointed for one more term. (2) A member of the Board may resign his or her office by writing under his or her hand addressed to the Minister and the resignation shall take effect one month from the date of receipt of the letter of resignation by the Minister . (3) Where a member of the Board dies or resigns or otherwise vacates office before the expiry of the term for which he or she was appointed, the Minister may appoint another person in his or her place and the person so appointed shall hold office for the unexpired term of office of the person in whose place he or she is appointed. (4) A member of the Board may be removed from office by the Minister if he or she— (a) becomes of unsound mind or is incapable of performing the duties of his or her office; (b) fails, omits or neglects to carry out his or her responsibilities as a Board member; (c) becomes bankrupt or suspends payment or compounds with his or her creditors; or (d) is convicted of an offence punishable by more than three months imprisonment or is convicted of an offence involving fraud or dishonesty; (e) fails to attend, without lawful excuse, three consecutive meetings of the Board or is absent from four board meetings for a consecutive period of six months."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part IV",
+      "section": "27",
+      "title": "Meetings and procedures of the Board",
+      "content": "To conduct the business of the Board — (a) the Board shall meet for the discharge of its functions as often as business requires and in any case the Board shall meet not less than once in every quarter of the financial year of the Authority ; (b) the Board — (i) may determine its own procedures at meetings; (ii) may request advice and assistance from such persons as it considers necessary to assist it to perform its functions; (iii) may appoint committees from its members to assist it in the performance of its functions; (c) a quorum constituting a majority of the members shall be present at a meeting, and a decision or action shall be approved by a majority of those present after a quorum is established; (d) when a decision or action is to be taken by the Board and it is not feasible to call a meeting, the decision or action shall become effective and binding if— (i) the proposed decision or action is circulated in writing among the members of the Board ; (ii) an opportunity is given to each Board member to comment in writing on the proposed action or decision within a reasonable time; and (iii) less than a majority of the members object in writing within the time prescribed."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part IV",
+      "section": "28",
+      "title": "Executive Director",
+      "content": "(1) The Authority shall have an Executive Director who shall be be appointed by the Minister on the recommendation of the Board and with the approval of Parliament. (2) The Executive Director shall be a person of high moral character and proven integrity with professional experience in either law, administration, banking, finance, economics, investigations or any other relevant professional experience. (3) The Executive Director shall hold office for a term of four years and is eligible for re-appointment for one more term only."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part IV",
+      "section": "29",
+      "title": "Functions of the Executive Director",
+      "content": "(1) The Executive Director shall be the Chief Executive Officer of the Authority , and shall be responsible for the day-to-day affairs of the Authority . (2) In the performance of his or her duties, the Executive Director shall be accountable to the Board for all decisions made on behalf of the Authority in the exercise of its powers and in the performance of its functions."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part IV",
+      "section": "30",
+      "title": "Removal or suspension from office",
+      "content": "(1) The Minister shall on recommendation of the Board , suspend the Executive Director from office, pending the determination of any enquiry as to the existence of any of the grounds in subsection (2). (2) The Minister shall on recommendation of the Board ; remove the Executive Director from office for misconduct, incapacity or incompetence."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part IV",
+      "section": "31",
+      "title": "Appointment of the Deputy Executive Director",
+      "content": "There shall be a Deputy Executive Director who shall be appointed and serve in the same manner as the Executive Director as specified in sections 28 and 30 ."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part IV",
+      "section": "32",
+      "title": "Staff",
+      "content": "(1) The staff of the Authority shall consist of the Executive Director, the Deputy Executive Director, and persons appointed as staff of the Authority by the Board . (2) Members of staff shall perform their duties subject to the supervision and directions of the Executive Director. (3) The conditions of service of the staff of the Authority shall be determined by the Board under the provisions of this Act."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part IV",
+      "section": "33",
+      "title": "Declaration of assets",
+      "content": "Notwithstanding the provisions of any other law, a member of the Board and staff of the Authority shall declare their assets and liabilities to the Inspectorate of Government within one month before taking up office and subsequently at periodical interval as required by the Leadership Code Act."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part IV",
+      "section": "34",
+      "title": "Oath of secrecy",
+      "content": "A member of the Board and a member of staff of the Authority shall before assuming the duties of his or her office subscribe to an oath of allegiance."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part IV",
+      "section": "35",
+      "title": "Reports to the Board",
+      "content": "(1) The Executive Director shall— (a) report to the Board from time to time on the performance of the Executive Director’s responsibilities and the Authority ’s functions and powers under this Act; (b) keep the Board informed of any matter that could materially affect public policy or the strategic direction of the Authority and any other matter that the Board considers necessary; (c) not disclose any information that would directly or indirectly identify an individual who provided a report or information to the Authority , or a person or an entity about whom a report or information was provided under this Act; (d) submit quarterly reports to the Board on the performance of the Authority ."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part IV",
+      "section": "36",
+      "title": "Reports to the minister",
+      "content": "(1) The Board shall within three months after the close of each financial year, submit an annual report on the performance of the Authority to the Minister . (2) The Minister shall within one month after receipt of the report in subsection (1) table a copy of the report before Parliament."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part IV",
+      "section": "37",
+      "title": "Receipt of reports and information",
+      "content": "The Authority — (a) shall receive reports made under this Act, information provided to the Authority by any agency of another State that has powers and duties similar to those of the Authority , by law enforcement agencies or other components of the government, and other information about suspicions of money laundering , that is voluntarily provided to the Authority ; (b) shall have power to collect information that the Authority considers relevant to money laundering activities, including further information on parties or transactions referred to in a report made to it under this Act from any accountable person , commercially available databases or stored in databases maintained by the Government of Uganda for purposes related to law enforcement; (c) shall have power to obtain information from any government agency, law enforcement agency and supervisory agency for purposes of this Act; (d) shall analyse and assess such reports and information; and (e) shall retain each report and information for the period determined by the Authority ."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part IV",
+      "section": "38",
+      "title": "Disclosure and use of information",
+      "content": "(1) The Authority may disclose information to an institution or agency of a foreign state or of an international organisation established by the governments of foreign states, that has powers and duties similar to those of the Authority where— (a) the Authority has reasonable grounds to suspect that the information would be relevant to the investigation or prosecution of a money laundering offence or a substantially similar offence; and (b) the Government of Uganda has a treaty, agreement or arrangement with that foreign state or international organization regarding the exchange of such information. (2) Agreements or arrangements entered into under subsection (1) (b) shall restrict the use of information to purposes relevant to investigating or prosecuting a money laundering offence or a substantially similar offence. (3) A person who obtained or who has or had access to such information referred to in subsection (1) in the course of exercising powers or performing duties and functions under this Act, shall not use the information for a purpose other than exercising those powers or performing those duties and functions. (4) A suit or other legal proceedings shall not lie against any person providing information to the Authority in good faith under this Act."
+    },
+    {
+      "provision_ref": "s38A",
+      "chapter": "Part IV",
+      "section": "38A",
+      "title": "Exchange of information by competent authorities",
+      "content": "Competent authorities may exchange information and provide international cooperation both upon request from and spontaneously to foreign counterparts in relation to possible or confirmed money laundering or terrorist financing and any related activity subject to the regulations made under this Act [section 38A inserted by section 15 of Act 3 of 2017 ]"
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part IV",
+      "section": "39",
+      "title": "Contracts and agreements",
+      "content": "(1) The Authority may, for the purpose of exercising its powers or performing its duties and functions under this Act, enter into contracts, memoranda of understanding and other agreements with a department or an agency of the Government of Uganda and with any other person or organisation, whether inside or outside Uganda, in its own name. (2) Agreements relating to the Authority ’s collection of information from databases referred to in this Act must specify the nature of and limit with respect to the information that the Authority may collect from the database."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part IV",
+      "section": "40",
+      "title": "Legal proceedings",
+      "content": "(1) actions, suits or other legal proceedings in respect of any right or obligation acquired or incurred by the Authority shall be brought in its own name. (2) No action shall lie against the Authority , any employee of the Authority or any person acting under the direction of the Executive Director for anything done in good faith in the administration or discharge of any powers, duties or functions that under this Act are intended or authorised to be exercised or performed."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part IV",
+      "section": "41",
+      "title": "Funds of the Authority",
+      "content": "The funds of the Authority shall consist of money appropriated annually by Parliament for the purposes of the Authority , any Government grants made to it, and any other money legally acquired by it."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part IV",
+      "section": "42",
+      "title": "Fiscal year of the Authority",
+      "content": "The fiscal year of the Authority shall be the same as that of Government."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part IV",
+      "section": "43",
+      "title": "Audit",
+      "content": "The Auditor General, or an auditor appointed by the Auditor General to act on his or her behalf, shall audit and report on the accounts and financial records of the Authority . Part V – Seizure, freezing and forfeiture of assets in relation to money laundering Production orders"
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part V",
+      "section": "44",
+      "title": "Application for production order",
+      "content": "Where an authorised officer has reasonable grounds for suspecting that any person has possession or control of— (a) a document or documents relevant to identifying, locating or quantifying suspected tainted property of the person , or to identifying or locating a document necessary for the transfer of such property by such person ; or (b) a document or documents relevant to identifying, locating or quantifying tainted property in relation to the crime , or to identifying or locating a document necessary for the transfer of tainted property in relation to the crime , the authorised officer may apply ex parte in writing to court for an order against the person suspected of having possession or control of the document or documents and the application shall be supported by an affidavit."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part V",
+      "section": "45",
+      "title": "Issuance of production order",
+      "content": "The court may, if it considers that there are reasonable grounds for so doing, make an order requiring a person to produce to an authorised officer , at a time and place specified in the order, any document or documents of the kind referred to in section 44 ."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part V",
+      "section": "46",
+      "title": "Authority to inspect, copy and retain under the production order",
+      "content": "(1) An authorised officer to whom documents are produced under a production order may— (a) inspect the documents; (b) make copies of the documents; or (c) retain the documents for as long as is reasonably necessary for the purposes of this Act. (2) Where an authorised officer retains documents produced to him or her, he or she shall provide a copy of the documents to the person who produced them, acknowledging on the copies that the authorised officer possesses the original documents. (3) A person is not entitled to refuse to produce documents ordered to be produced under section 45 on the ground that— (a) the document might tend to incriminate the person or make the person liable to a penalty; or (b) the production of the document would be in breach of an obligation whether imposed by law or otherwise of the person not to disclose either the existence or contents, or both, of the document ."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part V",
+      "section": "47",
+      "title": "Relief from the court",
+      "content": "Where production of documents pursuant to an order of court under section 45 would be unreasonably oppressive or burdensome or otherwise would create extreme hardship, the person subject to the order may apply to the court for relief from the order and the court may modify or revoke the order."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part V",
+      "section": "48",
+      "title": "Production orders in relation to foreign crimes",
+      "content": "Where a foreign State requests assistance to locate or seize property suspected to be tainted property in respect of a crime within its jurisdiction, the provisions of sections 44 to 47 apply mutatis mutandis . Document search warrant"
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part V",
+      "section": "49",
+      "title": "Authority to search for and seize documents relevant to locating property",
+      "content": "(1) An authorised officer may— (a) enter upon land or into premises; (b) search the land or premises for any document of the type described in section 44 ; and (c) seize any document found in the course of the search that the authorised officer believes, on reasonable grounds, to be a relevant document in relation to a crime under this Act. (2) The entry, search or seizure under subsection (1) shall be made— (a) with consent of the occupier or owner of the land or the premises; or (b) under a warrant issued under section 51 ."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part V",
+      "section": "50",
+      "title": "Application for document search warrant",
+      "content": "Where— (a) a person has been charged or convicted of a crime , or (b) an authorised officer has reasonable grounds for suspecting that there is, or may be within the next hours, upon any land or upon or in any premises, a document referred to in section 44 , the authorised officer may make an application supported by an affidavit to a court for a search warrant in respect of that land or those premises."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part V",
+      "section": "51",
+      "title": "Issuance of document search warrant",
+      "content": "Where an application is made under section 50 for a warrant to search land or premises, the court may issue a warrant authorizing an authorised officer whether or not named in the warrant, with such assistance and by such force as is necessary and reasonable— (a) to enter upon the land or in or upon the premises and to search the land or premises for documents of the type referred to in section 44 ; and (b) to seize documents found in the course of the search that the authorised officer believes on reasonable grounds to be property of that type."
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part V",
+      "section": "52",
+      "title": "Preconditions for a document search warrant",
+      "content": "A court shall not issue a warrant under section 51 unless it is satisfied that— (a) a production order has been given in respect of the document and has not been complied with; (b) a production order in respect of the document would be unlikely to be effective; (c) the investigation for the purposes of which the search warrant is being sought might be seriously prejudiced if the authorised officer does not gain immediate access to the document without any notice to any person ; or (d) the document involved cannot be identified or described with sufficient particularity for a production order to be obtained."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part V",
+      "section": "53",
+      "title": "Particulars of document search warrant",
+      "content": "A warrant issued under section 51 shall state— (a) the purpose for which it is issued, including a reference to the nature of the relevant crime under this Act; (b) a description of the kinds of documents authorised to be seized; (c) a time at which the warrant ceases to be in force; and (d) whether entry is authorised to be made at any time of the day or night or during specified hours."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Part V",
+      "section": "54",
+      "title": "Authority to seize documents and other evidence",
+      "content": "If during the course of searching under a warrant issued under section 51 , an authorised officer finds— (a) a document of the type referred to in section 44 that the authorised officer believes on reasonable grounds to relate to the relevant crime; or (b) anything the authorised officer believes on reasonable grounds will afford evidence as to the commission of a crime ; the authorised officer may seize that document or thing and the warrant shall be deemed to authorize such seizure."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Part V",
+      "section": "55",
+      "title": "Search warrants in relation to foreign crimes",
+      "content": "Where a foreign State requests assistance to locate or seize property suspected to be tainted property in respect of a crime within its jurisdiction, the provisions of sections 49 to 54 apply with the necessary modifications. Monitoring orders"
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Part V",
+      "section": "56",
+      "title": "Application for monitoring order",
+      "content": "(1) An authorised officer may apply ex parte and in writing to the court for a monitoring order directing a financial institution to give information to give information to an authorised officer . (2) The application under subsection (1) shall be supported by an affidavit."
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Part V",
+      "section": "57",
+      "title": "Issuance of monitoring order",
+      "content": "Where an application is made for a monitoring order under section 56 , the court may make an order directing that a financial institution disclose information obtained by the institution about transactions conducted through an account held by a particular person with the institution."
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "Part V",
+      "section": "58",
+      "title": "Particulars of monitoring order",
+      "content": "A monitoring order issued under section 57 shall— (a) apply for a maximum period of three months from the date of the order; (b) state the name or names in which the account is believed to be held; and (c) state the information that the institution is required to give."
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "Part V",
+      "section": "59",
+      "title": "Preconditions for monitoring order",
+      "content": "The court shall not issue a monitoring order under section 57 unless it is satisfied that there are reasonable grounds for suspecting that the person in respect of whose account the order is sought— (a) has committed or was involved in the commission, or is about to commit or be involved in the commission of a crime ; or (b) has benefited directly or indirectly, or is about to benefit directly or indirectly from the commission of a crime ."
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "Part V",
+      "section": "60",
+      "title": "Monitoring orders not to be disclosed",
+      "content": "(1) An employee or agent of a financial institution that is, or has been subjected to a monitoring order shall not disclose the existence or operation of the order to any person other than— (a) another employee or agent of the institution for the purpose of ensuring compliance with the order; (b) a legal adviser for the purpose of obtaining legal advice or representation in respect of the order; or (c) an authorised officer , authorised in writing to receive the information. (2) A person referred to in subsection (1) (a), (b), or (c) shall not disclose the existence or operation of a monitoring order except to another person so described, and may do so only for the purposes of the performance of the person ’s duties or functions. (3) Nothing in this section prevents the disclosure of information concerning a monitoring order for the purposes of or in connection with legal proceedings or in the course of proceedings before a court , provided that nothing in this section shall be construed as requiring a legal advisor to disclose to any court the existence or operation of a monitoring order. Warrant for tainted property"
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "Part V",
+      "section": "61",
+      "title": "Authority to search and seize tainted property",
+      "content": "(1) An authorised officer may— (a) search a person for tainted property ; or (b) enter upon land and upon or into premises and search the land or premises for tainted property ; (2) An Authorised officer may while searching under subsection (1), seize any property found in the course of the search that the authorised officer believes, on reasonable grounds, to be tainted property . (3) The seizure under subsection (1) shall be— (a) with the consent of the person , or the occupier or owner of the land or premises, as the case may be; or (b) under a warrant issued under section 63 . (4) Where an authorised officer may search a person under this section, he or she may also search: (a) the clothing that is being worn by the person , and (b) any property in, or apparently in the person ’s immediate control."
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "Part V",
+      "section": "62",
+      "title": "Application for tainted property search warrant",
+      "content": "Where an authorised officer has reasonable grounds for suspecting that there is, or may be within the next seventy two hours, tainted property of a particular kind— (a) on a person ; (b) in the clothing being worn by a person ; (c) otherwise in a person ’s immediate control or possession; or (d) upon land or any premises; the authorised officer may present to the court an affidavit setting out those grounds and apply for the issue of a warrant to search the person , the land or the premises, as the case may be, for tainted property of that kind."
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "Part V",
+      "section": "63",
+      "title": "Issuance of search warrant",
+      "content": "Where an application is made under section 62 for a warrant to search a person, land or premises, the court may issue a warrant authorising an authorised officer whether or not named in the warrant, with such assistance and by such force as is necessary and reasonable— (a) to search the person for tainted property of that kind; (b) to enter upon the land or in or upon any premises and to search the land or premises for tainted property of that kind; and (c) to seize property found in the course of the search that the authorised officer believes, on reasonable grounds, to be tainted property of that kind."
+    },
+    {
+      "provision_ref": "s64",
+      "chapter": "Part V",
+      "section": "64",
+      "title": "Charge not a prerequisite to issuance",
+      "content": "(1) Subject to subsection (2) a warrant may be issued under section 63 in relation to tainted property whether or not a charge has been filed in respect of the relevant crime. (2) A court shall not issue a warrant under subsection (1), where a charge has not been filed in respect of the relevant crime unless at the time when the application for the warrant is made, the court is satisfied that— (a) a charge will be filed in respect of the relevant crime within 30 days; and (b) the property is tainted property ."
+    },
+    {
+      "provision_ref": "s65",
+      "chapter": "Part V",
+      "section": "65",
+      "title": "Particulars of search warrant",
+      "content": "A warrant issued under section 63 shall state— (a) the purpose for which it is issued, including a reference to the nature of the relevant crime ; (b) a description of the kind of property authorised to be seized; (c) a time at which the warrant ceases to be in force; and (d) whether entry is authorised to be made at any time of the day or night or during specified hours."
+    },
+    {
+      "provision_ref": "s66",
+      "chapter": "Part V",
+      "section": "66",
+      "title": "Authority to seize other tainted property or evidence",
+      "content": "(1) Where during the course of searching under a warrant issued under section 63 , an authorised officer finds— (a) property that the authorised officer believes on reasonable grounds to be tainted property either of a type not specified in the warrant or tainted property in relation to a crime ; or (b) anything the authorised officer believes on reasonable grounds will afford evidence as to the commission of a crime under this Act, the authorised officer may seize that property or thing and the warrant shall be deemed to authorize such seizure. (2) Where property is seized under subsection (1), the authorised officer shall, within five days after the seizure, apply to the court to amend the warrant to include the property seized. (3) Where the court considers that there are reasonable grounds for doing so, it shall amend the warrant to specify the property seized under subsection (1). (4) Where the court considers the grounds insufficient for the seizure, it shall order the authorised officer to return the property to the owner immediately."
+    },
+    {
+      "provision_ref": "s67",
+      "chapter": "Part V",
+      "section": "67",
+      "title": "Emergency searches and seizures",
+      "content": "(1) Where an authorised officer suspects on reasonable grounds that— (a) particular property is tainted property ; (b) it is necessary to exercise the power of search and seizure in order to prevent the concealment, loss or destruction of the property ; and (c) the circumstances are so urgent that they require immediate exercise of the power without the authority of a warrant or the order of a court , the authorised officer may— (a) search a person ; (b) enter upon land, or upon or into premises and search for the property ; and (c) if such property is found, seize the property . (2) Where during the course of a search conducted under this section, an authorised officer finds— (a) property that the authorised officer believes on reasonable grounds to be tainted property ; or (b) anything the authorised officer believes on reasonable grounds may be used as evidence as to the commission of a crime , the authorised officer may seize that property or thing. (3) An authorised officer who carries out any action pursuant to this section shall not later forty eight hours following the search, entry and or seizure present before court , a duly sworn statement of information."
+    },
+    {
+      "provision_ref": "s68",
+      "chapter": "Part V",
+      "section": "68",
+      "title": "Record of property seized",
+      "content": "An authorised officer who seizes property under sections 61 through 67 shall detain the property seized, make a written record of it, and take reasonable care to ensure that the property is preserved."
+    },
+    {
+      "provision_ref": "s69",
+      "chapter": "Part V",
+      "section": "69",
+      "title": "Return of seized property",
+      "content": "(1) Where property has been seized under sections 61 to 67 otherwise than because it may be evidence of the commission of a crime, a person who claims an interest in the property may apply to the court for an order that the property be returned to the person. (2) Where a person makes an application under this section and the court is satisfied that— (a) the person is entitled to possession of the property ; (b) the property is not tainted property ; and (c) the person in respect of whose conviction, charging or proposed charging the seizure of the property was made has no legal interest in the property , the court shall make an order for the return of the property to the person or any other appropriate remedy."
+    },
+    {
+      "provision_ref": "s70",
+      "chapter": "Part V",
+      "section": "70",
+      "title": "Search for and seizure of tainted property in relation to foreign crimes",
+      "content": "Where a foreign State requests assistance to locate or seize property suspected to be tainted property in respect of a crime within its jurisdiction, sections 61 to 69 apply with the necessary modifications. Restraining orders"
+    },
+    {
+      "provision_ref": "s71",
+      "chapter": "Part V",
+      "section": "71",
+      "title": "Application for restraining order",
+      "content": "Where a person has— (a) has been charged with, or is about to be charged; or (b) has been convicted of an offence; or. (c) is under criminal investigation an authorised officer may apply to court for a restraining order in order to restrain the disposition of the property that is reasonably believed to be proceeds from crime , or any other property in which the person has an interest."
+    },
+    {
+      "provision_ref": "s72",
+      "chapter": "Part V",
+      "section": "72",
+      "title": "Contents of application for restraining order",
+      "content": "An application made under section 71 may be made ex parte to the court and shall be accompanied by an affidavit setting out— (a) the crime under investigation; (b) a description of the property in respect of which the restraining order is sought; (c) the name and address of the person who is believed to be in possession of the property ; (d) the grounds for the belief that the property is tainted in relation to the crime or that the person being investigated derived a benefit directly or indirectly from the commission of the crime under investigation; (e) where the application is seeking a restraining order against property of a person other than the person being investigated, the grounds for the belief that that property is tainted property in relation to the crime under investigation and is subject to the effective control of the defendant and that the alleged offender has an interest in that property ; and (f) the grounds for the belief that a confiscation order or a pecuniary penalty order may be or is likely to be made under this Part in respect of the property ."
+    },
+    {
+      "provision_ref": "s73",
+      "chapter": "Part V",
+      "section": "73",
+      "title": "Issuance of the restraining order",
+      "content": "Where the court is satisfied that there are reasonable grounds to believe that there exists property in respect of which a restraining order may be made under this Act, the court may make an order— (a) prohibiting any person from disposing of, or otherwise dealing with property specified in the order other than in such manner as may be specified in the order; and (b) at the request of the authorised officer , and where the court is of the opinion that the circumstances so require, appoint a person to take control of or to manage or otherwise deal with the property ."
+    },
+    {
+      "provision_ref": "s74",
+      "chapter": "Part V",
+      "section": "74",
+      "title": "Contents of restraining order",
+      "content": "(1) Subject to section 75 , the court in making an order under section 73 may give directions as to the disposal of that property for the purpose of— (a) determining any dispute as to the ownership of the property or any part of it; or (b) paying for its proper administration during the period of freezing ; (2) In regard to the person subject to the order, the court may give directions as to the disposal of that property for the purpose of— (a) paying that person for the reasonable subsistence of that person and his or her family, (b) permitting the use of the property in order to enter into a recognisance required of that person by a court ; (c) paying that person ’s reasonable expenses in defending the criminal charge and any proceedings under this Act, and (d) paying any specified debt incurred by that person in good faith."
+    },
+    {
+      "provision_ref": "s75",
+      "chapter": "Part V",
+      "section": "75",
+      "title": "Undertakings by the Government",
+      "content": "Before making an order under section 73 , the court may require the government of Uganda to give such undertakings as the court considers appropriate with respect to the payment of damages or costs, or both, in relation to the making and execution of the order."
+    },
+    {
+      "provision_ref": "s76",
+      "chapter": "Part V",
+      "section": "76",
+      "title": "Notice of application for restraining order",
+      "content": "Before making a restraining order, the court may require notice be given to, and may hear any person who, in the opinion of the court , appears to have an interest in the property , unless the court is of the opinion that giving such notice before making the order would result in the disappearance, disposal, dissipation or reduction in value of the property ."
+    },
+    {
+      "provision_ref": "s77",
+      "chapter": "Part V",
+      "section": "77",
+      "title": "Service of restraining order",
+      "content": "A copy of the restraining order shall be served on the person affected by the order in such manner as the court directs or as may be prescribed by law."
+    },
+    {
+      "provision_ref": "s78",
+      "chapter": "Part V",
+      "section": "78",
+      "title": "Registration of restraining order",
+      "content": "(1) A copy of the restraining order which affects any land or real estate shall be registered with the Registrar of Titles. (2) A restraining order shall not affect registered land unless it is registered as a charge under the Registration of Titles Act. (3) Where particulars of a restraining order are registered under the Registration of Titles Act, a person who subsequently deals with the property shall, for the purposes of section 74 , be deemed to have notice of the order at the time of the dealing."
+    },
+    {
+      "provision_ref": "s79",
+      "chapter": "Part V",
+      "section": "79",
+      "title": "Setting aside disposition",
+      "content": "(1) Where a restraining order is made against property and the property is disposed of, or otherwise dealt with, in contravention of the restraining order, and the disposition or dealing was not for sufficient consideration or not in favor of a person who acted in good faith and without notice, an authorised officer may apply to the court that made the restraining order for an order that the disposition or dealing be set aside. (2) Where an authorised officer makes an application under this section in relation to a disposition or dealing, the court may— (a) set aside the disposition or dealing as from the day on which the disposition or dealing took place; or (b) set aside the disposition or dealing as from the day of the order under this section and declare the respective rights of any persons who acquired interests in the property on, or after the day on which the disposition or dealing took place, and before the day of the order under this section."
+    },
+    {
+      "provision_ref": "s80",
+      "chapter": "Part V",
+      "section": "80",
+      "title": "Duration of restraining order",
+      "content": "A restraining order shall remain in force until— (a) it is discharged, revoked or varied; (b) the expiry of a period of six months from the date on which it is made or such later time as the court may determine; or (c) a confiscation order or a pecuniary penalty order is made in respect of property which is the subject of the order."
+    },
+    {
+      "provision_ref": "s81",
+      "chapter": "Part V",
+      "section": "81",
+      "title": "Review of restraining orders",
+      "content": "(1) A person who has an interest in property in respect of which a restraining order was made may, at any time, apply to the court to review the order. (2) The application under subsection (1) shall not be heard by the court unless the applicant has given to the authorised officer at least three working days notice in writing of the application. (3) The court may require notice of the application to be given to, and may hear any person who, in the opinion of the court , appears to have an interest in the property . (4) Upon the application under subsection (1), the court may revoke or vary the restraining order or make the order subject to such conditions as the court thinks fit. (5) For the purposes of this section, the court may— (a) require the applicant to enter into a recognizance; or (b) vary the order to permit the payment of reasonable expenses of the applicant, including those of his or her dependants if any, and reasonable legal or business expenses of the applicant; (6) An order under this section may be made only if the court is satisfied that the— (a) applicant is the lawful owner of the property , has a legal interest or is entitled to lawful possession of the property , and appears to be innocent of any complicity in the commission of a crime or of any collusion in relation to such crime ; and (b) property will no longer be required for the purposes of any investigation or as evidence in any proceedings."
+    },
+    {
+      "provision_ref": "s82",
+      "chapter": "Part V",
+      "section": "82",
+      "title": "Extension of restraining orders",
+      "content": "An authorised officer may apply to the court that made a restraining order for an extension of the period of the operation of the order, and, upon such an application, the court may extend the operation of a restraining order for a specified period, if it is satisfied that a confiscation order may be made in respect of the property or part of it or that a pecuniary penalty order may be made against the person . Confiscation and pecuniary penalty orders"
+    },
+    {
+      "provision_ref": "s83",
+      "chapter": "Part V",
+      "section": "83",
+      "title": "Application for confiscation order or pecuniary penalty order",
+      "content": "(1) Where a person is convicted of an offence under this Act; court may in addition to any other sentence make the following orders— (a) a confiscation order against property that is tainted property in respect of the crime ; (b) a pecuniary penalty order against the person in respect of benefits derived by the person from the commission of the crime ; or (c) a confiscation order against property in which the person convicted has interest. (2) Whenever after conviction of the person , any other tainted property is discovered, an authorized officer or any other person may apply to court for additional confiscation orders in respect of the tainted property . (3) An application under subsection (2) may be made in respect of more than one crime . (4) An applicant may apply to amend an application under subsection (1) to include any other tainted property or benefit, as the case may be, and the court may upon being satisfied that— (a) the tainted property or benefit was not reasonably capable of identification when the application was made; (b) necessary evidence became available only after the application was originally made; and (c) it is in the interest of justice that the application be amended, grant the application."
+    },
+    {
+      "provision_ref": "s84",
+      "chapter": "Part V",
+      "section": "84",
+      "title": "Notice of application",
+      "content": "Where an applicant makes an application under subsection (2) or (4) of section 83 — (a) the authorised officer shall give not less than fourteen days written notice of the application to the person and to any other person who has an interest in the property ; (b) the person , and any other person who claims interest in the property , may appear and adduce evidence at the hearing of the application; and (c) the court may, at any time before the final determination of the application, direct the authorised officer to— (i) give notice of the application to any person who, in the opinion of the court , appears to have an interest in the property ; and (ii) publish a notice of the application in the Gazette or a newspaper published and circulating in Uganda."
+    },
+    {
+      "provision_ref": "s85",
+      "chapter": "Part V",
+      "section": "85",
+      "title": "Procedure for confiscation order where person dies or absconds",
+      "content": "(1) Where— (a) a person is either under investigation or is about to be charged or has been charged with the commission of a crime under this Act; and a warrant for the arrest of the person has been issued in relation to that charge, and the person has died or absconded; or (b) a person has been convicted of a crime , and the person has died or absconded; or (c) a person dies before the commencement of investigations or charges, an applicant may apply to the court for a confiscation order in respect of any tainted property and the court may, if satisfied on a balance of probabilities, order that the property or such property as is specified by the court be confiscated. (2) For the purposes of subsection (1), the person is deemed to have absconded if reasonable attempts to arrest the person under the warrant have been unsuccessful during the period of one year commencing on the day the warrant was issued, and the person shall be deemed to have so absconded on the last day of that period. Confiscation"
+    },
+    {
+      "provision_ref": "s86",
+      "chapter": "Part V",
+      "section": "86",
+      "title": "Confiscation order on conviction",
+      "content": "(1) Where an applicant applies to court for an order of confiscation ; and court is satisfied that the property is tainted property in respect of the crime , court may, if it considers it appropriate, order that the property , or such part of the property as is specified by the court in the order, be confiscated. (2) In determining whether property is tainted property , the court shall be satisfied that— (a) the property was used in or in connection with committing the crime of which the person was convicted; or (b) that the property was derived, obtained or realised as a result of committing the crime of which the person was convicted, and the court is satisfied on a balance of probabilities that the income of that person from sources unrelated to criminal activity cannot reasonably account for the acquisition of that property . (3) Where the court orders that property , other than money, be confiscated, the court shall specify in the order the amount that it considers to be the value of the property at the time when the order is made and in arriving at this value, the court may seek professional advice. (4) In considering whether to make a confiscation order under subsection (1), the court shall have regard to— (a) the rights and interests, if any, of third parties in the property ; (b) the proportionality of the value of the property to be forfeited to the gravity of the crime in question ; (c) the role and culpability of the owner of the property in the crime ; (d) the nexus between the crime and the property and the involvement of the property in the crime ; (e) whether the use of the property was deliberate and planned or merely incidental and fortuitous; (f) whether the purpose of acquiring, maintaining or using the property was to carry out the crime ; and (g) the extent of the instrumentality of the property in the commission of the crime . (5) Where the court makes a confiscation order, the court may give such directions as are necessary or convenient for giving effect to the order. (6) Without limiting the generality of subsection (5), where a court makes a confiscation order against registrable property , the court may direct an authorised officer to do anything necessary to obtain possession of any document necessary for the transfer of the property ."
+    },
+    {
+      "provision_ref": "s87",
+      "chapter": "Part V",
+      "section": "87",
+      "title": "Effect of confiscation order",
+      "content": "(1) Subject to subsection (2), where a court makes a confiscation order against any property , the property vests absolutely in the Republic of Uganda by virtue of the order. (2) Where property ordered to be confiscated is registrable property — (a) the property vests in the Republic of Uganda in equity but does not vest in the Republic of Uganda at law until the applicable registration requirements have been complied with; (b) the Republic of Uganda is entitled to be registered as owner of the property ; and (c) an authorised officer shall have power, on behalf of the Republic of Uganda, to do, or authorise the doing of, anything necessary or incidental to obtain the registration of the Republic of Uganda as owner, including but not limited to the execution of any instrument required to be executed by a person transferring an interest in property of that kind. (3) Where a confiscation order has been made against registrable property — (a) an authorised officer shall have power, on behalf of the Republic of Uganda, to do anything necessary or convenient to give notice of, or otherwise protect, the equitable interest of the Republic of Uganda in the property ; and (b) any such action by or on behalf of the Republic of Uganda is not a dealing for the purposes of subsection (4) (a). (4) Where the court makes a confiscation order against property — (a) the property shall not, except with the leave of the court and in accordance with any directions of the court , be disposed of, or otherwise dealt with, by or on behalf of the Republic of Uganda before the relevant appeal date; and (b) if, after the relevant appeal date, the order has not been discharged, the property may be disposed of and the proceeds applied or otherwise dealt with in accordance with section 103 . (5) In this section— “registrable property ” means property the title to which is passed by registration in accordance with the provisions of any law; “relevant appeal date” used in relation to a confiscation order made in consequence of a person ’s conviction of a crime means— (a) the date on which the period allowed by law for the lodging of an appeal from a person ’s conviction or for the lodging of an appeal from the making of a confiscation order expires without an appeal having been lodged, whichever is the later; or (b) where an appeal from a person ’s conviction or from the making of a confiscation order is lodged, the date on which the appeal lapses in accordance with the law or is finally determined, whichever is the later."
+    },
+    {
+      "provision_ref": "s88",
+      "chapter": "Part V",
+      "section": "88",
+      "title": "Voidable transfers",
+      "content": "The court may, before making a confiscation order and, in the case of property in respect of which a restraining order was made, notice for it given and the order served in accordance with this Act, set aside any conveyance or transfer of the property that occurred after the seizure of the property or the service of the restraining order, unless the conveyance or transfer was made for valuable consideration to a person acting in good faith and without notice."
+    },
+    {
+      "provision_ref": "s89",
+      "chapter": "Part V",
+      "section": "89",
+      "title": "Protection of third parties",
+      "content": "(1) Where an application is made for a confiscation order against particular property , a person who claims an interest in the property may apply, before the confiscation order is made, to the court for an order under subsection (2). (2) Where a person applies to the court for an order under this section in respect of the applicant’s interest in the property , and the court is satisfied on a balance of probabilities that— (a) the person has a legal interest in the property ; (b) that the person was not in any way involved in the commission of the crime in respect of which confiscation of the property is sought; (c) where the person acquired the interest at the time of or after the commission of the crime , that he or she acquired the interest— (i) for sufficient consideration; and (ii) without knowing, and in circumstances such as not to arouse a reasonable suspicion, that the property was, at the time of acquisition, tainted property ; (d) the person did not acquire the interest in the property from another person under circumstances that give rise to a reasonable inference that any right was transferred for the purpose of avoiding eventual confiscation of the property ; and (e) the person did all that could reasonably be expected to prevent the illegal use of the property , the court shall make an order— (a) declaring the nature, extent and value, at the time the order is made, of the person ’s interest; (b) if the interest is vested in the Republic of Uganda, directing the Republic of Uganda to transfer the interest to the applicant; or (c) declaring that there is payable by the Republic of Uganda to the applicant an amount equal to the value declared by the court . (3) Subject to subsection (4), where a confiscation order has already been made directing the confiscation of property , a person who claims an interest in the property may, before the end of a period of six months, commencing on the day on which the confiscation order is made, apply to the court for an order under subsection (2). (4) A person who had knowledge of the application for the confiscation order before the order was made, or appeared at the hearing of that application, shall not be permitted to make an application under subsection (3), except with leave of court . (5) A person who makes an application under subsections (1) or (3) must give not less than fourteen days written notice of the making of the application to the authorized officer who applied for the confiscation order and such officer shall be a party to any proceedings in the application. (6) An applicant or authorised officer may, in accordance with the law, appeal against an order made under subsection (2)."
+    },
+    {
+      "provision_ref": "s90",
+      "chapter": "Part V",
+      "section": "90",
+      "title": "Discharge of confiscation order on appeal and quashing of conviction",
+      "content": "(1) Where the court makes a confiscation order against property in reliance on a person ’s conviction of a crime and the conviction is subsequently quashed, the quashing of the conviction discharges the order. (2) Where a confiscation order against property is discharged as provided by subsection (1) or by a court hearing an appeal against the making of the order, the authorised officer who obtained the confiscation order shall— (a) as soon as practicable after the discharge of the order, give written notice of the discharge of the confiscation order to any person the authorised officer has reason to believe may have had an interest in the property immediately before the making of the confiscation order; and (b) if required to do so by a court , publish a notice of the discharge of the confiscation order in the Gazette or in a newspaper published and circulating in the Republic of Uganda. (3) A notice under subsection (2) shall include a statement to the effect that a person claiming an interest in the property may apply under subsection (4) for the transfer of the interest to that person . (4) Where a confiscation order against property is discharged as provided for in subsection (1) or by the court hearing an appeal against the making of the order, any person who claims to have an interest in the property immediately before the making of the confiscation order may apply to the court for the transfer of the interest to that person . (5) On receipt of an application under subsection (4), the court shall— (a) where the interest is vested in Uganda give directions that the property or part of it to which the interest of the applicant related be transferred to the person ; or (b) in any other case, direct that there be payable to the person an amount equal to the value of the interest as of the time the order was made. (6) Where an authorised officer is required by the court to arrange for property to be transferred to a person , the authorised officer shall have the power, on behalf of Uganda, to do or authorise the doing of any thing necessary or convenient to effect the transfer or return of the property , including but not limited to the execution of any instrument and the making of any application for the registration of an interest in the property on any appropriate register."
+    },
+    {
+      "provision_ref": "s91",
+      "chapter": "Part V",
+      "section": "91",
+      "title": "Payment instead of a confiscation order",
+      "content": "Where the court is satisfied that a confiscation order should be made in respect of the property of a person convicted of a crime , but that the property or any part or interest cannot be made subject to such an order and, in particular— (a) cannot, on the exercise of due diligence, be located; (b) has been transferred to a third party in circumstances which do not give rise to a reasonable inference that the title or interest was transferred for the purpose of avoiding the confiscation of the property ; (c) is located outside the Republic of Uganda; (d) has been substantially diminished in value or rendered worthless; or (e) has been commingled with other property that cannot be divided without difficulty, the court may, instead of ordering the property or interest in it to be confiscated, order the person to pay to the Republic of Uganda an amount equal to the value of the property , part or interest. (2) Where the court orders a person to pay an amount under subsection (1), that amount shall be treated as if it were a fine imposed upon him or her in respect of a conviction for a crime . Pecuniary penalty orders"
+    },
+    {
+      "provision_ref": "s92",
+      "chapter": "Part V",
+      "section": "92",
+      "title": "Pecuniary penalty order on conviction",
+      "content": "(1) Subject to this section, where— (a) an authorised officer applies to the court for a pecuniary penalty order against a person convicted of the crime under this Act in respect of benefits derived by the person from the commission of the crime , and (b) the court is satisfied that the person derived benefits from the commission of the crime , the court may, if it considers it appropriate— (i) assess, in accordance with section 93 , the value of the benefits so derived, and (ii) order the person to pay to the Republic of Uganda a pecuniary penalty equal to the assessed value of the benefits or such less amount as the court certifies in accordance with section 95 (2) to be the amount that might be realised at the time the pecuniary penalty order is made. (2) Where— (a) property that is proceeds of the crime has been confiscated, under this Act or another law of the Republic of Uganda, in relation to the crime , or (b) a confiscation order is proposed to be made against property that is proceeds of the crime , the pecuniary penalty should be reduced by an amount equal to the value of the property as of the time of the making of the pecuniary penalty order. (3) Where the court makes a reduction under subsection (2) and later an appeal against the confiscation is successful or the proposed confiscation does not take place, an authorised officer may apply to the court to increase the penalty amount by the value of the property and the court may, if it considers it appropriate to do so, vary the order accordingly. (4) Where the court making a pecuniary penalty order is satisfied that a tax paid by the person is attributable in whole or in part to the benefits in respect of which the order is being made, the court may reduce the pecuniary penalty by an amount that, in the opinion of the court , represents the amount of tax paid attributable to such benefits. (5) Where the court makes a reduction under subsection (4) and later an amount is repaid or refunded to the person in respect to that tax, an authorised officer may apply to the court to increase the penalty amount by the amount repaid or refunded and the court may, if it considers it appropriate to do so, vary the order accordingly. (6) If the court considers it appropriate, it may reduce the amount payable by a person under a pecuniary penalty order made in relation to a crime by an amount equal to the amount payable by the person by way of fine, restitution, compensation, or damages in relation to the crime . (7) An amount payable by a person to the Republic of Uganda in accordance with a pecuniary penalty order is a civil debt due by the person to the Republic of Uganda. (8) A pecuniary penalty order against a person may be enforced as if it were an order made in civil proceedings instituted by the Republic of Uganda against the person to recover a debt due by the person to the Republic of Uganda and the debt arising from the order shall be considered to be a judgment debt. (9) The court shall not make a pecuniary penalty order under this section— (a) until the period allowed by law for the filing of an appeal from a conviction has expired without such appeal having been filed; or (b) where an appeal from the conviction has been filed, until the appeal lapses by law or is finally determined, whichever is the later date."
+    },
+    {
+      "provision_ref": "s93",
+      "chapter": "Part V",
+      "section": "93",
+      "title": "Rules of determining benefit and assessing value",
+      "content": "(1) The value of the benefits derived by a person from the commission of a crime shall be assessed by the court having regard to the evidence before it concerning— (a) the money, or the value of the property other than money, that came into the possession or under the control of that person or another person at the request or direction of that person , by reason of the commission of the crime ; and (b) the value of any other benefit provided to that person or another person at the request or direction of that person , by reason of the commission of the crime . (2) The court , in determining whether a person has benefited from the commission of a crime or from that crime taken together with other crimes, shall, unless the contrary is proved, deem— (a) all property appearing to the court to be held by the person on the day on which the application is made; and— (i) all property appearing to the court to be held by the person at any time: (ii) within the period between the day the crime , or the earliest crime , was committed and the day on which the application is made; or (iii) within the period of six years immediately before the day on which the application is made, whichever is the longer, to be property that came into the possession or under the control of the person by reason of the commission of that crime or those crimes for which the person was convicted; (b) any expenditure by the person since the beginning of that period to be an expenditure met out of payments received by him or her as a result of, or in connection with, the commission of that crime or those crimes; and (c) any property received or deemed to have been received by the person at any time as a result of, or in connection with, the commission by him or her of that crime or those crimes as property received by him or her free of any interest in it. (3) Where a pecuniary penalty order has been previously made against a person , in assessing the value of any benefit derived by him or her from the commission of the crime , the court shall leave out of account any benefits that are shown to the court to have been taken into account in determining the amount to be recovered under that previous order. (4) Where evidence is given, at the hearing of the application, that the value of the person ’s property at any time during or after the commission of the crime exceeded the value of the person ’s property before the commission of the crime , then the court shall, subject to subsection (5), treat the value of the benefits as being not less than the amount of the greatest excess. (5) After the evidence referred to in subsection (4) is given, and the person has satisfied the court that the whole or part of the excess was due to causes unrelated to the commission of the crime , subsection (4) shall not apply to that excess or, as the case may be, that part."
+    },
+    {
+      "provision_ref": "s94",
+      "chapter": "Part V",
+      "section": "94",
+      "title": "Statements relating to benefits from commission of crime",
+      "content": "(1) Where a person has been convicted of a crime and an authorised officer tenders to the court a statement as to any matters relevant to— (a) determining whether the person has benefited from the crime or from any other crime of which he or she is convicted in the same proceedings or which is taken into account in determining his or her sentence; or (b) an assessment of the value of the person ’s benefit from the crime or any other crime of which he or she is convicted in the same proceedings or which is taken into account; and (c) the person accepts to any extent an allegation in the statement, the court may, for the purposes of so determining or making that assessment, treat his or her acceptance as conclusive of the matters to which it relates. (2) Where a statement is tendered under subsection (1), and the court is satisfied that a copy of that statement has been served on the person , the court may require the person to indicate to what extent he or she accepts each allegation in the statement and, so far as the person does not accept any allegation, to indicate any matters he or she proposes to reply on. (3) Where a person fails in any respect to comply with a requirement under subsection (2), he or she may be treated for the purposes of this section as having accepted every allegation in the statement other than— (a) an allegation in respect of which he or she complied with the requirement; and (b) an allegation that he or she has benefited from the crime or that any property or advantage was obtained by him or her as a result of or in connection with the commission of the crime . (4) Where the person tenders to the court a statement as to any matters relevant to determining the amount that might be realised at the time the pecuniary penalty order is made, and the authorised officer accepts to any extent any allegation in the statement, the court may, for the purposes of that determination, treat the acceptance of the authorised officer as conclusive of the matters to which it relates. (5) An allegation may be accepted or a matter indicated for the purposes of this section either orally before the court or in writing, in accordance with the law. (6) An acceptance by a person under this section that he or she received any benefits from the commission of a crime is admissible in any proceedings of any crime ."
+    },
+    {
+      "provision_ref": "s95",
+      "chapter": "Part V",
+      "section": "95",
+      "title": "Amount recovered under pecuniary penalty order",
+      "content": "(1) Subject to subsection (2), the amount to be recovered under a pecuniary penalty order shall be the amount which the court assesses to be the value of the person ’s benefit from the crime , or if more than one, all the crimes in respect of which the order may be made. (2) Where the court is satisfied as to any matter relevant for determining the amount which might be realised at the time the pecuniary penalty order is made whether by acceptance under section 94 or otherwise, the court may issue a certificate giving its order as to the matters concerned, and shall do so if satisfied that the amount that might be realised at the time the pecuniary penalty order is made is less than the amount that the court assesses to be the value of the person’s benefit from the crime, or if more than one, all the crimes in respect of which the pecuniary penalty order may be made."
+    },
+    {
+      "provision_ref": "s96",
+      "chapter": "Part V",
+      "section": "96",
+      "title": "Lifting the corporate veil",
+      "content": "(1) In assessing the value of benefits derived by a person from the commission of a crime , the court may treat as property of the person any property that, in the opinion of the court , is subject to the effective control of the person , whether or not he or she has— (a) any legal or equitable interest in the property ; or (b) any right, power or privilege in connection with the property . (2) Without prejudice to the generality of subsection (1), the court may have regard to— (a) shareholdings in, debentures over or directorships in any company that has an interest, whether direct or indirect, in the property , and for this purpose the court may order the investigation and inspection of the books of a named company; (b) any trust that has any relationship to the property of the kind referred to in subsection (a); and (c) any relationship whatsoever between the persons having an interest in the property or in companies of the kind referred to in paragraph (a) or trust of the kind referred to in paragraph (b), and any other persons. (3) Where the court , for the purposes of making a pecuniary penalty order against a person , treats particular property as the person ’s property under to subsection (1), the court may, on application by an authorised officer make an order declaring that the property is available to satisfy the order. (4) Where the court declares that property is available to satisfy a pecuniary penalty order— (a) the order may be enforced against the property as if the property were of the person against whom the order is made; and (b) a restraining order may be made in respect of the property as if the property were owned by the person against whom the order is made. (5) Where an authorised officer makes an application for an order under subsection (3) that property is available to satisfy a pecuniary penalty order against a person — (a) the authorised officer shall give written notice of the application to the person who the authorised officer has reason to believe may have an interest in the property ; and (b) any person who claims an interest in the property may appear and adduce evidence at the hearing."
+    },
+    {
+      "provision_ref": "s97",
+      "chapter": "Part V",
+      "section": "97",
+      "title": "Discharge of pecuniary penalty orders",
+      "content": "A pecuniary penalty order shall be discharged— (a) if the conviction of the crime or crimes in reliance on which the order was made is quashed and no conviction for the crimes or crimes is substituted; (b) if the order is quashed; or (c) on the satisfaction of the order by payment of the amount due under the order. Realisation of property"
+    },
+    {
+      "provision_ref": "s98",
+      "chapter": "Part V",
+      "section": "98",
+      "title": "Realisation of property",
+      "content": "(1) Where a pecuniary penalty order is made and the order is not the subject of an appeal or is not discharged, the court may, upon an application by an authorised officer , exercise the powers conferred upon the court by this section. (2) The court may appoint a receiver in respect of realisable property . (3) The court may empower a receiver appointed under subsection (2) to take possession of any realisable property subject to such conditions or exceptions as may be specified by the court . (4) The court may order any person having possession of realisable property to give possession of it to any such receiver. (5) The court may empower any such receiver to realise any realisable property in such manner as the court may direct. (6) The court may order any person holding an interest in realisable property to make such payment to the receiver in respect of any beneficial interest held by the defendant or, as the case may be, the recipient of a gift caught by this Act as the court may direct, and the court may, on the payment being made, by order transfer, grant or extinguish any interest in the property . (7) The court shall not, in respect of any property , exercise the powers conferred by subsection (3), (4), (5) or (6), unless a reasonable opportunity has been given to persons holding any interest in the property to make representations to the court ."
+    },
+    {
+      "provision_ref": "s99",
+      "chapter": "Part V",
+      "section": "99",
+      "title": "Application of proceeds of realisation and other sums",
+      "content": "(1) Subject to subsection (2), the following property provided in paragraphs (a) and (b) in the hands of a receiver appointed under subsection (2) of section 98 — (a) the proceeds of the realisation of any property under section 98 ; and (b) any other sums, being property held by the person subject to the penalty order, shall, after such payments, if any, as the court may have directed be made out of those sums, be payable to the registrar of the court and be applied on the defendant ’s behalf towards the satisfaction of the pecuniary penalty order in the manner provided by subsection (3). (2) Where, after the amount payable under the confiscation order or pecuniary penalty order has been fully paid, any such sums as may remain in the hands of the receiver shall be distributed by the receiver among those persons who held property which has been realised under this section and in such proportions as the court may direct, after giving a reasonable opportunity for those persons to make representations to the court . (3) Property received by the registrar of the court on account of an amount payable under a confiscation order or a pecuniary penalty order shall be applied as follows— (a) if received by him or her from a receiver under subsection (1), it shall first be applied in payment of the receiver’s remuneration and expenses; and (b) the balance shall be paid or, as the case may be, transferred, to the Consolidated Fund."
+    },
+    {
+      "provision_ref": "s100",
+      "chapter": "Part V",
+      "section": "100",
+      "title": "Treatment of realisable property in bankruptcy or winding up",
+      "content": "(1) Where a person who holds realisable property is adjudged bankrupt, such realisable property shall not be excluded from the property of the bankrupt and is therefore subject to the bankruptcy laws or any orders issued by a court under the bankruptcy laws. (2) Where realisable property is held by a company and an order for the winding up of the company has been made or a resolution has been passed by the company for its voluntary winding up, such realisable property shall not be excluded from the property to be distributed to the company’s creditors or owners and is therefore subject to the law applicable to winding up or any order issued by a court under such law."
+    },
+    {
+      "provision_ref": "s101",
+      "chapter": "Part V",
+      "section": "101",
+      "title": "Disposition of confiscated property",
+      "content": "(1) Where property is confiscated under this Act, the court may, in accordance with the law, make orders for the transfer or sale of such confiscated property . (2) Proceeds arising from the disposition of the confiscated property shall be deposited in the Consolidated Fund."
+    },
+    {
+      "provision_ref": "s102",
+      "chapter": "Part V",
+      "section": "102",
+      "title": "Property of foreign crimes",
+      "content": "The court may, in accordance with the law, order the confiscation of any property in its territorial jurisdiction when it is connected to a crime committed against the laws of another State, and when that crime would have been a crime if committed within its jurisdiction."
+    },
+    {
+      "provision_ref": "s103",
+      "chapter": "Part V",
+      "section": "103",
+      "title": "Special account",
+      "content": "(1) There shall be paid into a special account funds appropriated by Parliament (2) The funds as appropriated under subsection (1) may be used for the following purposes— (a) to satisfy an obligation of the Republic of Uganda to a foreign State in respect of the equitable sharing of confiscated or forfeited property , whether under a treaty or arrangement providing for mutual assistance in criminal matters or otherwise; (b) to meet the remuneration and expenses of a receiver, trustee, or manager appointed to carry out the provisions of this Act; (c) to pay valid mortgages and liens against confiscated property ; (d) to pay necessary expenses for the management, maintenance, repairs, upkeep or disposition of seized or confiscated property ; (e) to recover costs associated with administration of the Account."
+    },
+    {
+      "provision_ref": "s104",
+      "chapter": "Part V",
+      "section": "104",
+      "title": "Management of restrained and confiscated property",
+      "content": "(1) Property restrained or confiscated under this Act shall be managed in accordance with regulations made under this Act. (2) The court may require any person having possession of the property to give up possession of the property to the person appointed under the regulations made under this Act. (3) The power to manage or otherwise deal with property under this section includes— (a) in the case of perishable or rapidly depreciating property , the power to sell that property , and (b) in the case of property having little or no value, the power to destroy that property . Part VI – International cooperation"
+    },
+    {
+      "provision_ref": "s105",
+      "chapter": "Part VI",
+      "section": "105",
+      "title": "International agreement",
+      "content": "The Minister or the authorised officer may enter into an agreement with any ministry, department, public authority or body outside Uganda for the collection, use or disclosure of information, for the purpose of exchanging or sharing information outside Uganda or for any purpose under this Act."
+    },
+    {
+      "provision_ref": "s106",
+      "chapter": "Part VI",
+      "section": "106",
+      "title": "General provisions",
+      "content": "A court or other competent authority of Uganda shall cooperate with courts or other competent authority of another State in taking appropriate measures to provide assistance in matters concerning money laundering and other organised crimes, including the exchange of information, joint investigations and court proceedings such as provisional measures , confiscation and extradition, in accordance with this Act and any international conventions, treaties, agreements or arrangements to which Uganda is a party and within the limits of the legal systems of Uganda."
+    },
+    {
+      "provision_ref": "s107",
+      "chapter": "Part VI",
+      "section": "107",
+      "title": "Request for mutual legal assistance",
+      "content": "(1) A competent authority in Uganda may make a request to a competent authority of another State for legal assistance related to a civil, criminal or administrative investigation, prosecution, proceedings or enforcement of court orders in accordance with the law applicable in that state. (2) A competent authority in Uganda may receive a request from a competent authority of another State to identify, trace, freeze, seize or confiscate property derived from money laundering or other crimes, and may take appropriate actions, including those authorised by this Act, to fulfill the request. (3) Action under subsection (2) shall be taken only in accordance with the laws of Uganda, and any international conventions, treaties, agreements or arrangements to which the Republic of Uganda is a party. (4) A request for mutual assistance may be refused where— (a) it was not made by a competent authority according to the legislation of the requesting State or if it was not transmitted in the proper manner; (b) its execution is likely to prejudice the public order, sovereignty, security or other essential interests of Uganda; (c) the crime to which it relates is the subject of criminal proceedings or has already been the subject of a final judgment in Uganda; (d) the measures requested, or any other measures having similar effects, are not permitted by the laws of Uganda or if, under the laws of Uganda, they are not applicable to the crime referred to in the request; (e) the measures requested cannot be ordered or executed by reason of the time-barring of the crime under the laws of Uganda; (f) the decision rendered in the requesting State was delivered under conditions that did not afford sufficient guarantees as to the rights of the defence; (g) there are substantial grounds for believing that the measure or order being sought is directed at the person in question solely on account of that person ’s race, religion, nationality, ethnic origin, political opinions, sex or status; (h) the request relates to a crime of a political nature or is motivated by a political consideration; or (i) the case is not sufficiently important to justify the measures requested or the enforcement of the decision rendered abroad. (4) Mutual legal assistance may be postponed by Uganda on the ground that it interferes with an ongoing investigation, prosecution or judicial proceeding. (5) Before refusing a request under to subsection (3) or postponing its execution under to subsection (4) of this section, Uganda shall consult with the requesting State to consider whether assistance may be granted subject to such terms and conditions as it deems necessary. (6) Uganda shall have power of disposal of property confiscated in its territory at the request of another State, unless otherwise decided under an agreement concluded with the requesting State ."
+    },
+    {
+      "provision_ref": "s108",
+      "chapter": "Part VI",
+      "section": "108",
+      "title": "Judgment as evidence",
+      "content": "A final judicial order or judgment that provides for the confiscation of property , connected to money laundering or other crimes, issued by a court or other competent authority of another State may be recognised by a Ugandan court as evidence that the property referred to by such order or judgment may be subject to confiscation in accordance with the laws of Uganda."
+    },
+    {
+      "provision_ref": "s109",
+      "chapter": "Part VI",
+      "section": "109",
+      "title": "Request for confiscation",
+      "content": "(1) Upon receipt of a request from another State for confiscation of property derived from money laundering or other crimes— (a) an authorised officer shall submit the request to the court for the purpose of obtaining an order of confiscation and, if such an order is granted, enforce it according to its terms; or (b) subject to subsections (2), (3), (4) and (5) of this section, an authorised officer shall enforce an order of confiscation granted by a court of the requesting State as if and to the extent such an order could be enforced if granted by a court of Uganda under to this Act, and insofar as it relates to property situated in Uganda. (2) Upon application by an authorised officer , the court may register and enforce a confiscation order of the requesting State and treat it as if it had been rendered by a court of Uganda, if the court is satisfied that— (a) the order is final, not subject to an appeal, and a certified copy bearing the seal or signature of the court of the requesting State has been submitted; (b) the person against whom, or in relation to whose property the order has been made, received notice of the confiscation proceeding in the requesting State and had an opportunity to defend his or her interest in the property ; and (c) enforcement of the order would not be contrary to the interests of justice. (3) A copy of the application to register and enforce the confiscation order or judgment of the requesting State shall be served upon any person who appears to the court to own or control or otherwise have a legal interest in the property described in the order. (4) Persons entitled to be served with a copy of the application shall have thirty days from the date of receipt to file an objection contesting the enforcement of the confiscation order of the requesting State . (5) Unless the person contesting the enforcement of the confiscation order of the requesting State is able to establish one of the conditions in subsection (2), the court is authorised to enter such orders as may be necessary to give effect to the order or judgment of the requesting State and shall be bound by the findings of fact to the extent that they are stated in the order."
+    },
+    {
+      "provision_ref": "s110",
+      "chapter": "Part VI",
+      "section": "110",
+      "title": "Transfer of proceeds of crime to requesting state",
+      "content": "(1) On request by a foreign State, the Minister shall transfer to it any proceeds or instrumentality recovered in Uganda. (2) The Minister may deduct all expenses incurred in the recovery of the proceeds or instrumentality."
+    },
+    {
+      "provision_ref": "s111",
+      "chapter": "Part VI",
+      "section": "111",
+      "title": "Other mutual assistance",
+      "content": "(1) A competent authority in Uganda may— (a) request another State for assistance related to a civil, criminal, or administrative investigation, prosecution or proceeding, as the case may be, involving money laundering or another crimes; (b) may receive and take appropriate measure with respect to a request from another State, for assistance related to a civil, criminal, or administrative investigation, prosecution or proceeding, as the case may be, involving money laundering or another. (2) Mutual legal assistance to be afforded in accordance with this section may be any of the following— (a) obtaining testimony or statements from persons in Uganda; (b) facilitating the voluntary presence or availability in Uganda of persons, including those in custody, to give testimony; (c) effecting service of documents; (d) executing searches and seizures, and freezing ; (e) instituting provisional measures under this Act; (f) examining objects or places; (g) providing information, evidentiary items and expert evaluations; (h) providing originals or certified copies of relevant documents and records, including government, bank, financial, corporate or business records; (i) locating or identifying persons; (j) identifying or tracing proceeds of crime , property , instrumentalities or other things for evidential purposes; (k) facilitating the voluntary appearance of a person in the requesting State ; or (l) any other type of assistance not contrary to the laws of Uganda. (3) The competent authorities of Uganda— (a) shall provide to the requesting State copies of Government records, documents or information in its possession that under the laws of Uganda are available to the general public; or (b) may, at their discretion, provide to the requesting State in whole, in part or subject to such conditions as they deem appropriate, copies of any Government records, documents or information in its possession that under the laws of Uganda are not available to the general public. (4) Subject to the laws of Uganda, the competent authorities of Uganda may, without prior request, transmit information relating to criminal matters to a competent authority in another State where they believe that such information could assist the authority in undertaking or successfully concluding enquiries and criminal proceedings or could result in a request formulated by the other State under this Part."
+    },
+    {
+      "provision_ref": "s112",
+      "chapter": "Part VI",
+      "section": "112",
+      "title": "Disposal of confiscated property",
+      "content": "(1) Property confiscated by the court or competent authorities of Uganda under this Part shall be disposed of in accordance with regulations made under this Act. (2) When acting on a request made by another State in accordance with this Part, the court or competent authorities of Uganda shall, to the extent permitted by the laws of Uganda and if so requested, give priority consideration to returning the confiscated property to the requesting State so that it can give compensation to the victims of the crime or return such property to the legitimate owners. (3) When acting on a request made by another State in accordance with this Part, the court or competent authority of Uganda may give special consideration to concluding agreements or arrangements on— (a) contributing the value of such property or a part of it to the account designated in section 103 and to Government bodies specialising in the fight against money laundering and other crimes; or (b) sharing with other States, on a regular or case-by-case basis, funds derived from the sale of such property , in accordance with the laws of Uganda."
+    },
+    {
+      "provision_ref": "s113",
+      "chapter": "Part VI",
+      "section": "113",
+      "title": "Extradition",
+      "content": "(1) A crime under this Act shall be deemed to be an extraditable crime under the provisions of the Extradition Act. (2) Extradition under this Act shall be carried out if the crime for which extradition is sought is punishable under the laws of both Uganda and the requesting State . (3) Where the request for extradition includes several separate crimes, some of which qualify under subsection (2) and some of which do not, Uganda may apply this section also in respect to the latter crimes. (4) Each of the crimes to which this section applies shall be deemed to be included as an extraditable offence in any extradition treaty existing between the requesting State and Uganda. (5) Extradition shall be subject to the conditions provided for by the laws of Uganda or by applicable extradition treaties, including, inter alia conditions in relation to the minimum penalty requirement for extradition, and the grounds upon which Uganda may refuse extradition. (6) Extradition shall not be granted where— (a) there are substantial grounds for believing that the request for extradition has been made for the purpose of prosecuting or punishing a person on account of that person ’s race, religion, nationality, ethnic origin, political opinions, sex or status, or that that person ’s position may be prejudiced for any of those reasons; (b) a final judgment has been rendered in Uganda in respect of the crime for which extradition is requested; (c) the person whose extradition is requested has, under the legislation of either State, become immune from prosecution or punishment for any reason, including lapse of time or amnesty; (d) the person whose extradition is requested has been or would be subjected in the requesting State to torture or cruel, inhuman or degrading treatment or punishment or if that person has not received or would not receive the minimum guarantees in criminal proceedings, as contained in article 14 of the International Convention on Civil and Political Rights; (e) the judgment of the requesting state has been rendered in absentia, the convicted person has not had sufficient notice of the trial or the opportunity to arrange for his or her defence and has not had or will not have the opportunity to have the case retried in his or her presence; (f) a prosecution in respect of the crime for which extradition is requested is pending in Uganda against the person whose extradition is requested; (g) the crime for which extradition is requested has been committed outside the territory of either State and the laws of Uganda do not provide for jurisdiction over crimes committed outside its territory in comparable circumstances; (h) the person whose extradition is requested has been sentenced or would be liable to be tried or sentenced in the requesting State by an extraordinary or ad hoc court or tribunal; (i) the extradition of the person in question would be incompatible with humanitarian considerations in view of the age, health or other personal circumstances of that person ; or (j) the crime for which extradition is requested is regarded under the laws of Uganda as having been committed in whole or in part within its territory; (7) If Uganda refuses extradition on the grounds stated in subsection (6), it shall, at the request of the requesting State , refer the case without undue delay to its competent authorities in order that proceedings may be instituted against the person concerned in respect of the crime , which gave rise to the request. (8) Subject to the laws of Uganda and to the rights of third parties, all property found in Uganda that has been acquired as a result of the crime committed or that may be required as evidence shall, if the requesting State so requests, be surrendered to the requesting State if extradition is granted. (9) Subject to the laws of Uganda and its extradition treaties, upon satisfying the court that the circumstances so warrant and are urgent and at the request of the requesting State , an authorised officer may take a person whose extradition is sought and who is present in Uganda into custody or take other appropriate measures to ensure his or her presence at extradition proceedings. (10) Any person regarding whom proceedings are being carried out in connection with any of the crimes to which this section applies shall be guaranteed fair treatment at all stages of the proceedings, including enjoyment of all the rights and guarantees provided by the laws of Uganda."
+    },
+    {
+      "provision_ref": "s114",
+      "chapter": "Part VI",
+      "section": "114",
+      "title": "Provisions common to requests for mutual assistance and requests for extradition",
+      "content": "(1) For the purposes of this Act, the crimes referred to in this Act shall not be regarded as crimes of a political nature. (2) Requests sent by another State for the purpose of establishing money laundering crimes or enforcing or ordering provisional measures or confiscations or for extradition shall be transmitted through diplomatic channels. (3) All requests and their annexes shall be accompanied by a translation in English. (4) Requests shall specify— (a) the identity of the authority making the request; (b) the subject matter and nature of the investigation, prosecution or judicial proceeding to which the request relates, and the name and functions of the authority conducting the investigation, prosecution or judicial proceeding; (c) a summary of the relevant facts, except in relation to requests for the purpose of service of judicial documents; (d) a description of the assistance sought and details of any particular procedure that the requesting State wishes to be followed; (e) if known, the identity, location and nationality of any person concerned; (f) any information necessary for identifying and tracing the persons or property in question, such as description, marital status, nationality, address, occupation; (g) the purpose for which the evidence, information or action is sought; and (h) the text of the statutory provision establishing the crime or, where applicable, a statement of the law applicable to the crime and an indication of the penalty that can be imposed for the crime . (5) In addition, requests shall include the following particulars in certain specific cases— (a) in the case of requests for the taking of provisional measures , a description of the measures sought; (b) in the case of requests for the making of a confiscation order, a description of the property to be confiscated and a statement of the facts relied upon by the requesting State to enable the court to order the confiscation under the laws of Uganda; (c) in the case of requests for the enforcement of orders relating to provisional measures or confiscations; (i) a legally admissible copy of the order upon which the request is based issued by the requesting State , a statement of the grounds on which the order was made if they are not indicated in the order itself, and a statement of the facts and information as to the extent to which execution of the order is requested; (ii) a document certifying that the order is enforceable and not subject to ordinary means of appeal; (iii) an indication of the extent to which the order is to be enforced and, where applicable, the amount of the sum for which recovery is to be sought in the item or items of property ; (iv) where necessary and if possible, any information concerning third-party rights of claim on the property or other things in question; or (d) in the case of requests for extradition, if the person has been convicted of a crime , the original or a certified true copy of the judgment or any other document setting out the conviction and the sentence imposed, the fact that the sentence is enforceable and the extent to which the sentence remains to be served. (6) (a) Where a request requires that its existence and substance be kept confidential, such requirement shall be observed except to the extent necessary to give effect to the request and if confidentiality is not possible, the requesting State shall promptly be informed; (b) The communication or use, for investigations or proceedings other than those specified in the request of the other State, of evidential facts contained in the request shall be prohibited, except with the prior consent of the requesting State . (7) Costs incurred in complying with requests provided for under Part VI of this Act shall be borne by Uganda unless otherwise agreed with the requesting State . (8) The decisions or actions provided for in this Part shall be taken by the court or other competent authority of Uganda in accordance with and subject to the provisions of the laws of Uganda, its procedural rules and any bilateral or multilateral treaty, agreement or arrangement to which Uganda may be bound in relation to the requesting State . (9) The provisions of this Part shall not be construed to prejudice the rights of bona fide third parties. (10) The provisions of this Part shall not affect the obligations of Uganda under any other treaty, bilateral or multilateral, that governs or will govern, in whole or in part mutual legal assistance. (11) Uganda shall not decline to render mutual legal assistance under this Part on the ground of bank secrecy or confidentiality. (12) Uganda shall not refuse a request for mutual legal assistance, including extradition, on the sole ground that the crime is also considered to involve fiscal matters. (13) Uganda may decline to render mutual legal assistance under this Part on the ground of absence of dual criminality. (14) Uganda may, when it deems appropriate, provide assistance, to the extent it decides at its discretion, irrespective of whether the conduct would constitute a crime under the laws of Uganda. (15) The requesting State shall not transmit or use information or evidence furnished by Uganda for investigations, prosecutions or judicial proceedings other than those stated in the request, without the prior consent of Uganda."
+    },
+    {
+      "provision_ref": "s115",
+      "chapter": "Part VI",
+      "section": "115",
+      "title": "Witnesses in custody",
+      "content": "A person who is being detained or is serving a sentence in Uganda whose presence in another State is requested for the purposes of identification, testimony or otherwise providing assistance in obtaining evidence for investigations, prosecutions or judicial proceedings in relation to crimes covered by this Act may be transferred where— (a) the person freely gives his or her consent; (b) the competent authorities of both Uganda and the requesting State agree, subject to such conditions as they may deem appropriate; and (c) the person transferred receives credit for service of the sentence being served in Uganda for time spent in the requesting State . Part VII – Offences and penalties"
+    },
+    {
+      "provision_ref": "s116",
+      "chapter": "Part VII",
+      "section": "116",
+      "title": "Offence of money laundering",
+      "content": "A person who engages in any act of money laundering prohibited in section 3 , commits an offence. [section 116 substituted by section 16 of Act 3 of 2017 ]"
+    },
+    {
+      "provision_ref": "s117",
+      "chapter": "Part VII",
+      "section": "117",
+      "title": "Tipping-off",
+      "content": "(1) It is an offence for an employee, officer, director or agent of any accountable person to notify a person , other than a court , competent authority or other person authorised by law, that information has been requested or furnished or reported or submitted to the Authority under this Part. (2) A person who directly or indirectly alerts, or brings to the attention of, another person , other than an authorised officer , competent authority , court or other person authorised by law, that information has been requested or furnished under Part III or Part VI of this Act, or that an investigation is being or may be conducted as a result, commits an offence."
+    },
+    {
+      "provision_ref": "s118",
+      "chapter": "Part VII",
+      "section": "118",
+      "title": "Falsification, concealment, etc of documents",
+      "content": "A person who falsifies, conceals, destroys or otherwise disposes of or causes or permits the falsification, concealment, destruction or disposal of any document or material which is or is likely to be relevant to an investigation into money laundering or is subject to any order made in accordance with provisions of this Act, commits an offence."
+    },
+    {
+      "provision_ref": "s119",
+      "chapter": "Part VII",
+      "section": "119",
+      "title": "Failure to identify persons",
+      "content": "An accountable person who performs any act to give effect to a business relationship or a single transaction in contravention of section 6 (b) commits an offence."
+    },
+    {
+      "provision_ref": "s120",
+      "chapter": "Part VII",
+      "section": "120",
+      "title": "Failure to keep records",
+      "content": "An accountable person who fails to keep records of information in accordance of section 7 or maintain such records in accordance with section 7 commits an offence."
+    },
+    {
+      "provision_ref": "s121",
+      "chapter": "Part VII",
+      "section": "121",
+      "title": "Facilitating money laundering",
+      "content": "An accountable person or its officers or employees, who knowingly allows it or its services to be used to commit or facilitate money laundering in contravention of section 16 commits an offence."
+    },
+    {
+      "provision_ref": "s122",
+      "chapter": "Part VII",
+      "section": "122",
+      "title": "Destroying or tampering with records",
+      "content": "A person who willfully tampers with a record kept in terms of section 6 or willfully destroys such a record, otherwise than in accordance with section 7 commits an offence."
+    },
+    {
+      "provision_ref": "s123",
+      "chapter": "Part VII",
+      "section": "123",
+      "title": "Refusal, omission, neglect or failure to give assistance",
+      "content": "An accountable person who refuses, omits, neglects or fails to give assistance to a representative of the Authority in accordance with section 11 commits an offence."
+    },
+    {
+      "provision_ref": "s124",
+      "chapter": "Part VII",
+      "section": "124",
+      "title": "Failure to report cash transactions",
+      "content": "A person who intentionally fails to report to the Authority the prescribed information in respect of cash transactions, in accordance with section 8 commits an offence."
+    },
+    {
+      "provision_ref": "s125",
+      "chapter": "Part VII",
+      "section": "125",
+      "title": "Failure to report suspicious or unusual transactions",
+      "content": "(1) A person who intentionally fails, within the prescribed period, to report to the Authority the prescribed information in respect of a suspicious or unusual transaction or series of transactions in accordance with section 9 commits an offence. (2) A person referred to in section 9 who reasonably ought to have known or suspected that any of the facts referred to in section 9 exists, and who negligently fails to report the prescribed information in respect of a suspicious or unusual transaction or a series of transactions or enquiry, commits an offence."
+    },
+    {
+      "provision_ref": "s126",
+      "chapter": "Part VII",
+      "section": "126",
+      "title": "Failure to report conveyance of cash into or out of Uganda",
+      "content": "A person who intentionally fails to notify the customs and excise department of the Uganda Revenue Authority or who intentionally files a false notification regarding the cross-border transportation or sending of currency or negotiable bearer instruments which exceed the prescribed value, in accordance with section 10 , commits an offence."
+    },
+    {
+      "provision_ref": "s127",
+      "chapter": "Part VII",
+      "section": "127",
+      "title": "Failure to send a report to Authority",
+      "content": "A person referred to in section 10(1)(b) of Part III who fails to send a report regarding the conveyance of cash to the Authority in accordance with that section, commits an offence."
+    },
+    {
+      "provision_ref": "s128",
+      "chapter": "Part VII",
+      "section": "128",
+      "title": "Failure to comply with orders made under the Act",
+      "content": "A person who is subject to an order issued under Part V of this Act, and— (a) fails to comply with the order without reasonable cause, or (b) knowingly produces false or misleading information in purported compliance with the order, commits an offence."
+    },
+    {
+      "provision_ref": "s129",
+      "chapter": "Part VII",
+      "section": "129",
+      "title": "Contravening a restraining order",
+      "content": "A person who intentionally contravenes a restraining order issued under section 73 of Part V, by disposing of or otherwise dealing with property that is subject to the restraining order, commits an offence."
+    },
+    {
+      "provision_ref": "s130",
+      "chapter": "Part VII",
+      "section": "130",
+      "title": "Misuse of information",
+      "content": "A person who— (a) discloses confidential information held by or obtained from the Authority otherwise than in accordance with section 38 ; (b) intentionally destroys or in any other way tampers with information kept by the Authority for the purposes of this Act; or (c) uses information obtained from the Authority otherwise than in accordance with section 38 commits an offence."
+    },
+    {
+      "provision_ref": "s131",
+      "chapter": "Part VII",
+      "section": "131",
+      "title": "Obstructing an official in performance of functions",
+      "content": "A person who obstructs, hinders or uses physical force, threats or intimidation to interfere with a judge of the court or an authorised officer in the performance of the duties or the exercise of the powers in terms of this Act, commits an offence."
+    },
+    {
+      "provision_ref": "s132",
+      "chapter": "Part VII",
+      "section": "132",
+      "title": "Influencing testimony",
+      "content": "A person who uses physical force, threats or intimidation or promise, offering giving of an undue advantage to induce false testimony or to interfere in the giving of testimony or the production of evidence in a proceeding in relation to the commission of offenses under this Act, commits an offence."
+    },
+    {
+      "provision_ref": "s133",
+      "chapter": "Part VII",
+      "section": "133",
+      "title": "General non-compliance with requirements of this Act and conducting transactions to avoid reporting duties",
+      "content": "(1) A person who conducts, or causes to be conducted, one or more transactions with the purpose, in whole or in part, of avoiding giving rise to a reporting duty under this Act, commits an offence. (2) An accountable person who fails to take any reasonable step to secure compliance with the requirements of this Act or fails to do anything required by this Act commits an offence."
+    },
+    {
+      "provision_ref": "s134",
+      "chapter": "Part VII",
+      "section": "134",
+      "title": "Unauthorised access to computer system or application or data",
+      "content": "(1) A person who, without authority to do so, willfully accesses or causes any other person to access any computer system that belongs to, or is under the control of, the Authority , or any application or data held in such a computer system, commits an offence. (2) A person who, without authority to do so, willfully causes any computer system that belongs to, or is under the control of, the Authority , to perform or fail to perform a function, commits an offence."
+    },
+    {
+      "provision_ref": "s135",
+      "chapter": "Part VII",
+      "section": "135",
+      "title": "Unauthorised modification of contents of computer system",
+      "content": "A person who, without authority to do so, willfully causes a computer system that belongs to, or is under the control of, the Authority , or any application or data held in such a computer system, to be modified, destroyed, erased or the operation or reliability of such a computer system, application or data to be otherwise impaired, commits an offence."
+    },
+    {
+      "provision_ref": "s136",
+      "chapter": "Part VII",
+      "section": "136",
+      "title": "Penalties",
+      "content": "(1) A person who commits any offence prohibited under section 3 and section 116 of this Act is liable on conviction to:— (a) in the case of a natural person , imprisonment for a period not exceeding fifteen years or a fine not exceeding one hundred thousand currency points or both; (b) in the case of a legal person by a fine not exceeding two hundred thousand currency points. (2) An offence mentioned in sections 117 to 135 is punishable— (a) if committed by a natural person , by imprisonment for a period not exceeding five years or a fine not exceeding thirty three thousand currency points, or both; (b) if committed by a legal person such as a corporation, by a fine not exceeding seventy thousand currency points; (c) if a continuing offence, by a fine not exceeding five thousand currency points for each day on which the offence continues; or (d) if no specific penalty is provided, by a fine not exceeding nine thousand currency points and in case of a continuing offence, to an additional fine not exceeding five thousand currency points for each day on which the offence continues. (3) Where it is necessary, for the purpose of convicting a person who has committed an offence, to establish the state of mind of the legal person , it shall be sufficient to show that a director, officer, employee or agent of the body corporate, acting in the course of employment of the director, employer or agent, had that state of mind."
+    },
+    {
+      "provision_ref": "s137",
+      "chapter": "Part VII",
+      "section": "137",
+      "title": "Defences",
+      "content": "Where a person who is an employee, director, trustee, or a partner of accountable person is charged with committing an offence under section 126 , that person may raise as a defence the fact that he or she had— (a) complied with the applicable obligation in terms of the internal rules relating to the reporting of information of the accountable person ; or (b) reported the matter to the person charged with the responsibility of ensuring compliance by the accountable person with its duties under this Act; or (c) reported the matter to his or her supervisor, if any, where— (i) the accountable person had not appointed such a person or established such rules; or (ii) the internal rules were not applicable to that person . Part VIII – Miscellaneous"
+    },
+    {
+      "provision_ref": "s138",
+      "chapter": "Part VIII",
+      "section": "138",
+      "title": "Act not to limit powers of investigating authorities or supervisory bodies",
+      "content": "This Act does not detract from— (a) an investigating authority’s powers in terms of other legislation to obtain information for the purpose of criminal investigations; or (b) a supervisory body’s duties or powers in relation to the entities supervised or regulated by it."
+    },
+    {
+      "provision_ref": "s139",
+      "chapter": "Part VIII",
+      "section": "139",
+      "title": "Amendment of Schedules",
+      "content": "(1) The Minister may, by statutory instrument amend the First Schedule of this Act. (2) The Minister may, with the approval of Parliament and by statutory instrument, amend the list of accountable persons in the Second Schedule by— (a) adding to the list any person or category of persons if the Minister reasonably believes that that person or category of persons is used, or is likely to be used in the future, for money laundering purposes; (b) deleting any person or category of persons not being used, and not likely to be used in the future, for money laundering purposes; or (c) making technical changes to the list. (3) Before the Minister amends the Second Schedule in terms of subsection (2) (a) or (b), the Minister shall consult the Board ; and where— (a) only one person will be affected by the proposed amendment, give that person at least thirty days’ written notice to submit written presentations to the Minister ; or (b) a category of persons will be affected by the proposed amendment, by notice in the Gazette give persons or persons belonging to that category at least sixty days’ written notice to submit written representations to the Minister ."
+    },
+    {
+      "provision_ref": "s140",
+      "chapter": "Part VIII",
+      "section": "140",
+      "title": "Immunity",
+      "content": "The Authority or an employee or representative of the Authority , or any other person performing a function or exercising power under this Act, is not liable for anything done in good faith in terms of or for furthering the objectives of this Act."
+    },
+    {
+      "provision_ref": "s141",
+      "chapter": "Part VIII",
+      "section": "141",
+      "title": "Regulations",
+      "content": "The Minister may, upon advice of the Board , make regulations as may be required for carrying into effect any of the provisions of this Act. First Schedule (Section 1) Currency point A currency point is equivalent to Uganda shillings twenty thousand. Second Schedule (Section 1) List of accountable persons 1. Advocates as defined in the Advocates Act notaries licensed and certified under the Notaries Public Act, accountants as defined in the Accountants Act, and other independent legal professionals and accountants.¹ ¹This refers to sole practitioners, partners or employed professionals within professional firms. It is not meant to refer to ‘internal’ professionals that are employees of other types of business nor to professionals working for government agencies. 2. A board of executors or a trust company or any other person that invests, keeps in safe custody, controls, or administers trust property within the meaning of the Trustees Act. 3. Casinos (which also includes internet casinos). 4. Real estate agents. 5. Dealers in precious metals and gems. 6. Trust and company service providers not covered elsewhere in this Schedule which as a business provide any of the following services to third parties— (a) acting as a formation agent of legal persons; (b) acting as (or arranging for another person to act as) a director or secretary of a company, a partner of a partnership, or a similar position in relation to other legal persons; (c) providing a registered office, business address or accommodation, correspondence or administrative address for a company, a partnership or any other legal person or arrangement; (d) acting as (or arranging for another person to act as) a trustee of an express trust; (e) acting as (or arranging for another person to act as) a nominee shareholder for another person. 7. A financial institution as defined in the Financial Institutions Act. 8. A broker, dealer or investment advisor licensed under the Capital Markets Authority Act. 9. An insurance company licensed under the Insurance Act. 10. Registrars of Companies. 11. Registrars of Land. 12. The Uganda Investment Authority. 13. All licensing authorities in Uganda. 14. Any other person who conducts the business of: (a) acceptance of deposits and other repayable funds from the public including private banking; (b) lending including, inter alia , consumer credit, mortgage credit, factoring with or without recourse, and finance of commercial transactions); (c) financial leasing (not including financial leasing arrangements in relation to consumer products); (d) the transfer of money or value;² (e) issuing and managing means of payment e.g., credit and debit cards, cheques, traveller’s checks, money orders, bankers’ drafts, electronic money; (f) financial guarantees and commitments; (g) trading in: (i) money market instruments (cheques, bills, CDs, derivatives, etc.), (ii) foreign exchange, (iii) exchange, interest rate and index instruments, (iv) transferable securities, (v) commodity futures trading; (h) participation in securities issues and provision of financial services related to such issues; (i) individual and collective portfolio management; (j) safekeeping and administration of cash or liquid securities on behalf of other persons; (k) otherwise investing, administering or managing funds or money on behalf of other persons; (l) underwriting and placement of life insurance and other investment related insurance, including non-life insurance business;³ (m) money and currency changing. ²This applies to financial activity in both the formal and informal sector, e.g., alternative remittance activity. It does not apply to any natural or legal person that provides other persons solely with message or other support systems for transmitting funds. ³This applies to both insurance undertakings and to insurance intermediaries (agents and brokers). 15. Non-governmental organisations, churches and other charitable organisations. 16. Virtual asset service providers, that is to say, a natural or legal person who conducts one or more of the following activities for or on behalf of another natural or legal person— (a) the exchange between virtual assets and fiat currencies; (b) the transfer of virtual assets; (c) the safekeeping or administration of virtual assets or instruments enabling control over virtual assets; and (d) the participation in or provision of financial services related to an insurer's offer or sale of a virtual asset. [paragraph 16 added by section 2 of Statutory Instrument 136 of 2020 ] History of this document 31 December 2023 Chapter 118 Revised Laws 2023 Consolidation 27 November 2020 this version Amended by Anti-Money Laundering (Amendment of Second Schedule) Instrument, 2020 26 May 2017 Amended by Anti-Money Laundering (Amendment) Act, 2017 Read this version 01 November 2013 Published in Uganda Gazette 55 Commenced Read this version 02 October 2013 Assented to Related documents Is amended by Anti-Money Laundering (Amendment of Second Schedule) Instrument, 2020 Anti-Money Laundering (Amendment) Act, 2017 Subsidiary legislation Title Anti-Money Laundering (Amendment) Regulations, 2023 Statutory Instrument 2 of 2023 Anti-Money Laundering Regulations, 2015 Statutory Instrument 75 of 2015 [] [] [] [{\"provision_eid\": \"part_III__sec_10__subsec_1__para_a\", \"citations\": 1}, {\"provision_eid\": \"part_III__sec_9\", \"citations\": 1}, {\"provision_eid\": \"part_II__sec_3__para_a\", \"citations\": 1}, {\"provision_eid\": \"part_II__sec_3__para_c\", \"citations\": 1}, {\"provision_eid\": \"part_II__sec_3__para_e\", \"citations\": 1}, {\"provision_eid\": \"part_II__sec_3__para_f\", \"citations\": 1}, {\"provision_eid\": \"part_II__sec_3__para_g\", \"citations\": 1}, {\"provision_eid\": \"part_I__sec_1\", \"citations\": 3}, {\"provision_eid\": \"part_IV__sec_19\", \"citations\": 1}, {\"provision_eid\": \"part_IV__sec_38A\", \"citations\": 1}, {\"provision_eid\": \"part_VIII__sec_139\", \"citations\": 2}, {\"provision_eid\": \"part_VIII__sec_139__subsec_2__para_a\", \"citations\": 1}, {\"provision_eid\": \"part_VIII__sec_141\", \"citations\": 2}, {\"provision_eid\": \"part_VII__sec_116\", \"citations\": 1}, {\"provision_eid\": \"part_VII__sec_119\", \"citations\": 1}, {\"provision_eid\": \"part_VII__sec_136\", \"citations\": 1}, {\"provision_eid\": \"part_VI__sec_114\", \"citations\": 1}, {\"provision_eid\": \"part_V__sec_69\", \"citations\": 1}] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About ULII ULII is a project of the Law Reporting Committee of the Judiciary of Uganda. ULII aims to bridge the existing gap in public access to the law of Uganda. Working with the AfricanLII and in collaboration with other partners, such as the Free Access to Law Movement, ULII's major aim is to be a user-friendly portal of all publicly available legal information in Uganda. The Judiciary of Uganda considers access to its decisions and the law upon which they are based as key tenets of its key mission: Justice for All . ULII is also an end user interface for the Electronic Court Case Management Information System. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Uganda Judiciary Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "accountable person",
+      "definition": "any person listed in the Second Schedule to this Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "authorised officer",
+      "definition": "the Executive Director or Deputy Executive Director of the Financial Intelligence Authority , a prosecutor of the Director of Public Prosecutions, or a police officer of the rank of assistant inspector of police or higher",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Authority",
+      "definition": "the Financial Intelligence Authority established under Part IV",
+      "source_provision": "s1"
+    },
+    {
+      "term": "bearer negotiable instruments",
+      "definition": "monetary instruments in the form of a document such as traveler’s checks and negotiable instruments, including checks, promissory notes and payment orders, that are issued to bearer, endorsed unconditionally or issued to a fictitious payee, or in another form that allows the transfer of the right upon delivery, and incomplete instruments including checks, promissory notes, and payment orders that are signed but have the payee’s name crossed out or omitted",
+      "source_provision": "s1"
+    },
+    {
+      "term": "beneficial owner",
+      "definition": "the natural person who ultimately owns or controls a customer or the natural person on whose behalf a transaction is conducted, and includes a natural person who exercises ultimate effective control over a legal person or legal arrangement",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Board",
+      "definition": "the Financial Intelligence Authority Board established under Part IV",
+      "source_provision": "s1"
+    },
+    {
+      "term": "cash",
+      "definition": "coins and bank notes of Uganda or of another country that are designated as legal tender and that circulate as and are customarily used and accepted as a medium of exchange in the country of issue",
+      "source_provision": "s1"
+    },
+    {
+      "term": "competent authority",
+      "definition": "investigative, prosecuting, judicial, regulatory or supervisory authorities of the Government of Uganda and includes the Financial Intelligence Authority . “ confiscation ”, which includes forfeiture where applicable, means the permanent deprivation of property by an order of court",
+      "source_provision": "s1"
+    },
+    {
+      "term": "court",
+      "definition": "the High Court",
+      "source_provision": "s1"
+    },
+    {
+      "term": "correspondent banking and other similar relationships",
+      "definition": "the provision of banking or other similar services by one financial institution to another institution to enable the latter to provide services and products to its own customers",
+      "source_provision": "s1"
+    },
+    {
+      "term": "defendant",
+      "definition": "a person charged with a crime , whether or not he or she has been convicted, and includes, in the case of a proceeding for a restraining order under sections 71 to 82 , a person who is about to be charged with a crime",
+      "source_provision": "s1"
+    },
+    {
+      "term": "document",
+      "definition": "any record of information and includes— (a) anything on which there is a writing",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Financial group",
+      "definition": "a group that consists of a parent company or of any other type of legal person exercising control and coordinating functions over the rest of the group for the application of group supervision under the Core Principles, together with branches and/or subsidiaries that are subject to Anti Money Laundering or Countering the Financing of Terrorism policies and procedures at the group level",
+      "source_provision": "s1"
+    },
+    {
+      "term": "financial institution",
+      "definition": "a person who carries on or transacts in the business of a bank or a credit institution, as defined in the Financial Institutions Act, or an insurance company licensed under the Insurance Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "seizure",
+      "definition": "temporarily prohibiting the transfer, conversion, disposition or movement of property or temporarily assuming custody or control of property on the basis of an order issued by a court",
+      "source_provision": "s1"
+    },
+    {
+      "term": "gift",
+      "definition": "any transfer of property by a person to another person directly or indirectly— (a) after the commission of a crime",
+      "source_provision": "s1"
+    },
+    {
+      "term": "gift caught by this Act",
+      "definition": "a gift made by the defendant at any time after the commission of the crime , or if more than one, the earliest of crimes, to which the proceedings for the time being relate, and the court considers it appropriate in all circumstances to take the gift into account",
+      "source_provision": "s1"
+    },
+    {
+      "term": "international organization",
+      "definition": "an entity established by formal political agreement between a member State that has the status of an international treaty",
+      "source_provision": "s1"
+    },
+    {
+      "term": "material",
+      "definition": "documentary material of any kind and includes information stored in a computer, disc, cassette, or on microfilm, or preserved by any mechanical or electronic device",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Minister",
+      "definition": "the Minister responsible for Finance, Planning and Economic Development",
+      "source_provision": "s1"
+    },
+    {
+      "term": "monetary transaction",
+      "definition": "a transaction that is conducted or concluded using a monetary instrument",
+      "source_provision": "s1"
+    },
+    {
+      "term": "occasional transaction",
+      "definition": "any transaction that is conducted by any person other than through an account in respect of which the person is a customer",
+      "source_provision": "s1"
+    },
+    {
+      "term": "payable-through accounts",
+      "definition": "correspondent accounts that are used directly by third parties to transact business on their own behalf. “ person ” means any natural or legal person or any entity (including any charitable organisation), natural or juridical, including but not limited to a corporation, partnership, trust or estate, joint stock company, association, syndicate, joint venture, or other unincorporated organisation or group, capable of acquiring rights or entering into obligations",
+      "source_provision": "s1"
+    },
+    {
+      "term": "proceeds",
+      "definition": "any property or economic advantage derived from or obtained, directly or indirectly, through the commission of a crime , and includes property later successively converted, transformed or intermingled, as well as income, capital or other economic gains derived from such property at any time after the commission of the crime",
+      "source_provision": "s1"
+    },
+    {
+      "term": "property",
+      "definition": "assets of every kind whether corporeal or incorporeal, moveable or immoveable, tangible and legal documents or instruments evidencing title to or interest in such assets",
+      "source_provision": "s1"
+    },
+    {
+      "term": "provisional measures",
+      "definition": "those actions set out in sections 44 to 82 of this Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "realisable property",
+      "definition": "any property held by a defendant and any property held by a person to whom a defendant has directly or indirectly made a gift caught by this Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "realisation",
+      "definition": "converting any kind of property into money, such as by sale",
+      "source_provision": "s1"
+    },
+    {
+      "term": "recognisance",
+      "definition": "a bond or obligation, entered into and recorded before a court or magistrate, by which a person engages himself to perform some act or observe some condition such as to appear when called upon, pay a debt or keep the peace",
+      "source_provision": "s1"
+    },
+    {
+      "term": "record",
+      "definition": "any material on which data are recorded or marked and which is capable of being read or understood by a person , computer system or other device",
+      "source_provision": "s1"
+    },
+    {
+      "term": "related person",
+      "definition": "an associate or close relative of the person",
+      "source_provision": "s1"
+    },
+    {
+      "term": "requesting State",
+      "definition": "any State which makes a request under the provisions of Part VI",
+      "source_provision": "s1"
+    },
+    {
+      "term": "shell bank",
+      "definition": "a bank incorporated in a jurisdiction in which it has no physical presence and which is not affiliated with a regulated financial group that is subject to effective consolidated supervision",
+      "source_provision": "s1"
+    },
+    {
+      "term": "supervisory authority",
+      "definition": "a body that regulates or supervises any of the persons and businesses listed in paragraph 14 of the Second Schedule, and who, for the purposes of this Act, shall supervise those persons and businesses in matters relating to anti- money laundering and countering the financing of terrorism",
+      "source_provision": "s1"
+    },
+    {
+      "term": "tainted property",
+      "definition": "property used in or in connection with the commission of a crime or constituting the proceeds of crime",
+      "source_provision": "s1"
+    },
+    {
+      "term": "terrorism financing",
+      "definition": "the offence specified in the Anti-Terrorism Act, 2002",
+      "source_provision": "s1"
+    }
+  ]
+}

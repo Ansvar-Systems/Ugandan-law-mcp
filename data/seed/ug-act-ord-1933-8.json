@@ -1,0 +1,61 @@
+{
+  "id": "ug-act-ord-1933-8",
+  "type": "statute",
+  "title": "Distress for Rent (Bailiffs) Act",
+  "title_en": "Distress for Rent (Bailiffs) Act",
+  "short_name": "Distress for Rent (Bailiffs...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://ulii.org/en/akn/ug/act/ord/1933/8/eng@2023-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Interpretation",
+      "content": "In this Act— “ bailiff ” means a bailiff for the purpose of distress for rent; “ certifying officer ” means a chief magistrate and a magistrate grade I; \" currency point \" has the value assigned to it in the Schedule to this Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Appointment of bailiffs under certificate of certifying officer",
+      "content": "No person, other than a landlord in person, his or her attorney or the legal owner of a reversion, shall act as bailiff to levy any distress for rent unless he or she shall be authorised to act as bailiff by a certificate in writing under the hand of a certifying officer , and such certificate may be general or apply to a particular distress or distresses."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Power of cancellation, etc. of certificate",
+      "content": "A certificate so granted may at any time be cancelled or declared void by a certifying officer ."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Penalty for acting without certificate",
+      "content": "A person, required by this Act to hold a certificate as a bailiff , who levies distress for rent without being the holder of a certificate, is, without prejudice to any civil liability, liable to a fine not exceeding one hundred currency points."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Power to make rules",
+      "content": "The Minister may, on the advice of the Chief Justice, make rules— (a) regulating conditions for the appointment of, and the duration of certificates granted, to bailiffs; (b) regulating the security, if any, to be required from bailiffs and the fees, if any, payable by them; (c) regulating the fees, charges and expenses of bailiffs in and incidental to distress; (d) generally for better carrying out the purposes and provisions of this Act."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Power to amend Schedule",
+      "content": "The Minister responsible for finance may, by statutory instrument, with the approval of Cabinet, amend the Schedule to this Act. Schedule (Sections 1, 6) Currency point A currency point is equivalent to twenty thousand shillings. History of this document 31 December 2023 this version Chapter 286 Revised Laws 2023 Consolidation 28 July 2023 Amended by Law Revision (Miscellaneous Amendments) Act, 2023 31 December 2000 Chapter 76 Revised Laws 2000 Consolidation Read this version 30 June 1933 Commenced Related documents Is amended by Law Revision (Miscellaneous Amendments) Act, 2023 [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About ULII ULII is a project of the Law Reporting Committee of the Judiciary of Uganda. ULII aims to bridge the existing gap in public access to the law of Uganda. Working with the AfricanLII and in collaboration with other partners, such as the Free Access to Law Movement, ULII's major aim is to be a user-friendly portal of all publicly available legal information in Uganda. The Judiciary of Uganda considers access to its decisions and the law upon which they are based as key tenets of its key mission: Justice for All . ULII is also an end user interface for the Electronic Court Case Management Information System. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Uganda Judiciary Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "bailiff",
+      "definition": "a bailiff for the purpose of distress for rent",
+      "source_provision": "s1"
+    },
+    {
+      "term": "certifying officer",
+      "definition": "a chief magistrate and a magistrate grade I",
+      "source_provision": "s1"
+    }
+  ]
+}

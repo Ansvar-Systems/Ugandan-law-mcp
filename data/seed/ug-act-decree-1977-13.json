@@ -1,0 +1,74 @@
+{
+  "id": "ug-act-decree-1977-13",
+  "type": "statute",
+  "title": "Customs and Excise Act",
+  "title_en": "Customs and Excise Act",
+  "short_name": "Customs and Excise Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://ulii.org/en/akn/ug/act/decree/1977/13/eng@2000-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Interpretation",
+      "content": "(1) In this Act, unless the context otherwise requires— (a) \" Commissioner General \" means the Commissioner General of Customs appointed under section 3 of the Customs Management Act and the Commissioner General of Excise appointed under section 3 of the Excise Management Act ; (b) \" customs and excise revenue \" means any import duties chargeable under the Customs Tariff Act and excise duties chargeable under the Excise Tariff Act; (c) \" Customs Management Act \" means the East African Customs and Transfer Tax Management Act; (d) \" department \" means the department of customs and excise established under section 2 ; (e) \" East African department \" means the East African Customs and Excise Department; (f) \" Excise Management Act \" means the East African Excise Management Act; (g) \" Minister \" means the Minister responsible for finance. (2) For the purposes of this Act and any other written law— (a) the reference to \"the Community\" both in section 114 of the Customs Management Act and in section 56 of the Excise Management Act shall be read as a reference to \"the Government\"; and (b) all references in the Customs Management Act to \"the Authority\" shall, unless the context otherwise requires, be read as references to \"the Minister \". (3) For the avoidance of doubt, it is declared that the East African Customs and Excise Revenue Allocation Act shall be read subject to section 3 of this Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Establishment of the department",
+      "content": "(1) There is established a department of customs and excise which shall be a department of the Government within the Ministry responsible for finance. (2) There shall be appointed under this Act a commissioner of customs and excise and such other officers as may be necessary for the administration and efficient working of the department , and the commissioner of customs and excise so appointed shall, subject to the control of the Minister , be responsible for the control and management of the department and for the collection on behalf of the Government of, and for accounting to the Government for, all customs and excise revenue levied or collected in Uganda under the Customs Management Act or the Excise Management Act . (3) All references in any written law, whether directly or by implication, to the East African department or to the Commissioner General or to officers of the East African department shall be deemed, unless the context otherwise requires, to be references respectively to the department or to the commissioner of customs and excise or to officers of the department ."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "No contributions to be made to the General Fund of the Community",
+      "content": "Unless the Minister otherwise directs in writing, no payments or contributions to the General Fund of the Community shall be made out of customs and excise revenue chargeable in Uganda."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Effect of this Act",
+      "content": "This Act shall have effect notwithstanding any Act of the Community or any other written law and shall not be construed as being repealed by any Act of the Community enacted hereafter. History of this document 31 December 2000 this version Consolidation 01 July 1977 Commenced Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About ULII ULII is a project of the Law Reporting Committee of the Judiciary of Uganda. ULII aims to bridge the existing gap in public access to the law of Uganda. Working with the AfricanLII and in collaboration with other partners, such as the Free Access to Law Movement, ULII's major aim is to be a user-friendly portal of all publicly available legal information in Uganda. The Judiciary of Uganda considers access to its decisions and the law upon which they are based as key tenets of its key mission: Justice for All . ULII is also an end user interface for the Electronic Court Case Management Information System. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Uganda Judiciary Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Commissioner General",
+      "definition": "the Commissioner General of Customs appointed under section 3 of the Customs Management Act and the Commissioner General of Excise appointed under section 3 of the Excise Management Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "customs and excise revenue",
+      "definition": "any import duties chargeable under the Customs Tariff Act and excise duties chargeable under the Excise Tariff Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Customs Management Act",
+      "definition": "the East African Customs and Transfer Tax Management Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "department",
+      "definition": "the department of customs and excise established under section 2",
+      "source_provision": "s1"
+    },
+    {
+      "term": "East African department",
+      "definition": "the East African Customs and Excise Department",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Excise Management Act",
+      "definition": "the East African Excise Management Act",
+      "source_provision": "s1"
+    },
+    {
+      "term": "Minister",
+      "definition": "the Minister responsible for finance. (2) For the purposes of this Act and any other written law— (a) the reference to \"the Community\" both in section 114 of the Customs Management Act and in section 56 of the Excise Management Act shall be read as a reference to \"the Government\"",
+      "source_provision": "s1"
+    }
+  ]
+}

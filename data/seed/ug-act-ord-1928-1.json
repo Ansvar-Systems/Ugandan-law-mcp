@@ -1,0 +1,832 @@
+{
+  "id": "ug-act-ord-1928-1",
+  "type": "statute",
+  "title": "Civil Procedure Act",
+  "title_en": "Civil Procedure Act",
+  "short_name": "Civil Procedure Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://ulii.org/en/akn/ug/act/ord/1928/1/eng@2023-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Application of Act",
+      "content": "This Act shall extend to proceedings in the High Court and magistrates courts."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires— “ advocate ” means any person entitled to appear and plead for another in court ; “ court ” means any court exercising civil jurisdiction; “ currency point ” has the value assigned to it in the Schedule to this Act; “ decree ” means the formal expression of an adjudication which, so far as regards the court expressing it, conclusively determines the rights of the parties with regard to any of the matters in controversy in the suit and may be either preliminary or final and the decree shall be deemed to include the rejection of a plaint or writ and the determination of any question within section 34 or 92 , but shall not include— (a) any adjudication from which an appeal lies as an appeal from an order ; or (b) any order of dismissal for default; Explanation — A decree is preliminary when further proceedings have to be taken before the suit can be completely disposed of and is final when the adjudication completely disposes of the suit . A decree may be partly preliminary and partly final. “ decree holder ” means any person in whose favour a decree has been passed or an order capable of execution has been made, and includes the assignee of such decree or order ; “ district ” means any one magisterial area as defined in the Magistrates Courts Act; “ foreign court ” means a court situate beyond the limits of Uganda which has no authority in Uganda; “ foreign judgment ” means the judgment of a foreign court ; “ judge ” includes a magistrate exercising civil jurisdiction in a magistrate’s court ; “ judgment ” means the statement given by the judge of the grounds of a decree or order ; “ judgment debtor ” means any person against whom a decree has been passed or an order capable of execution has been made; “ legal representative ” means a person who in law represents the estate of a deceased person, and where a party sues or is sued in a representative character, the person on whom the estate devolves on the death of the party so suing or sued; “ magistrate’s court ” means a court established under the Magistrates Courts Act; “ mesne profits ” of property means those profits which the person in wrongful possession of the property actually received or might with ordinary diligence have received from it, together with interest on those profits, but shall not include profits due to improvements made by the person in wrongful possession; “ movable property ” includes growing crops; “ order ” means the formal expression of any decision of a civil court which is not a decree , and shall include a rule nisi ; “ pleading ” includes any petition or summons, and also includes the statements in writing of the claim or demand of any plaintiff, and of the defence of any defendant to them, and the reply of the plaintiff to any defence or counterclaim of a defendant; “ prescribed ” means prescribed by rules ; “ public officer ” means a person falling under any of the following descriptions— (a) every member of the civil service of Uganda; (b) every commissioned or gazetted officer in the Uganda Peoples’ Defence Forces; (c) every officer of a court of justice whose duty it is, as such officer, to investigate or report on any matter of law or fact or to make or authenticate or keep any document, or to take charge or dispose of any property, or to execute any judicial process, or to administer any oath, or to interpret, or to preserve order in the court and every person especially authorised by a court of justice to perform any of those duties; (d) every person who holds any office by virtue of which he or she is empowered to place or keep any person in confinement; (e) every person whose duty it is, in an official capacity, to prevent offences, to give information of offences, to bring offenders to justice or to protect the public health, safety or convenience; (f) every officer whose duty it is, as such officer, to take, receive, keep or expend any property on behalf of the Government, or to make any survey, assessment or contract on behalf of the Government, or to execute any revenue process, or to investigate, or to report on any matter affecting the pecuniary interests of the Government, or to make, authenticate or keep any document relating to the pecuniary interests of the Government, or to prevent the infraction of any law for the protection of the pecuniary interests of the Government; and (g) every officer in the service or pay of the Government or remunerated by fees or commission for the performance of any public duty; “ registrar ” includes a district and deputy registrar; “ rules ” means rules and forms made by the rules committee to regulate the procedure of courts; “ share in a corporation ” shall be deemed to include stock, debenture stock, debentures or bonds; “ signed ” includes the affixing of a mark by a person unable to write; “ subordinate court ” means any magistrate’s court , and no other court shall, for the purposes of this Act, be deemed to be subordinate to the High Court; “ suit ” means all civil proceedings commenced in any manner prescribed ."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part I",
+      "section": "3",
+      "title": "Jurisdiction, power, etc. under other laws not limited by this Act",
+      "content": "In the absence of any specific provision to the contrary, nothing in this Act shall be deemed to limit or otherwise affect any special jurisdiction or power conferred, or any special form of procedure prescribed by or under any other law for the time being in force."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part I",
+      "section": "4",
+      "title": "Pecuniary jurisdiction",
+      "content": "Except insofar as is otherwise expressly provided, nothing in this Act shall operate to give any court jurisdiction over suits the amount or value of the subject matter of which exceeds the pecuniary limits, if any, of its ordinary jurisdiction. Part II – Suits in general Jurisdiction of courts and res judicata"
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part II",
+      "section": "5",
+      "title": "Courts to try all civil suits unless barred",
+      "content": "Any court shall, subject to the provisions herein contained, have jurisdiction to try all suits of a civil nature excepting suits of which its cognisance is either expressly or impliedly barred."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part II",
+      "section": "6",
+      "title": "Stay of suit",
+      "content": "No court shall proceed with the trial of any suit or proceeding in which the matter in issue is also directly and substantially in issue in a previously instituted suit or proceeding between the same parties, or between parties under whom they or any of them claim, litigating under the same title, where that suit or proceeding is pending in the same or any other court having jurisdiction in Uganda to grant the relief claimed. Explanation — The pendency of a suit in a foreign court shall not preclude a court from trying a suit in which the same matters or any of them are in issue in that suit in the foreign court ."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part II",
+      "section": "7",
+      "title": "Res judicata",
+      "content": "No court shall try any suit or issue in which the matter directly and substantially in issue has been directly and substantially in issue in a former suit between the same parties, or between parties under whom they or any of them claim, litigating under the same title, in a court competent to try the subsequent suit or the suit in which the issue has been subsequently raised, and has been heard and finally decided by that court . Explanation 1. — The expression “former suit ” shall denote a suit which has been decided prior to the suit in question whether or not it was instituted prior to it. Explanation 2. — For the purposes of this section, the competence of a court shall be determined irrespective of any provision as to right of appeal from the decision of that court . Explanation 3. — The matter above referred to must in the former suit have been alleged by one party and either denied or admitted, expressly or impliedly, by the other. Explanation 4. — Any matter which might and ought to have been made a ground of defence or attack in the former suit shall be deemed to have been a matter directly and substantially in issue in that suit . Explanation 5. — Any relief claimed in a suit , which is not expressly granted by the decree , shall, for the purposes of this section, be deemed to have been refused. Explanation 6. — Where persons litigate bona fide in respect of a public right or of a private right claimed in common for themselves and others, all persons interested in that right shall, for the purposes of this section, be deemed to claim under the persons so litigating."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part II",
+      "section": "8",
+      "title": "Bar to further suit",
+      "content": "Where a plaintiff is precluded by rules from instituting a further suit in respect of any particular cause of action, he or she shall not be entitled to institute a suit in respect of that cause of action."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part II",
+      "section": "9",
+      "title": "When foreign judgment not conclusive",
+      "content": "A foreign judgment shall be conclusive as to any matter directly adjudicated upon by it between the same parties or between parties under whom they or any of them claim, litigating under the same title, except— (a) where it has not been pronounced by a court of competent jurisdiction; (b) where it has not been given on the merits of the case; (c) where it appears on the face of the proceedings to be founded on an incorrect view of international law or a refusal to recognise the law of Uganda in cases in which that law is applicable; (d) where the proceedings in which the judgment was obtained are opposed to natural justice; (e) where it has been obtained by fraud; (f) where it sustains a claim founded on a breach of any law in force in Uganda."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part II",
+      "section": "10",
+      "title": "Presumption as to foreign judgments",
+      "content": "The court shall presume, upon the production of any document purporting to be a certified copy of a foreign judgment , that that judgment was pronounced by a court of competent jurisdiction, unless the contrary appears on the record; but that presumption may be displaced by proving want of jurisdiction. Place of suing"
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part II",
+      "section": "11",
+      "title": "Jurisdiction of civil courts",
+      "content": "(1) Except as is provided in this Act or the Magistrates Courts Act, suits and proceedings of a civil nature shall be instituted in the High Court. (2) Whenever for the purposes of jurisdiction or court fees it is necessary to estimate the value of the subject matter of a suit capable of a money valuation, the plaintiff shall, in the plaint, subject to any rules of court , fix the amount at which he or she values the subject matter of the suit ; but if the court thinks the relief sought is wrongly valued, the court shall fix the value and return the plaint for amendment. (3) In any class of suits where the subject matter does not admit of being satisfactorily valued, it may be prescribed by rule that suits of that class shall be treated as if their subject matter were of such value as may be specified in the rule. (4) In any suit where it is impossible to estimate the subject matter at a money value in which by reason of any finding or order of the court a declaration of ownership of any money or property is made, no decree shall be issued for an amount on the claim exceeding the pecuniary limits of the ordinary jurisdiction of the court passing the decree . (5) Notwithstanding the other provisions of this section, any suit may be instituted in the High Court which could have been commenced in a magistrate’s court ; and then in every such case, if the plaintiff shall recover a sum less than four hundred shillings, he or she shall not be entitled to any costs, and if the plaintiff shall recover a sum of four hundred shillings or upwards, but not exceeding the pecuniary limit of the magistrate’s court ’s jurisdiction, he or she shall not be entitled to any more costs than he or she would have been entitled to if the action had been brought in the magistrate’s court unless in any such action a judge of the High Court certifies that there was reason for bringing the action in that court , or unless such judge in chambers shall by order allow costs on the High Court scale."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part II",
+      "section": "12",
+      "title": "Suits to be instituted where subject matter situate",
+      "content": "Subject to the pecuniary or other limitations prescribed by any law, suits— (a) for the recovery of immovable property, with or without rent or profits; (b) for the partition of immovable property; (c) for the foreclosure, sale or redemption in the case of a mortgage of, or charge upon, immovable property; (d) for the determination of any other right to or interest in immovable property; (e) for compensation for wrong to immovable property; (f) for the recovery of movable property actually under distraint or attachment, shall be instituted in the court within the local limits of whose jurisdiction the property is situate; except that a suit to obtain relief respecting, or compensation for wrong to, immovable property held by or on behalf of the defendant may, where the relief sought can be entirely obtained through his or her personal obedience, be instituted either in the court within the local limits of whose jurisdiction the property is situate, or in the court within the local limits of whose jurisdiction the defendant actually and voluntarily resides, or carries on business, or personally works for gain. Explanation — In this section, property means property situate in Uganda."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part II",
+      "section": "13",
+      "title": "Suits for immovable property situate within jurisdiction of different courts",
+      "content": "Where a suit is to obtain relief respecting, or compensation for wrong to, immovable property situate within the jurisdiction of different courts, the suit may be instituted in any court within the local limits of whose jurisdiction any portion of the property is situate if in respect of the value of the subject matter of the suit , the entire claim is cognisable by that court ."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part II",
+      "section": "14",
+      "title": "Suits for compensation for wrongs to person or movables",
+      "content": "Where a suit is for compensation for wrong done to the person or to movable property , if the wrong was done within the local limits of the jurisdiction of one court and the defendant resides, or carries on business, or personally works for gain within the local limits of the jurisdiction of another court , the suit may be instituted at the option of the plaintiff in either of the courts."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part II",
+      "section": "15",
+      "title": "Other suits to be instituted where defendants reside or cause of action arises",
+      "content": "Subject to the limitations in sections 11 , 12 , 13 and 14 , every suit shall be instituted in a court within the local limits of whose jurisdiction— (a) the defendant or each of the defendants, where there are more than one, at the time of the commencement of the suit , actually and voluntarily resides, or carries on business, or personally works for gain; (b) any of the defendants, where there are more than one, at the time of the commencement of the suit , actually and voluntarily resides, or carries on business, or personally works for gain, if in such case either the leave of the court is given, or the defendants who do not reside or carry on business, or personally work for gain, as provided in this paragraph, acquiesce in that institution; or (c) the cause of action, wholly or in part, arises. Explanation 1. — Where a person has a permanent dwelling at one place and also a temporary residence at another place, he or she shall be deemed to reside at both places in respect of any cause of action arising at the place where he or she has the temporary residence. Explanation 2. — A corporation shall be deemed to carry on business at its sole or principal office in Uganda or, in respect of any cause of action arising at any place where it has also a subordinate office, at that place. Explanation 3 . — In suits arising out of contract, the cause of action arises within the meaning of this section at any of the following places— (a) the place where the contract was made; (b) the place where the contract was to be performed or its performance completed; (c) the place where in performance of the contract any money to which the suit relates was expressly or impliedly payable."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part II",
+      "section": "16",
+      "title": "Objections to jurisdiction",
+      "content": "No objection as to the place of suing shall be allowed on appeal unless the objection was taken in the court of first instance and unless there has been a consequent failure of justice."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part II",
+      "section": "17",
+      "title": "Power to transfer suits which may be instituted in more than one court",
+      "content": "Where a suit may be instituted in any one of two or more magistrates courts and is instituted in one of those courts, any defendant after notice to the other parties, or the court of its own motion, may, at the earliest possible opportunity, apply to the High Court to have the suit transferred to another court ; and the fligh Court after considering the objections, if any, shall determine in which of the several courts having jurisdiction the suit shall proceed."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part II",
+      "section": "18",
+      "title": "Power of High Court to withdraw and transfer cases",
+      "content": "(1) On the application of any of the parties and after notice to the parties and after hearing such of them as desire to be heard, or of its own motion without such notice, the High Court may at any stage— (a) transfer any suit , appeal or other proceeding pending before it for trial or disposal to any magistrate’s court competent to try or dispose of it; or (b) withdraw any suit or other proceeding pending in any court subordinate to it, and— (i) try or dispose of the suit or proceeding; (ii) transfer the suit or proceeding for trial or disposal to any court subordinate to it and competent to try or dispose of it; or (iii) retransfer the suit or proceeding for trial or disposal to the court from which it was withdrawn. (2) Where any suit or proceeding has been transferred or withdrawn under subsection (1) , the court which thereafter tries that suit may, subject to any special directions in the case of an order of transfer, either retry it or proceed from the point at which it was transferred or withdrawn. Institution of suits"
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part II",
+      "section": "19",
+      "title": "Institution of suits",
+      "content": "Every suit shall be instituted in such manner as may be prescribed by rules . Procedure in suits and discovery"
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part II",
+      "section": "20",
+      "title": "Service on defendant",
+      "content": "Where a suit has been duly instituted, the defendant shall be served in the manner prescribed to enter an appearance and answer the claim."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part II",
+      "section": "21",
+      "title": "Service where defendant resides in another district",
+      "content": "(1) A document which is required to be served in connection with a suit may be sent for service in another district to a court having jurisdiction in that district . (2) The court to which such document is sent shall, upon receipt of it, proceed as if it had been issued by that court and shall then return the document to the court of issue together with the record, if any, of its proceedings with regard to it."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part II",
+      "section": "22",
+      "title": "Power to order discovery and like",
+      "content": "Subject to such conditions and limitations as may be prescribed , the court may, at any time, either of its own motion or on the application of any party— (a) make such orders as may be necessary or reasonable in all matters relating to the delivery and answering of interrogatories, the admission of documents and facts and the discovery, inspection, production, impounding and return of documents or other material objects producible as evidence; (b) issue summonses to persons whose attendance is required either to give evidence or to produce documents or such other objects as aforesaid; (c) order any fact to be proved by affidavit."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part II",
+      "section": "23",
+      "title": "Summons to witness",
+      "content": "Sections 21 and 22 shall apply to summonses to give evidence or to produce documents or other material objects."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part II",
+      "section": "24",
+      "title": "Penalty for default",
+      "content": "The court may compel the attendance of any person to whom a summons has been issued under section 22 , and for that purpose may— (a) issue a warrant for his or her arrest; (b) attach and sell his or her property; (c) impose a fine on the person not exceeding five hundred currency points; (d) order the person to furnish security for his or her appearance and in default commit the person to prison. Judgment and decree"
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part II",
+      "section": "25",
+      "title": "Judgment and decree",
+      "content": "The court , after the case has been heard, shall pronounce judgment , and on that judgment a decree shall follow; except that— (a) if the defendant does not enter such appearance as may be prescribed , the court may give judgment for the plaintiff in default; (b) in cases for which rules have been made under section 45(2)(k) of the Judicature Act, it shall not be necessary for the court to hear the case before giving judgment . Interest"
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part II",
+      "section": "26",
+      "title": "Interest",
+      "content": "(1) Where an agreement for the payment of interest is sought to be enforced, and the court is of the opinion that the rate agreed to be paid is harsh and unconscionable and ought not to be enforced by legal process, the court may give judgment for the payment of interest at such rate as the court may consider just. (2) Where and insofar as a decree is for the payment of money, the court may, in the decree , order interest at such rate as the court deems reasonable to be paid on the principal sum adjudged from the date of the suit to the date of the decree , in addition to any interest adjudged on such principal sum for any period prior to the institution of the suit , with further interest at such rate as the court deems reasonable on the aggregate sum so adjudged from the date of the decree to the date of payment or to such earlier date as the court considers fit. (3) Where such a decree is silent with respect to the payment of further interest on the aggregate sum specified in subsection (2) from the date of the decree to the date of payment or other earlier date, the court shall be deemed to have ordered interest at six percent per year. Costs"
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part II",
+      "section": "27",
+      "title": "Costs",
+      "content": "(1) Subject to such conditions and limitations as may be prescribed , and to the provisions of any law for the time being in force, the costs of and incident to all suits shall be in the discretion of the court or judge , and the court or judge shall have full power to determine by whom and out of what property and to what extent those costs are to be paid, and to give all necessary directions for the purposes aforesaid. (2) The fact that the court or judge has no jurisdiction to try the suit shall be no bar to the exercise of the powers in subsection (1) ; but the costs of any action, cause or other matter or issue shall follow the event unless the court or judge shall for good reason otherwise order . (3) The court or judge may give interest on costs at any rate not exceeding six percent per year, and the interest shall be added to the costs and shall be recoverable as such. Part III – Execution General"
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part III",
+      "section": "28",
+      "title": "Application to orders",
+      "content": "The provisions of this Act relating to the execution of decrees shall, so far as they are applicable, be deemed to apply to the execution of orders."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part III",
+      "section": "29",
+      "title": "Definition of “ court which passed a decree ”",
+      "content": "The expression, “ court which passed a decree ”, or words to that effect, shall, in relation to the execution of decrees, unless there is anything repugnant in the subject or context, be deemed to include— (a) where the decree to be executed has been passed in the exercise of appellate jurisdiction, the court of first instance; and (b) where the court of first instance has ceased to exist or to have jurisdiction to execute the decree , the court which, if the suit in which the decree was passed were instituted at the time of making the application for the execution of the decree , would have jurisdiction to try such suit . Courts by which decrees may be executed"
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part III",
+      "section": "30",
+      "title": "Court by which decree may be executed",
+      "content": "A decree may be executed either by the court which passed the decree or by the court to which the decree is sent for execution."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part III",
+      "section": "31",
+      "title": "Transfer of decree",
+      "content": "(1) The court which passed a decree may, on the application of the decree holder , send it for execution to another court — (a) if the person against whom the decree is passed actually and voluntarily resides, or carries on business, or personally works for gain, within the local limits of the jurisdiction of that other court ; (b) if that person has no property within the local limits of the jurisdiction of the court which passed the decree sufficient to satisfy the decree and has property within the local limits of the jurisdiction of that other court ; (c) if the decree directs the sale or delivery of immovable property situate outside the local limits of the jurisdiction of the court which has passed it; or (d) if the court which has passed the decree considers for any other reason, which it shall record in writing, that the decree should be executed by that other court . (2) The court which passed a decree may of its own motion send it for execution to any court of inferior but competent jurisdiction."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part III",
+      "section": "32",
+      "title": "Result of execution proceedings to be certified",
+      "content": "The court to which a decree is sent for execution shall certify to the court which passed the decree the fact of the execution, or, where the former court fails to execute the decree , the circumstances attending the failure."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part III",
+      "section": "33",
+      "title": "Powers of courts in executing transferred decree",
+      "content": "(1) The court executing a decree sent to it shall have the same powers in executing the decree as if it had been passed by itself. (2) All persons disobeying or obstructing the execution of the decree shall be punishable by such court in the same manner as if it had passed the decree ; and its order in executing the decree shall be subject to the same rules in respect of appeal as if the decree had been passed by itself. Questions to be determined by court executing decree"
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part III",
+      "section": "34",
+      "title": "Questions to be determined by court executing decree",
+      "content": "(1) All questions arising between the parties to the suit in which the decree was passed, or their representatives, and relating to the execution, discharge, or satisfaction of the decree , shall be determined by the court executing the decree and not by a separate suit . (2) The court may, subject to any objection as to limitation or jurisdiction, treat a proceeding under this section as a suit , or a suit as a proceeding, and may, if necessary, order payment of any additional court fees. (3) Where a question arises as to whether any person is or is not the representative of a party, that question shall, for the purposes of this section, be determined by the court . Explanation — For the purposes of this section, a plaintiff whose suit has been dismissed, and a defendant against whom a suit has been dismissed, are parties to the suit . Limit of time for execution"
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part III",
+      "section": "35",
+      "title": "Execution barred in certain cases",
+      "content": "(1) Where an application to execute a decree not being a decree granting an injunction has been made, no order for the execution of the decree shall be made upon any fresh application presented after the expiration of twelve years from— (a) the date of the decree sought to be executed; or (b) where the decree or any subsequent order directs any payment of money, or the delivery of any property to be made at a certain date or at recurring periods, the date of the default in making the payment or delivery in respect of which the applicant seeks to execute the decree . (2) Nothing in this section shall be deemed— (a) to preclude the court from ordering the execution of a decree upon an application presented after the expiration of the term of twelve years where the judgment debtor has, by fraud or force, prevented the execution of the decree at some time within twelve years immediately before the date of the application; or (b) to limit or otherwise affect the operation of any law of limitation for the time being in force in Uganda. Transferees and legal representatives"
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part III",
+      "section": "36",
+      "title": "Transferee",
+      "content": "Every transferee of a decree shall hold the decree subject to the equities, if any, which the judgment debtor might have enforced against the original decree holder ."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part III",
+      "section": "37",
+      "title": "Legal representative",
+      "content": "(1) Where a judgment debtor dies before the decree has been fully satisfied, the holder of the decree may apply to the court which passed it to execute the decree against the legal representative of the deceased, or against any person who has intermeddled with the estate of the deceased. (2) Where the decree is executed against the legal representative , or against any person specified in subsection (1) , he or she shall be liable only to the extent of the property of the deceased which has come to his or her hands and has not been duly disposed of; and, for the purpose of ascertaining that liability, the court executing the decree may, of its own motion or on the application of the decree holder , compel the legal representative to produce such accounts as the court considers fit. Procedure in execution"
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part III",
+      "section": "38",
+      "title": "Powers of court to enforce execution",
+      "content": "Subject to such conditions and limitations as may be prescribed , the court may, on the application of the decree holder , order execution of the decree — (a) by delivery of any property specifically decreed; (b) by attachment and sale, or by sale without attachment, of any property; (c) by attachment of debts; (d) by arrest and detention in prison of any person; (e) by appointing a receiver; or (f) in such other manner as the nature of the relief granted may require."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part III",
+      "section": "39",
+      "title": "Enforcement of decree against legal representative",
+      "content": "(1) Where a decree is passed against a party as the legal representative of a deceased person, and the decree is for the payment of money out of the property of the deceased, it may be executed by the attachment and sale of any such property. (2) Where no such property remains in the possession of the judgment debtor , and he or she fails to satisfy the court that he or she has duly applied such property of the deceased as is proved to have come into his or her possession, the decree may be executed against the judgment debtor to the extent of the property in respect of which he or she has failed so to satisfy the court in the same manner as if the decree had been against him or her personally. Arrest and detention"
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part III",
+      "section": "40",
+      "title": "Arrest and detention",
+      "content": "(1) A judgment debtor may be arrested in execution of a decree at any hour and on any day, and shall as soon as practicable be brought before the court , and his or her detention may be in any prison of the district in which the court ordering the detention is situate, or, if such prison does not afford suitable accommodation, in any other place which the Minister may appoint for the detention of persons ordered by the courts of that district to be detained; except that— (a) for the purpose of making an arrest under this section, no dwelling house shall be entered after sunset and before sunrise; (b) no outer door of a dwelling house shall be broken open unless the dwelling house is in the occupancy of the judgment debtor and he or she refuses or in any way prevents access to it; but when the officer authorised to make the arrest has duly gained access to any dwelling house, he or she may break open the door of any room in which he or she has reason to believe the judgment debtor is to be found; (c) if the room is in the actual occupancy of a woman who is not the judgment debtor , and who according to the custom of her community does not appear in public, the officer authorised to make the arrest shall give notice to her that she is at liberty to withdraw and, after allowing a reasonable time for her to withdraw and giving her reasonable facility for withdrawing, may enter the room for the purpose of making the arrest; (d) where the decree in execution of which a judgment debtor is arrested is a decree for the payment of money and the judgment debtor pays the amount of the decree and the costs of the arrest to the officer arresting him or her, the officer shall at once release him or her. (2) The Minister may, by statutory instrument, declare that any person or class of persons whose arrest might be attended with danger or inconvenience to the public shall not be liable to arrest in execution of a decree otherwise than in accordance with such procedure as he or she may direct. (3) Where a judgment debtor is arrested in execution of a decree for the payment of money and brought before the court , the court shall inform the judgment debtor that he or she may apply to be declared an insolvent, and that he or she will be discharged if he or she has not committed any act of bad faith regarding the subject of the application and if he or she complies with the law of insolvency for the time being in force. (4) Where a judgment debtor expresses an intention to apply to be declared an insolvent and furnishes security, to the satisfaction of the court , that he or she will within one month so apply, and that he or she will appear, when called upon, in any proceeding upon the application or upon the decree in execution of which he or she was arrested, the court shall release the judgment debtor from arrest, and, if he or she fails so to apply and to appear, the court may either direct the security to be realised or commit the judgment debtor to prison in execution of the decree ."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part III",
+      "section": "41",
+      "title": "Subsistence allowances",
+      "content": "The Minister may, by statutory instrument, fix scales of monthly allowances payable for the subsistence of a judgment debtor ."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part III",
+      "section": "42",
+      "title": "Detention and release",
+      "content": "(1) Every person detained in prison in execution of a decree shall be so detained— (a) where the decree is for the payment of a sum of money exceeding one hundred shillings, for a period not exceeding six months; and (b) in any other case, for a period not exceeding six weeks, except that he or she shall be released from such detention before the expiration of the period of six months or six weeks, as the case may be— (c) on the amount mentioned in the warrant for his or her detention being paid to the officer in charge of the prison; (d) with the leave of the court , on the decree against him or her being otherwise fully satisfied; (e) with the leave of the court , on the request of the person on whose application he or she has been so detained; or (f) on the omission of the person, on whose application he or she has been so detained, to pay subsistence allowance. (2) A judgment debtor released from detention under this section shall not merely by reason of the release be discharged from his or her debt, but he or she shall not be liable to be rearrested under the decree in execution of which he or she was detained in prison."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part III",
+      "section": "43",
+      "title": "Release on ground of illness",
+      "content": "(1) At any time after a warrant for the arrest of a judgment debtor has been issued, the court may cancel the warrant on the ground of his or her serious illness. (2) Where a judgment debtor has been arrested, the court may release him or her if in its opinion he or she is not in a fit state of health to be detained in prison. (3) Where a judgment debtor has been committed to prison, he or she may be released from prison— (a) by the superintendent of the prison in which he or she is confined on the ground of the existence of any infectious or contagious disease; or (b) by the committing court or the High Court on the ground of his or her suffering from any serious illness. (4) A judgment debtor released under this section may be rearrested, but the period of his or her detention in prison shall not in the aggregate exceed that prescribed by section 42 . Attachment"
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part III",
+      "section": "44",
+      "title": "Property liable to attachment and sale in execution of decree",
+      "content": "(1) The following property is liable to attachment and sale in execution of a decree , namely, lands, houses or other buildings, goods, money, bank notes, cheques, bills of exchange, promissory notes, Government securities, bonds or other securities for money, debts, shares in a corporation and, except as hereafter mentioned, all other saleable property, movable or immovable, belonging to the judgment debtor , or over which or the profits of which he or she has a disposing power which he or she may exercise for his or her own benefit, whether the property be held in the name of the judgment debtor or by another person in trust for him or her or on his or her behalf; except that— (a) the necessary wearing apparel, cooking vessels, beds and bedding of the judgment debtor and of his wife and children and such personal ornaments as in accordance with religious usage cannot be parted with by any woman; (b) tools of artisans and where the judgment debtor is an agriculturalist, such implements of husbandry and such livestock and agricultural produce not exceeding in value five hundred shillings as may, in the opinion of the court , be necessary to enable him or her to earn his or her livelihood; (c) books of accounts; (d) a mere right to sue for damages; (e) any right of personal service; (f) stipends and gratuities allowed to pensioners of the Government, or payable out of any service family pension fund as the Minister may, by statutory instrument, specify in this behalf, and political pensions; (g) the salary of any public officer , servant of a railway company or local authority, or any person privately employed to the extent of— (i) the whole of the salary, where the salary does not exceed two million eight hundred twenty thousand shillings monthly; (ii) two million eight hundred twenty thousand shillings monthly, where the salary exceeds two million eight hundred twenty thousand shillings and does not exceed five million six hundred forty thousand shillings monthly; and (iii) one moiety of the salary in any other case; (h) an expectancy of succession by survivorship or other merely contingent or possible right or interest; (i) a right of future maintenance; (j) any fund or allowance declared by law to be exempt from attachment or sale in execution of a decree , shall not be liable to attachment and sale. Explanation — The particulars mentioned in paragraphs (f) , (g) and (j) are exempt from attachment and sale whether before or after they are actually payable. (2) Subject to subsection (1)(g) , in the case of the salary of any public officer , servant of a railway company or local authority or any person privately employed, the attachment shall be made by a written order requiring the officer or person whose duty it is to disburse the salary to withhold every month such portion as the court may direct until further orders of the court . (3) Nothing in this section shall be deemed to affect the provisions of the Uganda Peoples’ Defence Forces Act or of any similar Act."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part III",
+      "section": "45",
+      "title": "Seizure of property in dwelling house",
+      "content": "(1) No person in executing any process under this Act directing or authorising the seizure of movable property shall enter any dwelling house after sunset and before sunrise. (2) No outer door of a dwelling house shall be broken open unless the dwelling house is in the occupancy of the judgment debtor and he or she refuses or in any way prevents access to it; but when the person executing any such process has duly gained access to any dwelling house, he or she may break open the door of any room in which he or she has reason to believe any such property to be. (3) Where a room in a dwelling house is in the actual occupancy of a woman who, according to the customs of the country, does not appear in public, the person executing the process shall give notice to that woman that she is at liberty to withdraw; and after allowing reasonable time for her to withdraw and giving her reasonable facility for withdrawing, he or she may enter the room for the purpose of seizing the property, using at the same time every precaution, consistent with these provisions, to prevent its clandestine removal."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part III",
+      "section": "46",
+      "title": "Property attached in execution of decrees of several courts",
+      "content": "(1) Where property not in the custody of any court is under attachment in execution of decrees of more courts than one, the court which shall receive and realise the property and shall determine any claim to it and any objection to the attachment of it shall be the court of the highest grade, or, where there is no difference in grade between the courts, the court under whose decree the property was first attached. (2) Nothing in this section shall be deemed to invalidate any proceeding taken by a court executing one of such decrees."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part III",
+      "section": "47",
+      "title": "Private alienation of property after attachment to be void",
+      "content": "Subject to any law for the time being in force relating to the registration of title to land, where an attachment has been made, any private transfer or delivery of the property attached or of any interest in it and any payment to the judgment debtor of any debt, dividend or other money contrary to the attachment shall be void as against all claims enforceable under the attachment. Explanation — For the purposes of this section, claims enforceable under an attachment include claims for the rateable distribution of assets. Sale"
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part III",
+      "section": "48",
+      "title": "Duplicate certificate of title to immovable property to be lodged with court before sale",
+      "content": "(1) The court may order , but shall not proceed further with, the sale of any immovable property under a decree of execution until there has been lodged with the court the duplicate certificate of title to the property or the special certificate of title mentioned in subsection (4) . (2) The court ordering such sale shall have power to order the judgment debtor to deliver up the duplicate certificate of title to the property to be sold or to appear and show cause why the certificate of title should not be delivered up. (3) Where the court is satisfied that a judgment debtor has wilfully refused or neglected to deliver up such certificate when ordered to do so, the court may commit him or her to prison for a period not exceeding thirty days. (4) If the court is satisfied that such duplicate certificate of title has been lost or destroyed or that the judgment debtor cannot be served with an order under this section or is wilfully withholding such certificate, the court shall call upon the Registrar of Titles to issue a special certificate as prescribed by the Registration of Titles Act."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part III",
+      "section": "49",
+      "title": "Purchaser’s title",
+      "content": "Subject to any law relating to the registration of titles to land, where immovable property is sold in execution of a decree , the sale shall become absolute on the payment of the full purchase price to the court , or to the officer appointed by the court to conduct the sale."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part III",
+      "section": "50",
+      "title": "Suit against purchaser not maintainable on ground of purchase being on behalf of plaintiff",
+      "content": "(1) No suit shall be maintained against any person claiming title under a purchase of immovable property sold under a decree of execution on the ground that the purchase was made on behalf of the plaintiff or on behalf of someone through whom the plaintiff claims. (2) Nothing in this section shall bar a suit to obtain a declaration that the name of any purchaser as aforesaid was inserted in the certificate fraudulently or without the consent of the real purchaser, or interfere with the right of a third person to proceed against that property, though ostensibly sold to the certified purchaser, on the ground that it is liable to satisfy a claim of that third person against the real owner. Distribution of assets"
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part III",
+      "section": "51",
+      "title": "Distribution of assets",
+      "content": "(1) Where assets are held by any court and more persons than one have, before the receipt of those assets by the court , lodged applications in court for the execution of decrees for the payment of money issued against the same judgment debtor and have not obtained satisfaction of the decrees, the assets, after deducting the costs of realisation, shall be distributed among the decree holders in accordance with the priorities of the lodging of their several applications; but where any property is sold subject to a mortgage or charge, the mortgagee or encumbrancer shall not be entitled to share in any surplus arising from that sale. (2) Every application for execution of a decree shall, at the time of lodgment, be endorsed by the court , or by a duly authorised officer of the court , with a note of the day upon which and the hour at which the lodgment has been effected. (3) Nothing in this section shall affect any right of the Government. Resistance to execution"
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part III",
+      "section": "52",
+      "title": "Resistance to execution",
+      "content": "Where the court is satisfied that the holder of a decree for the possession of immovable property, or that the purchaser of immovable property sold in execution of a decree , has been resisted or obstructed in obtaining possession of the property by the judgment debtor or some person on his or her behalf, and that such resistance or obstruction was without any just cause, the court may, at the instance of the decree holder or purchaser, order the judgment debtor or such other person to be detained in prison for a period which may extend to thirty days and may further direct that the decree holder or purchaser be put in possession of the property. Part IV – Incidental proceedings Commissions"
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part IV",
+      "section": "53",
+      "title": "Power of court to issue commissions",
+      "content": "Subject to such conditions and limitations as may be prescribed , the court may issue a commission— (a) to examine any person; (b) to make a local investigation; (c) to examine or adjust accounts; or (d) to make a partition."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Part IV",
+      "section": "54",
+      "title": "Commission to another court",
+      "content": "(1) A commission for the examination of any person may be issued by the High Court to any magistrate’s court and by a magistrate’s court over which presides a chief magistrate, magistrate grade I or grade II to any other magistrate’s court situate in a district other than the district in which the court of issue is situate and having jurisdiction in the place in which the person to be examined resides. (2) Every court receiving a commission for the examination of any person under subsection (1) shall examine that person or cause him or her to be examined pursuant to the commission; and the commission, when it has been duly executed, shall be returned together with the evidence taken under it to the court from which it was issued, unless the order for issuing the commission has otherwise directed, in which case the commission shall be returned in terms of the order ."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Part IV",
+      "section": "55",
+      "title": "Letter of request",
+      "content": "In lieu of issuing a commission, the High Court or a magistrate’s court with the sanction of the High Court may issue a letter of request to examine a witness residing at any place not within Uganda."
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Part IV",
+      "section": "56",
+      "title": "Commissions issued by foreign courts",
+      "content": "Commissions issued by foreign courts for the examination of persons in Uganda shall be executed and returned in such manner as may be prescribed . Part V – Suits in particular cases Suits by aliens and by or against foreign rulers"
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Part V",
+      "section": "57",
+      "title": "When aliens may sue",
+      "content": "(1) Alien enemies residing in Uganda with the permission of the Minister, and alien friends, may sue in the courts of Uganda as if they were citizens of a Commonwealth country. (2) No alien enemy residing in Uganda without such permission, or residing in a foreign country, shall sue in any such courts. Explanation — Every person residing in a foreign country the Government of which is at war with the Government of Uganda, and carrying on business in that country without a licence in that behalf under the hand of the Minister, shall, for the purpose of subsection (2) , be deemed to be an alien enemy residing in a foreign country."
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "Part V",
+      "section": "58",
+      "title": "When foreign State may sue",
+      "content": "(1) A foreign State may sue in any court of Uganda if— (a) that State has been recognised by the Government; (b) the object of the suit is to enforce a private right vested in the head of that State or in any officer of that State in his or her public capacity. (2) Every court shall take judicial notice of the fact that such foreign State has or has not been recognised by the Government. Interpleader"
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "Part V",
+      "section": "59",
+      "title": "Where interpleader suit may be instituted",
+      "content": "Where two or more persons claim adversely to one another the same debt, sum of money or other property, movable or immovable, from another person, who claims no interest in it other than for charges or costs and who is ready to pay or deliver it to the rightful claimant, that other person may institute a suit of interpleader against all the claimants or, where a suit dealing with the same subject matter is pending, may intervene by motion on notice in such suit , for the purpose of obtaining a decision as to the person to whom payment or delivery shall be made, and of obtaining indemnity for himself or herself; except that where any suit is pending in which the rights of all parties can be properly decided, no such suit of interpleader shall be instituted. Part VI – Special proceedings Arbitration"
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "Part VI",
+      "section": "60",
+      "title": "Arbitration",
+      "content": "All references to arbitration by an order in a suit , and all proceedings thereunder, shall be governed in such manner as may be prescribed by rules . Special case"
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "Part VI",
+      "section": "61",
+      "title": "Power to state case for opinion of court",
+      "content": "Where any persons agree in writing to state a case for the opinion of the court , then the court shall try and determine the case in the manner prescribed . Suits relating to public matters"
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "Part VI",
+      "section": "62",
+      "title": "Public nuisances",
+      "content": "(1) In the case of a public nuisance, the Attorney General, or two or more persons having the consent in writing of the Attorney General, may institute a suit , though no special damage has been caused, for a declaration and injunction or for such other relief as may be appropriate to the circumstances of the case. (2) Nothing in this section shall be deemed to limit or otherwise affect any right of suit which may exist independently of its provisions."
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "Part VI",
+      "section": "63",
+      "title": "Public charities",
+      "content": "In the case of any alleged breach of any express or constructive trust created for public purposes of a charitable or religious nature, or where the direction of the court is deemed necessary for the administration of any such trust, the Attorney General, or two or more persons having an interest in the trust and having obtained the consent in writing of the Attorney General, may institute a suit , whether contentious or not, in the High Court to obtain a decree — (a) removing any trustee; (b) appointing a new trustee; (c) vesting any property in trustees; (d) directing accounts and inquiries; (e) declaring what proportion of the trust property or of the interest in the trust property shall be allocated to any particular object of the trust; (f) authorising the whole or any part of the trust property to be let, sold, mortgaged or exchanged; (g) settling a scheme; or (h) granting such further or other relief as the nature of the case may require. Part VII – Supplemental proceedings"
+    },
+    {
+      "provision_ref": "s64",
+      "chapter": "Part VII",
+      "section": "64",
+      "title": "Supplemental proceedings",
+      "content": "In order to prevent the ends of justice from being defeated, the court may, if it is so prescribed — (a) issue a warrant to arrest the defendant and bring him or her before the court to show cause why he or she should not give security for his or her appearance, and if the defendant fails to comply with any order for security commit him or her to prison; (b) direct the defendant to furnish security to produce any property belonging to him or her and to place the same at the disposal of the court or order the attachment of any property; (c) grant a temporary injunction and in case of disobedience commit the person guilty of it to prison and order that his or her property be attached and sold; (d) appoint a receiver of any property and enforce the performance of his or her duties by attaching and selling his or her property; (e) make such other interlocutory orders as may appear to the court to be just and convenient."
+    },
+    {
+      "provision_ref": "s65",
+      "chapter": "Part VII",
+      "section": "65",
+      "title": "Compensation for arrest, attachment or injunction on insufficient grounds",
+      "content": "(1) Where, in any suit in which an arrest or attachment has been effected or a temporary injunction granted under section 64 — (a) it appears to the court that the arrest, attachment or injunction was applied for on insufficient grounds; or (b) the suit of the plaintiff fails and it appears to the court that there was no reasonable or probable ground for instituting the suit , the defendant may apply to the court , and the court may, upon that application, award against the plaintiff by its order such amount, not exceeding two thousand shillings, as it deems a reasonable compensation to the defendant for the expense or injury caused to him or her; except that a court shall not award under this section an amount exceeding the limits of its pecuniary jurisdiction. (2) An order determining any such application shall bar any suit for compensation in respect of such arrest, attachment or injunction. Part VIII – Appeals Appeals from original decrees"
+    },
+    {
+      "provision_ref": "s66",
+      "chapter": "Part VIII",
+      "section": "66",
+      "title": "Appeals from decrees of High Court",
+      "content": "Unless otherwise expressly provided in this Act, an appeal shall lie from the decrees or any part of the decrees and from the orders of the High Court to the Court of Appeal."
+    },
+    {
+      "provision_ref": "s67",
+      "chapter": "Part VIII",
+      "section": "67",
+      "title": "Appeal from ex parte decree , etc.",
+      "content": "(1) An appeal may lie from an original decree passed ex parte . (2) No appeal shall lie from a decree passed by the court with the consent of parties."
+    },
+    {
+      "provision_ref": "s68",
+      "chapter": "Part VIII",
+      "section": "68",
+      "title": "Appeal from final decree where no appeal from preliminary decree",
+      "content": "Where any party aggrieved by a preliminary decree does not appeal from that decree , he or she shall be precluded from disputing its correctness in any appeal which may be preferred from the final decree ."
+    },
+    {
+      "provision_ref": "s69",
+      "chapter": "Part VIII",
+      "section": "69",
+      "title": "Decision where appeal heard by two or more judges",
+      "content": "(1) Where an appeal from a magistrate’s court is heard by a bench of two or more judges, the appeal shall be decided in accordance with the opinion of those judges or of the majority, if any, of those judges. (2) Where there is no such majority which concurs in a judgment varying or reversing the decree appealed from, the decree shall be confirmed."
+    },
+    {
+      "provision_ref": "s70",
+      "chapter": "Part VIII",
+      "section": "70",
+      "title": "No decree to be reversed or modified for error or irregularity not affecting merits or jurisdiction",
+      "content": "No decree shall be reversed or substantially varied, nor shall any case be remanded, in appeal on account of any misjoinder of parties or causes of action or any error, defect or irregularity in any proceedings in the suit , not affecting the merits of the case or the jurisdiction of the court ."
+    },
+    {
+      "provision_ref": "s71",
+      "chapter": "Part VIII",
+      "section": "71",
+      "title": "Appeals shall be heard by one judge except when Chief Justice shall otherwise order",
+      "content": "Appeals from magistrates courts shall be heard by one judge of the High Court, except when in any particular case the Chief Justice shall direct that the appeal be heard by two or more judges of the High Court; that direction may be given before the hearing of the appeal or at any time before judgment is delivered. Appeals from appellate decrees"
+    },
+    {
+      "provision_ref": "s72",
+      "chapter": "Part VIII",
+      "section": "72",
+      "title": "Second appeal",
+      "content": "(1) Except where otherwise expressly provided in this Act or by any other law for the time being in force, an appeal shall lie to the Court of Appeal from every decree passed in appeal by the High Court, on any of the following grounds, namely that— (a) the decision is contrary to law or to some usage having the force of law; (b) the decision has failed to determine some material issue of law or usage having the force of law; (c) a substantial error or defect in the procedure provided by this Act or by any other law for the time being in force, has occurred which may possibly have produced error or defect in the decision of the case upon the merits. (2) An appeal may lie under this section from an appellate decree passed ex parte ."
+    },
+    {
+      "provision_ref": "s73",
+      "chapter": "Part VIII",
+      "section": "73",
+      "title": "Third appeal",
+      "content": "Where an appeal emanates from a judgment of a magistrate grade II but not including an interlocutory matter, a party aggrieved may lodge a third and final appeal to the Court of Appeal on the certificate of the High Court that the appeal concerns a matter of law of great public or general importance, or if the Court of Appeal in its overall duty to see that justice is done considers that the appeal should be heard."
+    },
+    {
+      "provision_ref": "s74",
+      "chapter": "Part VIII",
+      "section": "74",
+      "title": "Second appeal on no other grounds",
+      "content": "Subject to section 73 , no appeal to the Court of Appeal shall lie except on the grounds mentioned in section 72 ."
+    },
+    {
+      "provision_ref": "s75",
+      "chapter": "Part VIII",
+      "section": "75",
+      "title": "No second appeal in certain suits",
+      "content": "No appeal to the Court of Appeal shall lie in any suit when the amount or value of the subject matter of the original suit does not exceed one thousand shillings, unless special leave has been first obtained from the Court of Appeal. Appeals from orders"
+    },
+    {
+      "provision_ref": "s76",
+      "chapter": "Part VIII",
+      "section": "76",
+      "title": "Orders from which appeal lies",
+      "content": "(1) An appeal shall lie from the following orders, and except as otherwise expressly provided in this Act or by any law for the time being in force from no other orders— (a) an order superseding an arbitration where the award has not been completed within the period allowed by the court ; (b) an order on an award stated in the form of a special case; (c) an order modifying or correcting an award; (d) an order staying or refusing to stay a suit where there is an agreement to refer to arbitration; (e) an order filing or refusing to file an award in an arbitration without the intervention of the court ; (f) an order under section 65 ; (g) an order under this Act imposing a fine or directing the arrest or detention in prison of any person, except where the arrest or detention is in execution of a decree ; (h) any order made under rules from which an appeal is expressly allowed by rules . (2) No appeal shall lie from any order passed in appeal under this section."
+    },
+    {
+      "provision_ref": "s77",
+      "chapter": "Part VIII",
+      "section": "77",
+      "title": "Other orders",
+      "content": "(1) Except as otherwise expressly provided, no appeal shall lie from any order made by a court in the exercise of its original or appellate jurisdiction; but, where a decree is appealed from, any error, defect or irregularity in any order affecting the decision of the case may be set forth as a ground of objection in the memorandum of appeal. (2) Notwithstanding subsection (1) , where any party aggrieved by an order of remand from which an appeal lies does not appeal from the order , he or she shall thereafter be precluded from disputing its correctness."
+    },
+    {
+      "provision_ref": "s78",
+      "chapter": "Part VIII",
+      "section": "78",
+      "title": "What courts to hear appeal",
+      "content": "Where an appeal from any order is allowed, it shall lie to the court to which an appeal would lie from the decree in the suit in which the order was made."
+    },
+    {
+      "provision_ref": "s79",
+      "chapter": "Part VIII",
+      "section": "79",
+      "title": "Limitation for appeals",
+      "content": "(1) Except as otherwise specifically provided in any other law, every appeal shall be entered— (a) within thirty days of the date of the decree or order of the court ; or (b) within seven days of the date of the order of a registrar , as the case may be, appealed against; but the appellate court may for good cause admit an appeal though the period of limitation prescribed by this section has elapsed. (2) In computing the period of limitation prescribed by this section, the time taken by the court or the registrar in making a copy of the decree or order appealed against and of the proceedings upon which it is founded shall be excluded. General provisions relating to appeals"
+    },
+    {
+      "provision_ref": "s80",
+      "chapter": "Part VIII",
+      "section": "80",
+      "title": "Power of appellate court",
+      "content": "(1) Subject to such conditions and limitations as may be prescribed , an appellate court shall have power— (a) to determine a case finally; (b) to remand a case; (c) to frame issues and refer them for trial; (d) to take additional evidence or to require such evidence to be taken; (e) to order a new trial. (2) Subject to subsection (1) , the appellate court shall have the same powers and shall perform as nearly as may be the same duties as are conferred and imposed by this Act on courts of original jurisdiction in respect of suits instituted in it."
+    },
+    {
+      "provision_ref": "s81",
+      "chapter": "Part VIII",
+      "section": "81",
+      "title": "Procedure in appeals from appellate decrees and orders",
+      "content": "The provisions of this Part relating to appeals from original decrees shall, as far as may be, apply to appeals— (a) from appellate decrees; and (b) from orders made under this Act or under any other law in which a different procedure is not provided. Part IX – Review and revision"
+    },
+    {
+      "provision_ref": "s82",
+      "chapter": "Part IX",
+      "section": "82",
+      "title": "Review",
+      "content": "Any person considering himself or herself aggrieved— (a) by a decree or order from which an appeal is allowed by this Act, but from which no appeal has been preferred; or (b) by a decree or order from which no appeal is allowed by this Act, may apply for a review of judgment to the court which passed the decree or made the order , and the court may make such order on the decree or order as the court considers fit."
+    },
+    {
+      "provision_ref": "s83",
+      "chapter": "Part IX",
+      "section": "83",
+      "title": "Revision",
+      "content": "(1) The High Court may call for the record of any case which has been determined under this Act by any magistrate’s court , and if that court appears to have— (a) exercised a jurisdiction not vested in it in law; (b) failed to exercise a jurisdiction so vested; or (c) acted in the exercise of its jurisdiction illegally or with material irregularity or injustice, the High Court may revise the case and may make such order in the record as the court considers fit. (2) The power of revision referred to in subsection (1) shall not be exercised— (a) unless the parties are first given the opportunity of being heard; or (b) where, from lapse of time or other cause, the exercise of that power would involve serious hardship to any person. Part X – Miscellaneous"
+    },
+    {
+      "provision_ref": "s84",
+      "chapter": "Part X",
+      "section": "84",
+      "title": "Exemption of certain women",
+      "content": "(1) Women who, according to the customs and manners of their community, ought not be compelled to appear in public shall be exempt from personal appearance in court . (2) Nothing in this section shall be deemed to exempt such women from arrest in execution of civil process."
+    },
+    {
+      "provision_ref": "s85",
+      "chapter": "Part X",
+      "section": "85",
+      "title": "Arrest other than in execution of decree",
+      "content": "Sections 40 , 41 and 43 shall apply, so far as may be, to all persons arrested under this Act."
+    },
+    {
+      "provision_ref": "s86",
+      "chapter": "Part X",
+      "section": "86",
+      "title": "Exemption from arrest under civil process",
+      "content": "(1) No judge , magistrate or other judicial officer shall be liable to arrest under civil process while going to, presiding in or returning from his or her court . (2) Where any matter is pending before a tribunal having jurisdiction in the matter, or believing in good faith that it has such jurisdiction, the parties to the matter, their advocates and recognised agents, and their witnesses acting in obedience to a summons shall be exempt from arrest under civil process other than process issued by that tribunal for contempt of court while going to or attending that tribunal for the purpose of that matter, and while returning from that tribunal. (3) Nothing in subsection (2) shall enable a judgment debtor to claim exemption from arrest under an order for immediate execution or where the judgment debtor attends to show cause why he or she should not be committed to prison in execution of a decree ."
+    },
+    {
+      "provision_ref": "s87",
+      "chapter": "Part X",
+      "section": "87",
+      "title": "Procedure where person to be arrested or property to be attached is outside district",
+      "content": "(1) Where an application is made to a magistrate’s court that any person shall be arrested or that any property shall be attached under any provisions of this Act not relating to the execution of decrees, and where that person resides or that property is situate outside the limits of the local jurisdiction of the court to which the application is made, the court may in its discretion issue a warrant of arrest, or make an order of attachment, and send to the magistrate’s court within the local limits of whose jurisdiction the person or property resides or is situate the warrant or order together with the probable amount of the costs of the arrest or attachment. (2) The magistrate’s court receiving such warrant or order shall cause the arrest or attachment to be made, and shall inform the court which issued or made the warrant or order of the arrest or attachment. (3) The court making an arrest under this section shall send the person arrested to the court by which the warrant of arrest was issued, unless the person shows cause to the satisfaction of the former court why he or she should not be sent to the latter court , or unless he or she furnishes sufficient security for his or her appearance before the latter court or for satisfying any decree that may be passed against him or her by that court , in either of which cases the court making the arrest shall release the person, and shall inform he court by whom the arrest was ordered accordingly."
+    },
+    {
+      "provision_ref": "s88",
+      "chapter": "Part X",
+      "section": "88",
+      "title": "Language of courts",
+      "content": "(1) The language of all courts shall be English. (2) Evidence in all courts shall be recorded in English. (3) Written applications to the courts shall be in English."
+    },
+    {
+      "provision_ref": "s89",
+      "chapter": "Part X",
+      "section": "89",
+      "title": "Power to call in assessors",
+      "content": "(1) Any court may, if it considers fit, and shall, upon the request of either party to a cause or matter pending before it in which questions may arise as to the laws or customs of any tribe, caste or community, summon to its assistance one or more competent assessors, and those assessors shall attend and assist accordingly. (2) In any admiralty or vice admiralty cause of salvage, towage or collision, the court , whether it is exercising its original or its appellate jurisdiction, may, if the court considers fit, and shall upon request of either party to the cause, summon to its assistance, in such manner as it may direct or as may be prescribed , two competent assessors; and those assessors shall attend and assist accordingly. (3) Every such assessor shall be summoned in such manner as the court may direct, and shall receive such fees for his or her attendance as may be prescribed to be paid in such manner as the court may direct. (4) Any fit person may, subject to any exemptions, be summoned as an assessor but the following persons shall be exempt from liability to be summoned as assessors— (a) members of the Cabinet or of Parliament; (b) the Clerk to Parliament and the persons appointed to act as official reporters to Parliament; (c) persons actively discharging the duties of priests or ministers of their respective religions; (d) physicians, surgeons and apothecaries in active practice; (e) legal practitioners in active practice; (f) officers and others in the Uganda Peoples’ Defence Forces on full pay; (g) members of the police and prisons services; (h) persons exempted from personal appearance in court under the provisions of this Act, or any rules made under it; (i) persons disabled by mental or bodily infirmity; (j) other persons exempted by the Minister from liability to serve as assessors. (5) Any person summoned to attend as an assessor who, without lawful excuse, fails to attend as required by the summons, or who, having attended, departs without having obtained the permission of the court , or fails to attend after adjournment of the court , after being ordered to attend, is liable by order of the court which he or she has failed to attend or from which he or she has departed without having obtained the permission of the court to a fine not exceeding two hundred currency points. (6) That fine may be levied by attachment and sale of any movable property belonging to the assessor within the local limits of the jurisdiction of the court making the order . (7) For good cause shown, the court may remit or reduce any fine so imposed. (8) In default of recovery of the fine by attachment and sale, the assessor may, by order of the court , be imprisoned as a civil prisoner for fifteen days, unless the fine is paid before the end of that period."
+    },
+    {
+      "provision_ref": "s90",
+      "chapter": "Part X",
+      "section": "90",
+      "title": "Miscellaneous proceedings",
+      "content": "The procedure provided in this Act in regard to suits shall be followed as far as it may be applicable in all proceedings in any court of civil jurisdiction."
+    },
+    {
+      "provision_ref": "s91",
+      "chapter": "Part X",
+      "section": "91",
+      "title": "Orders and notices to be in writing",
+      "content": "All orders or notices served on or given to any person under this Act shall be in writing."
+    },
+    {
+      "provision_ref": "s92",
+      "chapter": "Part X",
+      "section": "92",
+      "title": "Application for restitution",
+      "content": "(1) Where and insofar as a decree is varied or reversed, the court of first instance shall, on the application of the party entitled to any benefit by way of restitution or otherwise, cause such restitution to be made as will, so far as may be, place the parties in the position they would have occupied but for such decree or such part of it as has been varied or reversed; and for this purpose the court may make any orders, including orders for the refund of costs and for the payment of interest, damages, compensation and mesne profits , which are properly consequential on the variation or reversal. (2) No suit shall be instituted for the purpose of obtaining any restitution or other relief which could be obtained by application under subsection (1) ."
+    },
+    {
+      "provision_ref": "s93",
+      "chapter": "Part X",
+      "section": "93",
+      "title": "Enforcement of liability of surety",
+      "content": "Where any person has become liable as surety— (a) for the performance of any decree or any part of it; (b) for the restitution of any property taken in execution of a decree ; or (c) for the payment of any money, or for the fulfilment of any condition imposed on any person, under an order of the court in any suit or in any proceeding consequent thereon, the decree or order may be executed against him or her, to the extent to which he or she has rendered himself or herself personally liable, in the manner herein provided for the execution of decrees, and that person shall for the purposes of appeal be deemed a party within the meaning of section 34 if such notice in writing as the court in each case thinks sufficient has been given to the surety."
+    },
+    {
+      "provision_ref": "s94",
+      "chapter": "Part X",
+      "section": "94",
+      "title": "Consent or agreement by persons under disability",
+      "content": "In all suits to which any person under disability is a party, any consent or agreement as to any proceeding shall, if given or made with the express leave of the court by the next friend or guardian for the suit , have the same force and effect as if that person were under no disability and had given such consent or made such agreement."
+    },
+    {
+      "provision_ref": "s95",
+      "chapter": "Part X",
+      "section": "95",
+      "title": "Execution of decree of High Court before costs are ascertained",
+      "content": "Where the High Court considers it necessary that a decree passed in the exercise of its original civil jurisdiction should be executed before the amount of the costs incurred in the suit can be ascertained by taxation, the court may order that the decree shall be executed forthwith, except as to so much of it as relates to the costs, and as to so much of it as relates to the costs that the decree may be executed as soon as the amount of the costs shall be ascertained by taxation."
+    },
+    {
+      "provision_ref": "s96",
+      "chapter": "Part X",
+      "section": "96",
+      "title": "Extension of time",
+      "content": "Where any period is fixed or granted by the court for the doing of any act prescribed or allowed by this Act, the court may, in its discretion, from time to time, extend that period, even though the period originally fixed or granted may have expired."
+    },
+    {
+      "provision_ref": "s97",
+      "chapter": "Part X",
+      "section": "97",
+      "title": "Power to make up deficiency of court fees",
+      "content": "Where the whole or any part of any fee prescribed for any document by the law for the time being in force relating to court fees has not been paid, the court may, in its discretion, at any stage, allow the person by whom the fee is payable to pay the whole or part, as the case may be, of that court fee; and on payment, the document in respect of which the fee is payable, shall have the same force and effect as if the fee had been paid in the first instance."
+    },
+    {
+      "provision_ref": "s98",
+      "chapter": "Part X",
+      "section": "98",
+      "title": "Saving of inherent powers of court",
+      "content": "Nothing in this Act shall be deemed to limit or otherwise affect the inherent power of the court to make such orders as may be necessary for the ends of justice or to prevent abuse of the process of the court ."
+    },
+    {
+      "provision_ref": "s99",
+      "chapter": "Part X",
+      "section": "99",
+      "title": "Amendment of judgments, decrees or orders",
+      "content": "Clerical or mathematical mistakes in judgments, decrees or orders, or errors arising in them from any accidental slip or omission may at any time be corrected by the court either of its own motion or on the application of any of the parties."
+    },
+    {
+      "provision_ref": "s100",
+      "chapter": "Part X",
+      "section": "100",
+      "title": "General power to amend",
+      "content": "The court may at any time, and on such terms as to costs or otherwise as the court may consider appropriate, amend any defect or error in any proceeding in a suit ; and all necessary amendments shall be made for the purpose of determining the real question or issue raised by or depending on such proceeding."
+    },
+    {
+      "provision_ref": "s101",
+      "chapter": "Part X",
+      "section": "101",
+      "title": "Power to amend Schedule",
+      "content": "The Minister responsible for finance may, by statutory instrument, with the approval of Cabinet, amend the Schedule to this Act. Schedule (Sections 2, 101) Currency point A currency point is equivalent to twenty thousand shillings. History of this document 31 December 2023 this version Chapter 282 Revised Laws 2023 Consolidation 28 July 2023 Amended by Law Revision (Miscellaneous Amendments) Act, 2023 31 December 2000 Chapter 71 Revised Laws 2000 Consolidation Read this version 01 January 1929 Commenced Related documents Is amended by Law Revision (Miscellaneous Amendments) Act, 2023 Subsidiary legislation Title Civil Procedure Rules Statutory Instrument 71–1 [] [] [] [{\"provision_eid\": \"part_VIII__subpart_nn_1__sec_69__subsec_2\", \"citations\": 1}] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About ULII ULII is a project of the Law Reporting Committee of the Judiciary of Uganda. ULII aims to bridge the existing gap in public access to the law of Uganda. Working with the AfricanLII and in collaboration with other partners, such as the Free Access to Law Movement, ULII's major aim is to be a user-friendly portal of all publicly available legal information in Uganda. The Judiciary of Uganda considers access to its decisions and the law upon which they are based as key tenets of its key mission: Justice for All . ULII is also an end user interface for the Electronic Court Case Management Information System. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Uganda Judiciary Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "advocate",
+      "definition": "any person entitled to appear and plead for another in court",
+      "source_provision": "s2"
+    },
+    {
+      "term": "court",
+      "definition": "any court exercising civil jurisdiction",
+      "source_provision": "s2"
+    },
+    {
+      "term": "decree",
+      "definition": "the formal expression of an adjudication which, so far as regards the court expressing it, conclusively determines the rights of the parties with regard to any of the matters in controversy in the suit and may be either preliminary or final and the decree shall be deemed to include the rejection of a plaint or writ and the determination of any question within section 34 or 92 , but shall not include— (a) any adjudication from which an appeal lies as an appeal from an order",
+      "source_provision": "s2"
+    },
+    {
+      "term": "decree holder",
+      "definition": "any person in whose favour a decree has been passed or an order capable of execution has been made, and includes the assignee of such decree or order",
+      "source_provision": "s2"
+    },
+    {
+      "term": "district",
+      "definition": "any one magisterial area as defined in the Magistrates Courts Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "foreign court",
+      "definition": "a court situate beyond the limits of Uganda which has no authority in Uganda",
+      "source_provision": "s2"
+    },
+    {
+      "term": "foreign judgment",
+      "definition": "the judgment of a foreign court",
+      "source_provision": "s2"
+    },
+    {
+      "term": "judge",
+      "definition": "a magistrate exercising civil jurisdiction in a magistrate’s court",
+      "source_provision": "s2"
+    },
+    {
+      "term": "judgment",
+      "definition": "the statement given by the judge of the grounds of a decree or order",
+      "source_provision": "s2"
+    },
+    {
+      "term": "judgment debtor",
+      "definition": "any person against whom a decree has been passed or an order capable of execution has been made",
+      "source_provision": "s2"
+    },
+    {
+      "term": "legal representative",
+      "definition": "a person who in law represents the estate of a deceased person, and where a party sues or is sued in a representative character, the person on whom the estate devolves on the death of the party so suing or sued",
+      "source_provision": "s2"
+    },
+    {
+      "term": "magistrate’s court",
+      "definition": "a court established under the Magistrates Courts Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "movable property",
+      "definition": "growing crops",
+      "source_provision": "s2"
+    },
+    {
+      "term": "order",
+      "definition": "the formal expression of any decision of a civil court which is not a decree , and shall include a rule nisi",
+      "source_provision": "s2"
+    },
+    {
+      "term": "pleading",
+      "definition": "any petition or summons, and also includes the statements in writing of the claim or demand of any plaintiff, and of the defence of any defendant to them, and the reply of the plaintiff to any defence or counterclaim of a defendant",
+      "source_provision": "s2"
+    },
+    {
+      "term": "prescribed",
+      "definition": "prescribed by rules",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public officer",
+      "definition": "a person falling under any of the following descriptions— (a) every member of the civil service of Uganda",
+      "source_provision": "s2"
+    },
+    {
+      "term": "registrar",
+      "definition": "a district and deputy registrar",
+      "source_provision": "s2"
+    },
+    {
+      "term": "rules",
+      "definition": "rules and forms made by the rules committee to regulate the procedure of courts",
+      "source_provision": "s2"
+    },
+    {
+      "term": "signed",
+      "definition": "the affixing of a mark by a person unable to write",
+      "source_provision": "s2"
+    },
+    {
+      "term": "subordinate court",
+      "definition": "any magistrate’s court , and no other court shall, for the purposes of this Act, be deemed to be subordinate to the High Court",
+      "source_provision": "s2"
+    },
+    {
+      "term": "suit",
+      "definition": "all civil proceedings commenced in any manner prescribed .",
+      "source_provision": "s2"
+    }
+  ]
+}

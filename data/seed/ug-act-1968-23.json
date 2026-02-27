@@ -1,0 +1,54 @@
+{
+  "id": "ug-act-1968-23",
+  "type": "statute",
+  "title": "Emergency Powers Act",
+  "title_en": "Emergency Powers Act",
+  "short_name": "Emergency Powers Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://ulii.org/en/akn/ug/act/1968/23/eng@2000-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires— (a) \" court of competent jurisdiction \" means a court of law established otherwise than by emergency regulations ; (b) \" proclamation of emergency \" means a proclamation issued under article 110 of the Constitution declaring that a state of emergency exists; (c) \" emergency regulations \" means regulations made under this Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Emergency regulations",
+      "content": "Whenever a proclamation of emergency is in force, the Minister may, by statutory instrument, make such regulations as appear to him or her to be necessary or expedient for securing the defence of Uganda, the public safety, the effective government of Uganda or of any part of Uganda, the maintenance of public order and the enforcement of the law, and for maintaining supplies and services necessary to the life of the community."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Provisions of emergency regulations",
+      "content": "(1) Subject to this Act and without prejudice to the generality of the powers conferred by section 2 , emergency regulations may— (a) make provision for the detention of persons or the restriction of their movements, for the exclusion of persons from any part of Uganda and for the deportation or exclusion from Uganda of persons who are not citizens of Uganda; (b) authorise the requiring of any person to perform such labour or services on behalf of the Government as may be required in the circumstances of any situation; (c) authorise the taking of possession or control on behalf of the Government of any property or undertaking; (d) authorise the acquisition on behalf of the Government of any property, including land; (e) authorise the entering and search of any premises; (f) provide for amending any law, for suspending the operation of any law and for applying any law with or without modification; (g) provide for charging, in respect of the grant or issue of any licence, permit, certificate or other document for the purposes of the regulations, such fee as may be prescribed by or under the regulations; (h) provide for payment of remuneration or compensation to persons administering or affected by the regulations; (i) provide for the election, constitution, suspension, dissolution or reinstatement of any district council or local authority at any time or for any period of time; (j) provide for the appointment, election, suspension, removal, replacement or reinstatement of any member or officer of any district council or local authority at any time or for any period of time; (k) provide for the performance by any person or authority of the functions of any district council or local authority or of any member or officer of a district council or local authority; (l) provide for the apprehension of persons offending against the regulations and for their trial and punishment by courts of competent jurisdiction or such tribunals as may be constituted by the regulations; (m) provide for empowering any person or authority to make rules or orders for any of the purposes for which regulations are authorised by this Act to be made, and for purposes incidental or supplementary to those purposes; (n) provide for the declaration of any premises or area to be a special or prohibited area; (o) provide for the prohibition of strikes. (2) Emergency regulations shall not— (a) provide for the expropriation or destruction of lawfully held property without just compensation except insofar as the destruction is necessary in dealing with a situation which exists; (b) provide for the trial of persons by military courts. (3) Emergency regulations shall be laid before Parliament."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Duration of emergency regulations",
+      "content": "(1) Without prejudice to the validity of anything lawfully done or omitted to be done under emergency regulations , all such regulations shall cease to have effect when the proclamation of emergency under which they were made ceases to be in force or upon their earlier revocation. (2) For the avoidance of doubt, it is declared that— (a) it shall not be lawful for any person detained or restricted in his or her movements under emergency regulations to be so detained or restricted after those regulations have ceased to have effect; (b) where under section 3 (1)(i) a period of time is specified, that period shall remain operative and effectual notwithstanding that the regulations under which it was specified have ceased to have effect before the expiration of the period; and (c) any sentence of imprisonment imposed under section 3 (1)(i) shall remain operative and effectual notwithstanding that the regulations under which it was imposed have ceased to have effect before the completion of the sentence. History of this document 31 December 2000 this version Chapter 297 Revised Laws 2000 Consolidation 01 November 1968 Commenced Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About ULII ULII is a project of the Law Reporting Committee of the Judiciary of Uganda. ULII aims to bridge the existing gap in public access to the law of Uganda. Working with the AfricanLII and in collaboration with other partners, such as the Free Access to Law Movement, ULII's major aim is to be a user-friendly portal of all publicly available legal information in Uganda. The Judiciary of Uganda considers access to its decisions and the law upon which they are based as key tenets of its key mission: Justice for All . ULII is also an end user interface for the Electronic Court Case Management Information System. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Uganda Judiciary Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "court of competent jurisdiction",
+      "definition": "a court of law established otherwise than by emergency regulations",
+      "source_provision": "s1"
+    },
+    {
+      "term": "proclamation of emergency",
+      "definition": "a proclamation issued under article 110 of the Constitution declaring that a state of emergency exists",
+      "source_provision": "s1"
+    },
+    {
+      "term": "emergency regulations",
+      "definition": "regulations made under this Act.",
+      "source_provision": "s1"
+    }
+  ]
+}
